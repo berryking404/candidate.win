@@ -1,0 +1,14 @@
+slug: gim-seung-ju
+name_ko: 김승주
+name_en: Kim Seung-joo
+party: null
+role: 고려대 정보보호대학원 교수
+status: curated
+aliases:
+- 김승주 교수
+discovered_via_issue: coupang-data-leak-2026
+discovered_at: '2026-05-06'
+sources:
+  news_keywords:
+  - 김승주
+  youtube_channels: []

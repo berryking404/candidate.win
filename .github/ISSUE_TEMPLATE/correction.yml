@@ -1,0 +1,81 @@
+name: 사실관계 정정 요청 (Correction)
+description: 위키 페이지의 사실관계 오류를 정정 요청합니다.
+title: "[correction] "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 정정 요청
+
+        본 위키의 사실관계 오류를 신고합니다. **출처 없는 정정 요청은 자동 거절**됩니다.
+
+        제출 전 다음을 확인해 주세요:
+        - 출처는 **1차 출처(공식 발표·법원 판결문·원문 기사)** 를 우선합니다. 댓글·SNS 캡처·요약 영상은 대개 부족합니다.
+        - 이미 처리된 동일 사안이 있는지 [기존 이슈](../../issues?q=label%3Acorrection)를 검색해 주세요.
+        - SLA: 1차 응답 7일 / 처리 완료 30일 (영업일 기준).
+        - 처리 이력은 commit `Closes #N` 으로 공개됩니다.
+  - type: input
+    id: page-url
+    attributes:
+      label: 대상 페이지 URL
+      description: 정정이 필요한 위키 페이지의 전체 URL
+      placeholder: https://example.github.io/candydate/people/lee-jae-myung/
+    validations:
+      required: true
+  - type: input
+    id: target-slug
+    attributes:
+      label: 대상 slug
+      description: 페이지 slug (위키에서 자동으로 채워집니다)
+      placeholder: lee-jae-myung
+    validations:
+      required: true
+  - type: input
+    id: target-kind
+    attributes:
+      label: 페이지 종류
+      description: "person 또는 issue"
+      placeholder: person
+    validations:
+      required: true
+  - type: textarea
+    id: incorrect
+    attributes:
+      label: 잘못된 내용
+      description: 현재 페이지에 적힌 잘못된 내용을 인용해 주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: correct
+    attributes:
+      label: 올바른 내용
+      description: 어떻게 수정되어야 하는지 적어주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 근거 출처 (URL, 1개 이상)
+      description: |
+        정정 근거가 되는 출처 URL 을 줄바꿈으로 구분해 적어주세요.
+        - 각 줄은 `http(s)://` 로 시작해야 합니다.
+        - 1차 출처가 아닌 경우(언론 요약, 블로그 등)는 그 이유를 한 줄 덧붙여 주세요.
+        - **출처가 없거나 형식이 맞지 않으면 자동 거절됩니다.**
+      placeholder: |
+        https://news.example.com/article-1
+        https://news.example.com/article-2
+    validations:
+      required: true
+  - type: checkboxes
+    id: acknowledgments
+    attributes:
+      label: 확인 사항
+      description: 모든 항목에 동의해야 접수됩니다.
+      options:
+        - label: 위에 제출한 출처는 직접 확인했으며, 정정 내용을 실제로 뒷받침합니다.
+          required: true
+        - label: 본 신고가 허위·과장으로 판명될 경우 처리 이력이 공개되며, 반복 시 추가 신고가 차단될 수 있음을 인지합니다.
+          required: true
+        - label: 본 위키의 [기여자 행동강령](../../blob/main/CODE_OF_CONDUCT.md)을 준수합니다.
+          required: true

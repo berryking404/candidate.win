@@ -1,0 +1,33 @@
+---
+title: 물가 안정과 에너지 요금 부담 (2026)
+slug: energy-price-inflation-2026
+category: policy
+status: ongoing
+summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응에 대한 입장 이슈
+---
+
+## 인물별 입장
+
+<!-- agent:stances -->
+- [전남도](/people/jeonnamdo) — **지지**: 고유가 충격을 완화하기 위해 산업용 전기요금 한시 지원과 국고보조율 인상을 추진했다. [출처](https://www.etnews.com/20260511000024)
+- [김용범](/people/gim-yong-beom) — **중립**: 높은 성장·안정적 물가를 전제한 거시 국면을 언급했지만 이슈에 대한 직접 입장은 드러나지 않았다. [출처](https://www.mt.co.kr/politics/2026/05/12/2026051209164116898)
+- [장동혁](/people/jang-dong-hyeok) — **반대**: 고유가 피해지원금을 선거용 매표로 비판하며 지급 정책에 반대했다. [출처](https://weekly.chosun.com/news/articleView.html?idxno=51487)
+- [김승수](/people/gim-seung-su) — **지지**: 고유가 부담 완화와 농어민 경영안정을 위해 농림어업용 유류 세제지원을 연장해야 한다고 주장했다. [출처](https://www.sportsseoul.com/news/read/1608842?ref=naver)
+- [최상목](/people/choe-sang-mok) — **중립**: 물가 안정 기조와 에너지 비용 대응 관련 정부의 정책 방향을 둘러싼 맥락에서 언급됐다. [출처](https://www.hankyung.com/article/202605145276g)
+- [유정복](/people/o-se-hyeon) — **중립**: 전기요금 차등제 관련 역차별 문제를 비판하며 소신 행정을 언급했다. [출처](https://www.news1.kr/view/6166037)
+- [이권재](/people/o-se-hyeon) — **지지**: 고물가·전기요금 인상으로 서민의 냉방비 부담이 커졌다며 민생 에너지 지원을 공약했다. [출처](https://www.sidae.com/article/2026052508250810399)
+- [한전 직원](/people/o-se-hyeon) — **혼합**: 산업용 전기요금 체계로 한전 적자가 누적됐다고 주장하며 이익 공유를 요구했다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/05/24/2026052490169.html)
+- [구윤철](/people/gu-yun-cheol) — **지지**: 민생물가 안정을 위해 유류세 인하 연장과 매점매석 단속 등 물가 안정 대책을 추진했다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/05/23/2026052390117.html)
+- [이재명](/people/i-jae-myeong) — **지지**: 물가 안정에 걸림돌이 되는 매점매석과 가격 담합에 강력 대응하겠다고 밝혔다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260523152017MHn)
+- [신현송](/people/sin-hyeon-song) — **지지**: 취임사에서 물가 안정과 금융안정을 핵심 과제로 강조했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=0029865972&code=61141111&cp=nv)
+- [박찬대](/people/bak-chan-dae) — **중립**: 에너지 산업 육성과 지역화폐 등 민생 회복 공약을 제시했지만, 전기요금 부담 자체에 대한 직접 입장은 드러나지 않았다. [출처](https://www.topstarnews.net/news/articleView.html?idxno=16070022)
+- [유정복](/people/yu-jeong-bok) — **중립**: 지역화폐 확대와 민생회복 프로젝트를 제시했지만, 에너지 요금 부담에 대한 직접 입장은 확인되지 않았다. [출처](https://www.yna.co.kr/view/AKR20260522041300065?input=1195m)
+- [허태정](/people/heo-tae-jeong) — **지지**: 고유가 피해지원금과 지역화폐 확대를 통해 민생 부담 완화를 내세웠다. [출처](https://www.topstarnews.net/news/articleView.html?idxno=16070023)
+- [김성환](/people/gim-seong-hwan) — **지지**: 재생에너지 확대와 원전 활용으로 전기료 급등과 한전 적자 확대를 막겠다는 구상을 밝혔다. [출처](https://view.asiae.co.kr/article/2026052810010635565)
+- [우재준](/people/u-jae-jun) — **지지**: 전기차 완속 충전요금 급등에 대한 공정한 비용부담 체계와 요금 구조 개편 논의를 주도했다. [출처](https://www.goodkyung.com/news/articleView.html?idxno=287479)
+- [전재수](/people/jeon-jae-su) — **지지**: 고물가로 어려움을 겪는 시민의 생활비 부담을 덜기 위한 착한가격업소 지원과 물가안정 동참 정책을 추진했다. [출처](https://www.cnbnews.com/news/articleView.html?idxno=1002886)
+- [이정현](/people/i-jeong-hyeon) — **지지**: 전기요금 차등제와 재생에너지 직접계약, 산업단지 규제 완화를 공약으로 제시했다. [출처](https://www.kukinews.com/article/view/kuk202605270168)
+- [오세훈](/people/o-se-hun) — **지지**: 고물가 시대 장바구니 부담을 덜기 위한 물가 안정 대책을 강조했다. [출처](https://www.mt.co.kr/politics/2026/05/31/2026053109065077507)
+- [박지혜](/people/bak-ji-hye) — **중립**: 에너지 안보와 재생에너지 확대를 강조했지만, 전기요금·물가 안정 충돌에 대한 직접 입장은 제시하지 않았다. [출처](https://www.natv.go.kr/natv/news/newsView.do?newsId=513251)
+- [이호성](/people/i-ho-seong) — **지지**: 고유가와 원자재 가격 상승으로 어려움을 겪는 중소기업에 실질적 금융 혜택을 제공하겠다고 밝혔다. [출처](https://www.kgnews.co.kr/news/article.html?no=894042)
+<!-- /agent:stances -->

@@ -1,0 +1,21 @@
+slug: gim-geon
+name_ko: 김건
+name_en: Kim Gunn
+party: 국민의힘
+role: 제22대 국회의원, 전 외교관
+status: curated
+aliases:
+  - 김건
+  - 김건 의원
+  - Kim Gunn
+discovered_via_issue: us-intel-sharing-crisis-2026
+discovered_at: '2026-05-24'
+sources:
+  news_keywords:
+    - 김건
+    - 김건 의원
+    - Kim Gunn
+  youtube_channels: []
+  profile_urls:
+    - https://www.wikidata.org/wiki/Q110470420
+    - https://ko.wikipedia.org/wiki/%EA%B9%80%EA%B1%B4_(1966%EB%85%84)

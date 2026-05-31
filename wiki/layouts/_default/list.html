@@ -1,0 +1,17 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<div class="section-grid">
+  {{- range .Pages.ByTitle }}
+  <a class="card" href="{{ .Permalink }}">
+    <h3>
+      {{- .Title }}
+      {{- with .Params.status }}
+        {{- if eq . "stub" }} <span class="badge badge-stub">검수 대기</span>{{ end }}
+      {{- end }}
+    </h3>
+    {{- with .Params.party }}<p>{{ . }}{{ with $.Params.role }} · {{ . }}{{ end }}</p>{{ end }}
+    {{- with .Params.summary }}<p>{{ . | truncate 60 }}</p>{{ end }}
+  </a>
+  {{- end }}
+</div>
+{{ end }}

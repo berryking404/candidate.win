@@ -1,0 +1,15 @@
+slug: yang-cheon-gu
+name_ko: 양천구
+name_en: Yangcheon-gu
+party: null
+role: 지방자치단체
+status: curated
+aliases:
+- 서울 양천구
+- 서울특별시 양천구
+discovered_via_issue: local-commerce-recovery-2026
+discovered_at: '2026-05-10'
+sources:
+  news_keywords:
+  - 양천구
+  youtube_channels: []

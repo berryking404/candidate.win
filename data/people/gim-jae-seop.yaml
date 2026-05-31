@@ -1,0 +1,16 @@
+slug: gim-jae-seop
+name_ko: 김재섭
+name_en: Kim Jae-sup
+party: 국민의힘
+role: 제22대 국회의원 (서울 도봉구갑)
+status: curated
+aliases:
+- 김재섭
+discovered_via_issue: coupang-data-leak-2026
+discovered_at: '2026-05-14'
+sources:
+  news_keywords:
+  - 김재섭
+  official_urls:
+  - https://www.assembly.go.kr
+  youtube_channels: []

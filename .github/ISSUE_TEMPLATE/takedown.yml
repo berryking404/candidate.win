@@ -1,0 +1,86 @@
+name: 삭제 요청 (Takedown)
+description: 본인·대리인 권한 또는 명백한 명예훼손·사생활 침해 사유로 페이지 또는 항목 삭제를 요청합니다.
+title: "[takedown] "
+labels: ["takedown"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 삭제 요청
+
+        본인·대리인 권한 또는 **명백한 명예훼손·사생활 침해** 사유에 한해 처리됩니다. 단순한 견해 차이·불편함은 정정 요청을 이용해 주세요.
+
+        제출 전 다음을 확인해 주세요:
+        - 공인의 공적 발언·표결·정책 입장은 원칙적으로 삭제 대상이 아닙니다.
+        - 본인·대리인 신청이 아닌 경우, **명예훼손·사생활 침해를 입증할 근거(판결문, 정정보도, 1차 출처)** 가 필요합니다.
+        - SLA: 1차 응답 7일 / 처리 완료 30일 (영업일 기준).
+        - 본인 확인이 필요한 경우 추가 자료를 비공개 채널로 요청할 수 있습니다.
+  - type: input
+    id: page-url
+    attributes:
+      label: 대상 페이지 URL
+      placeholder: https://example.github.io/candydate/people/lee-jae-myung/
+    validations:
+      required: true
+  - type: input
+    id: target-slug
+    attributes:
+      label: 대상 slug
+      placeholder: lee-jae-myung
+    validations:
+      required: true
+  - type: input
+    id: target-kind
+    attributes:
+      label: 페이지 종류
+      description: "person 또는 issue"
+      placeholder: person
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: 삭제 범위
+      description: 페이지 전체인지, 특정 섹션·문장인지 가능한 구체적으로 명시해 주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: 사유
+      description: 명예훼손 / 사생활 침해 / 사실 오인 / 기타. 가능한 구체적으로 적어주세요.
+    validations:
+      required: true
+  - type: textarea
+    id: identity
+    attributes:
+      label: 본인·대리인 확인 방법
+      description: 본인 또는 대리인임을 확인할 수 있는 방법을 적어주세요. 필요 시 비공개 채널로 추가 확인을 요청할 수 있습니다.
+    validations:
+      required: false
+  - type: textarea
+    id: legal-basis
+    attributes:
+      label: 법적 근거 또는 1차 출처
+      description: |
+        삭제 사유가 명예훼손·사생활 침해라면 다음 중 하나를 첨부해 주세요.
+        - 관련 판결문·결정문 URL 또는 사건번호
+        - 정정보도·반론보도 URL
+        - 사실과 다름을 입증하는 1차 출처
+      placeholder: |
+        https://example.com/court-decision
+        사건번호: 2026고합1234
+    validations:
+      required: true
+  - type: checkboxes
+    id: acknowledgments
+    attributes:
+      label: 확인 사항
+      description: 모든 항목에 동의해야 접수됩니다.
+      options:
+        - label: 본 요청은 단순 견해 차이가 아니며, 명예훼손·사생활 침해·본인 권한에 근거한 삭제 요청임을 확인합니다.
+          required: true
+        - label: 본 신고가 허위로 판명될 경우 처리 이력이 공개되며, 반복 시 추가 신고가 차단될 수 있음을 인지합니다.
+          required: true
+        - label: 공인의 공적 발언·표결·정책 입장은 원칙적으로 삭제 대상이 아니라는 점을 이해합니다.
+          required: true

@@ -1,0 +1,359 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<div class="content">
+  {{ .Content }}
+
+  <style>
+    .status-table-container {
+      width: 100%;
+      overflow-x: auto;
+      margin-top: 1.5rem;
+      border: 1px solid #e8e8e8;
+      border-radius: 8px;
+    }
+    .status-table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+      font-size: 0.9rem;
+    }
+    .status-table th, .status-table td {
+      padding: 0.85rem 1rem;
+      border-bottom: 1px solid #e8e8e8;
+    }
+    .status-table th {
+      background: #f8f9fa;
+      font-weight: 600;
+      color: #444;
+      border-bottom: 2px solid #e8e8e8;
+    }
+    .status-table tr:last-child td {
+      border-bottom: none;
+    }
+    .status-table tr:hover td {
+      background: #fafafa;
+    }
+    .badge-status {
+      display: inline-block;
+      padding: 0.2rem 0.6rem;
+      border-radius: 4px;
+      font-size: 0.78rem;
+      font-weight: 700;
+      line-height: 1;
+    }
+    .badge-status-open {
+      background: #e0f2fe;
+      color: #0369a1;
+      border: 1px solid #bae6fd;
+    }
+    .badge-status-resolved {
+      background: #dcfce7;
+      color: #15803d;
+      border: 1px solid #bbf7d0;
+    }
+    .badge-status-rejected {
+      background: #fee2e2;
+      color: #b91c1c;
+      border: 1px solid #fecaca;
+    }
+    .badge-type {
+      display: inline-block;
+      padding: 0.15rem 0.45rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      background: #f3f4f6;
+      color: #4b5563;
+      border: 1px solid #e5e7eb;
+    }
+    .badge-type-correction {
+      background: #eff6ff;
+      color: #1d4ed8;
+      border: 1px solid #dbeafe;
+    }
+    .badge-type-takedown {
+      background: #fff7ed;
+      color: #c2410c;
+      border: 1px solid #ffedd5;
+    }
+    .issue-link {
+      font-weight: 600;
+      color: #2563eb;
+      text-decoration: none;
+    }
+    .issue-link:hover {
+      text-decoration: underline;
+    }
+    .meta-date {
+      color: #6b7280;
+      font-size: 0.82rem;
+      white-space: nowrap;
+    }
+    .pagination-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 0.5rem;
+      margin-top: 1.5rem;
+    }
+    .pagination-btn {
+      padding: 0.4rem 0.8rem;
+      border: 1px solid #e5e7eb;
+      background: #fff;
+      color: #374151;
+      border-radius: 4px;
+      font-size: 0.85rem;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.2s;
+    }
+    .pagination-btn:hover {
+      border-color: #2563eb;
+      color: #2563eb;
+      background: #f8fafc;
+    }
+    .pagination-btn.active {
+      background: #2563eb;
+      color: #fff;
+      border-color: #2563eb;
+    }
+    .pagination-btn:disabled {
+      background: #f3f4f6;
+      color: #9ca3af;
+      border-color: #e5e7eb;
+      cursor: not-allowed;
+    }
+    .status-table th:nth-child(1), .status-table td:nth-child(1),
+    .status-table th:nth-child(3), .status-table td:nth-child(3),
+    .status-table th:nth-child(4), .status-table td:nth-child(4),
+    .status-table th:nth-child(5), .status-table td:nth-child(5) {
+      white-space: nowrap;
+    }
+    .report-request {
+      margin-bottom: 0.5rem;
+    }
+    .report-title {
+      font-weight: 600;
+      color: #111827;
+      font-size: 0.95rem;
+    }
+    .report-body {
+      background: #fafafa;
+      padding: 0.6rem 0.8rem;
+      border-radius: 6px;
+      border: 1px solid #eaeaea;
+      font-size: 0.85rem;
+      color: #333;
+      margin-top: 0.4rem;
+      white-space: normal;
+    }
+    .report-body p {
+      margin: 0 0 0.4rem;
+    }
+    .report-body p:last-child {
+      margin-bottom: 0;
+    }
+    .report-reply-container {
+      margin-top: 0.6rem;
+      border-left: 3px solid #e5e7eb;
+      padding-left: 0.8rem;
+    }
+    .report-reply {
+      background: #f0fdf4;
+      padding: 0.6rem 0.8rem;
+      border-radius: 6px;
+      border: 1px solid #dcfce7;
+      font-size: 0.85rem;
+      color: #1f2937;
+      margin-top: 0.4rem;
+      white-space: normal;
+    }
+    .reply-user {
+      font-weight: 700;
+      color: #15803d;
+    }
+    .reply-date {
+      font-size: 0.75rem;
+      color: #6b7280;
+      margin-left: 0.4rem;
+    }
+    .reply-body {
+      margin-top: 0.2rem;
+    }
+    .reply-body p {
+      margin: 0 0 0.4rem;
+    }
+    .reply-body p:last-child {
+      margin-bottom: 0;
+    }
+  </style>
+
+  {{ $filteredReports := slice }}
+  {{ if .Site.Data.reports }}
+    {{ range .Site.Data.reports }}
+      {{ $isReport := false }}
+      {{ range .labels }}
+        {{ if or (eq .name "correction") (eq .name "takedown") }}
+          {{ $isReport = true }}
+        {{ end }}
+      {{ end }}
+      {{ if $isReport }}
+        {{ $filteredReports = $filteredReports | append . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ if $filteredReports }}
+  <div class="status-table-container">
+    <table class="status-table">
+      <thead>
+        <tr>
+          <th>유형</th>
+          <th>요청 대상 및 내용</th>
+          <th>처리 상태</th>
+          <th>등록일</th>
+          <th>처리일</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{ range $filteredReports }}
+        {{ $isCorrection := false }}
+        {{ $isTakedown := false }}
+        {{ $isRejected := false }}
+        
+        {{ range .labels }}
+          {{ if eq .name "correction" }}{{ $isCorrection = true }}{{ end }}
+          {{ if eq .name "takedown" }}{{ $isTakedown = true }}{{ end }}
+          {{ if eq .name "rejected" }}{{ $isRejected = true }}{{ end }}
+        {{ end }}
+
+        <tr>
+          <td>
+            {{ if $isCorrection }}
+              <span class="badge-type badge-type-correction">사실정정</span>
+            {{ else if $isTakedown }}
+              <span class="badge-type badge-type-takedown">삭제요청</span>
+            {{ end }}
+          </td>
+          <td>
+            <div class="report-request">
+              <div class="report-body" style="margin-top: 0;">
+                {{ .body | markdownify }}
+              </div>
+            </div>
+            
+            {{ if .comments }}
+            <div class="report-reply-container">
+              {{ range .comments }}
+              <div class="report-reply">
+                <span class="reply-user">↳ 답변</span>
+                <span class="reply-date">{{ .created_at | time.Format "2006-01-02" }}</span>
+                <div class="reply-body">
+                  {{ .body | markdownify }}
+                </div>
+              </div>
+              {{ end }}
+            </div>
+            {{ end }}
+          </td>
+          <td>
+            {{ if eq .state "open" }}
+              <span class="badge-status badge-status-open">검토 중</span>
+            {{ else if $isRejected }}
+              <span class="badge-status badge-status-rejected">반려</span>
+            {{ else }}
+              <span class="badge-status badge-status-resolved">반영 완료</span>
+            {{ end }}
+          </td>
+          <td>
+            <span class="meta-date">{{ .created_at | time.Format "2006-01-02" }}</span>
+          </td>
+          <td>
+            <span class="meta-date">
+              {{ if .closed_at }}
+                {{ .closed_at | time.Format "2006-01-02" }}
+              {{ else }}
+                -
+              {{ end }}
+            </span>
+          </td>
+        </tr>
+        {{ end }}
+      </tbody>
+    </table>
+  </div>
+  <div class="pagination-container" id="pagination-controls"></div>
+  
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const ITEMS_PER_PAGE = 10;
+      const tableBody = document.querySelector(".status-table tbody");
+      if (!tableBody) return;
+      
+      const rows = Array.from(tableBody.querySelectorAll("tr"));
+      const totalItems = rows.length;
+      const totalPages = Math.ceil(totalItems / ITEMS_PER_PAGE);
+      const controlsContainer = document.getElementById("pagination-controls");
+      
+      if (totalPages <= 1) {
+        if (controlsContainer) controlsContainer.style.display = "none";
+        return;
+      }
+      
+      let currentPage = 1;
+      
+      function showPage(page) {
+        currentPage = page;
+        const start = (page - 1) * ITEMS_PER_PAGE;
+        const end = start + ITEMS_PER_PAGE;
+        
+        rows.forEach((row, index) => {
+          if (index >= start && index < end) {
+            row.style.display = "";
+          } else {
+            row.style.display = "none";
+          }
+        });
+        
+        renderControls();
+      }
+      
+      function renderControls() {
+        controlsContainer.innerHTML = "";
+        
+        // Prev button
+        const prevBtn = document.createElement("button");
+        prevBtn.className = "pagination-btn";
+        prevBtn.innerHTML = "&lt;";
+        prevBtn.disabled = currentPage === 1;
+        prevBtn.onclick = () => showPage(currentPage - 1);
+        controlsContainer.appendChild(prevBtn);
+        
+        // Page numbers
+        for (let i = 1; i <= totalPages; i++) {
+          const pageBtn = document.createElement("button");
+          pageBtn.className = `pagination-btn ${i === currentPage ? "active" : ""}`;
+          pageBtn.textContent = i;
+          pageBtn.onclick = () => showPage(i);
+          controlsContainer.appendChild(pageBtn);
+        }
+        
+        // Next button
+        const nextBtn = document.createElement("button");
+        nextBtn.className = "pagination-btn";
+        nextBtn.innerHTML = "&gt;";
+        nextBtn.disabled = currentPage === totalPages;
+        nextBtn.onclick = () => showPage(currentPage + 1);
+        controlsContainer.appendChild(nextBtn);
+      }
+      
+      showPage(1);
+    });
+  </script>
+  {{ else }}
+  <div style="padding: 3rem 1rem; text-align: center; color: #6b7280; border: 1px dashed #e5e7eb; border-radius: 8px; margin-top: 1.5rem;">
+    <p style="margin: 0; font-size: 0.95rem;">현재 접수되어 진행 중인 정정 및 삭제 요청 내역이 없습니다.</p>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

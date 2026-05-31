@@ -1,0 +1,23 @@
+{{ define "main" }}
+<h1>검색</h1>
+<p class="meta">인물·이슈 전체를 검색합니다.</p>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+
+<div id="search"></div>
+
+<script>
+  window.addEventListener("DOMContentLoaded", function () {
+    new PagefindUI({
+      element: "#search",
+      showImages: false,
+      resetStyles: false,
+      translations: {
+        placeholder: "인물명·이슈·키워드 입력",
+        zero_results: "[SEARCH_TERM] 검색 결과 없음",
+      },
+    });
+  });
+</script>
+{{ end }}

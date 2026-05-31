@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+    "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.candydate.research</string>
+
+    <!-- Pass A (--all) + Pass B (--batch-submit) : 09:00 KST -->
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>__REPO_DIR__/agent/launchd/run_pass_ab.sh</string>
+    </array>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>9</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <!-- 로그: stdout/stderr 모두 동일 파일로 -->
+    <key>StandardOutPath</key>
+    <string>/tmp/com.candydate.agent.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/com.candydate.agent.log</string>
+
+    <key>WorkingDirectory</key>
+    <string>__REPO_DIR__/agent</string>
+
+    <!-- 로드 즉시 실행 안 함 (스케줄만) -->
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>

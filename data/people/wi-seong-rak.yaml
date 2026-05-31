@@ -1,0 +1,16 @@
+slug: wi-seong-rak
+name_ko: 위성락
+name_en: Wi Sung-lac
+party: 더불어민주당
+role: 제22대 국회의원 (비례대표)
+status: curated
+aliases:
+- 위성락
+discovered_via_issue: coupang-data-leak-2026
+discovered_at: '2026-05-14'
+sources:
+  news_keywords:
+  - 위성락
+  official_urls:
+  - https://www.assembly.go.kr
+  youtube_channels: []

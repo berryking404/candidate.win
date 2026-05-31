@@ -1,0 +1,92 @@
+<h1>
+  {{ .Title }}
+  {{- with .Params.status }}
+    {{- if eq . "active" }} <span class="badge badge-active">진행 중</span>{{ end }}
+    {{- if eq . "closed" }} <span class="badge" style="background:#eee;color:#666;border:1px solid #ccc;">종료</span>{{ end }}
+  {{- end }}
+</h1>
+<p class="meta">
+  {{- with .Params.category }}{{ . }} · {{ end -}}
+  최종 갱신: {{ .Lastmod.Format "2006-01-02" }}
+</p>
+
+{{- with .Params.summary }}
+<p><strong>요약:</strong> {{ . }}</p>
+{{- end }}
+
+{{- $slug := .Params.slug | default .File.ContentBaseName -}}
+{{- $issueSeed := index .Site.Data.issue_seed $slug -}}
+{{- with $issueSeed -}}
+{{- with .stances -}}
+<h2>입장 판정 기준</h2>
+<dl class="stance-seed-criteria">
+  {{- with .support -}}
+  <dt>지지</dt>
+  <dd>{{ . }}</dd>
+  {{- end -}}
+  {{- with .oppose -}}
+  <dt>반대</dt>
+  <dd>{{ . }}</dd>
+  {{- end -}}
+  {{- with .neutral -}}
+  <dt>중립</dt>
+  <dd>{{ . }}</dd>
+  {{- end -}}
+  {{- with .mixed -}}
+  <dt>혼합</dt>
+  <dd>{{ . }}</dd>
+  {{- end -}}
+</dl>
+{{- end -}}
+{{- end -}}
+
+{{- with .Params.stances }}
+<h2>인물별 입장</h2>
+<table>
+  <thead>
+    <tr>
+      <th>인물</th>
+      <th>입장</th>
+      <th>대표 발언</th>
+      <th>출처</th>
+      <th>날짜</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{- range . }}
+    {{- $personPage := $.Site.GetPage (printf "/people/%s" .person) }}
+    <tr>
+      <td>
+        {{- if $personPage }}
+          <a href="{{ $personPage.Permalink }}">{{ .name | default .person }}</a>
+        {{- else }}
+          {{ .name | default .person }}
+        {{- end }}
+      </td>
+      <td>
+        {{- $cls := printf "stance-%s" (.stance | default "unknown") }}
+        {{- $label := "" }}
+        {{- if eq .stance "support" }}{{- $label = "지지" }}
+        {{- else if eq .stance "oppose" }}{{- $label = "반대" }}
+        {{- else if eq .stance "neutral" }}{{- $label = "중립" }}
+        {{- else if eq .stance "ambiguous" }}{{- $label = "모호" }}
+        {{- else }}{{- $label = "미확인" }}
+        {{- end }}
+        <span class="{{ $cls }}">{{ $label }}</span>
+      </td>
+      <td>{{ .quote | default "—" }}</td>
+      <td>
+        {{- with .source }}
+          <a href="{{ . }}" rel="noopener" target="_blank">링크</a>
+        {{- else }}—{{- end }}
+      </td>
+      <td>{{ .date | default "—" }}</td>
+    </tr>
+    {{- end }}
+  </tbody>
+</table>
+{{- end }}
+
+{{ .Content }}
+
+{{ partial "correction-link.html" . }}

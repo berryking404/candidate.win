@@ -1,0 +1,25 @@
+slug: coupang-data-leak-2026
+title_ko: 쿠팡 고객 개인정보 대규모 유출 사고와 정부 대응 (2026)
+title_en: Massive Coupang Customer Data Leak and Government Response (2026)
+category: social
+status: ongoing
+started_at: 2026-02-10
+summary: |
+  2026년 2월, 쿠팡에서 약 3,367만 건의 고객 정보가 유출된 역대 최대 규모의 사고가 발생함.
+  성명, 전화번호, 주소뿐만 아니라 공동현관 비밀번호까지 포함되어 심각한 사회적 파장이 일었으며,
+  정부는 민관합동조사단을 구성해 조사에 착수함. 개인정보보호위원회의 역대급 과징금 부과 여부와
+  미국 기업에 대한 차별적 규제라는 한미 통상 마찰 가능성이 주요 쟁점으로 부각됨.
+keywords:
+  - "쿠팡 개인정보 유출"
+  - "공동현관 비밀번호 유출"
+  - "개인정보보호위원회 쿠팡 과징금"
+  - "쿠팡 블랙리스트 조사"
+  - "내부자 위협 보안 사고"
+stances:
+  support: "엄격한 법 집행과 천문학적 과징금 부과를 통해 기업의 책임을 강화하고 재발을 방지해야 한다는 입장"
+  oppose: "과도한 규제와 징벌적 과징금이 기업 경쟁력을 약화시키고 한미 통상 갈등을 초래할 수 있다는 우려를 표하는 입장"
+seed_people: []
+sources:
+  - url: https://www.boannews.com/media/view.asp?idx=126600
+    title: "쿠팡, 3300만명 개인정보 유출... 역대 최대 규모"
+    date: 2026-02-10

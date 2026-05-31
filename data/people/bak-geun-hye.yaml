@@ -1,0 +1,20 @@
+slug: bak-geun-hye
+name_ko: 박근혜
+name_en: Park Geun-hye
+party: 무소속
+role: 제18대 대통령, 제15~19대 국회의원 역임
+status: curated
+aliases:
+  - 박근혜
+  - 박근혜 전 대통령
+  - 박 전 대통령
+discovered_via_issue: local-election-nomination-2026
+discovered_at: '2026-05-27'
+sources:
+  news_keywords:
+    - 박근혜
+    - 박근혜 전 대통령
+  youtube_channels: []
+  profile_urls:
+    - https://www.wikidata.org/wiki/Q138048
+    - https://ko.wikipedia.org/wiki/%EB%B0%95%EA%B7%BC%ED%98%9C

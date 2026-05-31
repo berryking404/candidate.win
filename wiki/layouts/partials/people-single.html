@@ -1,0 +1,41 @@
+<h1>
+  {{ .Title }}
+  {{- with .Params.status }}
+    {{- if eq . "stub" }} <span class="badge badge-stub">검수 대기</span>{{ end }}
+    {{- if eq . "curated" }} <span class="badge badge-curated">검수 완료</span>{{ end }}
+  {{- end }}
+</h1>
+<p class="meta">
+  {{- with .Params.hangul_name }}{{ . }} · {{ end }}
+  {{- with .Params.party }}{{ . }}{{ end }}
+  {{- with .Params.role }} · {{ . }}{{ end }}
+  {{- with .Params.birth_year }} · {{ . }}년생{{ end }}
+</p>
+
+{{- with .Params.description }}
+<p>{{ . }}</p>
+{{- end }}
+
+{{- if .Params.status | eq "stub" }}
+<div style="background:#fff3cd;border:1px solid #ffc107;border-radius:6px;padding:.8rem 1rem;margin:1.2rem 0;font-size:.9rem;">
+  ⚠️ 이 페이지는 자동 생성된 초안입니다. 사람이 검수하기 전에는 내용이 불완전할 수 있습니다.
+</div>
+{{- end }}
+
+{{ .Content }}
+
+{{- with .Params.related_issues }}
+<h2>관련 이슈</h2>
+<ul class="related-list">
+  {{- range . }}
+  {{- $issue := $.Site.GetPage (printf "/issues/%s" .) }}
+  {{- if $issue }}
+  <li><a href="{{ $issue.Permalink }}">{{ $issue.Title }}</a></li>
+  {{- else }}
+  <li><code>{{ . }}</code></li>
+  {{- end }}
+  {{- end }}
+</ul>
+{{- end }}
+
+{{ partial "correction-link.html" . }}

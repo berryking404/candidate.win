@@ -1,0 +1,21 @@
+---
+title: 전시작전통제권(전작권) 전환 추진과 안보 논쟁 (2026)
+slug: opcon-transfer-2026
+category: foreign
+status: ongoing
+summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 구조를 둘러싼 논쟁
+---
+
+## 인물별 입장
+
+<!-- agent:stances -->
+- [이재명](/people/i-jae-myeong) — **지지**: 임기 내 전시작전통제권 환수를 추진하겠다는 입장을 밝혔고, 2026년 FOC 검증 추진 로드맵에도 우호적이다. [출처](https://news.jtbc.co.kr/article/NB12297567?influxDiv=NAVER)
+- [안규백](/people/an-gyu-baek) — **지지**: 전작권 전환 관련 현안을 논의하며 2026년 FOC 검증 추진 일정에 맞춰 한미 협의를 진행하고 있다. [출처](https://www.news1.kr/diplomacy/defense-diplomacy/6161403)
+- [헤그세스](/people/pete-hegseth) — **중립**: 전작권 전환 자체를 직접 반대하거나 지지하기보다, 한미 협력과 동맹 현대화 논의의 맥락에서 관련 현안을 다뤘다. [출처](https://www.joongang.co.kr/article/25427535)
+- [브런슨](/people/xavier-brunson) — **혼합**: 전환 시점은 조건 충족이 우선이라며 속도 조절 필요성을 시사했지만, FOC 검증 추진 자체를 전면 부정하지는 않았다. [출처](https://www.joongang.co.kr/article/25427279)
+- [위성락](/people/wi-seong-rak) — **지지**: 올해 전작권 회복 로드맵 완성과 FOC 검증 완료를 추진하고 있다고 밝혔다. [출처](https://www.etnews.com/20260513000387)
+- [위성락](/people/wi-seong-rak) — **중립**: 전작권 전환은 군사기술 검증만이 아니라 최고 지도부가 판단할 정치·안보 의제라는 취지로, 2026년 하반기 로드맵 수립과 FOC 검증의 연계를 언급했다. [출처](https://www.pennmike.com/news/articleView.html?idxno=120561)
+- [송영길](/people/song-yeong-gil) — **지지**: 전시작전통제권 환수가 이재명정부 임기 내에 이뤄지도록 최선을 다하겠다고 말했다. [출처](http://www.newstomato.com/ReadNews.aspx?no=1300812&inflow=N)
+- [정세현](/people/jeong-se-hyeon) — **지지**: 전작권 환수는 추진할 사안이며, 현 정부가 더 적극적으로 받아야 한다는 취지로 말했다. [출처](https://www.sisain.co.kr/news/articleView.html?idxno=57957)
+- [브런슨](/people/brunson) — **혼합**: 2029년 이후 가능성을 언급해 2026년 FOC 검증 일정과는 온도차가 있지만, 조건 충족과 검증 절차의 중요성을 강조했다. [출처](https://news.tf.co.kr/read/ptoday/2320921.htm)
+<!-- /agent:stances -->

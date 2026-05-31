@@ -1,0 +1,7 @@
+{{- if or (eq .Section "people") (eq .Section "issues") -}}
+  <footer class="page-actions">
+    <button class="report-btn" onclick="openReportModal('correction', '{{ .Permalink }}')">이 페이지 정정 요청</button>
+    <span aria-hidden="true"> · </span>
+    <button class="report-btn" onclick="openReportModal('takedown', '{{ .Permalink }}')">삭제 요청</button>
+  </footer>
+{{- end -}}

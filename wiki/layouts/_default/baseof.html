@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; }
+    body {
+      font-family: "Noto Sans KR", "Apple SD Gothic Neo", sans-serif;
+      font-size: 16px; line-height: 1.7; color: #1a1a1a;
+      max-width: 860px; margin: 0 auto; padding: 0 1.2rem 4rem;
+    }
+    a { color: #0066cc; }
+    a:hover { color: #003d7a; }
+    nav { border-bottom: 2px solid #e8e8e8; padding: .6rem 0; margin-bottom: 2rem; }
+    nav a { margin-right: 1.2rem; text-decoration: none; font-weight: 600; }
+    h1 { font-size: 1.8rem; margin-bottom: .2rem; }
+    h2 { font-size: 1.25rem; border-bottom: 1px solid #ddd; padding-bottom: .3rem; margin-top: 2rem; }
+    h3 { font-size: 1.05rem; margin-top: 1.5rem; }
+    .meta { color: #666; font-size: .9rem; margin-bottom: 1.5rem; }
+    .badge {
+      display: inline-block; padding: .15rem .5rem; border-radius: 4px;
+      font-size: .78rem; font-weight: 600; vertical-align: middle;
+    }
+    .badge-stub    { background: #fff3cd; color: #856404; border: 1px solid #ffc107; }
+    .badge-curated { background: #d1e7dd; color: #0f5132; border: 1px solid #198754; }
+    .badge-active  { background: #cff4fc; color: #055160; border: 1px solid #0dcaf0; }
+    table { width: 100%; border-collapse: collapse; margin-top: 1rem; font-size: .9rem; }
+    th, td { border: 1px solid #ddd; padding: .45rem .7rem; text-align: left; }
+    th { background: #f4f4f4; font-weight: 600; }
+    .stance-support    { display:inline-block; padding:.15rem .55rem; border-radius:999px; font-size:.82rem; font-weight:700; background:#dbeafe; color:#1d4ed8; }
+    .stance-oppose     { display:inline-block; padding:.15rem .55rem; border-radius:999px; font-size:.82rem; font-weight:700; background:#fee2e2; color:#b91c1c; }
+    .stance-neutral    { display:inline-block; padding:.15rem .55rem; border-radius:999px; font-size:.82rem; font-weight:700; background:#f3f4f6; color:#374151; }
+    .stance-ambiguous  { display:inline-block; padding:.15rem .55rem; border-radius:999px; font-size:.82rem; font-weight:700; background:#f3f4f6; color:#374151; }
+    .stance-unknown    { display:inline-block; padding:.15rem .55rem; border-radius:999px; font-size:.82rem; font-weight:700; background:#f3f4f6; color:#9ca3af; }
+    .page-actions {
+      margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #eee;
+      font-size: .85rem; color: #888;
+    }
+    .page-actions a { color: #888; }
+    .report-btn {
+      background: none; border: none; padding: 0;
+      color: #888; font-size: .85rem; cursor: pointer; text-decoration: underline;
+    }
+    .report-btn:hover { color: #333; }
+    /* 모달 */
+    #report-overlay {
+      display: none; position: fixed; inset: 0;
+      background: rgba(0,0,0,.45); z-index: 1000; align-items: center; justify-content: center;
+    }
+    #report-overlay.open { display: flex; }
+    #report-modal {
+      background: #fff; border-radius: 8px; padding: 2rem;
+      width: min(480px, 92vw); box-shadow: 0 8px 32px rgba(0,0,0,.18);
+    }
+    #report-modal h2 { margin: 0 0 1rem; font-size: 1.1rem; }
+    #report-modal label { display: block; font-size: .88rem; color: #444; margin-bottom: .2rem; }
+    #report-modal input, #report-modal textarea, #report-modal select {
+      width: 100%; padding: .45rem .6rem; border: 1px solid #ccc;
+      border-radius: 4px; font-size: .9rem; margin-bottom: .9rem;
+      font-family: inherit; box-sizing: border-box;
+    }
+    #report-modal textarea { height: 90px; resize: vertical; }
+    .modal-actions { display: flex; gap: .7rem; justify-content: flex-end; margin-top: .5rem; }
+    .modal-actions button { padding: .45rem 1.1rem; border-radius: 4px; font-size: .9rem; cursor: pointer; }
+    .btn-cancel { background: #f4f4f4; border: 1px solid #ccc; color: #444; }
+    .btn-submit { background: #0066cc; border: none; color: #fff; font-weight: 600; }
+    .related-list { list-style: none; padding: 0; }
+    .related-list li { margin: .3rem 0; }
+    footer.site-footer {
+      margin-top: 4rem; padding-top: 1rem; border-top: 2px solid #eee;
+      font-size: .82rem; color: #aaa; text-align: center;
+    }
+    .section-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 1rem; margin-top: 1rem;
+    }
+    .card {
+      border: 1px solid #ddd; border-radius: 6px; padding: .9rem 1rem;
+      text-decoration: none; color: inherit; display: block;
+    }
+    .card:hover { border-color: #0066cc; background: #f5f9ff; }
+    .card h3 { margin: 0 0 .3rem; font-size: 1rem; }
+    .card p  { margin: 0; font-size: .85rem; color: #666; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="{{ "/" | relURL }}">캔디데이트</a>
+    <a href="{{ "/people/" | relURL }}">인물</a>
+    <a href="{{ "/issues/" | relURL }}">이슈</a>
+    <a href="{{ "/search/" | relURL }}">검색</a>
+  </nav>
+  <main>
+    {{- block "main" . }}{{- end }}
+  </main>
+  <footer class="site-footer">
+    오픈 위키 · 콘텐츠 <a href="{{ "/policy/" | relURL }}">CC BY-NC 4.0</a> · 코드 MIT ·
+    <a href="{{ "/status/" | relURL }}">정정·삭제 현황</a> ·
+    <button class="report-btn" onclick="openReportModal('correction', window.location.href)">오류 신고</button>
+  </footer>
+
+  <!-- 정정·삭제 요청 모달 -->
+  <div id="report-overlay" role="dialog" aria-modal="true" aria-labelledby="report-modal-title">
+    <div id="report-modal">
+      <h2 id="report-modal-title">정정 · 삭제 요청</h2>
+
+      <label for="report-type">요청 유형</label>
+      <select id="report-type">
+        <option value="correction">정정 요청 — 사실관계 오류 수정</option>
+        <option value="takedown">삭제 요청 — 콘텐츠 삭제</option>
+      </select>
+
+      <label for="report-page">해당 페이지 URL</label>
+      <input id="report-page" type="text" readonly>
+
+      <label for="report-desc">오류 내용 및 정확한 사실 <span style="color:#c00">*</span></label>
+      <textarea id="report-desc" placeholder="잘못된 내용과 정확한 내용을 적어 주세요."></textarea>
+
+      <label for="report-source">출처 URL (1차 출처 우선)</label>
+      <input id="report-source" type="text" placeholder="https://...">
+
+      <div class="modal-actions">
+        <button class="btn-cancel" onclick="closeReportModal()">취소</button>
+        <button class="btn-submit" id="report-submit" onclick="submitReport()">제출</button>
+      </div>
+      <p id="report-msg" style="margin:.6rem 0 0;font-size:.85rem;display:none"></p>
+    </div>
+  </div>
+
+  <script>
+    const _REPO = "berryking404/candidate.win";
+    const _TOKEN = "{{ os.Getenv `CANDYDATE_ISSUES_TOKEN` }}";
+
+    function openReportModal(type, pageUrl) {
+      document.getElementById("report-type").value = type;
+      document.getElementById("report-page").value = pageUrl || window.location.href;
+      document.getElementById("report-desc").value = "";
+      document.getElementById("report-source").value = "";
+      _setMsg("", "");
+      document.getElementById("report-submit").disabled = false;
+      document.getElementById("report-submit").textContent = "제출";
+      document.getElementById("report-overlay").classList.add("open");
+      document.getElementById("report-desc").focus();
+    }
+    function closeReportModal() {
+      document.getElementById("report-overlay").classList.remove("open");
+    }
+    function _setMsg(text, color) {
+      const el = document.getElementById("report-msg");
+      el.textContent = text;
+      el.style.color = color;
+      el.style.display = text ? "block" : "none";
+    }
+    async function submitReport() {
+      const type = document.getElementById("report-type").value;
+      const page = document.getElementById("report-page").value;
+      const desc = document.getElementById("report-desc").value.trim();
+      const src  = document.getElementById("report-source").value.trim();
+      if (!desc) { _setMsg("오류 내용을 입력해 주세요.", "#c00"); return; }
+
+      const btn = document.getElementById("report-submit");
+      btn.disabled = true;
+      btn.textContent = "제출 중…";
+      _setMsg("", "");
+
+      const label = type === "correction" ? "correction" : "takedown";
+      const title = (type === "correction" ? "[정정] " : "[삭제] ") + page;
+      const body  = `**페이지**: ${page}\n\n**내용**\n${desc}` + (src ? `\n\n**출처**\n${src}` : "");
+
+      try {
+        const res = await fetch(
+          `https://api.github.com/repos/${_REPO}/issues`,
+          {
+            method: "POST",
+            headers: {
+              "Authorization": `Bearer ${_TOKEN}`,
+              "Accept": "application/vnd.github+json",
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({ title, body, labels: [label] }),
+          }
+        );
+        if (res.ok) {
+          closeReportModal();
+          alert("요청이 성공적으로 접수되었습니다.");
+        } else {
+          throw new Error(res.status);
+        }
+      } catch (e) {
+        _setMsg("제출 중 오류가 발생했습니다. 잠시 후 다시 시도해 주세요.", "#c00");
+        btn.disabled = false;
+        btn.textContent = "제출";
+      }
+    }
+    document.getElementById("report-overlay").addEventListener("click", function(e) {
+      if (e.target === this) closeReportModal();
+    });
+    document.addEventListener("keydown", function(e) {
+      if (e.key === "Escape") closeReportModal();
+    });
+
+    // 마크다운 본문의 입장 레이블 버블 스타일 적용
+    var stanceStyles = {
+      "지지":  { bg: "#dbeafe", color: "#1d4ed8" },
+      "반대":  { bg: "#fee2e2", color: "#b91c1c" },
+      "중립":  { bg: "#f3f4f6", color: "#374151" },
+      "혼합":  { bg: "#f3f4f6", color: "#374151" },
+      "미확인":{ bg: "#f3f4f6", color: "#9ca3af" },
+    };
+    document.querySelectorAll("main strong").forEach(function(el) {
+      var s = stanceStyles[el.textContent.trim()];
+      if (!s) return;
+      el.style.cssText = "display:inline-block;padding:.15rem .55rem;border-radius:999px;font-size:.82rem;font-weight:700;background:" + s.bg + ";color:" + s.color + ";";
+    });
+  </script>
+</body>
+</html>

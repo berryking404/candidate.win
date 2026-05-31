@@ -1,0 +1,10 @@
+{{ define "main" }}
+{{- if eq .Section "people" }}
+  {{- partial "people-single.html" . }}
+{{- else if eq .Section "issues" }}
+  {{- partial "issues-single.html" . }}
+{{- else }}
+  <h1>{{ .Title }}</h1>
+  <div class="content">{{ .Content }}</div>
+{{- end }}
+{{ end }}

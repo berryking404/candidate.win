@@ -1,0 +1,34 @@
+# Hugo build output
+wiki/public/
+wiki/resources/_gen/
+.hugo_build.lock
+
+# Python
+agent/.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Agent runtime artifacts
+agent/.cache/
+agent/.logs/
+
+# Secrets & credentials (NEVER commit — public repo)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.yaml
+credentials.json
+
+# IDE / OS
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+.claude/*.lock

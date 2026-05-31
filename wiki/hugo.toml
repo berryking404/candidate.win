@@ -1,0 +1,38 @@
+baseURL = "https://wiki.candidate.win/"
+locale = "ko-KR"
+title = "캔디데이트 — 공인 발언·입장 위키"
+defaultContentLanguage = "ko"
+enableGitInfo = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  repoURL      = "https://wiki.candidate.win"
+  description  = "정치인·언론인·인플루언서의 주요 발언과 이슈별 입장을 기록하는 오픈 위키"
+
+[security.funcs]
+  getenv = ['^HUGO_', '^CI$', '^CANDYDATE_']
+
+[outputs]
+  home    = ["HTML"]
+  section = ["HTML"]
+  page    = ["HTML"]
+
+# 이슈 시드(data/issues/*.yaml)를 빌드 시 읽어 입장 판정 기준(stances)을 노출한다.
+[module]
+[[module.mounts]]
+  source = "content"
+  target = "content"
+[[module.mounts]]
+  source = "layouts"
+  target = "layouts"
+[[module.mounts]]
+  source = "static"
+  target = "static"
+[[module.mounts]]
+  source = "data"
+  target = "data"
+[[module.mounts]]
+  source = "../data/issues"
+  target = "data/issue_seed"

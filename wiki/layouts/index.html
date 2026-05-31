@@ -1,0 +1,33 @@
+{{ define "main" }}
+<h1>캔디데이트</h1>
+<p>{{ .Site.Params.description }}</p>
+
+<h2>최근 업데이트된 인물</h2>
+{{- $people := where .Site.RegularPages "Section" "people" }}
+<div class="section-grid">
+  {{- range first 6 ($people.ByLastmod.Reverse) }}
+  {{- $p := . }}
+  <a class="card" href="{{ .Permalink }}">
+    <h3>{{ .Title }}
+      {{- if eq .Params.status "stub" }} <span class="badge badge-stub">검수 대기</span>{{ end }}
+    </h3>
+    {{- with .Params.party }}<p>{{ . }}{{ with $p.Params.role }} · {{ . }}{{ end }}</p>{{ end }}
+  </a>
+  {{- end }}
+</div>
+<p><a href="{{ "/people/" | relURL }}">전체 인물 보기 →</a></p>
+
+<h2>최근 업데이트된 이슈</h2>
+{{- $issues := where .Site.RegularPages "Section" "issues" }}
+<div class="section-grid">
+  {{- range first 4 ($issues.ByLastmod.Reverse) }}
+  <a class="card" href="{{ .Permalink }}">
+    <h3>{{ .Title }}
+      {{- if eq .Params.status "active" }} <span class="badge badge-active">진행 중</span>{{ end }}
+    </h3>
+    {{- with .Params.summary }}<p>{{ . | truncate 70 }}</p>{{ end }}
+  </a>
+  {{- end }}
+</div>
+<p><a href="{{ "/issues/" | relURL }}">전체 이슈 보기 →</a></p>
+{{ end }}

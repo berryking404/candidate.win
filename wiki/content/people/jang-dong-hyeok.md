@@ -1,0 +1,29 @@
+---
+title: 장동혁
+slug: jang-dong-hyeok
+role: 제22대 국회의원 (충남 보령·서천), 국민의힘 당대표
+status: curated
+party: 국민의힘
+---
+
+## 행적
+
+<!-- agent:events -->
+- 2026-04-24: 정동영 통일부 장관의 발언이 한미동맹 위기를 초래했다며 해임결의안 제출을 포함한 대응을 주도했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8545166&ref=A)
+- 2026-05-26: 수도권 유세에서 경제 파탄과 민생 붕괴를 막아야 한다고 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8570830&ref=A)
+<!-- /agent:events -->
+
+## 이슈별 입장
+
+<!-- agent:stances -->
+- [한미 정보공유 중단 및 정동영 통일부 장관 해임 결의안 논란 (2026)](/issues/us-intel-sharing-crisis-2026) — **반대**: 정동영 장관의 발언이 한미동맹 위기와 정보 공유 제한을 초래했다는 취지로 비판하며 해임결의안을 추진했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8545166&ref=A)
+- [장동혁](/issues/martial-law-incident-2025) — **혼합**: 계엄에 대해 “국민에게 상처”라고 말하면서도 탄핵을 둘러싼 정치적 책임 공방에서는 계엄 옹호 논란을 낳는 발언을 했다. [출처](https://www.seoul.co.kr/news/politics/2026/05/09/20260509500017?wlog_tag3=naver)
+- [윤석열 정부 10.23 비상계엄 선포 및 해제 사태 (2025)](/issues/martial-law-incident-2025) — **반대**: 내부 분열과 탄핵 책임론을 언급하며 윤석열 탄핵을 부정적으로 보는 취지의 발언이 보도됐다. [출처](https://www.munhwa.com/article/11588376?ref=naver)
+- [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **반대**: 삼성전자 노사 협상 타결 과정과 정부·여당의 개입을 강하게 비판하며 노조 측 합의를 문제 삼았다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=03401366645451544)
+- [윤석열 탄핵·특검](/issues/special-counsel-investigation-2026) — **중립**: 대통령의 투표지 논란을 근거로 선거 중립 위반과 탄핵 사유를 주장했다. [출처](https://news.jtbc.co.kr/article/NB12300682?influxDiv=NAVER)
+- [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **반대**: 상대 진영을 향해 정쟁 비판과 함께 민생과는 다른 정치 공세 프레임을 강하게 제기했다. [출처](https://www.donga.com/news/Politics/article/all/20260514/133918304/2)
+- [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **지지**: 공천장을 받은 후보들을 향해 당과 국가를 지키라는 메시지를 내며 공천 결집을 독려했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=730977)
+- [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **중립**: 공천 과정의 내부 갈등을 둘러싼 당 지도부의 축으로 언급됐다. [출처](https://www.joongang.co.kr/article/25431549)
+- [물가 안정과 에너지 요금 부담 (2026)](/issues/energy-price-inflation-2026) — **반대**: 고유가 피해지원금을 선거용 매표로 비판하며 지급 정책에 반대했다. [출처](https://weekly.chosun.com/news/articleView.html?idxno=51487)
+- [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 국민의힘 유세에서 경제 파탄과 민생 붕괴를 막아야 한다며 정권 심판과 민생 회복을 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8570830&ref=A)
+<!-- /agent:stances -->

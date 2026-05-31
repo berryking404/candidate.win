@@ -1,0 +1,14 @@
+slug: gim-jun-ho
+name_ko: 김준호
+name_en: Kim Jun-ho
+party: null
+role: 쿠팡 블랙리스트 공익제보자
+status: curated
+aliases:
+- 쿠팡 블랙리스트 공익제보자 김준호
+discovered_via_issue: coupang-data-leak-2026
+discovered_at: '2026-05-08'
+sources:
+  news_keywords:
+  - 김준호
+  youtube_channels: []
