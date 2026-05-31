@@ -26,6 +26,5 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [정준영](/people/jeong-jun-yeong) — **지지**: 지역 경제 활성화와 사회안전망 구축을 위한 행복 일자리 공약을 발표했다. [출처](http://www.chungnamilbo.co.kr/news/articleView.html?idxno=886448)
 - [박능후](/people/bak-neung-hu) — **지지**: 기초연금 인상과 노인 일자리 확충을 통해 고령화에 대응해야 한다고 밝혔다. [출처](https://www.eroun.net/news/articleView.html?idxno=79616)
 - [이병래](/people/i-byeong-rae) — **지지**: 저출생·고령화 문제 대응 과제를 역점 추진해야 한다고 말했다. [출처](https://www.goodnews1.com/news/articleView.html?idxno=459341)
-- [박대근](/people/park-daegun) — **지지**: 폭염·감염병 등 기후위험이 일상화된 상황에서 도민 건강을 지키기 위한 사회안전망 역할이 더 중요하다고 강조했다. [출처](http://www.kgnews.co.kr/news/article.html?no=898068)
 - [박대근](/people/bak-dae-geun) — **지지**: 폭염·감염병 등 기후위험이 일상화된 상황에서 도민 건강을 지키기 위한 사회안전망 역할이 더 중요하다고 강조했다. [출처](http://www.kgnews.co.kr/news/article.html?no=898068)
 <!-- /agent:stances -->

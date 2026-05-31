@@ -27,5 +27,4 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [오세훈](/people/o-se-hun) — **중립**: 젠더 갈등이 정치·사회적 양극화와 연결된 사례의 맥락에서 언급됐다. [출처](https://www.viva100.com/article/20260526500544)
 - [권영국](/people/kwon-youngguk) — **지지**: 구조적 성차별과 여성 안전 문제를 강조하며 관련 의제를 적극 다뤘다. [출처](https://www.yna.co.kr/view/AKR20260526148900001?input=1195m)
 - [이장우](/people/lee-jangwoo) — **혼합**: 여성혐오 발언 의혹 교수의 정책자문위원 임명으로 비판을 받았다. [출처](https://www.khan.co.kr/article/202605261633001)
-- [권영국](/people/gwon-yeongguk) — **지지**: 구조적인 성차별 해소를 위해 지방 정부의 역할과 제도적 노력이 필요하다고 강조하며 성평등 의제를 전면에 내세웠다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003239069&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 <!-- /agent:stances -->

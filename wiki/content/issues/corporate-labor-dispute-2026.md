@@ -39,10 +39,6 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [김재원](/people/gim-jae-won) — **지지**: 삼성전자 초기업노조 정책기획국장으로 사후조정 협상에 참여하며 노조의 성과급 요구를 뒷받침했다. [출처](http://www.mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5192987)
 - [김도형](/people/gim-do-hyeong) — **중립**: 노동부 차원의 중재와 면담을 진행하며 노사 대화를 독려했다. [출처](https://www.busan.com/view/busan/view.php?code=2026050813293118857)
 - [노태문](/people/no-tae-mun) — **반대**: 임직원들에게 미래 경쟁력 훼손을 막기 위해 임금협상을 신중히 해달라고 당부했다. [출처](https://woman.chosun.com/news/articleView.html?idxno=125788)
-- [백순안](/people/baeksunan) — **지지**: 삼성전자 동행노조 정책기획국장은 DX 부문 근로 의욕 저하와 공헌이 저버려졌다는 점을 들어 노사 요구의 정당성을 강조했다. [출처](https://imnews.imbc.com/replay/2026/nwdesk/article/6826557_37004.html)
-- [한국경영자총협회](/people/korea-employers-federation) — **반대**: 경총은 영업이익 연동 성과급과 이를 목적으로 한 파업은 단체교섭 대상이 아니고 위법 소지가 있다고 주장했다. [출처](https://www.sedaily.com/article/20050213?ref=naver)
-- [김영훈](/people/kimyounghoon) — **중립**: 고용노동부 장관은 반도체 초과이익의 사회적 재분배 필요성을 언급하며 노사 갈등 중재에 나섰다. [출처](https://www.mk.co.kr/article/12062350)
-- [이재용](/people/leejaeyong) — **중립**: 삼성전자 노사 갈등이 총파업 직전까지 치달았을 때 직접 교섭을 주선해 타결을 이끌었다. [출처](https://www.mk.co.kr/article/12062350)
-- [삼성전자 노동조합](/people/samsungelectronicsunion) — **지지**: 삼성전자 노조는 성과급·복지 개선 요구를 관철해 합의안을 끌어내며 영업이익 연동형 보상 체계를 확보했다. [출처](https://www.fnnews.com/news/202605311304204026)
-- [SK하이닉스 노동조합](/people/skhynixunion) — **지지**: SK하이닉스 노조는 삼성전자 합의안을 벤치마킹해 더 높은 주택자금·임금 조건을 요구할 것으로 거론됐다. [출처](https://www.hankyung.com/article/2026053191421)
+- [김영훈](/people/gim-yeong-hun) — **중립**: 고용노동부 장관은 반도체 초과이익의 사회적 재분배 필요성을 언급하며 노사 갈등 중재에 나섰다. [출처](https://www.mk.co.kr/article/12062350)
+- [이재용](/people/i-jae-yong) — **중립**: 삼성전자 노사 갈등이 총파업 직전까지 치달았을 때 직접 교섭을 주선해 타결을 이끌었다. [출처](https://www.mk.co.kr/article/12062350)
 <!-- /agent:stances -->
