@@ -9,8 +9,6 @@ summary: 정동영 통일부 장관 발언 논란과 이에 따른 미국의 대
 ## 인물별 입장
 
 <!-- agent:stances -->
-
-
 - [장동혁](/people/jang-dong-hyeok) — **반대**: 정동영 장관의 발언이 한미동맹 위기와 정보 공유 제한을 초래했다는 취지로 비판하며 해임결의안을 추진했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8545166&ref=A)
 - [박선원](/people/bak-seon-won) — **중립**: 정동영 발언과 미국의 정보 공유 제한을 직접 연결하는 해석에 선을 그으며 사실관계 확인을 강조했다. [출처](https://www.sisain.co.kr/news/articleView.html?idxno=57833)
 - [이재명](/people/i-jae-myeong) — **중립**: 대외 현안에서 자해행위를 경계하는 취지의 언급은 있으나, 이 이슈에 대한 직접 입장은 드러나지 않았다. [출처](https://imnews.imbc.com/replay/2026/nwtoday/article/6819019_37012.html)
