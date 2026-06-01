@@ -2,7 +2,7 @@
 title: 한미 정보공유 중단 및 정동영 통일부 장관 해임 결의안 논란
 slug: us-intel-sharing-crisis-2026
 category: foreign
-status: ongoing
+status: closed
 summary: 정동영 통일부 장관 발언 논란과 이에 따른 미국의 대북 정보공유 제한, 국민의힘의 해임결의안 추진을 둘러싼 이슈.
 ---
 
@@ -24,3 +24,8 @@ summary: 정동영 통일부 장관 발언 논란과 이에 따른 미국의 대
 - [나경원](/people/na-gyeong-won) — **반대**: 정동영 장관의 발언이 한미동맹 신뢰를 무너뜨렸다고 비판하며 즉각 해임을 촉구했다. [출처](https://www.newsworks.co.kr/news/articleView.html?idxno=838283)
 - [유용원](/people/yu-yong-won) — **반대**: 정동영 장관 자진 사퇴 결의안 채택과 보안쇄신책 제시를 요구하며 정보망 복구를 압박했다. [출처](http://www.mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5189931)
 <!-- /agent:stances -->
+
+<!-- human-edit -->
+## 편집자 노트
+정동영 통일부 장관 발언과 한미 정보공유 제한 논란은 국민의힘의 해임건의안 추진과 정부·여당의 반박을 거치며 한미동맹 및 대북 정보협력에 대한 정치 공방으로 확산되었습니다. 이후 정부는 정보공유 문제가 실무적 조정이라는 취지로 해명했고, 주요 쟁점은 장관 개인의 발언 논란에서 한미 안보협력 전반에 대한 점검과 정치적 책임 공방으로 정리되며 초기 현안 국면은 일단락된 것으로 보아 이 이슈를 종료 상태로 보관합니다.
+<!-- /human-edit -->
