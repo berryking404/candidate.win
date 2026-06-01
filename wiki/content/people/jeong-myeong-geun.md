@@ -15,4 +15,5 @@ party: 더불어민주당
 ## 이슈별 입장
 
 <!-- agent:stances -->
+- [지역 상권 회복과 소상공인 지원 (2026)](/issues/local-commerce-recovery-2026) — **지지**: 지역화폐와 전통시장 활성화를 통해 지역경제와 소상공인 지원을 핵심 공약으로 내세웠다. [출처](https://www.thereport.co.kr/news/articleView.html?idxno=88381)
 <!-- /agent:stances -->

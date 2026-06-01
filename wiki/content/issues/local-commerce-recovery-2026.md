@@ -44,7 +44,13 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이준석](/people/i-jun-seok) — **중립**: 마산 원도심과 전통시장 현장을 찾아 상권 회복 필요성을 강조하며 지원 유세를 이어갔다. [출처](https://www.newsfreezone.co.kr/news/articleView.html?idxno=688664)
 - [장세일](/people/jang-se-il) — **중립**: 상권활성화지원센터 건립, 온누리상품권 사용 지역 확대 등 구체적 방안을 논의했지만 명시적 찬반 입장은 확인되지 않았다. [출처](https://www.jnilbo.com/news/articleView.html?idxno=90000032817)
 - [주병기](/people/ju-byeong-gi) — **지지**: 플랫폼 거래공정화법 논의를 적극 지원하며 입점 소상공인과의 거래 안전성 강화를 지지했다. [출처](https://news.einfomax.co.kr/news/articleView.html?idxno=4413143)
-
 - [정명근](/people/jeong-myeong-geun) — **지지**: 민생경제와 골목상권 회복을 위해 지역화폐 1조원 지속 발행과 공공산후조리원 건립을 공약했다. [출처](https://www.sportsseoul.com/news/read/1612620?ref=naver)
 - [허태정](/people/heo-tae-jeong) — **지지**: 전통시장과 골목상권을 찾아 자영업자와 노동자의 생활 현안을 듣는 민생 행보를 이어갔다. [출처](https://www.ccdn.co.kr/news/articleView.html?idxno=1080876)
+- [손성호](/people/son-seong-ho) — **지지**: 지역경제 활성화와 소상공인 지원 필요성을 강조했다. [출처](https://www.eroun.net/news/articleView.html?idxno=82191)
+- [박승원](/people/bak-seung-won) — **지지**: 광명사랑화폐 확대, 배달비 지원, 전통시장 현대화 등으로 골목상권과 소상공인 지원을 강화하겠다고 밝혔다. [출처](https://www.sentv.co.kr/article/view/sentv202606010138)
+- [한경호](/people/han-gyeong-ho) — **지지**: 지역상품권 발행과 골목상권·전통시장·소상공인 매출 회복을 연결하는 민생경제 부양 공약을 제시했다. [출처](https://www.gndomin.com/news/articleView.html?idxno=477385)
+- [이상일](/people/i-sang-il) — **지지**: 소상공인 허브센터 설립과 특례보증 확대 등 소상공인 경쟁력 강화 공약을 내놨다. [출처](http://www.beyondpost.co.kr/view.php?ud=202606011823327844c878f8fa1_30)
+- [양영식](/people/yang-yeong-sik) — **지지**: 골목형상점가 확대와 체감형 지원을 통해 소규모 상권 회복을 추진하겠다고 밝혔다. [출처](https://www.newsjeju.net/news/articleView.html?idxno=421548)
+- [이병래](/people/i-byeong-rae) — **지지**: 전통시장 현대화, 주차환경 개선, 골목상권 지원 정책으로 모래내시장 회복을 약속했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3597911)
+- [한금석](/people/han-geum-seok) — **미확인**: 제시된 발언만으로는 이슈에 대한 찬반을 단정하기 어려웠다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8575256&ref=A)
 <!-- /agent:stances -->
