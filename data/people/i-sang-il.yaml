@@ -1,0 +1,14 @@
+slug: i-sang-il
+name_ko: 이상일
+name_en: null
+party: null
+role: 용인시장후보
+status: stub
+aliases:
+- 이 후보
+discovered_via_issue: gender-conflict-2026
+discovered_at: '2026-06-01'
+sources:
+  news_keywords:
+  - 이상일
+  youtube_channels: []

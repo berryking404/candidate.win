@@ -17,5 +17,6 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [나경원](/people/na-gyeong-won) — **중립**: 이번 수집 기사에서는 젠더 갈등 이슈와 관련해 직접적인 찬반 입장보다 과거 여성 혐오 표현 논란과 사과 사실이 함께 언급됐다. [출처](https://www.imnews.imbc.com/replay/2026/nwtoday/article/6825184_37012.html)
 - [윤석열](/people/yun-seok-yeol) — **반대**: 대선 과정에서 여성가족부 폐지와 성폭력 무고죄 강화를 내세워 젠더 이슈 갈등 심화의 배경으로 거론됐다. [출처](https://www.ntoday.co.kr/news/articleView.html?idxno=127359)
 - [이준석](/people/i-jun-seok) — **혼합**: 혐오 정치를 퍼뜨린다는 비판과 함께 갈라치기 정치 논쟁의 중심 인물로 거론됐다. [출처](https://biz.heraldcorp.com/article/10758844?ref=naver)
-
+- [현근택](/people/hyeon-geun-taek) — **지지**: 성평등 정책 필요성에 공감한다고 보도됐다. [출처](https://www.chungnamilbo.co.kr/news/articleView.html?idxno=665020)
+- [이상일](/people/i-sang-il) — **지지**: 성평등 정책 필요성에 공감한다고 보도됐다. [출처](https://www.chungnamilbo.co.kr/news/articleView.html?idxno=665020)
 <!-- /agent:stances -->
