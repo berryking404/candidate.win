@@ -22,4 +22,6 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [윤종호](/people/yun-jong-ho) — **지지**: 구미 5공단 하이테크밸리, 반도체 특화단지, AI 산업을 거론하며 산업구조 전환과 청년 일자리 확충을 핵심 과제로 제시했다. [출처](https://www.news.bbsi.co.kr/news/articleView.html?idxno=4062270)
 - [주광덕](/people/ju-gwang-deok) — **지지**: 미래세대 변화와 청년창업 지원, 첨단산업 기반 자족도시 구상을 통해 청년 일자리 확대에 우호적인 방향을 보였다. [출처](https://www.ekn.kr/web/view.php?key=20260203024005691)
 - [김경수](/people/gim-gyeong-su) — **중립**: 김해를 전력반도체·바이오 의생명·청년창업특구 중심으로 키우는 청년 일자리·첨단산업 구상을 제시했지만, 이 이슈의 정책에 대한 직접적 찬반 표명은 확인되지 않았다. [출처](https://www.mk.co.kr/article/12035054)
+- [민형배](/people/min-hyeong-bae) — **지지**: 항공우주 및 바이오 R&D 산업 육성을 통해 청년 일자리를 창출하겠다고 밝혔다. [출처](https://www.mhns.co.kr/news/articleView.html?idxno=748997)
+- [고의숙](/people/go-ui-suk) — **지지**: 청년과 학생을 연결하는 제주형 교육일자리 정책을 추진하겠다고 밝혔다. [출처](http://www.fnnews.com/news/202606012031086740)
 <!-- /agent:stances -->
