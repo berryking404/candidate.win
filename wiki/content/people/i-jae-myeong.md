@@ -25,4 +25,5 @@ party: 더불어민주당
 - [물가 안정과 에너지 요금 부담 (2026)](/issues/energy-price-inflation-2026) — **지지**: 물가 안정에 걸림돌이 되는 매점매석과 가격 담합에 강력 대응하겠다고 밝혔다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260523152017MHn)
 - [젠더 갈등 심화 (2026)](/issues/gender-conflict-2026) — **반대**: 일베의 여성·장애인 혐오와 지역 차별을 지적하며 폐쇄 검토를 지시했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8568848&ref=A)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **반대**: 대통령의 부산 자갈치시장 방문을 두고 야당이 민생 행보가 아니라 선거 개입이라고 비판했다. [출처](https://www.dailian.co.kr/news/view/1648997/?sc=Naver)
+- [스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)](/issues/starbucks-tank-day-2026) — **반대**: 스타벅스 논란을 선거 쟁점으로 직접 비판하며 불매 확산에 힘을 실었다. [출처](https://www.ilyosisa.co.kr/news/article.html?no=256193)
 <!-- /agent:stances -->
