@@ -9,10 +9,8 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 ## 인물별 입장
 
 <!-- agent:stances -->
-
 - [안규백](/people/an-gyu-baek) — **중립**: 호르무즈 해협 정상화에 대한 단계적 기여 방안을 미국에 전달했으며, 주한미군 감축·전략적 유연성은 별도 논의 대상이 아니라고 설명했다. [출처](https://www.khan.co.kr/article/202605130742001)
 - [위성락](/people/wi-seong-rak) — **지지**: 미국의 해양자유구상(MFC)과 프로젝트 프리덤을 검토하고 항행의 자유 보장을 위한 한국의 기여 가능성을 언급했다. [출처](https://www.yna.co.kr/view/AKR20260513111651001?input=1195m)
 - [조현](/people/jo-hyeon) — **중립**: 나무호 피격 사건과 미국 주도 프로젝트 프리덤의 직접적 연관성을 부인하며 신중한 조사 필요성을 강조했다. [출처](https://www.newsis.com/view/NISX20260520_0003637264)
 - [배현진](/people/bae-hyeon-jin) — **반대**: 나무호 피격을 이란의 해상 장악 시도와 연결해 해석하며 정부의 신중론에 맞섰다. [출처](https://www.hidomin.com/news/articleView.html?idxno=706122)
-
 <!-- /agent:stances -->
