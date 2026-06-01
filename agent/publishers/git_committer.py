@@ -11,6 +11,8 @@ from pathlib import Path
 logger = logging.getLogger(__name__)
 
 REPO_ROOT = Path(__file__).parent.parent.parent
+AGENT_GIT_NAME = "Hermes Agent"
+AGENT_GIT_EMAIL = "hermes-agent@users.noreply.github.com"
 
 
 def commit_changes(summary: str, dry_run: bool = False) -> str | None:
@@ -60,6 +62,7 @@ def commit_changes(summary: str, dry_run: bool = False) -> str | None:
     if deleted:
         repo.index.remove(deleted, working_tree=False)
     message = f"[agent] {summary}"
-    commit = repo.index.commit(message)
+    actor = git.Actor(AGENT_GIT_NAME, AGENT_GIT_EMAIL)
+    commit = repo.index.commit(message, author=actor, committer=actor)
     logger.info("커밋 완료: %s — %s", commit.hexsha[:8], message)
     return commit.hexsha
