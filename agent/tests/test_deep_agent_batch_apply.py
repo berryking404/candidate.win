@@ -10,6 +10,7 @@ from pathlib import Path
 
 AGENT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(AGENT_ROOT))
+import yaml
 
 if "yaml" not in sys.modules:
     def _safe_load(text: str):
