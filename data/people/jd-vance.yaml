@@ -1,0 +1,17 @@
+slug: jd-vance
+name_ko: J.D. 밴스
+name_en: JD Vance
+party: 공화당
+role: 미국 부통령
+status: curated
+aliases:
+- JD 밴스
+- 제이디 밴스
+discovered_via_issue: people-ssot-curation-2026
+discovered_at: '2026-06-01'
+sources:
+  news_keywords:
+  - J.D. 밴스
+  official_urls:
+  - https://www.whitehouse.gov
+  youtube_channels: []

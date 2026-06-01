@@ -1,8 +1,8 @@
 ---
 title: 송미령
 slug: song-mi-ryeong
+status: curated
 role: 농식품부 장관
-status: stub
 ---
 
 ## 행적

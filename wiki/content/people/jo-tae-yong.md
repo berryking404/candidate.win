@@ -1,8 +1,8 @@
 ---
 title: 조태용
 slug: jo-tae-yong
+status: curated
 role: 전 국가정보원장
-status: stub
 ---
 
 ## 행적

@@ -1,8 +1,8 @@
 ---
 title: 주진우
 slug: ju-jin-u
+status: curated
 role: 국민의힘 의원
-status: stub
 ---
 
 ## 행적

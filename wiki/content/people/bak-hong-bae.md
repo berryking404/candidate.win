@@ -1,7 +1,9 @@
 ---
 title: 박홍배
 slug: bak-hong-bae
-status: stub
+status: curated
+role: 제22대 국회의원
+party: 더불어민주당
 ---
 
 ## 행적

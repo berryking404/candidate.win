@@ -3,7 +3,7 @@ name_ko: 김현
 name_en: null
 party: null
 role: 국회의원
-status: stub
+status: curated
 aliases:
 - 김현 의원
 discovered_via_issue: starbucks-tank-day-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김현
   youtube_channels: []
+  official_urls:
+  - https://www.assembly.go.kr

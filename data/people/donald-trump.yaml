@@ -1,0 +1,17 @@
+slug: donald-trump
+name_ko: 도널드 트럼프
+name_en: Donald Trump
+party: 공화당
+role: 미국 대통령
+status: curated
+aliases:
+- 트럼프
+- 도널드 트럼프 대통령
+discovered_via_issue: people-ssot-curation-2026
+discovered_at: '2026-06-01'
+sources:
+  news_keywords:
+  - 도널드 트럼프
+  official_urls:
+  - https://www.whitehouse.gov
+  youtube_channels: []

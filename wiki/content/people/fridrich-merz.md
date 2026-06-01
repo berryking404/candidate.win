@@ -1,7 +1,9 @@
 ---
 title: 프리드리히 메르츠
 slug: fridrich-merz
-status: stub
+status: curated
+role: 독일 총리
+party: 기민련(CDU)
 ---
 
 ## 행적

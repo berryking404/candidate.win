@@ -1,7 +1,9 @@
 ---
 title: J.D. 밴스
 slug: jd-vance
-status: stub
+status: curated
+role: 미국 부통령
+party: 공화당
 ---
 
 ## 행적

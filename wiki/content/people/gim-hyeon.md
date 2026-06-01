@@ -1,8 +1,8 @@
 ---
 title: 김현
 slug: gim-hyeon
+status: curated
 role: 국회의원
-status: stub
 ---
 
 ## 행적

@@ -1,8 +1,8 @@
 ---
 title: 박정임
 slug: bak-jeong-im
+status: curated
 role: 후보
-status: stub
 ---
 
 ## 행적

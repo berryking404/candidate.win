@@ -1,8 +1,8 @@
 ---
 title: 박윤주
 slug: bak-yun-ju
+status: curated
 role: 외교부 1차관
-status: stub
 ---
 
 ## 행적

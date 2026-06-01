@@ -1,7 +1,9 @@
 ---
 title: 마코 루비오
 slug: marco-rubio
-status: stub
+status: curated
+role: 미국 국무장관
+party: 공화당
 ---
 
 ## 행적

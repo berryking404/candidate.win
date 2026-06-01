@@ -1,8 +1,8 @@
 ---
 title: 장길선
 slug: jang-gil-seon
+status: curated
 role: 구례군수 후보
-status: stub
 ---
 
 ## 행적

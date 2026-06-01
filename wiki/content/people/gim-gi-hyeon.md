@@ -1,7 +1,9 @@
 ---
 title: 김기현
 slug: gim-gi-hyeon
-status: stub
+status: curated
+role: 제22대 국회의원
+party: 국민의힘
 ---
 
 ## 행적

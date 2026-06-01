@@ -1,8 +1,8 @@
 ---
 title: 안성식
 slug: an-seong-sik
+status: curated
 role: 전 해양경찰청 기획조정관
-status: stub
 ---
 
 ## 행적

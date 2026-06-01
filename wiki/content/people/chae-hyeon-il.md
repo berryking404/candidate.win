@@ -1,7 +1,8 @@
 ---
-title: KB국민은행
-slug: kb-gukmin-eunhaeng
-status: stub
+title: 채현일
+slug: chae-hyeon-il
+status: curated
+role: 국회의원
 ---
 
 ## 행적

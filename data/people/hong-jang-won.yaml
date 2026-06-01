@@ -3,7 +3,7 @@ name_ko: 홍장원
 name_en: null
 party: null
 role: 전 국가정보원 1차장
-status: stub
+status: curated
 aliases:
 - Hong Jang-won
 discovered_via_issue: martial-law-incident-2025
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 홍장원
   youtube_channels: []
+  official_urls:
+  - https://www.go.kr

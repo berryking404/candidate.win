@@ -1,7 +1,8 @@
 ---
 title: 빅터 차
 slug: bik-teo-cha
-status: stub
+status: curated
+role: CSIS 한국석좌
 ---
 
 ## 행적

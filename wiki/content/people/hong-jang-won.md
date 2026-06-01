@@ -1,8 +1,8 @@
 ---
 title: 홍장원
 slug: hong-jang-won
+status: curated
 role: 전 국가정보원 1차장
-status: stub
 ---
 
 ## 행적

@@ -3,7 +3,7 @@ name_ko: 장길선
 name_en: null
 party: null
 role: 구례군수 후보
-status: stub
+status: curated
 aliases:
 - 장길선
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 장길선
   youtube_channels: []
+  official_urls:
+  - https://www.go.kr

@@ -1,8 +1,8 @@
 ---
 title: 박대근
 slug: bak-dae-geun
+status: curated
 role: 경기도 환경보건안전과장
-status: stub
 ---
 
 ## 행적

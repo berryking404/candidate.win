@@ -1,7 +1,8 @@
 ---
 title: 임태희
 slug: im-taehee
-status: stub
+status: curated
+role: 경기도교육감
 ---
 
 ## 행적

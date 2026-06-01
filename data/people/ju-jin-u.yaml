@@ -3,7 +3,7 @@ name_ko: 주진우
 name_en: null
 party: null
 role: 국민의힘 의원
-status: stub
+status: curated
 aliases:
 - 주진우
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 주진우
   youtube_channels: []
+  official_urls:
+  - https://www.assembly.go.kr

@@ -1,7 +1,8 @@
 ---
 title: 조셉 윤
 slug: joseph-yun
-status: stub
+status: curated
+role: 주한 미국대사대리
 ---
 
 ## 행적

@@ -1,7 +1,8 @@
 ---
 title: 최교진
 slug: choi-gyojin
-status: stub
+status: curated
+role: 세종특별자치시교육감
 ---
 
 ## 행적
