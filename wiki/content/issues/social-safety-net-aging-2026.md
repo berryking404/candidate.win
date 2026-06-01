@@ -20,5 +20,4 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [민형배](/people/min-hyeong-bae) — **지지**: 예산의 일부를 사회안전망에 배분해 성장의 과실이 시민의 생애 소득으로 환원되는 체계를 만들겠다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260429148300054?input=1195m)
 - [정준영](/people/jeong-jun-yeong) — **지지**: 지역 경제 활성화와 사회안전망 구축을 위한 행복 일자리 공약을 발표했다. [출처](http://www.chungnamilbo.co.kr/news/articleView.html?idxno=886448)
 - [박대근](/people/bak-dae-geun) — **지지**: 폭염·감염병 등 기후위험이 일상화된 상황에서 도민 건강을 지키기 위한 사회안전망 역할이 더 중요하다고 강조했다. [출처](http://www.kgnews.co.kr/news/article.html?no=898068)
-- [미상](/people/candidate-unknown) — **혼합**: 통합돌봄, 사회안전망 강화, 건강보험 재정 안정화와 어르신 약물관리 강화가 함께 언급됐다. [출처](https://www.newsis.com/view/NISX20260601_0003652572)
 <!-- /agent:stances -->

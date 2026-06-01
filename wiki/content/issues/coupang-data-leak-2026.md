@@ -24,5 +24,4 @@ summary: 쿠팡 대규모 개인정보 유출과 정부·정치권·시민사회
 - [정동헌](/people/jeong-dong-heon) — **지지**: 쿠팡의 노동자 개인정보 남용과 블랙리스트 의혹에 대한 철저한 조사와 처분을 요구했다. [출처](http://worknworld.kctu.org/news/articleView.html?idxno=509162)
 - [주병기](/people/ju-byeong-gi) — **중립**: 쿠팡 청문회에서 공정위 차원의 집단소송제 필요성을 언급했다. [출처](http://www.dailian.co.kr/news/view/1649739/?sc=Naver)
 - [이용우](/people/i-yong-u) — **지지**: 미국 기업도 FTA에 따라 동일하게 대우받아야 한다며 쿠팡 조사 필요성을 강조했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3568274)
-- [박정보](/people/park-jungbo) — **중립**: 쿠팡 개인정보 유출 사건에 대해 경찰 수사가 진행 중이며, “지금도 필요한 수사를 진행 중”이라고 밝혔다. [출처](https://www.newsis.com/view/NISX20260601_0003651760)
 <!-- /agent:stances -->

@@ -53,11 +53,5 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [양영식](/people/yang-yeong-sik) — **지지**: 골목형상점가 확대와 체감형 지원을 통해 소규모 상권 회복을 추진하겠다고 밝혔다. [출처](https://www.newsjeju.net/news/articleView.html?idxno=421548)
 - [이병래](/people/i-byeong-rae) — **지지**: 전통시장 현대화, 주차환경 개선, 골목상권 지원 정책으로 모래내시장 회복을 약속했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3597911)
 - [한금석](/people/han-geum-seok) — **미확인**: 제시된 발언만으로는 이슈에 대한 찬반을 단정하기 어려웠다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8575256&ref=A)
-- [문성유](/people/moon-seong-yu) — **지지**: 소상공인과 자영업자 지원 확대, 지역 소비 활성화 정책 추진을 공약으로 제시했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3598081)
-- [공한수](/people/gong-han-su) — **지지**: 소상공인 보증료 지원 사업 확대와 착한가격업소 지원, 전통시장 시설 현대화를 지속 추진하겠다고 밝혔다. [출처](http://www.paxetv.com/news/articleView.html?idxno=273626)
-- [서국보](/people/seo-guk-bo) — **지지**: 소상공인 경영 지원과 온라인 판로 확대, 시설 현대화로 지역 상권에 활력을 불어넣겠다고 말했다. [출처](http://www.paxetv.com/news/articleView.html?idxno=273628)
-- [육동한](/people/yug-dong-han) — **지지**: 골목상권 활성화와 생활권 기반 시민 접점을 확대하며 민생 유세를 이어갔다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3598047)
-- [고호근](/people/go-ho-geun) — **지지**: 스타필드 입점을 통해 구도심 상권과 지역 경제가 함께 살아나야 한다고 말했다. [출처](https://www.usmbc.co.kr/NewsArticle/843451)
 - [이재준](/people/i-jae-jun) — **지지**: 재건축·재개발 기간 단축, 전통시장·주거지 공영주차장 확충으로 상권과 생활 인프라를 함께 개선하겠다고 밝혔다. [출처](https://www.thereport.co.kr/news/articleView.html?idxno=88382)
-- [이장우](/people/i-jang-u) — **지지**: 전통시장 현장 유세에서 지역 발전과 상권 회복 메시지를 내놨다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8575312&ref=A)
 <!-- /agent:stances -->
