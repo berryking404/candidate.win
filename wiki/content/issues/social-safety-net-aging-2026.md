@@ -9,7 +9,6 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 ## 인물별 입장
 
 <!-- agent:stances -->
-
 - [김용범](/people/gim-yong-beom) — **지지**: AI 국민배당금 논의에서 초과 세수를 사회 안전망 강화에 활용하자는 방향을 제안했다. [출처](https://www.newsfreezone.co.kr/news/articleView.html?idxno=689385)
 - [정원오](/people/jeong-won-o) — **지지**: 시니어 건강돌봄체계 공약으로 방문진료와 장기요양 사각지대 보완을 제시했다. [출처](https://news.tf.co.kr/read/life/2321927.htm)
 - [유정복](/people/yu-jeong-bok) — **지지**: 인천시의사회가 제안한 인천형 통합돌봄 의료체계 구축과 공공의료 협력 강화 의견을 정책에 반영해야 한다고 밝혔다. [출처](https://www.ppss.kr/news/articleView.html?idxno=297030)
