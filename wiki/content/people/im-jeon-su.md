@@ -9,6 +9,7 @@ party: 무소속
 ## 행적
 
 <!-- agent:events -->
+- 2026-05-12: 세종시교육감 진보 진영 단일화 경선에서 승리해 단일후보로 확정됐다. [출처](https://www.yna.co.kr/view/AKR20260512062000063?input=1195m)
 <!-- /agent:events -->
 
 ## 이슈별 입장
