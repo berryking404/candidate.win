@@ -15,7 +15,6 @@ party: 더불어민주당
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
 - [쿠팡 고객 개인정보 대규모 유출 사고와 정부 대응 (2026)](/issues/coupang-data-leak-2026) — **미확인**: 쿠팡 개인정보 유출이 한미 간 안보 협상에 영향을 주고 있다고 언급했다. [출처](https://www.businesspost.co.kr/BP?command=article_view&num=436564)
 - [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **지지**: 미국의 해양자유구상(MFC)과 프로젝트 프리덤을 검토하고 항행의 자유 보장을 위한 한국의 기여 가능성을 언급했다. [출처](https://www.yna.co.kr/view/AKR20260513111651001?input=1195m)
 - [한미 정보공유 중단 및 정동영 통일부 장관 해임 결의안 논란 (2026)](/issues/us-intel-sharing-crisis-2026) — **중립**: 미국의 대북 정보 공유 제한을 완화하려 노력 중이라고 밝혔고, 전반적 정보 교류에는 큰 문제가 없다는 취지로 말했다. [출처](https://www.yna.co.kr/view/AKR20260513156400001?input=1195m)
