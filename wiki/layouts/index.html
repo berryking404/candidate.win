@@ -24,6 +24,7 @@
   <a class="card" href="{{ .Permalink }}">
     <h3>{{ .Title }}
       {{- if eq .Params.status "active" }} <span class="badge badge-active">진행 중</span>{{ end }}
+      {{- if eq .Params.status "closed" }} <span class="badge badge-closed">종료</span>{{ end }}
     </h3>
     {{- with .Params.summary }}<p>{{ . | truncate 70 }}</p>{{ end }}
   </a>
