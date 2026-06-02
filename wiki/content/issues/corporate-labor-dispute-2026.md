@@ -29,4 +29,8 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [노태문](/people/no-tae-mun) — **반대**: 임직원들에게 미래 경쟁력 훼손을 막기 위해 임금협상을 신중히 해달라고 당부했다. [출처](https://woman.chosun.com/news/articleView.html?idxno=125788)
 - [김영훈](/people/gim-yeong-hun) — **중립**: 고용노동부 장관은 반도체 초과이익의 사회적 재분배 필요성을 언급하며 노사 갈등 중재에 나섰다. [출처](https://www.mk.co.kr/article/12062350)
 - [이재용](/people/i-jae-yong) — **중립**: 삼성전자 노사 갈등이 총파업 직전까지 치달았을 때 직접 교섭을 주선해 타결을 이끌었다. [출처](https://www.mk.co.kr/article/12062350)
+- [삼성전자 노동조합](/people/samsung-electronics-union) — **지지**: 파업과 성과급 요구를 통해 영업이익 연동 보상 체계를 관철하려는 흐름이 확인된다. [출처](https://www.donga.com/news/Opinion/article/all/20260602/134039396/2)
+- [삼성전자](/people/samsung-electronics) — **반대**: 노조의 파업 위협과 성과급 요구가 기업 부담과 투자 위축 논란으로 이어지고 있다. [출처](https://www.chosun.com/opinion/chosun_column/2026/06/02/X6PDGPMXEFAONG7TVH66NNOF7A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
+- [SK하이닉스](/people/sk-hynix) — **중립**: 성과급 현금 지급 사례가 업계 비교 기준으로 거론되며 삼성전자 노사 갈등의 배경 문맥에 등장한다. [출처](https://www.donga.com/news/Opinion/article/all/20260602/134039396/2)
+- [금속노조 한국지엠지부](/people/korean-gm-metal-union-branch) — **중립**: 다른 제조업 노조의 임단협 교섭 맥락에서 삼성전자·SK하이닉스발 성과급 요구 확산이 언급된다. [출처](https://www.ulsanpress.net/news/articleView.html?idxno=576378)
 <!-- /agent:stances -->
