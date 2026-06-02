@@ -25,4 +25,11 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [김승준](/people/gim-seung-jun) — **지지**: 농어촌 초고령화에 대응한 응급 안전망 구축 필요성을 강조했다. [출처](https://www.jejusori.net/news/articleView.html?idxno=503586)
 - [조유진](/people/jo-yu-jin) — **지지**: 아동을 위한 더 넓은 사회적 안전망으로 기부 문화가 이어지길 기대한다고 말했다. [출처](https://www.busan.com/view/busan/view.php?code=2026060217555175841)
 - [현기종](/people/hyeon-gi-jong) — **지지**: 해녀 공동체와 어촌 지역의 빠른 고령화에 대응하는 생명안전망 구축을 약속했다. [출처](https://www.headlinejeju.co.kr/news/articleView.html?idxno=593859)
+- [김영근](/people/gim-yeong-geun) — **지지**: 초고령화 사회와 지역소멸에 대응하려면 지방정부가 안전사회 구축의 중심이 되어야 한다고 강조했다. [출처](https://www.mediafine.co.kr/news/articleView.html?idxno=80139)
+- [박수현](/people/bak-su-hyeon) — **지지**: 고독사 예방 돌봄 서비스와 여성농업인 행복바우처 등 생활밀착 복지 공약을 제시했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3599106)
+- [천영미](/people/cheon-yeong-mi) — **지지**: AI 기반 스마트 복지 시스템과 안산형 통합돌봄체계 구축을 약속했다. [출처](https://www.newsclaim.co.kr/news/view?idxno=3065403)
+- [민경선](/people/min-gyeong-seon) — **지지**: 어르신 통합 돌봄 모델도시 조성을 핵심 공약으로 내세웠다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3599091)
+- [이상현](/people/i-sang-hyeon) — **지지**: 지역사회 통합돌봄과 일차의료 시범사업을 연결해 고령 환자 돌봄을 강화해야 한다고 기고했다. [출처](https://www.donga.com/news/Opinion/article/all/20260602/134039073/2)
+- [신장열](/people/sin-jang-yeol) — **지지**: 울산형 통합돌봄 품질관리 사업을 본격 추진해 누구나 지역사회 안에서 돌봄을 받을 수 있게 하겠다고 밝혔다. [출처](https://www.ulsanpress.net/news/articleView.html?idxno=576375)
+- [김용태](/people/gim-yong-tae) — **지지**: 초고령사회 대응을 위한 AI 기반 스마트 경로당과 통합복지체계 마련을 공약했다. [출처](https://www.ekn.kr/web/view.php?key=20260602023390177)
 <!-- /agent:stances -->
