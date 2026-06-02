@@ -28,4 +28,5 @@ party: 더불어민주당
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **지지**: 윤석열 탄핵과 특검 수사를 정당한 책임 추궁으로 보며, 탄핵당한 세력을 강하게 비판했다. [출처](https://www.mt.co.kr/politics/2026/05/28/2026052808291390331)
 - [윤석열 정부 10.23 비상계엄 선포 및 해제 사태 (2025)](/issues/martial-law-incident-2025) — **반대**: 비상계엄과 윤석열 정부를 강하게 비판하며 민주주의 회복을 강조했다. [출처](https://www.news1.kr/politics/assembly/6163895)
 - [스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)](/issues/starbucks-tank-day-2026) — **반대**: 스타벅스 논란을 선거에 적극 활용하며 강하게 비판했다. [출처](https://www.hankookilbo.com/news/article/A2026060114220005071?did=NA)
+- [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **혼합**: 지방선거 공천과 선거 전략을 주도했지만, 전북지사·대구시장 공천 논란의 책임론도 함께 거론됐다. [출처](https://www.sisaweek.com/news/articleView.html?idxno=235884)
 <!-- /agent:stances -->
