@@ -7,6 +7,8 @@
       {{- .Title }}
       {{- with .Params.status }}
         {{- if eq . "stub" }} <span class="badge badge-stub">검수 대기</span>{{ end }}
+        {{- if eq . "active" }} <span class="badge badge-active">진행 중</span>{{ end }}
+        {{- if eq . "closed" }} <span class="badge badge-closed">종료</span>{{ end }}
       {{- end }}
     </h3>
     {{- with .Params.party }}<p>{{ . }}{{ with $.Params.role }} · {{ . }}{{ end }}</p>{{ end }}

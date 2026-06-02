@@ -2,7 +2,7 @@
   {{ .Title }}
   {{- with .Params.status }}
     {{- if eq . "active" }} <span class="badge badge-active">진행 중</span>{{ end }}
-    {{- if eq . "closed" }} <span class="badge" style="background:#eee;color:#666;border:1px solid #ccc;">종료</span>{{ end }}
+    {{- if eq . "closed" }} <span class="badge badge-closed">종료</span>{{ end }}
   {{- end }}
 </h1>
 <p class="meta">
