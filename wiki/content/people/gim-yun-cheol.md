@@ -2,7 +2,8 @@
 title: 김윤철
 slug: gim-yun-cheol
 role: 현직 무소속 후보
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

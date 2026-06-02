@@ -1,8 +1,8 @@
 ---
-title: 박종진
-slug: bak-jong-jin
-role: 후보
+title: 최민희
+slug: choe-min-hui
 status: curated
+role: 국회의원
 party: null
 ---
 

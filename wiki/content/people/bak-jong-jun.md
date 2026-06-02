@@ -2,7 +2,8 @@
 title: 박종준
 slug: bak-jong-jun
 role: 전 대통령경호처장
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

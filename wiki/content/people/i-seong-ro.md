@@ -2,7 +2,8 @@
 title: 이성로
 slug: i-seong-ro
 role: 무소속 후보
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

@@ -2,7 +2,8 @@
 title: 류순철
 slug: ryu-sun-cheol
 role: 국민의힘 후보
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

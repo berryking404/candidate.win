@@ -2,7 +2,8 @@
 title: 조지훈
 slug: jo-ji-hun
 role: 후보
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

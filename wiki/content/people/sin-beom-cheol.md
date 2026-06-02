@@ -2,7 +2,8 @@
 title: 신범철
 slug: sin-beom-cheol
 role: 전 국방부 차관
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

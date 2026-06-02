@@ -2,7 +2,8 @@
 title: 전규호
 slug: jeon-gyu-ho
 role: 후보
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

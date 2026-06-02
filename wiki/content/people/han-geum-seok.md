@@ -2,7 +2,8 @@
 title: 한금석
 slug: han-geum-seok
 role: 후보
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

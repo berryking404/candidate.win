@@ -2,7 +2,8 @@
 title: 정진완
 slug: jeong-jin-wan
 role: 우리은행장
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

@@ -2,7 +2,8 @@
 title: 박승원
 slug: bak-seung-won
 role: 후보
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

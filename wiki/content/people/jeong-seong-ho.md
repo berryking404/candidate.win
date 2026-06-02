@@ -2,7 +2,8 @@
 title: 정성호
 slug: jeong-seong-ho
 role: 법무부 장관
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

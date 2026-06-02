@@ -2,7 +2,8 @@
 title: 전상욱
 slug: jeon-sang-uk
 role: 군수권한대행
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

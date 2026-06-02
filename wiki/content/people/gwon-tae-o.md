@@ -2,7 +2,8 @@
 title: 권태오
 slug: gwon-tae-o
 role: 장군
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

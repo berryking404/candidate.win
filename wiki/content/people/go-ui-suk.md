@@ -1,8 +1,8 @@
 ---
-title: 박종진
-slug: bak-jong-jin
-role: 후보
+title: 고의숙
+slug: go-ui-suk
 status: curated
+role: 제주특별자치도교육감 후보
 party: null
 ---
 

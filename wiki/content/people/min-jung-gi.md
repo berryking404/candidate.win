@@ -2,7 +2,8 @@
 title: 민중기
 slug: min-jung-gi
 role: 김건희 특검팀 특별검사
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

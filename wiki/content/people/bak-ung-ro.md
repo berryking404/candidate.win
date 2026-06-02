@@ -2,7 +2,8 @@
 title: 박웅로
 slug: bak-ung-ro
 role: 혁신당 후보
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

@@ -2,7 +2,8 @@
 title: 이상일
 slug: i-sang-il
 role: 용인시장후보
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

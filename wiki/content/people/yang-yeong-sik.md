@@ -2,7 +2,8 @@
 title: 양영식
 slug: yang-yeong-sik
 role: 후보
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

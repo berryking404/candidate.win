@@ -2,7 +2,8 @@
 title: 김종훈
 slug: gim-jong-hun
 role: 진보당 후보
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

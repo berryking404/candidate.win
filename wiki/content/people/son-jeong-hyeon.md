@@ -1,8 +1,8 @@
 ---
-title: 박종진
-slug: bak-jong-jin
-role: 후보
+title: 손정현
+slug: son-jeong-hyeon
 status: curated
+role: 스타벅스코리아 대표
 party: null
 ---
 

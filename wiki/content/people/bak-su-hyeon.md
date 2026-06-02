@@ -2,7 +2,8 @@
 title: 박수현
 slug: bak-su-hyeon
 role: 충남 지역 발전 공약 제안 후보
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적

@@ -2,7 +2,8 @@
 title: 김민영
 slug: gim-min-yeong
 role: 시장 후보
-status: stub
+status: curated
+party: null
 ---
 
 ## 행적
