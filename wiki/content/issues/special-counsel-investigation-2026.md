@@ -25,4 +25,6 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [임기훈](/people/im-gi-hun) — **중립**: 채상병 특검 조사에 출석해 사실관계를 밝히는 취지의 진술을 했다. [출처](https://www.ytn.co.kr/_ln/0103_202605271803206721)
 - [장동혁](/people/jang-dong-hyeok) — **중립**: 투표지 논란을 두고 대통령의 선거 중립 의무 위반을 거론하며 탄핵 사유라고 주장했다. [출처](https://news.jtbc.co.kr/article/NB12300682?influxDiv=NAVER)
 - [송언석](/people/song-eon-seok) — **중립**: 서울시 압수수색을 '청와대 선거개입 시즌2'로 규정하며 관권선거 의혹을 제기했다. [출처](https://www.news1.kr/politics/assembly/6181506)
+- [박민식](/people/bak-min-sik) — **반대**: 윤석열 탄핵 반대 집회와 노숙농성에 참여한 것으로 보도됐다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003239674&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
+- [이용](/people/i-yong) — **반대**: 윤 전 대통령 체포 저지에 나선 행보가 보도됐다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003239674&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 <!-- /agent:stances -->
