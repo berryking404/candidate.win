@@ -19,11 +19,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [이준석](/people/i-jun-seok) — **혼합**: 혐오 정치를 퍼뜨린다는 비판과 함께 갈라치기 정치 논쟁의 중심 인물로 거론됐다. [출처](https://biz.heraldcorp.com/article/10758844?ref=naver)
 - [현근택](/people/hyeon-geun-taek) — **지지**: 성평등 정책 필요성에 공감한다고 보도됐다. [출처](https://www.chungnamilbo.co.kr/news/articleView.html?idxno=665020)
 - [이상일](/people/i-sang-il) — **지지**: 성평등 정책 필요성에 공감한다고 보도됐다. [출처](https://www.chungnamilbo.co.kr/news/articleView.html?idxno=665020)
-- [정근식](/people/jeong-geun-sik) — **지지**: 교육 현장에서 혐오와 갈등을 줄이는 방향의 선거 메시지를 내며 성평등·갈등 완화 기조를 강조했다. [출처](http://www.babytimes.co.kr/news/articleView.html?idxno=73161)
-- [정경자](/people/jeong-gyeong-ja) — **반대**: 성차별·여성폭력·딥페이크 없는 안전한 서울과 평등한 일터를 공약으로 내세워 젠더 차별 문제 해결을 강조했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=04359126645477784&returntp=election)
-- [권영국](/people/gwon-yeong-guk) — **지지**: 지역 성평등 정책과 혐오 대응 공약을 내세웠다. [출처](https://www.hani.co.kr/arti/opinion/column/1261593.html)
-- [유지혜](/people/yu-ji-hye) — **지지**: 생활동반자 등 다양한 가족·공동체를 포괄하는 성평등 정책을 제시했다. [출처](https://www.hani.co.kr/arti/opinion/column/1261593.html)
-- [강기윤](/people/gang-gi-yun) — **혼합**: 후보 측 공방에서 혐오·불신 프레임을 둘러싼 갈등의 당사자로 언급됐으나 젠더 이슈에 대한 직접 입장은 확인되지 않았다. [출처](https://www.nocutnews.co.kr/news/6526212?utm_source=naver&utm_medium=article&utm_campaign=20260601112812)
-- [송순호](/people/song-sun-ho) — **혼합**: 후보 측 공방에서 혐오·불신 프레임을 둘러싼 갈등의 당사자로 언급됐으나 젠더 이슈에 대한 직접 입장은 확인되지 않았다. [출처](https://www.nocutnews.co.kr/news/6526212?utm_source=naver&utm_medium=article&utm_campaign=20260601112812)
-- [정문성](/people/jeong-mun-seong) — **중립**: 드라마 홍보 발언에서 여성 관객 반응을 언급했을 뿐 젠더 갈등에 대한 입장은 드러나지 않았다. [출처](https://www.news1.kr/entertain/interview/6184943)
+- [정근식](/people/jeong-geun-sik) — **반대**: 교육 현장에서 혐오와 갈등을 줄이는 방향의 선거 메시지를 내며 성평등·갈등 완화 기조를 강조했다. [출처](http://www.babytimes.co.kr/news/articleView.html?idxno=73161)
 <!-- /agent:stances -->
