@@ -24,4 +24,5 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [김경수](/people/gim-gyeong-su) — **중립**: 김해를 전력반도체·바이오 의생명·청년창업특구 중심으로 키우는 청년 일자리·첨단산업 구상을 제시했지만, 이 이슈의 정책에 대한 직접적 찬반 표명은 확인되지 않았다. [출처](https://www.mk.co.kr/article/12035054)
 - [민형배](/people/min-hyeong-bae) — **지지**: 항공우주 및 바이오 R&D 산업 육성을 통해 청년 일자리를 창출하겠다고 밝혔다. [출처](https://www.mhns.co.kr/news/articleView.html?idxno=748997)
 - [고의숙](/people/go-ui-suk) — **지지**: 청년과 학생을 연결하는 제주형 교육일자리 정책을 추진하겠다고 밝혔다. [출처](http://www.fnnews.com/news/202606012031086740)
+- [추미애](/people/chu-mi-ae) — **지지**: 세계적 반도체 인재 유치와 국내 인재 정착을 위한 환경 조성에 즉각 뒷받침하겠다고 밝혔다. [출처](https://www.incheonilbo.com/news/articleView.html?idxno=1324293)
 <!-- /agent:stances -->

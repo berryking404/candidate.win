@@ -20,4 +20,5 @@ party: 더불어민주당
 - [지역 상권 회복과 소상공인 지원 (2026)](/issues/local-commerce-recovery-2026) — **지지**: 선대위 소상공인본부장 활동을 통해 소상공인 지원 기조를 드러냈다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8559527&ref=A)
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **지지**: 조작기소 특검법을 사법 정의 회복 문제라고 규정하며 특검 추진을 옹호했다. [출처](https://www.mt.co.kr/politics/2026/05/13/2026051309111312845)
 - [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **지지**: 수도권 30분 출근 대전환을 1호 공약으로 제시해 수도권 교통·생활권 재편을 강조했다. [출처](https://www.topstarnews.net/news/articleView.html?idxno=16070032)
+- [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 세계적 반도체 인재 유치와 국내 인재 정착을 위한 환경 조성에 즉각 뒷받침하겠다고 밝혔다. [출처](https://www.incheonilbo.com/news/articleView.html?idxno=1324293)
 <!-- /agent:stances -->
