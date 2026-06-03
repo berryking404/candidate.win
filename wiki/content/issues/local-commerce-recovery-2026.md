@@ -65,4 +65,6 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [강은미](/people/gang-eun-mi) — **지지**: 통합지원금과 소상공인 지원이 포함된 지역경제 활성화 메시지를 냈다. [출처](http://www.jndn.com/article.php?aid=1780391963433608001)
 - [김성범](/people/gim-seong-beom) — **지지**: 서민의 삶과 골목상권, 농가를 함께 돌보는 민생정치를 약속했다. [출처](http://www.samdailbo.com/news/articleView.html?idxno=265367)
 - [우상호](/people/u-sang-ho) — **지지**: 청년 지원과 지역 발전 구상을 내세웠고, 시장 방문을 통해 지역경제 회복 메시지를 전했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8576198&ref=A)
+- [김용덕](/people/kim-yongdeok) — **지지**: 여수지역 소상공인의 매출 감소와 폐업 확산에 대응해 지원방안 마련과 지원제도 홍보에 나서겠다고 밝혔다. [출처](http://www.jndn.com/article.php?aid=1780480746433688004)
+- [김이강](/people/kimyikang) — **지지**: 서구를 소상공인특구로 조성해 골목경제를 강화하겠다고 밝혔다. [출처](https://www.news1.kr/local/gwangju-jeonnam/6185934)
 <!-- /agent:stances -->
