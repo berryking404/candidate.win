@@ -8,7 +8,7 @@ status: curated
 ## 행적
 
 <!-- agent:events -->
-- 2026-05-29: 삼성전자 초기업노조 위원장으로 조합원 사기진작 방안 마련과 후속 교섭 필요성을 공개적으로 요구했다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260529191004tDN)
+- 2026-06-03: 삼성전자 초기업노조 위원장으로서 DS·DX 분리 불만과 성과급 제도 개선 요구를 이어갔다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008592666&plink=ORI&cooper=NAVER)
 <!-- /agent:events -->
 
 ## 이슈별 입장
