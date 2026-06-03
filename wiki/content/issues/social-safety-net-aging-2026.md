@@ -34,4 +34,11 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [정명근](/people/jeongmyeonggeun) — **지지**: 어르신 무상급식·생리대 무상공급 등 생활밀착형 복지 정책을 제시했다. [출처](https://www.wikitree.co.kr/articles/1139542)
 - [강명구](/people/kangmyeonggu) — **지지**: 저출생·고령화로 돌봄 수요가 빠르게 증가한다며 사회복지종사자 지원 필요성을 강조했다. [출처](https://www.wikitree.co.kr/articles/1139542)
 - [이재명](/people/leejaemyung) — **지지**: 요양병원 간병비에 건강보험을 적용하고 대상 확대를 추진하겠다고 했다. [출처](https://www.kukinews.com/article/view/kuk202606020169)
+- [이철우](/people/i-cheol-u) — **혼합**: 사회안전망 확보를 전제로 한 고용 유연성 확대와 연금개혁을 언급해 복지 안전망을 전제한 구조개혁에 우호적이었다. [출처](https://www.dt.co.kr/article/12065751?ref=naver)
+- [오태완](/people/o-tae-wan) — **중립**: 영유아부터 노년까지 전 생애 돌봄·복지 체계를 언급하며 사회안전망 강화 방향을 제시했다. [출처](https://www.newspim.com/news/view/20260603000621)
+- [김이강](/people/gim-i-gang) — **지지**: 서구형 통합돌봄 모델을 전국으로 확대한 사례가 소개돼 공공 돌봄과 안전망 강화에 우호적인 행보를 보였다. [출처](https://www.newsis.com/view/NISX20260603_0003655157)
+- [이재영](/people/i-jae-yeong) — **지지**: 돌봄·주거·복지·일자리까지 아우르는 스마트 콤팩트도시 구상을 내세워 사회안전망 확충에 우호적이었다. [출처](https://www.yna.co.kr/view/AKR20260603102600064?input=1195m)
+- [우승희](/people/u-seung-hui) — **지지**: 통합돌봄 전국화와 공공은행, 청년·교통 지원을 공약으로 제시해 복지·안전망 확대에 명확히 우호적이었다. [출처](https://www.newsis.com/view/NISX20260603_0003655054)
+- [송인헌](/people/song-in-heon) — **지지**: 노인복지 확대와 청년 정착 기반 조성을 군정 과제로 제시해 고령화 대응과 복지 강화에 우호적이었다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=306429)
+- [조병옥](/people/jo-byeong-ok) — **지지**: 청년 주거지원과 일자리, 노인복지 강화를 함께 약속해 생애주기별 사회안전망 확충에 우호적이었다. [출처](https://www.newsis.com/view/NISX20260603_0003655133)
 <!-- /agent:stances -->
