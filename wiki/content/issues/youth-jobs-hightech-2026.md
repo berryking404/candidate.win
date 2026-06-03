@@ -25,4 +25,9 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [민형배](/people/min-hyeong-bae) — **지지**: 항공우주 및 바이오 R&D 산업 육성을 통해 청년 일자리를 창출하겠다고 밝혔다. [출처](https://www.mhns.co.kr/news/articleView.html?idxno=748997)
 - [고의숙](/people/go-ui-suk) — **지지**: 청년과 학생을 연결하는 제주형 교육일자리 정책을 추진하겠다고 밝혔다. [출처](http://www.fnnews.com/news/202606012031086740)
 - [추미애](/people/chu-mi-ae) — **지지**: 세계적 반도체 인재 유치와 국내 인재 정착을 위한 환경 조성에 즉각 뒷받침하겠다고 밝혔다. [출처](https://www.incheonilbo.com/news/articleView.html?idxno=1324293)
+- [김경수](/people/kim-gyeong-su) — **지지**: 청년 일자리 6만 개 확보와 지역 산업 경쟁력 강화를 핵심 공약으로 제시했다. [출처](https://www.businesspost.co.kr/BP?command=article_view&num=439188)
+- [박완수](/people/park-wan-su) — **지지**: 원전·조선업체 방문을 통해 지역 산업 경쟁력 강화를 강조했다. [출처](https://www.businesspost.co.kr/BP?command=article_view&num=439188)
+- [강훈식](/people/gang-hun-sik) — **지지**: 한-캐나다 첨단산업 협력과 잠수함 수주 지원을 병행하며 산업 협력 확대를 추진했다. [출처](https://www.seoul.co.kr/news/politics/president/2026/06/03/20260603500173?wlog_tag3=naver)
+- [정수인](/people/jeong-su-in) — **중립**: 청년층의 일자리와 주거 문제 해결을 주문했지만 특정 후보나 정책에 대한 찬반은 드러나지 않았다. [출처](https://news.skbroadband.com/news/articleView.html?idxno=228556)
+- [이모](/people/i-mo) — **중립**: 청년 일자리 문제를 해결해줄 후보를 기대한다고 말했을 뿐 구체적 입장은 확인되지 않았다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=0029913681&code=61111111&cp=nv)
 <!-- /agent:stances -->
