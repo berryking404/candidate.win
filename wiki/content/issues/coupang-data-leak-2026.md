@@ -25,6 +25,5 @@ summary: 쿠팡 대규모 개인정보 유출과 정부·정치권·시민사회
 - [주병기](/people/ju-byeong-gi) — **중립**: 쿠팡 청문회에서 공정위 차원의 집단소송제 필요성을 언급했다. [출처](http://www.dailian.co.kr/news/view/1649739/?sc=Naver)
 - [이용우](/people/i-yong-u) — **지지**: 미국 기업도 FTA에 따라 동일하게 대우받아야 한다며 쿠팡 조사 필요성을 강조했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3568274)
 - [정성호](/people/jeong-seong-ho) — **지지**: 쿠팡 개인정보 유출 사태와 관련해 쿠팡 측 대응을 강도 높게 비판하며 정부 규제권의 정당성을 강조했다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260601010009174)
-- [송경희](/people/song-gyeonghui) — **중립**: 개인정보보호위원회가 대규모 개인정보 유출에 대한 제재 강화와 시행령 개정을 추진했다. [출처](https://www.ajunews.com/view/20260603181408751)
-- [이상중](/people/lee-sangjung) — **중립**: 한국인터넷진흥원은 대규모 유출 대응과 제재 기준 논의의 배경으로 함께 언급됐다. [출처](https://www.ajunews.com/view/20260603181408751)
+- [송경희](/people/song-gyeong-hui) — **중립**: 개인정보보호위원회가 대규모 개인정보 유출에 대한 제재 강화와 시행령 개정을 추진했다. [출처](https://www.ajunews.com/view/20260603181408751)
 <!-- /agent:stances -->
