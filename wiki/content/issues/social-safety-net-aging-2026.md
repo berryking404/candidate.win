@@ -27,4 +27,11 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [현기종](/people/hyeon-gi-jong) — **지지**: 해녀 공동체와 어촌 지역의 빠른 고령화에 대응하는 생명안전망 구축을 약속했다. [출처](https://www.headlinejeju.co.kr/news/articleView.html?idxno=593859)
 - [박수현](/people/bak-su-hyeon) — **지지**: 고독사 예방 돌봄 서비스와 여성농업인 행복바우처 등 생활밀착 복지 공약을 제시했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3599106)
 - [김용태](/people/gim-yong-tae) — **지지**: 초고령사회 대응을 위한 AI 기반 스마트 경로당과 통합복지체계 마련을 공약했다. [출처](https://www.ekn.kr/web/view.php?key=20260602023390177)
+- [민형배](/people/mintae) — **지지**: 통합지원금의 20%를 시민의 삶을 지키는 사회안전망 강화에 배분하겠다고 밝혔다. [출처](https://www.nocutnews.co.kr/news/6527315?utm_source=naver&utm_medium=article&utm_campaign=20260603085134)
+- [정완](/people/jeongwan) — **지지**: 노인 빈곤 대책과 기초연금 강화를 촉구하며 사회안전망 확대를 요구했다. [출처](https://www.task-returned.local/summary)
+- [박홍근](/people/parkhonggeun) — **지지**: 첨단산업 투자와 함께 사회안전망에도 투자해야 한다고 밝혔다. [출처](https://biz.heraldcorp.com/article/10762829?ref=naver)
+- [위성곤](/people/wiseonggon) — **지지**: 기본연금과 건강주치의 도입, 사회안전망 강화를 약속했다. [출처](https://www.wikitree.co.kr/articles/1139542)
+- [정명근](/people/jeongmyeonggeun) — **지지**: 어르신 무상급식·생리대 무상공급 등 생활밀착형 복지 정책을 제시했다. [출처](https://www.wikitree.co.kr/articles/1139542)
+- [강명구](/people/kangmyeonggu) — **지지**: 저출생·고령화로 돌봄 수요가 빠르게 증가한다며 사회복지종사자 지원 필요성을 강조했다. [출처](https://www.wikitree.co.kr/articles/1139542)
+- [이재명](/people/leejaemyung) — **지지**: 요양병원 간병비에 건강보험을 적용하고 대상 확대를 추진하겠다고 했다. [출처](https://www.kukinews.com/article/view/kuk202606020169)
 <!-- /agent:stances -->
