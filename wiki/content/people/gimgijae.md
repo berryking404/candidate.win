@@ -1,7 +1,8 @@
 ---
 title: 김기재
 slug: gimgijae
-status: stub
+status: curated
+role: 지역 선거 후보/공적 인물
 ---
 
 ## 행적

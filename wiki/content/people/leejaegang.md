@@ -1,7 +1,8 @@
 ---
 title: 이재강
 slug: leejaegang
-status: stub
+status: curated
+role: 정치인/공적 인물
 ---
 
 ## 행적

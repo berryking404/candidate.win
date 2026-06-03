@@ -1,7 +1,8 @@
 ---
 title: 김영환
 slug: kim-yeonghwan
-status: stub
+status: curated
+role: 충북도지사/공적 인물
 ---
 
 ## 행적

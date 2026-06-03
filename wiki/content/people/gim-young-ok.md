@@ -1,7 +1,8 @@
 ---
 title: 김영욱
 slug: gim-young-ok
-status: stub
+status: curated
+role: 지역 선거 후보/공적 인물
 ---
 
 ## 행적

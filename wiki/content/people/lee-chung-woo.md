@@ -1,7 +1,8 @@
 ---
 title: 이충우
 slug: lee-chung-woo
-status: stub
+status: curated
+role: 여주시장/공적 인물
 ---
 
 ## 행적

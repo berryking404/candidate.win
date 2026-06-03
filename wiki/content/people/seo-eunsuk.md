@@ -1,7 +1,8 @@
 ---
 title: 서은숙
 slug: seo-eunsuk
-status: stub
+status: curated
+role: 정치인/공적 인물
 ---
 
 ## 행적

@@ -1,7 +1,8 @@
 ---
 title: 손인수
 slug: son-in-su
-status: stub
+status: curated
+role: 공공기관/지역 문화 정책 관계자
 ---
 
 ## 행적

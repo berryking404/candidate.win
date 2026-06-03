@@ -1,7 +1,8 @@
 ---
 title: 이용선
 slug: yongseon
-status: stub
+status: curated
+role: 국회의원/공적 인물
 ---
 
 ## 행적

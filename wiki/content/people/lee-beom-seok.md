@@ -1,7 +1,8 @@
 ---
 title: 이범석
 slug: lee-beom-seok
-status: stub
+status: curated
+role: 청주시장/공적 인물
 ---
 
 ## 행적

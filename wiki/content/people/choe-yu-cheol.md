@@ -1,7 +1,8 @@
 ---
 title: 최유철
 slug: choe-yu-cheol
-status: stub
+status: curated
+role: 의성군수/공적 인물
 ---
 
 ## 행적

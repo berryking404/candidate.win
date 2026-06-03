@@ -1,7 +1,8 @@
 ---
 title: 정문헌
 slug: jeongmunheon
-status: stub
+status: curated
+role: 종로구청장/공적 인물
 ---
 
 ## 행적

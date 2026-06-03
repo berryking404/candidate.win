@@ -1,7 +1,8 @@
 ---
 title: 박성필
 slug: bak-seong-pil
-status: stub
+status: curated
+role: 지역 선거 후보/공적 인물
 ---
 
 ## 행적

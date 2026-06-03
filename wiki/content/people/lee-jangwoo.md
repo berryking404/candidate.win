@@ -1,7 +1,8 @@
 ---
 title: 이장우
 slug: lee-jangwoo
-status: stub
+status: curated
+role: 대전시장/공적 인물
 ---
 
 ## 행적

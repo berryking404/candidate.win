@@ -1,7 +1,8 @@
 ---
 title: 정진백
 slug: jeong-jin-baek
-status: stub
+status: curated
+role: 지역 선거 후보/공적 인물
 ---
 
 ## 행적

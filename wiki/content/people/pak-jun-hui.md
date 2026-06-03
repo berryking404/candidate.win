@@ -1,7 +1,8 @@
 ---
 title: 박준희
 slug: pak-jun-hui
-status: stub
+status: curated
+role: 관악구청장/공적 인물
 ---
 
 ## 행적

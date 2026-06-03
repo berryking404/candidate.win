@@ -1,7 +1,8 @@
 ---
 title: 조주홍
 slug: jo-ju-hong
-status: stub
+status: curated
+role: 교육감 후보/공적 인물
 ---
 
 ## 행적

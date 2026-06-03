@@ -1,7 +1,8 @@
 ---
 title: 권영국
 slug: kwon-youngguk
-status: stub
+status: curated
+role: 정치인/공적 인물
 ---
 
 ## 행적

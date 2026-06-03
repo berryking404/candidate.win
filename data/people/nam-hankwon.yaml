@@ -1,0 +1,15 @@
+slug: nam-hankwon
+name_ko: 남한권
+name_en: null
+party: null
+role: 지역 선거 후보/공적 인물
+status: curated
+aliases:
+- 남한권
+- 남한권 후보
+discovered_via_issue: youth-jobs-hightech-2026
+discovered_at: '2026-06-03'
+sources:
+  news_keywords:
+  - 남한권
+  youtube_channels: []

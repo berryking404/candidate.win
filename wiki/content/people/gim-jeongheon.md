@@ -1,7 +1,8 @@
 ---
 title: 김정헌
 slug: gim-jeongheon
-status: stub
+status: curated
+role: 중구청장/공적 인물
 ---
 
 ## 행적

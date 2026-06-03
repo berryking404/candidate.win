@@ -1,7 +1,8 @@
 ---
 title: 진교훈
 slug: jin-gyohun
-status: stub
+status: curated
+role: 강서구청장/공적 인물
 ---
 
 ## 행적

@@ -1,7 +1,8 @@
 ---
 title: 원종하
 slug: won-jong-ha
-status: stub
+status: curated
+role: 공적 인물/정책 전문가
 ---
 
 ## 행적

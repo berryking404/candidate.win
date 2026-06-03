@@ -1,0 +1,15 @@
+slug: gu-jayeol
+name_ko: 구자열
+name_en: null
+party: null
+role: 지역 선거 후보/공적 인물
+status: curated
+aliases:
+- 구자열
+- 구자열 후보
+discovered_via_issue: youth-jobs-hightech-2026
+discovered_at: '2026-06-03'
+sources:
+  news_keywords:
+  - 구자열
+  youtube_channels: []

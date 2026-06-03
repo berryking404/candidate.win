@@ -1,7 +1,8 @@
 ---
 title: 김영욱
 slug: kim-younguk
-status: stub
+status: curated
+role: 지역 공직자/공적 인물
 ---
 
 ## 행적
