@@ -1,5 +1,5 @@
 ---
-title: 민경권
+title: 민경욱
 slug: min-gyeong-gwon
 role: 전 국회의원
 status: curated

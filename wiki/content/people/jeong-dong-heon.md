@@ -1,5 +1,5 @@
 ---
-title: 정동헌
+title: 정동만
 slug: jeong-dong-heon
 role: 제22대 국회의원 (부산 기장군)
 status: curated
