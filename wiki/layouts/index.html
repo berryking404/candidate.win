@@ -20,7 +20,7 @@
 <h2>최근 업데이트된 이슈</h2>
 {{- $issues := where .Site.RegularPages "Section" "issues" }}
 <div class="section-grid">
-  {{- range first 4 ($issues.ByLastmod.Reverse) }}
+  {{- range first 6 ($issues.ByLastmod.Reverse) }}
   <a class="card" href="{{ .Permalink }}">
     <h3>{{ .Title }}
       {{- if eq .Params.status "active" }} <span class="badge badge-active">진행 중</span>{{ end }}
