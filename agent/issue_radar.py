@@ -29,7 +29,7 @@ import os
 import re
 import sys
 from collections import Counter, defaultdict
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 from urllib.parse import quote_plus
@@ -97,6 +97,16 @@ class Candidate:
     articles: list[dict[str, Any]]
     official_signals: list[dict[str, Any]]
     duplicate_matches: list[dict[str, Any]]
+
+
+@dataclasses.dataclass
+class ClosureCandidate:
+    slug: str
+    title: str
+    score: int
+    recommendation: str
+    reasons: list[str]
+    signals: dict[str, Any]
 
 
 def normalize_text(s: str) -> str:
@@ -236,6 +246,10 @@ def load_existing_issues() -> list[dict[str, Any]]:
             "summary": data.get("summary") or "",
             "keywords": data.get("keywords") or [],
             "status": data.get("status") or "",
+            "category": data.get("category") or "",
+            "started_at": data.get("started_at") or "",
+            "sources": data.get("sources") or [],
+            "path": str(path),
         })
     return issues
 
@@ -366,7 +380,120 @@ def score_candidate(*, keyword: str, title: str, articles: list[dict[str, Any]],
     }
 
 
-def render_report(candidates: list[Candidate], *, window_days: int) -> str:
+def audit_closure_candidates(existing: list[dict[str, Any]], *, window_days: int = 30, max_per_issue: int = 8, no_naver: bool = False) -> list[ClosureCandidate]:
+    """기존 ongoing 이슈 중 최근 수집 성과가 낮은 종료/전환 후보를 찾는다."""
+    candidates: list[ClosureCandidate] = []
+    for issue in existing:
+        if issue.get("status", "ongoing") == "closed":
+            continue
+        keywords = [str(k) for k in issue.get("keywords") or [] if str(k).strip()]
+        if not keywords:
+            keywords = [issue.get("title") or issue["slug"]]
+        query = keywords[0]
+        recent_articles = [] if no_naver else crawl_naver_news([query], max_per_keyword=max_per_issue, date_from=(datetime.now(timezone.utc) - timedelta(days=window_days)).date().isoformat(), fetch_full_text=False)
+        source_dates = [_parse_source_date(s.get("date")) for s in issue.get("sources", []) if isinstance(s, dict)]
+        latest_source = max([d for d in source_dates if d], default=None)
+        days_since_source = (datetime.now(timezone.utc).date() - latest_source).days if latest_source else None
+        stance_count = count_issue_stances(issue["slug"])
+        issue_type = classify_issue_type(issue)
+        score, rec, reasons = score_closure_candidate(
+            recent_news_count=len(recent_articles),
+            latest_source_days=days_since_source,
+            stance_count=stance_count,
+            issue_type=issue_type,
+        )
+        if score >= 4:
+            candidates.append(ClosureCandidate(
+                slug=issue["slug"],
+                title=issue["title"],
+                score=score,
+                recommendation=rec,
+                reasons=reasons,
+                signals={
+                    "recent_news_count": len(recent_articles),
+                    "window_days": window_days,
+                    "latest_source_date": latest_source.isoformat() if latest_source else None,
+                    "days_since_source": days_since_source,
+                    "stance_count": stance_count,
+                    "issue_type": issue_type,
+                    "query": query,
+                },
+            ))
+    return sorted(candidates, key=lambda c: c.score, reverse=True)
+
+
+def _parse_source_date(value: Any) -> date | None:
+    if not value:
+        return None
+    if hasattr(value, "isoformat"):
+        try:
+            return datetime.fromisoformat(str(value)).date()
+        except Exception:
+            return value if value.__class__.__name__ == "date" else None
+    text = str(value)[:10]
+    try:
+        return datetime.fromisoformat(text).date()
+    except Exception:
+        return None
+
+
+def count_issue_stances(slug: str) -> int:
+    path = WIKI_ISSUES / f"{slug}.md"
+    try:
+        text = path.read_text(encoding="utf-8")
+    except Exception:
+        return 0
+    m = re.search(r"<!--\s*agent:stances\s*-->(.*?)<!--\s*/agent:stances\s*-->", text, re.S)
+    body = m.group(1) if m else text
+    return len(re.findall(r"^\s*-\s+\[", body, re.M))
+
+
+def classify_issue_type(issue: dict[str, Any]) -> str:
+    text = " ".join([issue.get("title", ""), issue.get("summary", ""), " ".join(map(str, issue.get("keywords", [])))])
+    if any(t in text for t in ["정책", "일자리", "복지", "부동산", "외교", "안보", "노동", "지역", "물가", "에너지", "요금", "주거", "균형", "민생"]):
+        return "policy"
+    if any(t in text for t in ["선거", "공천", "청문회", "특검", "수사", "재판", "사고", "의혹", "사태", "탄핵"]):
+        return "event"
+    return "mixed"
+
+
+def score_closure_candidate(*, recent_news_count: int, latest_source_days: int | None, stance_count: int, issue_type: str) -> tuple[int, str, list[str]]:
+    score = 0
+    reasons: list[str] = []
+    if recent_news_count == 0:
+        score += 3
+        reasons.append("최근 수집 기사 없음")
+    elif recent_news_count <= 2:
+        score += 1
+        reasons.append(f"최근 수집 기사 {recent_news_count}건으로 낮음")
+    if latest_source_days is None:
+        score += 1
+        reasons.append("dated source 없음")
+    elif latest_source_days >= 60:
+        score += 2
+        reasons.append(f"최신 source {latest_source_days}일 전")
+    elif latest_source_days >= 30:
+        score += 1
+        reasons.append(f"최신 source {latest_source_days}일 전")
+    if stance_count == 0:
+        score += 1
+        reasons.append("수집된 인물 입장 없음")
+    if issue_type == "event":
+        score += 2
+        reasons.append("사건형 이슈")
+    elif issue_type == "policy":
+        score -= 2
+        reasons.append("장기 정책형 이슈라 즉시 종료보다 mature/monitoring 권고")
+    if score >= 7 and issue_type != "policy":
+        rec = "closed 후보"
+    elif score >= 4:
+        rec = "monitoring/mature 전환 후보"
+    else:
+        rec = "유지"
+    return score, rec, reasons
+
+
+def render_report(candidates: list[Candidate], closure_candidates: list[ClosureCandidate] | None = None, *, window_days: int) -> str:
     now = datetime.now(timezone.utc).astimezone().strftime("%Y-%m-%d %H:%M %Z")
     lines = [
         "[이슈 후보 발굴 리포트]",
@@ -374,30 +501,48 @@ def render_report(candidates: list[Candidate], *, window_days: int) -> str:
         f"수집 범위: 최근 {window_days}일",
         f"생성 시각: {now}",
         "",
-        "Eric 승인 방법: 이 Linear 이슈에 댓글로 `승인: 1,3` / `반려: 2`처럼 남기면 다음 적용 작업에서 독립 이슈 후보의 SSoT를 생성합니다. 병합 권고 후보는 댓글 확인 후 수동 병합 대상으로 보고합니다.",
+        "Eric 승인 방법: 신규는 `승인: 1,3` / `반려: 2`, 종료는 `종료 승인: 1` / `종료 반려: 2`처럼 Linear 댓글로 남기면 다음 적용 작업에서 반영합니다. 병합/monitoring/mature 권고는 수동 검토 대상으로 보고합니다.",
+        "",
+        "## A. 신규 이슈 후보",
         "",
     ]
     if not candidates:
-        lines.append("후보 없음")
-        return "\n".join(lines) + "\n"
-    for i, c in enumerate(candidates, 1):
-        lines.extend([
-            f"{i}. 후보: {c.title}",
-            f"   점수: {c.score}",
-            f"   권고: {c.recommendation}" + (f" → {c.merge_target}" if c.merge_target else ""),
-            f"   키워드: {c.keyword}",
-            "   근거:",
-            f"   - 기사 {c.signals['news_count']}건 / 매체 {c.signals['outlet_count']}곳 / 발언 주체 신호 {', '.join(c.signals['stance_actor_terms']) or '없음'}",
-        ])
-        if c.duplicate_matches:
-            lines.append("   - 기존 이슈 유사: " + ", ".join(f"{m['slug']}({m['similarity']})" for m in c.duplicate_matches))
-        for a in c.articles[:3]:
-            lines.append(f"   - {a.get('title','')[:90]} — {a.get('url','')}")
-        lines.append("")
+        lines.append("신규 후보 없음")
+    else:
+        for i, c in enumerate(candidates, 1):
+            lines.extend([
+                f"{i}. 후보: {c.title}",
+                f"   점수: {c.score}",
+                f"   권고: {c.recommendation}" + (f" → {c.merge_target}" if c.merge_target else ""),
+                f"   키워드: {c.keyword}",
+                "   근거:",
+                f"   - 기사 {c.signals['news_count']}건 / 매체 {c.signals['outlet_count']}곳 / 발언 주체 신호 {', '.join(c.signals['stance_actor_terms']) or '없음'}",
+            ])
+            if c.duplicate_matches:
+                lines.append("   - 기존 이슈 유사: " + ", ".join(f"{m['slug']}({m['similarity']})" for m in c.duplicate_matches))
+            for a in c.articles[:3]:
+                lines.append(f"   - {a.get('title','')[:90]} — {a.get('url','')}")
+            lines.append("")
+
+    lines.extend(["", "## B. 종료/전환 후보", ""])
+    closure_candidates = closure_candidates or []
+    if not closure_candidates:
+        lines.append("종료/전환 후보 없음")
+    else:
+        for i, c in enumerate(closure_candidates, 1):
+            sig = c.signals
+            lines.extend([
+                f"{i}. 이슈: {c.title} (`{c.slug}`)",
+                f"   점수: {c.score}",
+                f"   권고: {c.recommendation}",
+                f"   신호: 최근 {sig.get('window_days')}일 기사 {sig.get('recent_news_count')}건 / 입장 {sig.get('stance_count')}개 / 유형 {sig.get('issue_type')} / 최신 source {sig.get('latest_source_date') or '없음'}",
+                "   이유: " + "; ".join(c.reasons),
+                "",
+            ])
     return "\n".join(lines)
 
 
-def save_outputs(candidates: list[Candidate], report: str, date_key: str | None = None) -> tuple[Path, Path]:
+def save_outputs(candidates: list[Candidate], closure_candidates: list[ClosureCandidate], report: str, date_key: str | None = None) -> tuple[Path, Path]:
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
     date_key = date_key or datetime.now(timezone.utc).date().isoformat()
@@ -408,6 +553,7 @@ def save_outputs(candidates: list[Candidate], report: str, date_key: str | None 
         "linear_issue_id": None,
         "linear_issue_identifier": None,
         "candidates": [dataclasses.asdict(c) for c in candidates],
+        "closure_candidates": [dataclasses.asdict(c) for c in closure_candidates],
     }
     json_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     md_path.write_text(report, encoding="utf-8")
@@ -455,11 +601,13 @@ def create_linear_report(report: str, json_path: Path) -> dict[str, Any]:
 
 
 def run_radar(args: argparse.Namespace) -> int:
+    existing = load_existing_issues()
     seeds = collect_seeds(args.window_days, args.max_keywords)
     naver_by_keyword = expand_with_naver(seeds, window_days=args.window_days, max_per_keyword=args.max_per_keyword) if not args.no_naver else {s.keyword: [] for s in seeds}
-    candidates = [c for c in cluster_candidates(seeds, naver_by_keyword, load_existing_issues()) if c.score >= 4][: args.max_candidates]
-    report = render_report(candidates, window_days=args.window_days)
-    json_path, md_path = save_outputs(candidates, report)
+    candidates = [c for c in cluster_candidates(seeds, naver_by_keyword, existing) if c.score >= 4][: args.max_candidates]
+    closure_candidates = [] if args.no_closure_audit else audit_closure_candidates(existing, window_days=args.closure_window_days, max_per_issue=args.closure_max_per_issue, no_naver=args.no_naver)[: args.max_closure_candidates]
+    report = render_report(candidates, closure_candidates, window_days=args.window_days)
+    json_path, md_path = save_outputs(candidates, closure_candidates, report)
     issue = None
     if args.linear:
         issue = create_linear_report(report, json_path)
@@ -472,10 +620,30 @@ def run_radar(args: argparse.Namespace) -> int:
 
 def parse_approvals(text: str) -> dict[int, str]:
     approvals: dict[int, str] = {}
-    for m in re.finditer(r"(?:승인|approve)\s*[:：]?\s*([0-9,\s]+)", text, re.I):
+    for line in text.splitlines():
+        if re.search(r"종료|closure|close", line, re.I):
+            continue
+        for m in re.finditer(r"(?:신규\s*)?(?:승인|approve)\s*[:：]?\s*([0-9,\s]+)", line, re.I):
+            for n in re.findall(r"\d+", m.group(1)):
+                approvals[int(n)] = "approve"
+        for m in re.finditer(r"(?:신규\s*)?(?:반려|reject|폐기)\s*[:：]?\s*([0-9,\s]+)", line, re.I):
+            for n in re.findall(r"\d+", m.group(1)):
+                approvals[int(n)] = "reject"
+    return approvals
+
+
+def parse_closure_approvals(text: str) -> dict[int, str]:
+    approvals: dict[int, str] = {}
+    for m in re.finditer(r"(?:종료|closure|close)\s*(?:승인|approve)?\s*[:：]?\s*([0-9,\s]+)", text, re.I):
         for n in re.findall(r"\d+", m.group(1)):
-            approvals[int(n)] = "approve"
-    for m in re.finditer(r"(?:반려|reject|폐기)\s*[:：]?\s*([0-9,\s]+)", text, re.I):
+            approvals[int(n)] = "close"
+    for m in re.finditer(r"(?:종료\s*)?(?:반려|reject|보류)\s*[:：]?\s*([0-9,\s]+)", text, re.I):
+        # '신규 반려'와 혼동하지 않도록 종료/closure 문맥이 있는 줄만 처리
+        line_start = text.rfind("\n", 0, m.start()) + 1
+        line_end = text.find("\n", m.end())
+        line = text[line_start: line_end if line_end != -1 else len(text)]
+        if not re.search(r"종료|closure|close", line, re.I):
+            continue
         for n in re.findall(r"\d+", m.group(1)):
             approvals[int(n)] = "reject"
     return approvals
@@ -497,9 +665,12 @@ def apply_approvals(args: argparse.Namespace) -> int:
     payload = json.loads(path.read_text(encoding="utf-8"))
     comments = fetch_linear_comments(payload["linear_issue_id"]) if payload.get("linear_issue_id") else []
     approvals: dict[int, str] = {}
+    closure_approvals: dict[int, str] = {}
     for c in comments:
-        approvals.update(parse_approvals(c.get("body", "")))
-    if not approvals:
+        body = c.get("body", "")
+        approvals.update(parse_approvals(body))
+        closure_approvals.update(parse_closure_approvals(body))
+    if not approvals and not closure_approvals:
         print("승인/반려 댓글 없음")
         return 0
     created = []
@@ -514,10 +685,24 @@ def apply_approvals(args: argparse.Namespace) -> int:
             else:
                 created.append(f"병합/보류 권고 후보 승인 확인: {idx} {cand['title']} (수동 병합 필요)")
         else:
-            rejected.append(f"{idx} {cand['title']}")
-    print("생성/처리:\n" + "\n".join(map(str, created)) if created else "생성 없음")
-    if rejected:
-        print("반려:\n" + "\n".join(rejected))
+            rejected.append(f"신규 {idx} {cand['title']}")
+    closed = []
+    closure_rejected = []
+    for idx, action in closure_approvals.items():
+        closure_items = payload.get("closure_candidates", [])
+        if idx < 1 or idx > len(closure_items):
+            continue
+        cand = closure_items[idx - 1]
+        if action == "close":
+            if cand.get("recommendation") == "closed 후보":
+                closed.append(close_issue(cand))
+            else:
+                closed.append(f"전환 권고 후보 승인 확인: {idx} {cand['title']} ({cand['recommendation']}, 수동 검토 필요)")
+        else:
+            closure_rejected.append(f"종료 {idx} {cand['title']}")
+    print("생성/처리:\n" + "\n".join(map(str, created + closed)) if created or closed else "생성/처리 없음")
+    if rejected or closure_rejected:
+        print("반려:\n" + "\n".join(rejected + closure_rejected))
     return 0
 
 
@@ -573,6 +758,37 @@ summary: {front_summary}
     return f"생성: {slug}"
 
 
+def close_issue(cand: dict[str, Any]) -> str:
+    slug = cand["slug"]
+    yaml_path = DATA_ISSUES / f"{slug}.yaml"
+    md_path = WIKI_ISSUES / f"{slug}.md"
+    if not yaml_path.exists():
+        return f"YAML 없음: {slug}"
+    data = yaml.safe_load(yaml_path.read_text(encoding="utf-8")) or {}
+    if data.get("status") == "closed":
+        return f"이미 종료: {slug}"
+    data["status"] = "closed"
+    today = datetime.now(timezone.utc).date().isoformat()
+    if not data.get("conclusion"):
+        data["conclusion"] = f"{today} issue-radar 종료 후보 승인에 따라 active tracking을 종료함. 기존 기록은 역사적 참고로 보존."
+    yaml_path.write_text(yaml.safe_dump(data, allow_unicode=True, sort_keys=False), encoding="utf-8")
+    if md_path.exists():
+        text = md_path.read_text(encoding="utf-8")
+        text = re.sub(r"(?m)^status:\s*.*$", "status: closed", text, count=1)
+        if "<!-- human-edit -->" not in text:
+            note = f"""
+
+<!-- human-edit -->
+## 편집자 노트
+
+{today} issue-radar 종료 후보 승인에 따라 이 이슈의 active tracking을 종료합니다. 기존 입장 기록은 역사적 참고로 보존합니다.
+<!-- /human-edit -->
+"""
+            text = text.rstrip() + note
+        md_path.write_text(text, encoding="utf-8")
+    return f"종료 처리: {slug}"
+
+
 def build_parser() -> argparse.ArgumentParser:
     p = argparse.ArgumentParser(description="Candidate.win 이슈 후보 발굴 레이더")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -582,6 +798,10 @@ def build_parser() -> argparse.ArgumentParser:
     r.add_argument("--max-per-keyword", type=int, default=20)
     r.add_argument("--max-candidates", type=int, default=12)
     r.add_argument("--no-naver", action="store_true")
+    r.add_argument("--no-closure-audit", action="store_true")
+    r.add_argument("--closure-window-days", type=int, default=30)
+    r.add_argument("--closure-max-per-issue", type=int, default=8)
+    r.add_argument("--max-closure-candidates", type=int, default=8)
     r.add_argument("--linear", action="store_true", help="Linear 승인 요청 이슈 생성")
     r.set_defaults(func=run_radar)
     a = sub.add_parser("apply-approvals")
