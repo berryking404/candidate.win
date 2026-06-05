@@ -1,7 +1,8 @@
 ---
 title: 유의식
 slug: yuisik
-status: stub
+role: 완주군의회 의장
+status: curated
 ---
 
 ## 행적

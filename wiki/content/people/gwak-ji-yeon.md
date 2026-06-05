@@ -1,7 +1,8 @@
 ---
 title: 곽지연
 slug: gwak-ji-yeon
-status: stub
+role: 대한간호조무사협회장
+status: curated
 ---
 
 ## 행적

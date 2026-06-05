@@ -1,8 +1,8 @@
 ---
 title: 김이강
 slug: gim-i-gang
-role: 광주 서구청장
-status: stub
+role: 광주 서구청장 당선인
+status: curated
 ---
 
 ## 행적

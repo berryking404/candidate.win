@@ -1,7 +1,8 @@
 ---
 title: 유홍림
 slug: yuhongrim
-status: stub
+role: 서울대학교 총장
+status: curated
 ---
 
 ## 행적

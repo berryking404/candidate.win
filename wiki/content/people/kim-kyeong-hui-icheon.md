@@ -1,7 +1,8 @@
 ---
 title: 김경희
-slug: kimgye-pho
-status: stub
+slug: kim-kyeong-hui-icheon
+role: 이천시장 예비후보
+status: curated
 ---
 
 ## 행적

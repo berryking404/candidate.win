@@ -1,7 +1,8 @@
 ---
 title: 성창훈
 slug: seong-changhun
-status: stub
+role: 한국조폐공사 사장
+status: curated
 ---
 
 ## 행적

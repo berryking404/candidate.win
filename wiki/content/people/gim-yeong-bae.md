@@ -1,9 +1,9 @@
 ---
 title: 김영배
 slug: gim-yeong-bae
-role: 더불어민주당 의원
-status: stub
-party: null
+role: 국회의원
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

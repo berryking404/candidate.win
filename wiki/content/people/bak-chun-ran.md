@@ -1,7 +1,8 @@
 ---
 title: 박춘란
 slug: bak-chun-ran
-status: stub
+role: 인덕대학교 총장
+status: curated
 ---
 
 ## 행적

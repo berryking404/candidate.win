@@ -1,8 +1,8 @@
 ---
 title: 김선교
 slug: gim-seon-gyo
-role: 국민의힘 경기도지사 후보
-status: stub
+role: 경기도지사 후보
+status: curated
 ---
 
 ## 행적

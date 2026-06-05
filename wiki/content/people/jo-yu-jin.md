@@ -2,7 +2,7 @@
 title: 조유진
 slug: jo-yu-jin
 role: 초록우산 부산지역본부장
-status: stub
+status: curated
 ---
 
 ## 행적

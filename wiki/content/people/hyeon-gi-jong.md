@@ -1,8 +1,8 @@
 ---
 title: 현기종
 slug: hyeon-gi-jong
-role: 후보
-status: stub
+role: 제주도의원 성산읍 후보
+status: curated
 ---
 
 ## 행적

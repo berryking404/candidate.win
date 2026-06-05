@@ -1,8 +1,8 @@
 ---
 title: 김승준
 slug: gim-seung-jun
-role: 도의원 후보
-status: stub
+role: 제주도의원 한경·추자면 후보
+status: curated
 ---
 
 ## 행적

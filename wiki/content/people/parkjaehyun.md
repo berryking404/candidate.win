@@ -1,7 +1,8 @@
 ---
 title: 박재현
 slug: parkjaehyun
-status: stub
+role: 가평군 도의원 후보
+status: curated
 ---
 
 ## 행적

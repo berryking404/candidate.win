@@ -1,8 +1,8 @@
 ---
 title: 오태완
 slug: o-tae-wan
-role: 의령군수
-status: stub
+role: 의령군수 당선자
+status: curated
 ---
 
 ## 행적
