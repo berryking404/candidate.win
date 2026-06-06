@@ -2,7 +2,7 @@
 title: 윤용근
 slug: yun-yong-geun
 role: 후보
-status: stub
+status: curated
 ---
 
 ## 행적

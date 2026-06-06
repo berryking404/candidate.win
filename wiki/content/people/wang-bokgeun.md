@@ -1,7 +1,8 @@
 ---
 title: 왕복근
 slug: wang-bokgeun
-status: stub
+role: 청년 정치인
+status: curated
 ---
 
 ## 행적

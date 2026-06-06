@@ -1,7 +1,8 @@
 ---
 title: 양성일
 slug: yang-seong-il
-status: stub
+role: 국민건강보험공단 재정운영위원장
+status: curated
 ---
 
 ## 행적

@@ -1,7 +1,8 @@
 ---
 title: 민경원
 slug: min-kyungwon
-status: stub
+role: 우리은행 연구원
+status: curated
 ---
 
 ## 행적

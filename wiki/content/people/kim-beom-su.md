@@ -1,7 +1,8 @@
 ---
 title: 김범수
 slug: kim-beom-su
-status: stub
+role: 아산시장 권한대행
+status: curated
 ---
 
 ## 행적

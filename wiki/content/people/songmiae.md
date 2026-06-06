@@ -1,7 +1,8 @@
 ---
 title: 송미애
 slug: songmiae
-status: stub
+role: 지역경제과장
+status: curated
 ---
 
 ## 행적

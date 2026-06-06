@@ -1,8 +1,8 @@
 ---
 title: 박재용
 slug: park-jaeyong
-status: stub
-role: 삼성전자 DX부문 노동조합 관련 인물
+role: 삼성전자 동행노조 위원장
+status: curated
 party: null
 ---
 

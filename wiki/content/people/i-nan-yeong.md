@@ -1,7 +1,8 @@
 ---
 title: 이난영
 slug: i-nan-yeong
-status: stub
+role: 교육부 국제교육기획관
+status: curated
 ---
 
 ## 행적

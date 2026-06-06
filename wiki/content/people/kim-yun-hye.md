@@ -1,7 +1,8 @@
 ---
 title: 김윤혜
 slug: kim-yun-hye
-status: stub
+role: 호반프라퍼티 경영총괄사장
+status: curated
 ---
 
 ## 행적

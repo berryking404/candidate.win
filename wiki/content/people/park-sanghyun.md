@@ -1,7 +1,8 @@
 ---
 title: 박상현
 slug: park-sanghyun
-status: stub
+role: iM증권 연구원
+status: curated
 ---
 
 ## 행적

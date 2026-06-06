@@ -1,7 +1,8 @@
 ---
 title: 윤재성
 slug: yoon-jaeseong
-status: stub
+role: 하나증권 연구원
+status: curated
 ---
 
 ## 행적

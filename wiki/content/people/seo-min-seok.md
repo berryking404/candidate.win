@@ -1,7 +1,8 @@
 ---
 title: 서민석
 slug: seo-min-seok
-status: stub
+role: 법무연수원 교수 / 전 서울중앙지검 반부패수사2부 부부장검사
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 김영빈
 slug: gim-yeong-bin
 role: 후보
-status: stub
+status: curated
 ---
 
 ## 행적

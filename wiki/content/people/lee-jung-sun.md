@@ -1,7 +1,8 @@
 ---
 title: 이정순
 slug: lee-jung-sun
-status: stub
+role: 복지정책과장
+status: curated
 ---
 
 ## 행적

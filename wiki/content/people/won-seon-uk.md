@@ -2,7 +2,7 @@
 title: 원선욱
 slug: won-seon-uk
 role: 수원여성회 공동대표
-status: stub
+status: curated
 ---
 
 ## 행적

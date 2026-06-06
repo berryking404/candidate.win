@@ -1,7 +1,8 @@
 ---
 title: 이윤근
 slug: lee-yoon-geun
-status: stub
+role: 카카오페이 ESG협의체장
+status: curated
 ---
 
 ## 행적

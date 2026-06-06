@@ -1,7 +1,8 @@
 ---
 title: 박영희
 slug: parkyounghee
-status: stub
+role: 구미시 일자리경제과장
+status: curated
 ---
 
 ## 행적

@@ -1,7 +1,8 @@
 ---
 title: 이충재
 slug: lee-choongjae
-status: stub
+role: 한국투자증권 연구원
+status: curated
 ---
 
 ## 행적

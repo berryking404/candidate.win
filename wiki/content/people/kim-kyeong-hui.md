@@ -2,7 +2,7 @@
 title: 김경희
 slug: kim-kyeong-hui
 role: 서울교육감 후보
-status: stub
+status: curated
 ---
 
 ## 행적

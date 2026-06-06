@@ -1,7 +1,8 @@
 ---
 title: 김동현
 slug: kimdonghyeon
-status: stub
+role: 경기도일자리재단 남부사업본부장
+status: curated
 ---
 
 ## 행적
