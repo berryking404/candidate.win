@@ -55,6 +55,8 @@ REPORT_DIR = ROOT / "agent" / "reports" / "issue_candidates"
 LINEAR_API = "https://api.linear.app/graphql"
 DEFAULT_TEAM_ID = "8e27f9c8-aaa3-47f4-8d58-81dc753bd453"
 DEFAULT_PROJECT_ID = "05950f61-d9b6-4ded-a0a5-65a9c104bc69"
+DEFAULT_DONE_STATE_ID = "5f24409a-ee6c-4e85-b39d-ebf89e5e1505"
+DEFAULT_CANCELED_STATE_ID = "b338b1fc-1fa5-425c-9f58-5c5ff656decf"
 
 BROAD_QUERIES = [
     "국회 논란", "정부 대응 논란", "정책 논쟁", "특검 의혹", "해임건의안", "탄핵소추안",
@@ -545,7 +547,7 @@ def render_report(candidates: list[Candidate], closure_candidates: list[ClosureC
 def save_outputs(candidates: list[Candidate], closure_candidates: list[ClosureCandidate], report: str, date_key: str | None = None) -> tuple[Path, Path]:
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
-    date_key = date_key or datetime.now(timezone.utc).date().isoformat()
+    date_key = date_key or datetime.now(timezone.utc).strftime("%Y-%m-%dT%H%M%SZ")
     json_path = CACHE_DIR / f"{date_key}.json"
     md_path = REPORT_DIR / f"{date_key}.md"
     payload = {
@@ -618,34 +620,72 @@ def run_radar(args: argparse.Namespace) -> int:
     return 0
 
 
-def parse_approvals(text: str) -> dict[int, str]:
+def _numbers_in_line(line: str) -> list[int]:
+    return [int(n) for n in re.findall(r"\d+", line)]
+
+
+def parse_approvals(text: str, candidate_count: int | None = None) -> dict[int, str]:
+    """Parse Eric's approval comments for new issue candidates.
+
+    Supported examples:
+    - "승인: 1,3", "approve 1"
+    - "1,2 반려", "반려: 1,2", "모두 반려"
+    - Lines containing 종료/closure/close are handled by parse_closure_approvals.
+    """
     approvals: dict[int, str] = {}
     for line in text.splitlines():
         if re.search(r"종료|closure|close", line, re.I):
             continue
+        if re.search(r"모두|전체|all", line, re.I) and re.search(r"반려|reject|폐기", line, re.I):
+            if candidate_count:
+                for idx in range(1, candidate_count + 1):
+                    approvals[idx] = "reject"
+            continue
+        matched = False
         for m in re.finditer(r"(?:신규\s*)?(?:승인|approve)\s*[:：]?\s*([0-9,\s]+)", line, re.I):
+            matched = True
             for n in re.findall(r"\d+", m.group(1)):
                 approvals[int(n)] = "approve"
         for m in re.finditer(r"(?:신규\s*)?(?:반려|reject|폐기)\s*[:：]?\s*([0-9,\s]+)", line, re.I):
+            matched = True
             for n in re.findall(r"\d+", m.group(1)):
                 approvals[int(n)] = "reject"
+        if matched:
+            continue
+        nums = _numbers_in_line(line)
+        if not nums:
+            continue
+        if re.search(r"승인|approve", line, re.I):
+            for n in nums:
+                approvals[n] = "approve"
+        if re.search(r"반려|reject|폐기", line, re.I):
+            for n in nums:
+                approvals[n] = "reject"
     return approvals
 
 
-def parse_closure_approvals(text: str) -> dict[int, str]:
+def parse_closure_approvals(text: str, closure_count: int | None = None) -> dict[int, str]:
+    """Parse closure/transition comments for existing issue candidates.
+
+    Supported examples:
+    - "종료 승인: 1", "종료 2,3", "2,3 종료"
+    - "종료 반려: 2", "종료 모두 반려"
+    """
     approvals: dict[int, str] = {}
-    for m in re.finditer(r"(?:종료|closure|close)\s*(?:승인|approve)?\s*[:：]?\s*([0-9,\s]+)", text, re.I):
-        for n in re.findall(r"\d+", m.group(1)):
-            approvals[int(n)] = "close"
-    for m in re.finditer(r"(?:종료\s*)?(?:반려|reject|보류)\s*[:：]?\s*([0-9,\s]+)", text, re.I):
-        # '신규 반려'와 혼동하지 않도록 종료/closure 문맥이 있는 줄만 처리
-        line_start = text.rfind("\n", 0, m.start()) + 1
-        line_end = text.find("\n", m.end())
-        line = text[line_start: line_end if line_end != -1 else len(text)]
+    for line in text.splitlines():
         if not re.search(r"종료|closure|close", line, re.I):
             continue
-        for n in re.findall(r"\d+", m.group(1)):
-            approvals[int(n)] = "reject"
+        if re.search(r"모두|전체|all", line, re.I) and re.search(r"반려|reject|보류", line, re.I):
+            if closure_count:
+                for idx in range(1, closure_count + 1):
+                    approvals[idx] = "reject"
+            continue
+        nums = _numbers_in_line(line)
+        if not nums:
+            continue
+        action = "reject" if re.search(r"반려|reject|보류", line, re.I) else "close"
+        for n in nums:
+            approvals[n] = action
     return approvals
 
 
@@ -660,19 +700,33 @@ def fetch_linear_comments(issue_id: str) -> list[dict[str, Any]]:
     return issue.get("comments", {}).get("nodes", [])
 
 
-def apply_approvals(args: argparse.Namespace) -> int:
-    path = Path(args.cache_json) if args.cache_json else latest_cache_file()
+def update_linear_issue_state(issue_id: str, state_id: str) -> None:
+    mutation = """
+    mutation UpdateIssueState($id: String!, $input: IssueUpdateInput!) {
+      issueUpdate(id: $id, input: $input) { success issue { identifier state { name type } } }
+    }
+    """
+    linear_graphql(mutation, {"id": issue_id, "input": {"stateId": state_id}})
+
+
+def apply_approvals_for_path(path: Path) -> bool:
     payload = json.loads(path.read_text(encoding="utf-8"))
-    comments = fetch_linear_comments(payload["linear_issue_id"]) if payload.get("linear_issue_id") else []
+    issue_id = payload.get("linear_issue_id")
+    if not issue_id:
+        print(f"{path.name}: Linear issue 없음")
+        return False
+    comments = fetch_linear_comments(issue_id)
     approvals: dict[int, str] = {}
     closure_approvals: dict[int, str] = {}
+    candidate_count = len(payload.get("candidates", []))
+    closure_count = len(payload.get("closure_candidates", []))
     for c in comments:
         body = c.get("body", "")
-        approvals.update(parse_approvals(body))
-        closure_approvals.update(parse_closure_approvals(body))
+        approvals.update(parse_approvals(body, candidate_count))
+        closure_approvals.update(parse_closure_approvals(body, closure_count))
     if not approvals and not closure_approvals:
-        print("승인/반려 댓글 없음")
-        return 0
+        print(f"{path.name}: 승인/반려 댓글 없음")
+        return False
     created = []
     rejected = []
     for idx, action in approvals.items():
@@ -700,9 +754,21 @@ def apply_approvals(args: argparse.Namespace) -> int:
                 closed.append(f"전환 권고 후보 승인 확인: {idx} {cand['title']} ({cand['recommendation']}, 수동 검토 필요)")
         else:
             closure_rejected.append(f"종료 {idx} {cand['title']}")
-    print("생성/처리:\n" + "\n".join(map(str, created + closed)) if created or closed else "생성/처리 없음")
+    print(f"{path.name}: " + ("생성/처리:\n" + "\n".join(map(str, created + closed)) if created or closed else "생성/처리 없음"))
     if rejected or closure_rejected:
         print("반려:\n" + "\n".join(rejected + closure_rejected))
+    if created or closed:
+        update_linear_issue_state(issue_id, os.getenv("ISSUE_RADAR_LINEAR_DONE_STATE_ID", DEFAULT_DONE_STATE_ID))
+    elif rejected or closure_rejected:
+        update_linear_issue_state(issue_id, os.getenv("ISSUE_RADAR_LINEAR_CANCELED_STATE_ID", DEFAULT_CANCELED_STATE_ID))
+    return True
+
+
+def apply_approvals(args: argparse.Namespace) -> int:
+    paths = sorted(CACHE_DIR.glob("*.json")) if args.all else [Path(args.cache_json) if args.cache_json else latest_cache_file()]
+    any_processed = False
+    for path in paths:
+        any_processed = apply_approvals_for_path(path) or any_processed
     return 0
 
 
@@ -806,6 +872,7 @@ def build_parser() -> argparse.ArgumentParser:
     r.set_defaults(func=run_radar)
     a = sub.add_parser("apply-approvals")
     a.add_argument("--cache-json")
+    a.add_argument("--all", action="store_true", help="저장된 모든 Linear 후보 리포트 cache의 댓글을 반영")
     a.set_defaults(func=apply_approvals)
     return p
 
