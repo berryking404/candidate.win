@@ -11,6 +11,9 @@ def test_parse_approvals_korean_and_english():
     assert issue_radar.parse_approvals("approve: 4 reject: 5") == {4: "approve", 5: "reject"}
     assert issue_radar.parse_approvals("종료 승인: 1\n신규 승인: 2") == {2: "approve"}
     assert issue_radar.parse_closure_approvals("종료 승인: 1,3\n종료 반려: 2") == {1: "close", 3: "close", 2: "reject"}
+    assert issue_radar.parse_approvals("a. 1,2 반려") == {1: "reject", 2: "reject"}
+    assert issue_radar.parse_approvals("모두 반려", candidate_count=3) == {1: "reject", 2: "reject", 3: "reject"}
+    assert issue_radar.parse_closure_approvals("b. 2,3 종료") == {2: "close", 3: "close"}
 
 
 def test_score_candidate_standalone():
