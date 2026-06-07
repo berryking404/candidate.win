@@ -1,7 +1,7 @@
 ---
 title: 이재영
 slug: i-jae-yeong
-status: stub
+status: curated
 role: 증평군수
 ---
 

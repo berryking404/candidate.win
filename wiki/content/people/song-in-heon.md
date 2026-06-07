@@ -1,7 +1,7 @@
 ---
 title: 송인헌
 slug: song-in-heon
-status: stub
+status: curated
 role: 괴산군수
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: 강대식
 slug: gang-dae-sik
-status: stub
-role: 국회 국방위원회 소속 국민의힘 의원
+status: curated
+role: 제22대 국회의원
+party: 국민의힘
 ---
 
 ## 행적

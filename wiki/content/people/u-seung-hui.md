@@ -1,7 +1,7 @@
 ---
 title: 우승희
 slug: u-seung-hui
-status: stub
+status: curated
 role: 영암군수
 ---
 

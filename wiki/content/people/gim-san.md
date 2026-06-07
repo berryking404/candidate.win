@@ -1,8 +1,8 @@
 ---
 title: 김산
 slug: gim-san
-role: 군수 후보
-status: stub
+status: curated
+role: 무안군수 후보
 ---
 
 ## 행적

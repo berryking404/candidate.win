@@ -1,7 +1,7 @@
 ---
 title: 조병옥
 slug: jo-byeong-ok
-status: stub
+status: curated
 role: 음성군수
 ---
 

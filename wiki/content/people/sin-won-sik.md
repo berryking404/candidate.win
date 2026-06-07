@@ -1,8 +1,8 @@
 ---
 title: 신원식
 slug: sin-won-sik
-status: stub
-role: 한국 국방·안보 당국자
+status: curated
+role: 전 국방부 장관
 ---
 
 ## 행적

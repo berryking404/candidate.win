@@ -1,8 +1,9 @@
 ---
 title: 김태선
 slug: gim-tae-seon
-status: stub
-role: 더불어민주당 울산시당위원장
+status: curated
+role: 제22대 국회의원 / 더불어민주당 울산시당위원장
+party: 더불어민주당
 ---
 
 ## 행적

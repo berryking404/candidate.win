@@ -1,8 +1,9 @@
 ---
 title: 이용
 slug: i-yong
-role: 국민의힘 후보
-status: stub
+status: curated
+role: 전 국회의원 / 국민의힘 후보
+party: 국민의힘
 ---
 
 ## 행적

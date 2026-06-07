@@ -1,8 +1,8 @@
 ---
 title: 조태열
 slug: jo-tae-yeol
-status: stub
-role: 한국 외교·안보 당국자
+status: curated
+role: 외교부 장관
 ---
 
 ## 행적

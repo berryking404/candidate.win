@@ -1,8 +1,8 @@
 ---
 title: 이창민
 slug: i-chang-min
+status: curated
 role: 한양대 경영학부 교수
-status: stub
 ---
 
 ## 행적

@@ -1,7 +1,7 @@
 ---
 title: 김인호
 slug: gim-in-ho
-status: stub
+status: curated
 role: 해군 기동함대사령관
 ---
 

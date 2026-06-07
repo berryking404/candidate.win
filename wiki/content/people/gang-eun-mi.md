@@ -1,8 +1,9 @@
 ---
 title: 강은미
 slug: gang-eun-mi
-status: stub
-role: 정의당 후보
+status: curated
+role: 전 국회의원 / 정의당 후보
+party: 정의당
 ---
 
 ## 행적

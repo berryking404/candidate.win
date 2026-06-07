@@ -1,8 +1,8 @@
 ---
 title: 전인범
 slug: jeon-in-beom
-status: stub
-role: 전 육군 대장 / 군사전문가
+status: curated
+role: 전 육군특수전사령관 / 군사전문가
 ---
 
 ## 행적
