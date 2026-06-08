@@ -1,7 +1,8 @@
 ---
 title: 토머스 매튜스
 slug: thomas-matthews
-status: stub
+status: curated
+role: 캐피털이코노믹스 이코노미스트
 ---
 
 ## 행적

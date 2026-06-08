@@ -1,7 +1,7 @@
 ---
 title: 김수완
 slug: gim-su-wan
-status: stub
+status: curated
 role: 신세계그룹 부사장
 ---
 

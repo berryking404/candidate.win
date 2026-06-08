@@ -1,7 +1,7 @@
 ---
 title: 정빛나
 slug: jeong-bit-na
-status: stub
+status: curated
 role: 국방부 대변인
 ---
 

@@ -2,7 +2,7 @@
 title: 은희영
 slug: eun-hui-yeong
 role: 충북도 대변인실 청년인턴
-status: stub
+status: curated
 ---
 
 ## 행적

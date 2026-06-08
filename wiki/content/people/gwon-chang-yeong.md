@@ -1,8 +1,8 @@
 ---
 title: 권창영
 slug: gwon-chang-yeong
-role: 특별검사팀 관련 인물
-status: stub
+role: 특별검사
+status: curated
 ---
 
 ## 행적

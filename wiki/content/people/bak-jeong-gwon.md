@@ -1,7 +1,8 @@
 ---
 title: 박정권
 slug: bak-jeong-gwon
-status: stub
+status: curated
+role: 대구 수성구청장 후보
 ---
 
 ## 행적

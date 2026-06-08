@@ -1,8 +1,9 @@
 ---
 title: 조용호
 slug: jo-yong-ho
-role: 후보
-status: stub
+role: 오산시장 당선인
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

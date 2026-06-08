@@ -1,8 +1,8 @@
 ---
 title: 김현구
 slug: gim-hyeon-gu
-role: 지사장
-status: stub
+role: 한국주택금융공사 세종충북지사장
+status: curated
 ---
 
 ## 행적

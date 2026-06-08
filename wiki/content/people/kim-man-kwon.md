@@ -1,7 +1,8 @@
 ---
 title: 김만권
 slug: kim-man-kwon
-status: stub
+status: curated
+role: 정치철학자
 ---
 
 ## 행적

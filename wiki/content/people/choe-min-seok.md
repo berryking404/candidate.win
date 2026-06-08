@@ -1,7 +1,9 @@
 ---
 title: 최민석
 slug: choe-min-seok
-status: stub
+status: curated
+role: 전 더불어민주당 대변인
+party: 더불어민주당
 ---
 
 ## 행적
