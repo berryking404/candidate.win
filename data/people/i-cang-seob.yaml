@@ -2,8 +2,8 @@ slug: i-cang-seob
 name_ko: 이창섭
 name_en: null
 party: null
-role: null
-status: stub
+role: 비투비 멤버, 가수
+status: curated
 aliases:
 - 이창섭
 discovered_via_issue: housing-jeonse-crisis-2026
@@ -12,3 +12,6 @@ sources:
   news_keywords:
   - 이창섭
   youtube_channels: []
+  references:
+  - title: '비투비 이창섭, 횡령 사기 피해자였다 “직원 월급 안주고 1억 써버려”'
+    url: 'https://www.newsen.com/news_view.php?uid=202605240840250410'

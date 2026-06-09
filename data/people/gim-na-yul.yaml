@@ -2,8 +2,8 @@ slug: gim-na-yul
 name_ko: 김나율
 name_en: null
 party: null
-role: 성소수자 여성
-status: stub
+role: 성소수자 여성, 정의당 지지 연설 참여자
+status: curated
 aliases:
 - 김나율
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,6 @@ sources:
   news_keywords:
   - 김나율
   youtube_channels: []
+  references:
+  - title: '권영국 "사표는 없다... 기권표를 투표장으로 모아달라"'
+    url: 'https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003239782'

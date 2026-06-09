@@ -1,8 +1,8 @@
 ---
 title: 김나율
 slug: gim-na-yul
-role: 성소수자 여성
-status: stub
+role: 성소수자 여성, 정의당 지지 연설 참여자
+status: curated
 ---
 
 ## 행적

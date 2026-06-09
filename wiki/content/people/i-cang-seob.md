@@ -1,7 +1,8 @@
 ---
 title: 이창섭
 slug: i-cang-seob
-status: stub
+role: 비투비 멤버, 가수
+status: curated
 ---
 
 ## 행적
