@@ -1,0 +1,14 @@
+slug: yeo-han-gu
+name_ko: 여한구
+name_en: null
+party: null
+role: 산업통상부 통상교섭본부장
+status: stub
+aliases:
+- 여한구
+discovered_via_issue: coupang-data-leak-2026
+discovered_at: '2026-06-10'
+sources:
+  news_keywords:
+  - 여한구
+  youtube_channels: []
