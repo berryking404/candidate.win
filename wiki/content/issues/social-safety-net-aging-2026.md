@@ -38,4 +38,12 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [우승희](/people/u-seung-hui) — **지지**: 통합돌봄 전국화와 공공은행, 청년·교통 지원을 공약으로 제시해 복지·안전망 확대에 명확히 우호적이었다. [출처](https://www.newsis.com/view/NISX20260603_0003655054)
 - [송인헌](/people/song-in-heon) — **지지**: 노인복지 확대와 청년 정착 기반 조성을 군정 과제로 제시해 고령화 대응과 복지 강화에 우호적이었다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=306429)
 - [조병옥](/people/jo-byeong-ok) — **지지**: 청년 주거지원과 일자리, 노인복지 강화를 함께 약속해 생애주기별 사회안전망 확충에 우호적이었다. [출처](https://www.newsis.com/view/NISX20260603_0003655133)
+- [김 총리](/people/kimchongri) — **지지**: 자살·고독 문제를 사회가 함께 풀어야 할 문제로 보고 심리적 안전망 강화를 강조했다. [출처](https://www.yna.co.kr/view/AKR20260610161600001?input=1195m)
+- [한창훈](/people/hanchanghun) — **지지**: 공공의료와 보건의료 안전망 강화를 위한 협력과 표준모델 확산을 강조했다. [출처](https://medicalworldnews.co.kr/news/view.php?idx=1510975233)
+- [정기석](/people/jeonggiseok) — **지지**: 건강보험의 지속가능성과 사각지대 해소를 위해 단순 수가를 넘어 복합적 고려가 필요하다고 밝혔다. [출처](https://www.dailymedi.com/news/news_view.php?wr_id=937250)
+- [진옥동](/people/jinokdong) — **지지**: 금융 사각지대를 줄여 사회 안전망의 역할을 다하겠다고 말했다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=307263)
+- [서선자](/people/seoseonja) — **지지**: 민관 협력으로 복지 사각지대를 해소한 사례를 언급하며 지역 복지안전망 강화를 말했다. [출처](https://www.iusm.co.kr/news/articleView.html?idxno=1063928)
+- [이재용](/people/ijayong) — **지지**: 통합돌봄 지역특화서비스 제공인력 교육에서 돌봄 체계 강화의 필요성을 공유했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3605087)
+- [박재병](/people/bakjaebyeong) — **지지**: 고령층이 살던 곳에서 건강하게 나이들 수 있도록 시니어 주거·돌봄 환경 개선을 추진했다. [출처](https://www.venturesquare.net/1090548/)
+- [권익위](/people/gwonigwi) — **지지**: 공적 보험 전환 과정의 행정 미비로 국민이 피해를 입어서는 안 되며 제도적 사각지대 해소가 필요하다고 봤다. [출처](https://www.chosun.com/politics/goverment/2026/06/10/ETBSLJIOS5EPXAWDRBGHTFP4VY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
 <!-- /agent:stances -->
