@@ -9,6 +9,8 @@ party: 무소속
 ## 행적
 
 <!-- agent:events -->
+- 2026-06-15: 김건희 여사의 도이치모터스 주가조작 수사 무마 의혹과 관련해 특검 조사를 받게 됐다. [출처](https://www.hani.co.kr/arti/society/society_general/1262474.html)
+- 2026-06-08: 도이치모터스 주가조작 수사 무마 의혹과 관련해 특검이 이창수 전 서울중앙지검장 소환을 예고했다. [출처](https://news.jtbc.co.kr/article/NB12302148?influxDiv=NAVER)
 <!-- /agent:events -->
 
 ## 이슈별 입장
