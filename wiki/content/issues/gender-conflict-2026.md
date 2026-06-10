@@ -23,4 +23,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [은희영](/people/eun-hui-yeong) — **반대**: 성차별은 사라지지 않았고 일상 곳곳에 은밀하게 스며들어 있다고 강조했다. [출처](https://www.ccdailynews.com/news/articleView.html?idxno=2419826)
 - [원선욱](/people/won-seon-uk) — **지지**: 위안부 명예훼손 처벌 근거가 마련돼 혐오와 역사 왜곡을 막는 진전이라고 밝혔다. [출처](https://www.kihoilbo.co.kr/news/articleView.html?idxno=3024961)
 - [김나율](/people/gim-na-yul) — **지지**: 성소수자 여성으로서 정의당 지지 연설에 참여하며 혐오 정치에 맞선 진영의 일원으로 언급됐다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003239782&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
+- [원민경](/people/won-min-gyeong) — **중립**: ‘청년 공존·공감네트워크’가 서로의 차이를 이해하고 해법을 모색하는 소통 공간이 되길 기대한다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260610035500530?input=1195m)
 <!-- /agent:stances -->
