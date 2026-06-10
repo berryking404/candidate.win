@@ -114,13 +114,17 @@ def _load_issue_yaml(slug: str) -> dict | None:
 
 
 def _issue_context(slug: str) -> str:
-    """data/issues/{slug}.yaml 에서 제목·키워드를 읽어 쿼리 컨텍스트 문자열로 변환."""
+    """data/issues/{slug}.yaml 에서 제목·키워드·seed_people을 쿼리 컨텍스트로 변환."""
     data = _load_issue_yaml(slug)
     if data is None:
         return ""
     title = data.get("title_ko", slug)
     keywords = data.get("keywords", [slug])
-    return f"이슈 제목: {title}, 검색 키워드(한국어): {keywords}"
+    seed_people = data.get("seed_people") or []
+    seed_hint = ""
+    if seed_people:
+        seed_hint = f", 우선 확인할 seed_people: {seed_people}"
+    return f"이슈 제목: {title}, 검색 키워드(한국어): {keywords}{seed_hint}"
 
 
 def _ongoing_issue_slugs() -> list[str]:

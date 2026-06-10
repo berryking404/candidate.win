@@ -49,6 +49,7 @@ load_dotenv(Path(__file__).parent / ".env")
 logger = logging.getLogger(__name__)
 ROOT = Path(__file__).resolve().parent.parent
 DATA_ISSUES = ROOT / "data" / "issues"
+DATA_PEOPLE = ROOT / "data" / "people"
 WIKI_ISSUES = ROOT / "wiki" / "content" / "issues"
 CACHE_DIR = ROOT / "agent" / ".cache" / "issue_candidates"
 REPORT_DIR = ROOT / "agent" / "reports" / "issue_candidates"
@@ -450,6 +451,54 @@ def count_issue_stances(slug: str) -> int:
     return len(re.findall(r"^\s*-\s+\[", body, re.M))
 
 
+def _person_alias_index(people_dir: Path = DATA_PEOPLE) -> list[tuple[str, str]]:
+    """Return (alias/name, slug) pairs for existing people, longest aliases first."""
+    pairs: list[tuple[str, str]] = []
+    if not people_dir.exists():
+        return pairs
+    for path in people_dir.glob("*.yaml"):
+        try:
+            data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+        except Exception:
+            continue
+        names = [data.get("name_ko"), data.get("name"), *(data.get("aliases") or [])]
+        for raw in names:
+            name = str(raw or "").strip()
+            # Avoid generic aliases such as "권 의원" that create false seed people.
+            if len(name) < 3 or " " in name:
+                continue
+            if not re.search(r"[가-힣]", name):
+                continue
+            pairs.append((name, path.stem))
+    return sorted(set(pairs), key=lambda x: (-len(x[0]), x[0], x[1]))
+
+
+def infer_seed_people(cand: Candidate | dict[str, Any], *, people_dir: Path = DATA_PEOPLE, limit: int = 12) -> list[str]:
+    """Infer initial seed_people from candidate article titles and known person names.
+
+    Issue radar can only create a shell; these seed people give the later stance
+    collection pass explicit people to try first instead of starting from an empty page.
+    """
+    if isinstance(cand, dict):
+        title = str(cand.get("title", ""))
+        keyword = str(cand.get("keyword", ""))
+        articles = cand.get("articles", []) or []
+    else:
+        title = cand.title
+        keyword = cand.keyword
+        articles = cand.articles
+    texts = [title, keyword]
+    texts.extend(str(a.get("title", "")) for a in articles if isinstance(a, dict))
+    texts.extend(str(a.get("description", "")) for a in articles if isinstance(a, dict))
+    haystack = "\n".join(t for t in texts if t)
+    found: dict[str, int] = {}
+    for name, slug in _person_alias_index(people_dir):
+        idx = haystack.find(name)
+        if idx >= 0:
+            found[slug] = min(found.get(slug, idx), idx)
+    return [slug for slug, _ in sorted(found.items(), key=lambda item: (item[1], item[0]))[:limit]]
+
+
 def classify_issue_type(issue: dict[str, Any]) -> str:
     text = " ".join([issue.get("title", ""), issue.get("summary", ""), " ".join(map(str, issue.get("keywords", [])))])
     if any(t in text for t in ["정책", "일자리", "복지", "부동산", "외교", "안보", "노동", "지역", "물가", "에너지", "요금", "주거", "균형", "민생"]):
@@ -789,6 +838,7 @@ def create_issue_shell(cand: dict[str, Any]) -> str:
     source_items = []
     for a in cand.get("articles", [])[:5]:
         source_items.append({"url": a.get("url", ""), "title": a.get("title", ""), "date": (a.get("date") or today)[:10]})
+    seed_people = infer_seed_people(cand, people_dir=DATA_PEOPLE)
     data = {
         "slug": slug,
         "title_ko": cand["title"],
@@ -802,7 +852,7 @@ def create_issue_shell(cand: dict[str, Any]) -> str:
             "support": "이 쟁점의 추진·찬성·책임 추궁 등 주요 요구를 지지하는 입장",
             "oppose": "이 쟁점의 추진에 반대하거나 과도한 정치 공세·규제라고 보는 입장",
         },
-        "seed_people": [],
+        "seed_people": seed_people,
         "sources": source_items,
     }
     yaml_path.write_text(yaml.safe_dump(data, allow_unicode=True, sort_keys=False), encoding="utf-8")
