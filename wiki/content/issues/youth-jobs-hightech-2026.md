@@ -33,4 +33,5 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [이학수](/people/i-hak-su) — **지지**: 기업 유치와 투자 확대를 통해 양질의 일자리를 늘리고 청년 정착 기반을 강화하겠다고 밝혔다. [출처](https://www.eroun.net/news/articleView.html?idxno=82324)
 - [이철우](/people/i-cheol-u) — **지지**: AI·반도체·배터리·바이오 첨단산업 클러스터 조성과 청년이 돌아오는 경북을 강조했다. [출처](https://www.mk.co.kr/article/12065296)
 - [조주홍](/people/jo-ju-hong) — **지지**: 양질의 일자리 창출로 청년 인구 유출을 막고 지역 산업 기반을 구축하겠다고 밝혔다. [출처](https://www.newsis.com/view/NISX20260603_0003655172)
+- [김대중](/people/gim-dae-jung) — **지지**: 지역의 미래 산업인 AI와 반도체 인재 양성을 통해 교육 수준을 높이고 청년 일자리 기반을 키우겠다는 방향을 제시했다. [출처](https://mpmbc.co.kr/NewsArticle/1522504)
 <!-- /agent:stances -->
