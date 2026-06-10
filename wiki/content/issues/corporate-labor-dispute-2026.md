@@ -26,9 +26,8 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [노태문](/people/no-tae-mun) — **반대**: 임직원들에게 미래 경쟁력 훼손을 막기 위해 임금협상을 신중히 해달라고 당부했다. [출처](https://woman.chosun.com/news/articleView.html?idxno=125788)
 - [김영훈](/people/gim-yeong-hun) — **지지**: 고용노동부 장관은 반도체 초과이익의 사회적 재분배 필요성을 언급하며 노사 갈등 중재에 나섰다. [출처](https://www.mk.co.kr/article/12062350)
 - [이재용](/people/i-jae-yong) — **중립**: 삼성전자 노사 갈등이 총파업 직전까지 치달았을 때 직접 교섭을 주선해 타결을 이끌었다. [출처](https://www.mk.co.kr/article/12062350)
-- [양경수](/people/yang-gyeongsu) — **지지**: 삼성전자 노사 교섭에 정부와 중앙노동위원회가 중재에 나선 사례를 근거로, 성과급은 노사협상 대상이며 초과이윤은 협상으로 풀어야 한다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260610097200530?input=1195m)
-- [최승호](/people/choi-seungho) — **지지**: 삼성전자지부 위원장으로서 성과급 상한 폐지를 요구했고, 노조의 하청 이익 분배 요구를 공개적으로 설명했다. [출처](http://worknworld.kctu.org/news/articleView.html?idxno=509402)
-- [손경식](/people/son-gyeongsik) — **반대**: 주요 기업 노조의 과도한 성과급 요구가 기업 성장동력을 저해할 수 있다고 비판했다. [출처](https://www.newsis.com/view/NISX20260610_0003663125)
-- [이재명](/people/lee-jaemyung) — **중립**: 삼성전자 노사 갈등을 언급하며 초과이윤 분배 논의는 신중해야 하지만 피할 수 없는 문제라고 말했다. [출처](https://news.jtbc.co.kr/article/NB12302107?influxDiv=NAVER)
+- [양경수](/people/yang-gyeong-su) — **지지**: 삼성전자 노사 교섭에 정부와 중앙노동위원회가 중재에 나선 사례를 근거로, 성과급은 노사협상 대상이며 초과이윤은 협상으로 풀어야 한다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260610097200530?input=1195m)
+- [최승호](/people/choe-seung-ho) — **지지**: 삼성전자지부 위원장으로서 성과급 상한 폐지를 요구했고, 노조의 하청 이익 분배 요구를 공개적으로 설명했다. [출처](http://worknworld.kctu.org/news/articleView.html?idxno=509402)
+- [손경식](/people/son-gyeong-sik) — **반대**: 주요 기업 노조의 과도한 성과급 요구가 기업 성장동력을 저해할 수 있다고 비판했다. [출처](https://www.newsis.com/view/NISX20260610_0003663125)
 - [이재명](/people/i-jae-myeong) — **중립**: 삼성전자 노사 갈등과 초과이윤 분배 논의를 언급하며 신중한 접근이 필요하지만 피할 수 없는 문제라고 말했다. [출처](https://news.jtbc.co.kr/article/NB12302107?influxDiv=NAVER)
 <!-- /agent:stances -->
