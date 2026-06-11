@@ -2,7 +2,7 @@
 title: 이성룡
 slug: i-seong-ryong
 role: 울산시의회 의장
-status: stub
+status: curated
 ---
 
 ## 행적

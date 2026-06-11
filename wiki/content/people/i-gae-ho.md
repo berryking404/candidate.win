@@ -1,7 +1,7 @@
 ---
-title: 정점식
-slug: jeong-jeom-sik
-role: 국민의힘 원내대표
+title: 이개호
+slug: i-gae-ho
+role: 국회의원
 status: curated
 ---
 
@@ -13,5 +13,4 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
 <!-- /agent:stances -->

@@ -1,7 +1,7 @@
 ---
-title: 정점식
-slug: jeong-jeom-sik
-role: 국민의힘 원내대표
+title: 박은식
+slug: bak-eun-sik
+role: 산림청장
 status: curated
 ---
 
@@ -13,5 +13,4 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
 <!-- /agent:stances -->

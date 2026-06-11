@@ -1,8 +1,8 @@
 ---
-title: 정점식
-slug: jeong-jeom-sik
-role: 국민의힘 원내대표
-status: curated
+title: 곽봉근
+slug: gwak-bong-geun
+role: 인터뷰 대상자
+status: stub
 ---
 
 ## 행적
@@ -13,5 +13,4 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
 <!-- /agent:stances -->

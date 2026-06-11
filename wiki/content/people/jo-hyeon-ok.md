@@ -1,8 +1,8 @@
 ---
-title: 정점식
-slug: jeong-jeom-sik
-role: 국민의힘 원내대표
-status: curated
+title: 조현옥
+slug: jo-hyeon-ok
+role: 중앙선관위 진상규명위원장
+status: stub
 ---
 
 ## 행적
@@ -13,5 +13,4 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
 <!-- /agent:stances -->

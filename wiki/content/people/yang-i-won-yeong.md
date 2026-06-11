@@ -2,7 +2,7 @@
 title: 양이원영
 slug: yang-i-won-yeong
 role: 전 한전기술 감사 지원 관련 인터뷰 인물
-status: stub
+status: curated
 ---
 
 ## 행적

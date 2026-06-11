@@ -2,7 +2,7 @@
 title: 안도걸
 slug: an-do-geol
 role: 더불어민주당 중동전쟁 경제대응특별위원회 간사
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 유승민
 slug: yu-seung-min
 role: 국민의힘 의원
-status: stub
+status: curated
 ---
 
 ## 행적

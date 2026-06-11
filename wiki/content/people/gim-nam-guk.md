@@ -2,7 +2,7 @@
 title: 김남국
 slug: gim-nam-guk
 role: 정치인
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 원민경
 slug: won-min-gyeong
 role: 성평등가족부 장관
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 김성태
 slug: gim-seong-tae
 role: 정치인
-status: stub
+status: curated
 ---
 
 ## 행적

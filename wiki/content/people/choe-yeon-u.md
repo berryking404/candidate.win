@@ -2,7 +2,7 @@
 title: 최연우
 slug: choe-yeon-u
 role: 부산대학교 총학생회장
-status: stub
+status: curated
 ---
 
 ## 행적

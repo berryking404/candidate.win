@@ -2,7 +2,7 @@
 title: 김영선
 slug: gim-yeong-seon
 role: 전 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적

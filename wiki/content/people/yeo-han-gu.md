@@ -2,7 +2,7 @@
 title: 여한구
 slug: yeo-han-gu
 role: 산업통상부 통상교섭본부장
-status: stub
+status: curated
 ---
 
 ## 행적
