@@ -43,4 +43,8 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [조현일](/people/jo-hyeon-il) — **중립**: 지역 청년 맞춤 일자리 창출을 추진했지만, 이슈에 대한 직접 입장은 드러나지 않았다. [출처](https://www.metroseoul.co.kr/article/20260612500160)
 - [김용범](/people/gim-yong-beom) — **지지**: 한-이탈리아 미래산업 협력 확대를 언급하며 첨단산업 기반 강화에 힘을 실었다. [출처](https://www.newspim.com/news/view/20260613000058)
 - [함영주](/people/ham-yeong-ju) — **지지**: 첨단산업과 전통산업을 아우르는 포용금융 필요성을 강조했다. [출처](https://www.viva100.com/article/20260613500137)
+- [강기훈](/people/gang-gi-hun) — **지지**: AI 기반 채용 확산에 대응한 청년 취업 지원 프로그램 운영을 통해 청년 일자리 대응에 나섰다. [출처](https://www.naeil.com/news/read/591781?ref=naver)
+- [순천향대](/people/suncheonhyangdae) — **지지**: 첨단산업 인재양성 부트캠프(AI 분야) 사업으로 청년 첨단인재 양성에 나섰다. [출처](https://www.naeil.com/news/read/591775?ref=naver)
+- [젠슨 황](/people/jen-seun-hwang) — **지지**: AI 반도체 생태계와 인재 유치가 한국 첨단산업 경쟁력의 핵심이라는 메시지를 전했다. [출처](https://www.g-enews.com/view.php?ud=202606062026371790906806b77b_1)
+- [구자은](/people/gu-ja-eun) — **지지**: 한국과 이탈리아의 첨단산업 협력 확대 필요성을 언급했다. [출처](http://www.whitepaper.co.kr/news/articleView.html?idxno=263498)
 <!-- /agent:stances -->
