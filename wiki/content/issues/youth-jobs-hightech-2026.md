@@ -34,4 +34,13 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [이철우](/people/i-cheol-u) — **지지**: AI·반도체·배터리·바이오 첨단산업 클러스터 조성과 청년이 돌아오는 경북을 강조했다. [출처](https://www.mk.co.kr/article/12065296)
 - [조주홍](/people/jo-ju-hong) — **지지**: 양질의 일자리 창출로 청년 인구 유출을 막고 지역 산업 기반을 구축하겠다고 밝혔다. [출처](https://www.newsis.com/view/NISX20260603_0003655172)
 - [김대중](/people/gim-dae-jung) — **지지**: 지역의 미래 산업인 AI와 반도체 인재 양성을 통해 교육 수준을 높이고 청년 일자리 기반을 키우겠다는 방향을 제시했다. [출처](https://mpmbc.co.kr/NewsArticle/1522504)
+- [최창우](/people/choe-chang-u) — **중립**: 대전의 연구개발·창업 인프라와 청년 지원을 강조했지만, 이슈에 대한 직접 찬반 입장은 드러나지 않았다. [출처](http://www.chungnamilbo.co.kr/news/articleView.html?idxno=893422)
+- [장동혁](/people/jang-dong-hyeok) — **중립**: 청년 취업 감소를 비판했으나, 첨단산업 육성 정책 자체에 대한 직접 입장은 확인되지 않았다. [출처](https://www.news1.kr/politics/assembly/6196435)
+- [구윤철](/people/gu-yun-cheol) — **지지**: 청년고용 회복을 위해 ‘청년뉴딜’과 첨단산업 부트캠프 집행을 강조했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=04447686645481064)
+- [이재용](/people/i-jae-yong) — **지지**: AI·반도체·항공우주 등 첨단산업 협력 확대 필요성을 강조했다. [출처](https://www.etnews.com/20260613000022)
+- [이재명](/people/i-jae-myeong) — **지지**: AI·반도체·항공우주 같은 전략 첨단산업 협력을 핵심 과제로 제시했다. [출처](https://www.korea.kr/news/policyNewsView.do?newsId=148966450&call_from=naver_news)
+- [황정아](/people/hwang-jeong-a) — **지지**: 대덕특구를 중심으로 AI·반도체·바이오·방산 등 첨단산업 육성에 속도를 내자고 했다. [출처](https://www.news1.kr/local/daejeon-chungnam/6195617)
+- [조현일](/people/jo-hyeon-il) — **중립**: 지역 청년 맞춤 일자리 창출을 추진했지만, 이슈에 대한 직접 입장은 드러나지 않았다. [출처](https://www.metroseoul.co.kr/article/20260612500160)
+- [김용범](/people/gim-yong-beom) — **지지**: 한-이탈리아 미래산업 협력 확대를 언급하며 첨단산업 기반 강화에 힘을 실었다. [출처](https://www.newspim.com/news/view/20260613000058)
+- [함영주](/people/ham-yeong-ju) — **지지**: 첨단산업과 전통산업을 아우르는 포용금융 필요성을 강조했다. [출처](https://www.viva100.com/article/20260613500137)
 <!-- /agent:stances -->
