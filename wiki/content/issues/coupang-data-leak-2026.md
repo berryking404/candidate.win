@@ -29,4 +29,6 @@ summary: 쿠팡 대규모 개인정보 유출과 정부·정치권·시민사회
 - [여한구](/people/yeo-han-gu) — **중립**: 쿠팡 개인정보 유출 사태에 대한 미국 측 우려와 통상 현안을 설명하는 역할로 언급됐지만, 이슈 자체에 대한 찬반 입장은 확인되지 않았다. [출처](https://www.ytn.co.kr/_ln/0104_202601142134185302)
 - [고학수](/people/go-hak-su) — **지지**: 쿠팡의 개인정보 유출·조사방해·불법 수집 정황을 근거로 역대 최대 규모의 과징금 처분을 의결했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8584842&ref=A)
 - [박대준](/people/bak-dae-jun) — **미확인**: 쿠팡 측은 과징금 처분에 불복해 행정소송 방침을 밝혔다. [출처](https://economist.co.kr/article/view/ecn202606130014)
+- [쿠팡](? ) — **미확인**: 쿠팡의 개인정보 유출과 과징금 부과가 보도됐고, 관련 규제 불확실성 해소와 보안관리 비판이 함께 제기됐다. [출처](https://www.sedaily.com/article/20055294?ref=naver)
+- [세계일보](? ) — **미확인**: 쿠팡의 보안관리 실태와 대미 통상 파장에 대한 사설성 평가를 실었다. [출처](https://www.mediatoday.co.kr/news/articleView.html?idxno=335136)
 <!-- /agent:stances -->
