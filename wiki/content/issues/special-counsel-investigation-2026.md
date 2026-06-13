@@ -15,7 +15,6 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [정청래](/people/jeong-cheong-rae) — **지지**: 탄핵당한 대통령의 유세 지원을 강하게 비판하며 탄핵 정국에서의 책임 추궁 필요성을 강조했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008580778&plink=ORI&cooper=NAVER)
 - [정청래](/people/jeong-cheong-rae) — **지지**: 윤석열 탄핵과 특검 수사를 정당한 책임 추궁으로 보며, 탄핵당한 세력을 강하게 비판했다. [출처](https://www.mt.co.kr/politics/2026/05/28/2026052808291390331)
 - [정청래](/people/jeong-cheong-rae) — **지지**: 윤석열 전 대통령과 관련 전직 대통령들의 공개 행보를 비판하며 정치적 책임론을 제기했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8574266&ref=A)
-- [조승래](/people/jo-seung-rae) — **중립**: 단일화 재개와 관련해 정치적 조정 입장을 밝혔지만 특검·탄핵 사안에 대한 직접 입장은 확인되지 않았다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=04870806645453184&returntp=election)
 - [윤석열](/people/yun-seok-yeol) — **중립**: 특검 수사와 탄핵 소추가 이어지는 사안의 중심 당사자로, 혐의 여부를 다투는 보도가 반복됐다. [출처](https://www.nocutnews.co.kr/news/6525151?utm_source=naver&utm_medium=article&utm_campaign=20260530093338)
 - [윤석열](/people/yun-seok-yeol) — **반대**: 특검 수사와 탄핵 절차를 정치적 공세로 비판하는 맥락의 보도가 있었다. [출처](https://www.fntoday.co.kr/news/articleView.html?idxno=384208)
 - [한덕수](/people/han-deok-su) — **중립**: 탄핵 소추 이후 헌법재판관 미임명 및 박성재 수첩 증거 공방의 핵심 당사자로 거론됐다. [출처](https://www.yna.co.kr/view/AKR20260529149000004?input=1195m)
@@ -26,6 +25,5 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [송언석](/people/song-eon-seok) — **중립**: 서울시 압수수색을 '청와대 선거개입 시즌2'로 규정하며 관권선거 의혹을 제기했다. [출처](https://www.news1.kr/politics/assembly/6181506)
 - [박민식](/people/bak-min-sik) — **반대**: 윤석열 탄핵 반대 집회와 노숙농성에 참여한 것으로 보도됐다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003239674&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [이용](/people/i-yong) — **반대**: 윤 전 대통령 체포 저지에 나선 행보가 보도됐다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003239674&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
-- [명태균](/people/myeong-tae-gyun) — **중립**: 공천 개입 의혹 및 관련 수사·재판 보도의 핵심 인물로 언급됐다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1263359.html)
 - [한동훈](/people/han-dong-hun) — **중립**: 특검과 탄핵 국면을 두고 공소취소 문제와 탄핵 가능성을 언급했다. [출처](https://www.dailian.co.kr/news/view/1655527/?sc=Naver)
 <!-- /agent:stances -->

@@ -11,7 +11,6 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 <!-- agent:stances -->
 - [김광민](/people/gim-gwang-min) — **중립**: 민주연구원 부원장으로서 성희롱·성차별 논쟁에 대해 페미니즘과 표현의 해석 문제를 제기하는 반박 글을 썼다. [출처](https://www.mk.co.kr/article/12036394)
 - [이효린](/people/i-hyo-rin) — **중립**: AI 학습 데이터에 반영된 성차별과 폭력을 감시할 젠더 관점의 필요성을 강조했으나, 특정 찬반 입장은 드러나지 않았다. [출처](https://www.obsnews.co.kr/news/articleView.html?idxno=1523578)
-- [정원오](/people/jeong-won-o) — **중립**: 시민 의견 플랫폼에서 후보 비방이나 혐오 발언을 거르는 기능을 언급하며 관리 필요성을 설명했지만, 젠더 갈등 자체에 대한 직접 입장은 드러나지 않았다. [출처](http://www.fnnews.com/news/202605111251041677)
 - [조전혁](/people/jo-jeon-hyeok) — **반대**: 동성애 교육 추방을 내건 교육감 선거 맥락에서 혐오·차별 확산에 반대하는 현수막 논쟁의 당사자로 거론됐다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003236857&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [이재명](/people/i-jae-myeong) — **반대**: 일베의 여성·장애인 혐오와 지역 차별을 지적하며 폐쇄 검토를 지시했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8568848&ref=A)
 - [나경원](/people/na-gyeong-won) — **중립**: 이번 수집 기사에서는 젠더 갈등 이슈와 관련해 직접적인 찬반 입장보다 과거 여성 혐오 표현 논란과 사과 사실이 함께 언급됐다. [출처](https://www.imnews.imbc.com/replay/2026/nwtoday/article/6825184_37012.html)
@@ -24,8 +23,8 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [원선욱](/people/won-seon-uk) — **지지**: 위안부 명예훼손 처벌 근거가 마련돼 혐오와 역사 왜곡을 막는 진전이라고 밝혔다. [출처](https://www.kihoilbo.co.kr/news/articleView.html?idxno=3024961)
 - [김나율](/people/gim-na-yul) — **지지**: 성소수자 여성으로서 정의당 지지 연설에 참여하며 혐오 정치에 맞선 진영의 일원으로 언급됐다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003239782&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [원민경](/people/won-min-gyeong) — **중립**: ‘청년 공존·공감네트워크’가 서로의 차이를 이해하고 해법을 모색하는 소통 공간이 되길 기대한다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260610035500530?input=1195m)
-- [원민경](/people/won-minkyeong) — **지지**: 청년층 젠더 갈등 완화, 여성폭력 범죄 강력 대응, 고용평등 공시제 입법을 하반기 핵심 과제로 제시했다. [출처](https://www.mt.co.kr/policy/2026/06/12/2026061119543180880)
-- [이경숙](/people/lee-gyeongsuk) — **지지**: 젠더 갈등의 구조적 원인을 증거 기반 데이터로 분석하고 공론화를 추진하겠다고 설명했다. [출처](https://news.cpbc.co.kr/article/1173583?division=NAVER)
-- [김지수](/people/kim-jisoo) — **지지**: 청년특위 위원장으로 2030 세대의 젠더 갈등 해소를 위한 참여 구조를 맡았다. [출처](https://www.sisajournal.com/news/articleView.html?idxno=376211)
-- [최욱](/people/choi-wook) — **반대**: 방송 발언에서 2030 남성의 보수화와 혐오 발언을 다루며 논란을 일으켰고, 이후 사과했다. [출처](https://www.seoul.co.kr/news/society/accident/2026/06/11/20260611500239?wlog_tag3=naver)
+- [원민경](/people/won-min-gyeong) — **지지**: 청년층 젠더 갈등 완화, 여성폭력 범죄 강력 대응, 고용평등 공시제 입법을 하반기 핵심 과제로 제시했다. [출처](https://www.mt.co.kr/policy/2026/06/12/2026061119543180880)
+- [이경숙](/people/i-gyeong-suk) — **지지**: 젠더 갈등의 구조적 원인을 증거 기반 데이터로 분석하고 공론화를 추진하겠다고 설명했다. [출처](https://news.cpbc.co.kr/article/1173583?division=NAVER)
+- [김지수](/people/gim-ji-su) — **지지**: 청년특위 위원장으로 2030 세대의 젠더 갈등 해소를 위한 참여 구조를 맡았다. [출처](https://www.sisajournal.com/news/articleView.html?idxno=376211)
+- [최욱](/people/choe-uk) — **반대**: 방송 발언에서 2030 남성의 보수화와 혐오 발언을 다루며 논란을 일으켰고, 이후 사과했다. [출처](https://www.seoul.co.kr/news/society/accident/2026/06/11/20260611500239?wlog_tag3=naver)
 <!-- /agent:stances -->
