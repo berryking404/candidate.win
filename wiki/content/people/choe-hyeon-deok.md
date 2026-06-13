@@ -9,6 +9,7 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
+- 2026-06-13: 민생경제 활성화를 새 시정의 우선 과제로 삼겠다고 밝혔다. [출처](http://www.breaknews.com/1213906)
 <!-- /agent:events -->
 
 ## 이슈별 입장

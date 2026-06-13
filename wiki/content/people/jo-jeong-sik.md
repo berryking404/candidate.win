@@ -9,6 +9,7 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
+- 2026-06-11: 민생법안협의체 구성을 제안하며 민생법안 처리 속도를 높이자고 했다. [출처](https://www.viewsnnews.com/article?q=236432)
 <!-- /agent:events -->
 
 ## 이슈별 입장

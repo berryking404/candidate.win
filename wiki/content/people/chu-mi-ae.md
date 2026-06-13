@@ -9,6 +9,7 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
+- 2026-06-13: 민주주의의 가치와 민생 회복을 실현하겠다고 밝혔다. [출처](http://www.beyondpost.co.kr/view.php?ud=2026061317180743654c878f8fa1_30)
 <!-- /agent:events -->
 
 ## 이슈별 입장

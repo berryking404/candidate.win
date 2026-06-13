@@ -9,7 +9,7 @@ party: 국민의힘
 ## 행적
 
 <!-- agent:events -->
-- 2026-06-13: 칠성시장을 찾아 전통시장 소상공인 의견을 듣고 시장 현실에 맞는 지원 체계와 의사결정 구조 개선을 검토하겠다고 했다. [출처](https://www.kbmaeil.com/article/20260613500148)
+- 2026-06-13: 민생경제 회복과 지역 현안 대응에 역량을 집중하겠다고 밝혔다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=733981)
 <!-- /agent:events -->
 
 ## 이슈별 입장
