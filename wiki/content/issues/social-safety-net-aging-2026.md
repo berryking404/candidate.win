@@ -38,4 +38,9 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [우승희](/people/u-seung-hui) — **지지**: 통합돌봄 전국화와 공공은행, 청년·교통 지원을 공약으로 제시해 복지·안전망 확대에 명확히 우호적이었다. [출처](https://www.newsis.com/view/NISX20260603_0003655054)
 - [송인헌](/people/song-in-heon) — **지지**: 노인복지 확대와 청년 정착 기반 조성을 군정 과제로 제시해 고령화 대응과 복지 강화에 우호적이었다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=306429)
 - [조병옥](/people/jo-byeong-ok) — **지지**: 청년 주거지원과 일자리, 노인복지 강화를 함께 약속해 생애주기별 사회안전망 확충에 우호적이었다. [출처](https://www.newsis.com/view/NISX20260603_0003655133)
+- [고성곤](/people/go-seong-gon) — **지지**: 요리교실이 홀몸 어르신의 영양 불균형을 해소하는 사회적 안전망 역할을 한다고 강조했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3607575)
+- [문정복](/people/mun-jeong-bok) — **지지**: 교도소를 사회 복귀와 재범 예방을 위한 중요한 사회안전망으로 규정하며 제도적 지원 필요성을 언급했다. [출처](http://www.jejunews.com/news/articleView.html?idxno=2226086)
+- [윤영석](/people/yun-yeong-seok) — **혼합**: 핵심 사회안전망의 지속가능성을 위해 재정 위험의 투명한 공개와 연금개혁, 사회적 합의가 필요하다고 강조했다. [출처](https://www.pinpointnews.co.kr/news/articleView.html?idxno=459692)
+- [진옥동](/people/jin-ok-dong) — **지지**: 금융회사가 금융 사각지대를 줄이며 사회 안전망 역할을 해야 한다는 포용금융 구상을 제시했다. [출처](https://www.ppss.kr/news/articleView.html?idxno=298709)
+- [김성아](/people/gim-seong-a) — **지지**: 최소한의 삶을 유지하게 하는 사회안전망과 사회보장의 필요성을 강조하며 청년복지 강화를 언급했다. [출처](https://www.nocutnews.co.kr/news/6530280?utm_source=naver&utm_medium=article&utm_campaign=20260613053024)
 <!-- /agent:stances -->
