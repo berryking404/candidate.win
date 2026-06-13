@@ -1,0 +1,15 @@
+slug: bak-dae-jun
+name_ko: 박대준
+name_en: null
+party: null
+role: 전 쿠팡 대표
+status: stub
+aliases:
+- 박대준 전 쿠팡 대표
+- 쿠팡 박대준
+discovered_via_issue: coupang-data-leak-2026
+discovered_at: '2026-06-13'
+sources:
+  news_keywords:
+  - 박대준
+  youtube_channels: []
