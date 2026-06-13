@@ -9,8 +9,7 @@ party: 국민의힘
 ## 행적
 
 <!-- agent:events -->
-- 2026-04-24: 정동영 통일부 장관의 발언이 한미동맹 위기를 초래했다며 해임결의안 제출을 포함한 대응을 주도했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8545166&ref=A)
-- 2026-05-26: 수도권 유세에서 경제 파탄과 민생 붕괴를 막아야 한다고 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8570830&ref=A)
+- 2026-06-13: 6·3 지방선거 투표용지 부족 사태와 관련해 재선거와 특검 도입, 선관위 해체 수준의 개혁을 요구했다. [출처](https://www.ytn.co.kr/_ln/0101_202606131953356135)
 <!-- /agent:events -->
 
 ## 이슈별 입장
@@ -26,4 +25,5 @@ party: 국민의힘
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **중립**: 공천 과정의 내부 갈등을 둘러싼 당 지도부의 축으로 언급됐다. [출처](https://www.joongang.co.kr/article/25431549)
 - [물가 안정과 에너지 요금 부담 (2026)](/issues/energy-price-inflation-2026) — **반대**: 고유가 피해지원금을 선거용 매표로 비판하며 지급 정책에 반대했다. [출처](https://weekly.chosun.com/news/articleView.html?idxno=51487)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 국민의힘 유세에서 경제 파탄과 민생 붕괴를 막아야 한다며 정권 심판과 민생 회복을 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8570830&ref=A)
+- [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 투표용지 부족 사태를 선관위의 중대한 관리 실패로 규정하고 재선거·특검·국정조사와 해체 수준 개혁을 요구했다. [출처](https://www.ytn.co.kr/_ln/0101_202606131953356135)
 <!-- /agent:stances -->
