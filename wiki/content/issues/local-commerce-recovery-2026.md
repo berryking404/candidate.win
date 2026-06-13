@@ -70,4 +70,12 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이원택](/people/i-won-taek) — **지지**: 자영업자와 소상공인을 육성·지원해 성장시키는 것을 인수위 활동의 중심에 두겠다고 말했다. [출처](http://www.jmbc.co.kr/news/view/65409)
 - [추경호](/people/chu-gyeong-ho) — **지지**: 취임 즉시 비상경제상황실과 대책회의를 가동해 가계와 골목상권을 살리겠다고 밝혔다. [출처](https://www.eroun.net/news/articleView.html?idxno=82843)
 - [조지훈](/people/jo-ji-hun) — **지지**: 기업인과 소상공인을 현장 중심으로 만나며 실물경제 지원 체계를 구축해 왔다고 소개했다. [출처](https://sjbnews.com/news/news.php?number=880274)
+- [김민석](/people/gim-min-seok) — **지지**: 남해군 사례처럼 기본소득이 지역 소비와 소상공인 상권 회복, 귀촌 청년 창업, 마을공동체 활성화로 이어져야 한다고 밝혔다. [출처](https://www.nongmin.com/article/20260612500568)
+- [윤경희](/people/yun-gyeong-hui) — **지지**: 농어촌 기본소득을 지역 내 소비·생산 선순환과 공동체 회복을 이끄는 지역 활력 정책으로 평가했다. [출처](https://www.dkilbo.com/news/articleView.html?idxno=546120)
+- [김미경](/people/gim-mi-gyeong) — **지지**: 은평구 소상공인 온라인 홍보 지원사업을 추진하며 소상공인 매출 회복을 돕는 사업을 마련했다. [출처](http://www.enewstoday.co.kr/news/articleView.html?idxno=2438437)
+- [장기수](/people/jang-gi-su) — **지지**: 전통시장과 골목상권 지원, 청년 창업 활성화 등을 우선순위로 두고 지역 내 소비 촉진을 약속했다. [출처](https://daily.hankooki.com/news/articleView.html?idxno=1376251)
+- [조현일](/people/jo-hyeon-il) — **지지**: 전통시장 방문과 함께 골목상권 활성화 방안을 모색하며 지역경제 활성화에 방점을 찍었다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=733964)
+- [박동식](/people/bak-dong-sik) — **지지**: 소상공인·자영업자 지원과 지역 상권 활성화를 통해 민생경제 회복을 이루겠다고 말했다. [출처](https://view.asiae.co.kr/article/2026061216472111751)
+- [강진원](/people/gang-jin-won) — **지지**: 소상공인들이 지원제도를 제대로 활용하고 경영 안정을 이루도록 밀착 지원하겠다고 밝혔다. [출처](https://sports.donga.com/region/article/all/20260613/134104760/1)
+- [김상욱](/people/gim-sang-uk) — **지지**: 다른 지역의 소상공인 지원 조례를 참고해 상권 공실 문제 해결책을 시의회와 모색하겠다고 했다. [출처](https://www.news1.kr/local/ulsan/6196322)
 <!-- /agent:stances -->
