@@ -2,13 +2,16 @@ slug: choe-gyu-yeop
 name_ko: 최규엽
 name_en: null
 party: null
-role: 정책자문위원
-status: stub
+role: 전 민주노동당 최고위원
+status: curated
 aliases:
+- 최규엽
+- 최규엽 전 최고위원
 - 최규엽 정책자문위원
 discovered_via_issue: opcon-transfer-2026
 discovered_at: '2026-06-10'
 sources:
   news_keywords:
   - 최규엽
+  - 최규엽 민주노동당 최고위원
   youtube_channels: []

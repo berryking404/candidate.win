@@ -1,8 +1,8 @@
 ---
 title: 김보명
 slug: gim-bo-myeong
-role: 이화여대 교수
-status: stub
+role: 이화여대 여성학과 부교수
+status: curated
 ---
 
 ## 행적

@@ -1,8 +1,8 @@
 ---
 title: 최규엽
 slug: choe-gyu-yeop
-role: 정책자문위원
-status: stub
+role: 전 민주노동당 최고위원
+status: curated
 ---
 
 ## 행적

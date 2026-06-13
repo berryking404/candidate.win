@@ -1,8 +1,8 @@
 ---
 title: 민소영
 slug: min-so-yeong
-role: 송파구 선거관리위원장
-status: stub
+role: 전 송파구 선거관리위원장
+status: curated
 ---
 
 ## 행적
