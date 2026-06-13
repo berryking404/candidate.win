@@ -14,4 +14,7 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [윤재순](/people/yun-jae-sun) — **중립**: 관저 이전 의혹 수사에서 김대기 전 대통령비서실장 등과 함께 기소 대상에 포함된 것으로 보도됐다. [출처](https://www.news1.kr/society/court-prosecution/6192314)
 - [김오진](/people/gim-o-jin) — **중립**: 관저 이전 의혹 수사에서 김대기 전 대통령비서실장 등과 함께 기소 대상에 포함된 것으로 보도됐다. [출처](https://www.yna.co.kr/view/AKR20260609115600004?input=1195m)
 - [김도형](/people/gim-do-hyeong) — **중립**: 전 강원경찰청장으로서 통일교 수사 무마 의혹과 관련해 종합특검 조사를 받은 것으로 보도됐다. [출처](https://news.bbsi.co.kr/news/articleView.html?idxno=4088149)
+- [신원식](/people/sin-won-sik) — **미확인**: 계엄 정당화 메시지 전달 경위와 관련해 종합특검에 소환돼 조사받았다. [출처](https://www.segye.com/newsView/20260610511750?OutUrl=naver)
+- [이상민](/people/i-sang-min) — **미확인**: 관저 이전 예산 전용 의혹과 관련해 종합특검이 기소했으며, 이슈 전반의 수사 대상에 포함됐다. [출처](https://www.khan.co.kr/article/202606092104015)
+- [김도형](/people/gim-do-hyeong) — **미확인**: 통일교 수사 무마 의혹과 관련해 종합특검의 피의자 조사 대상이 됐다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=1780999164&code=11131000&cp=nv)
 <!-- /agent:stances -->
