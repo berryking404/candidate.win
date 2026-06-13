@@ -9,8 +9,9 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
-- 2026-06-10: 전시작전통제권을 조속한 시일 내 환수하겠다는 정부 방침을 밝혔다. [출처](https://www.mt.co.kr/politics/2026/06/10/2026061017092378552)
-- 2026-06-08: 외교·안보 성과로 핵잠수함 도입과 조기 전작권 환수 추진을 거론했다. [출처](https://www.newsis.com/view/NISX20260604_0003655845)
+- 2026-06-11: 이탈리아 일간지 인터뷰와 관련 보도에서 전시작전통제권 환수와 국방 투자 확대 추진 의지를 재확인했다. [출처](https://www.chosun.com/politics/politics_general/2026/06/11/KDM2KWBT5BHZPH5BTAY24UBZQU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
+- 2026-06-11: 미국과의 경제협력 확대와 안보 자율성 강화를 함께 추진하겠다고 밝혔다. [출처](https://www.news1.kr/politics/president/6194636)
+- 2026-06-11: 전시작전통제권 환수와 국방비 증액이 한미동맹의 방향과 맞닿아 있다고 강조했다. [출처](https://www.seoul.co.kr/news/politics/president/2026/06/12/20260612006006?wlog_tag3=naver)
 <!-- /agent:events -->
 
 ## 이슈별 입장
