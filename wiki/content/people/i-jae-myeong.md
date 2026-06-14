@@ -17,6 +17,7 @@ party: 더불어민주당
 ## 이슈별 입장
 
 <!-- agent:stances -->
+- [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **혼합**: 한일 군수지원협정의 현실적 필요성은 인정하면서도, 국민정서와 과거사 문제 때문에 현 시점에서는 받아들이기 어렵다는 신중론을 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260608102000001)
 - [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **중립**: 지역균형발전과 지방소멸 대응의 필요성을 강조하는 기사 맥락은 있으나, 해당 이슈에 대한 직접적인 찬반 입장은 확인되지 않습니다. [출처](https://www.sportsseoul.com/news/read/1608562?ref=naver)
 - [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **지지**: 지역 균형 발전을 추진해야 한다는 취지의 발언이 확인됐다. [출처](https://www.ikbc.co.kr/article/view/kbc202605290067)
 - [전시작전통제권(전작권) 전환 추진과 안보 논쟁 (2026)](/issues/opcon-transfer-2026) — **지지**: 임기 내 전작권 전환 완료 목표를 제시하고 FOC 검증을 추진하는 기조를 보였다. [출처](https://www.yna.co.kr/view/AKR20260512089300504?input=1195m)

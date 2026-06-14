@@ -19,6 +19,7 @@ stances:
   support: "한일 ACSA 체결 또는 검토가 북한 핵·미사일 위협 대응, 한미일 안보협력, 유엔사 후방기지·주일미군 지원 등 군수 효율성과 억지력 강화를 위해 필요하다고 보는 입장"
   oppose: "한일 ACSA 체결 또는 논의가 일본 자위대의 한반도 관여 통로가 되거나 과거사·국민정서·전쟁 연루 위험을 키운다고 보고 중단 또는 신중 접근을 요구하는 입장"
 seed_people:
+  - gim-seon-ho
   - i-jae-myeong
   - an-gyu-baek
 sources:
