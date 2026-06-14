@@ -26,4 +26,5 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [박민식](/people/bak-min-sik) — **반대**: 윤석열 탄핵 반대 집회와 노숙농성에 참여한 것으로 보도됐다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003239674&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [이용](/people/i-yong) — **반대**: 윤 전 대통령 체포 저지에 나선 행보가 보도됐다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003239674&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [한동훈](/people/han-dong-hun) — **중립**: 특검과 탄핵 국면을 두고 공소취소 문제와 탄핵 가능성을 언급했다. [출처](https://www.dailian.co.kr/news/view/1655527/?sc=Naver)
+- [박찬대](/people/bak-chan-dae) — **지지**: 탄핵심판과 특검 출범 필요성을 강조하며 관련 수사·추진을 지지하는 취지로 발언했다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1263406.html)
 <!-- /agent:stances -->

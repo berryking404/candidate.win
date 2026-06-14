@@ -19,4 +19,5 @@ party: 더불어민주당
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **중립**: 환율·경제 전문성 논쟁의 중심에 있었으나 이번 이슈에서 직접적인 민생 집중 메시지는 제한적이었다. [출처](https://www.dailian.co.kr/news/view/1648043/?sc=Naver)
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **지지**: 인천시장 선거에서 민주당 후보로 공천돼 경쟁했다. [출처](https://biz.heraldcorp.com/article/10756575?ref=naver)
 - [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **지지**: 청라 발전 가속화와 광역교통망 확충을 통한 지역 성장 의지를 밝혔다. [출처](https://www.kyeongin.com/article/1764604)
+- [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **지지**: 공소취소 특검을 비판하며 특검을 통한 책임 추궁 필요성을 강조했다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1263406.html)
 <!-- /agent:stances -->
