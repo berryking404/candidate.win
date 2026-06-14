@@ -39,4 +39,5 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [황정아](/people/hwang-jeong-a) — **지지**: 대덕특구를 중심으로 AI·반도체·바이오·방산 등 첨단산업 육성에 속도를 내자고 했다. [출처](https://www.news1.kr/local/daejeon-chungnam/6195617)
 - [김용범](/people/gim-yong-beom) — **지지**: 한-이탈리아 미래산업 협력 확대를 언급하며 첨단산업 기반 강화에 힘을 실었다. [출처](https://www.newspim.com/news/view/20260613000058)
 - [함영주](/people/ham-yeong-ju) — **지지**: 첨단산업과 전통산업을 아우르는 포용금융 필요성을 강조했다. [출처](https://www.viva100.com/article/20260613500137)
+- [정순진](/people/pending) — **지지**: 청년 일자리 사업 연계와 특성화고 지원을 통해 지역 밀착형 인재 양성을 강조했다. [출처](https://www.iusm.co.kr/news/articleView.html?idxno=1063999)
 <!-- /agent:stances -->
