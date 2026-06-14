@@ -15,4 +15,5 @@ party: 국민의힘
 
 <!-- agent:stances -->
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **반대**: 김경수와의 초박빙 대결 속 보수 진영의 수성 대상로 거론됐다. [출처](https://www.busan.com/view/busan/view.php?code=2026053109231336554)
+- [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **지지**: 지역 간 상생과 균형발전을 도정의 핵심 과제로 보고 중앙부처·지자체 협의를 추진하겠다고 밝혔다. [출처](https://www.gndomin.com/news/articleView.html?idxno=478518)
 <!-- /agent:stances -->
