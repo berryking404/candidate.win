@@ -19,4 +19,5 @@ party: 국민의힘
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **반대**: 부산 북갑 보수 진영 단일화 논의에서 완주 의지를 보이며 상대 후보 정리를 둘러싼 갈등을 드러냈다. [출처](https://www.newsis.com/view/NISX20260522_0003641604)
 - [윤석열 정부 10.23 비상계엄 선포 및 해제 사태 (2025)](/issues/martial-law-incident-2025) — **반대**: 계엄 해제 표결을 주도하고 윤석열 전 대통령 탄핵에 찬성한 것으로 보도됐다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=0029781979&code=61111111&cp=nv)
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **중립**: 특검과 탄핵 국면을 두고 공소취소 문제와 탄핵 가능성을 언급했다. [출처](https://www.dailian.co.kr/news/view/1655527/?sc=Naver)
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 자신에 대한 출국금지 연장을 두고 종합특검을 강하게 비판했다. [출처](https://www.hankyung.com/article/2026061235157)
 <!-- /agent:stances -->
