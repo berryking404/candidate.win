@@ -43,4 +43,5 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [윤영석](/people/yun-yeong-seok) — **혼합**: 핵심 사회안전망의 지속가능성을 위해 재정 위험의 투명한 공개와 연금개혁, 사회적 합의가 필요하다고 강조했다. [출처](https://www.pinpointnews.co.kr/news/articleView.html?idxno=459692)
 - [진옥동](/people/jin-ok-dong) — **지지**: 금융회사가 금융 사각지대를 줄이며 사회 안전망 역할을 해야 한다는 포용금융 구상을 제시했다. [출처](https://www.ppss.kr/news/articleView.html?idxno=298709)
 - [김성아](/people/gim-seong-a) — **지지**: 최소한의 삶을 유지하게 하는 사회안전망과 사회보장의 필요성을 강조하며 청년복지 강화를 언급했다. [출처](https://www.nocutnews.co.kr/news/6530280?utm_source=naver&utm_medium=article&utm_campaign=20260613053024)
+- [정은경](/people/jung-eun-kyung) — **지지**: 고령화와 돌봄 수요 증가에 대응해 통합돌봄 체계 구축과 사회안전망 강화를 추진하고 있다. [출처](https://www.news1.kr/bio/welfare-medical/6195804)
 <!-- /agent:stances -->
