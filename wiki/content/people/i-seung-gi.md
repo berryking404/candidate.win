@@ -1,8 +1,8 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
-status: curated
+title: 이승기
+slug: i-seung-gi
+role: 가수
+status: stub
 ---
 
 ## 행적

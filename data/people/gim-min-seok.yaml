@@ -3,7 +3,7 @@ name_ko: 김민석
 name_en: null
 party: null
 role: 국무총리
-status: stub
+status: curated
 aliases:
 - 김민석 국무총리
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김민석
   youtube_channels: []
+  official_urls:
+  - https://www.opm.go.kr/opm/prime/profile.do

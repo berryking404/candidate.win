@@ -2,7 +2,7 @@
 title: 문정복
 slug: mun-jeong-bok
 role: 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적

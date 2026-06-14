@@ -3,7 +3,7 @@ name_ko: 한기호
 name_en: null
 party: null
 role: 국회의원
-status: stub
+status: curated
 aliases:
 - 한기호
 discovered_via_issue: opcon-transfer-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 한기호
   youtube_channels: []
+  official_urls:
+  - http://data.nec.go.kr/lod/browser/detail.do?browseType=WIN_CANDIDATE&resourceNo=Cnddt_100153083220240410

@@ -3,7 +3,7 @@ name_ko: 최창우
 name_en: null
 party: null
 role: 대전일자리경제진흥원장
-status: stub
+status: curated
 aliases:
 - 최창우 진흥원장
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최창우
   youtube_channels: []
+  profile_urls:
+  - https://www.sedaily.com/article/14141405

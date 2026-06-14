@@ -1,8 +1,8 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
-status: curated
+title: 김은정
+slug: gim-eun-jeong
+role: 참여연대 민생희망본부
+status: stub
 ---
 
 ## 행적

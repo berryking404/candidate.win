@@ -3,7 +3,7 @@ name_ko: 이경숙
 name_en: null
 party: null
 role: 성평등정책실장
-status: stub
+status: curated
 aliases:
 - 이경숙 실장
 - 성평등정책실장
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 이경숙
   youtube_channels: []
+  profile_urls:
+  - https://www.news1.kr/society/women-family/6049476

@@ -1,8 +1,8 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
-status: curated
+title: 조현일
+slug: jo-hyeon-il
+role: 경산시장
+status: stub
 ---
 
 ## 행적

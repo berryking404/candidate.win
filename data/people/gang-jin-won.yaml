@@ -3,7 +3,7 @@ name_ko: 강진원
 name_en: null
 party: null
 role: 강진군수
-status: stub
+status: curated
 aliases:
 - 강진원 강진군수
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 강진원
   youtube_channels: []
+  official_urls:
+  - https://www.gangjin.go.kr/leader/intro/profile

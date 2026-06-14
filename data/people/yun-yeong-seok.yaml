@@ -3,7 +3,7 @@ name_ko: 윤영석
 name_en: null
 party: null
 role: 국회의원
-status: stub
+status: curated
 aliases:
 - 윤 의원
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 윤영석
   youtube_channels: []
+  official_urls:
+  - https://open.assembly.go.kr/portal/assm/memberInfoPage.do?monaCd=9VR65006&unitCd=100022

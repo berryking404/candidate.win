@@ -1,7 +1,7 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
+title: 이승로
+slug: i-seung-ro
+role: 서울 성북구청장
 status: curated
 ---
 

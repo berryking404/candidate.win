@@ -1,7 +1,7 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
+title: 김미경
+slug: gim-mi-gyeong
+role: 서울 은평구청장
 status: curated
 ---
 

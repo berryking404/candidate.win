@@ -1,8 +1,8 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
-status: curated
+title: 차가원
+slug: cha-ga-won
+role: 원헌드레드레이블 회장
+status: stub
 ---
 
 ## 행적

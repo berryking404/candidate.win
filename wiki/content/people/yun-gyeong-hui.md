@@ -1,8 +1,8 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
-status: curated
+title: 윤경희
+slug: yun-gyeong-hui
+role: 청송군수
+status: stub
 ---
 
 ## 행적

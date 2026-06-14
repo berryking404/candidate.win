@@ -1,8 +1,8 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
-status: curated
+title: 최영승
+slug: choe-yeong-seung
+role: 이사장
+status: stub
 ---
 
 ## 행적

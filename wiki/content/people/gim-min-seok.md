@@ -1,7 +1,7 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
+title: 김민석
+slug: gim-min-seok
+role: 국무총리
 status: curated
 ---
 

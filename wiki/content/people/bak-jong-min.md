@@ -1,8 +1,8 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
-status: curated
+title: 박종민
+slug: bak-jong-min
+role: 주주단체 대표
+status: stub
 ---
 
 ## 행적

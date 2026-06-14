@@ -3,7 +3,7 @@ name_ko: 문정복
 name_en: null
 party: null
 role: 국회의원
-status: stub
+status: curated
 aliases:
 - 문 의원
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 문정복
   youtube_channels: []
+  profile_urls:
+  - https://www.news1.kr/politics/assembly/6034068

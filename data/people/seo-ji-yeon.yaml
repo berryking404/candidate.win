@@ -3,7 +3,7 @@ name_ko: 서지연
 name_en: null
 party: null
 role: 부산시의원
-status: stub
+status: curated
 aliases:
 - 서지연 부산시의원
 - 서 의원
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 서지연
   youtube_channels: []
+  profile_urls:
+  - https://www.ikld.kr/news/articleView.html?idxno=333335

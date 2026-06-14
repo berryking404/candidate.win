@@ -3,7 +3,7 @@ name_ko: 김미경
 name_en: null
 party: null
 role: 서울 은평구청장
-status: stub
+status: curated
 aliases:
 - 김미경 은평구청장
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김미경
   youtube_channels: []
+  profile_urls:
+  - https://www.newsis.com/view/NISX20260604_0003655911

@@ -1,8 +1,8 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
-status: curated
+title: 장기수
+slug: jang-gi-su
+role: 천안시장 당선인
+status: stub
 ---
 
 ## 행적

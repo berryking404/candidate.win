@@ -1,8 +1,8 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
-status: curated
+title: 최경미
+slug: choe-gyeong-mi
+role: 특별시의원
+status: stub
 ---
 
 ## 행적

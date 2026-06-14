@@ -1,8 +1,8 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
-status: curated
+title: 윤용석
+slug: yun-yong-seok
+role: 변호사
+status: stub
 ---
 
 ## 행적

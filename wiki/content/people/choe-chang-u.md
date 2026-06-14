@@ -2,7 +2,7 @@
 title: 최창우
 slug: choe-chang-u
 role: 대전일자리경제진흥원장
-status: stub
+status: curated
 ---
 
 ## 행적

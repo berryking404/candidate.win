@@ -2,7 +2,7 @@
 title: 서지연
 slug: seo-ji-yeon
 role: 부산시의원
-status: stub
+status: curated
 ---
 
 ## 행적

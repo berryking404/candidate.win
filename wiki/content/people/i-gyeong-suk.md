@@ -2,7 +2,7 @@
 title: 이경숙
 slug: i-gyeong-suk
 role: 성평등정책실장
-status: stub
+status: curated
 ---
 
 ## 행적

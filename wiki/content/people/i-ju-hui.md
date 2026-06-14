@@ -1,8 +1,8 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
-status: curated
+title: 이주희
+slug: i-ju-hui
+role: 민주당 원내대변인
+status: stub
 ---
 
 ## 행적

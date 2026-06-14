@@ -1,7 +1,7 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
+title: 강진원
+slug: gang-jin-won
+role: 강진군수
 status: curated
 ---
 

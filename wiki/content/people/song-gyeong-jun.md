@@ -1,8 +1,8 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
-status: curated
+title: 송경준
+slug: song-gyeong-jun
+role: 병원장
+status: stub
 ---
 
 ## 행적

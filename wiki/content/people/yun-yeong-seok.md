@@ -1,6 +1,6 @@
 ---
-title: 한기호
-slug: han-gi-ho
+title: 윤영석
+slug: yun-yeong-seok
 role: 국회의원
 status: curated
 ---

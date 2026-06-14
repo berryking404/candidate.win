@@ -1,7 +1,7 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
+title: 박동식
+slug: bak-dong-sik
+role: 사천시장
 status: curated
 ---
 

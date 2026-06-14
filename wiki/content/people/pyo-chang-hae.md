@@ -1,8 +1,8 @@
 ---
-title: 한기호
-slug: han-gi-ho
-role: 국회의원
-status: curated
+title: 표창해
+slug: pyo-chang-hae
+role: 병원장
+status: stub
 ---
 
 ## 행적
