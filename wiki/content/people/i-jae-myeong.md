@@ -31,4 +31,5 @@ party: 더불어민주당
 - [사회안전망 강화와 고령화 대응 (2026)](/issues/social-safety-net-aging-2026) — **지지**: 사회안전망 전반의 쇄신과 채무로 인한 극단적 선택 예방을 강조하며 국가 보호 강화 필요성을 주문했다. [출처](http://www.00news.co.kr/news/articleView.html?idxno=104198)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **중립**: 삼성전자 노사 갈등과 초과이윤 분배 논의를 언급하며 신중한 접근이 필요하지만 피할 수 없는 문제라고 말했다. [출처](https://news.jtbc.co.kr/article/NB12302107?influxDiv=NAVER)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **반대**: ACSA의 현실적 필요성은 인정하면서도, 국민 정서와 역사적 맥락을 이유로 현재는 체결이 어렵다고 밝혔다. [출처](https://www.hani.co.kr/arti/politics/bluehouse/1262506.html)
+- [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **중립**: 지방선거 이후 여당에 대해 국민을 향한 책임과 포용을 강조했지만 공천 경쟁이나 단일화 갈등에 대한 직접 입장은 드러나지 않았다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=1781426969&code=11121600&cp=nv)
 <!-- /agent:stances -->
