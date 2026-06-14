@@ -14,4 +14,6 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [조현](/people/jo-hyeon) — **중립**: 나무호 피격 사건과 미국 주도 프로젝트 프리덤의 직접적 연관성을 부인하며 신중한 조사 필요성을 강조했다. [출처](https://www.newsis.com/view/NISX20260520_0003637264)
 - [배현진](/people/bae-hyeon-jin) — **반대**: 나무호 피격을 이란의 해상 장악 시도와 연결해 해석하며 정부의 신중론에 맞섰다. [출처](https://www.hidomin.com/news/articleView.html?idxno=706122)
 - [도널드 트럼프](/people/donald-trump) — **중립**: 호르무즈 해협 봉쇄와 대이란 제재 문제를 조만간 해결될 수 있다고 보며, 봉쇄 지속 가능성은 낮다고 언급했다. [출처](https://www.joongang.co.kr/article/25433630)
+- [하이디 크레보-레디커](/people/heidi-crebo-rediker) — **중립**: 트럼프 대통령이 동맹국들의 대이란 지원 부족을 G7 무대에서 비판할 수 있다고 분석했지만, 본인의 찬반 입장은 드러나지 않았다. [출처](https://www.khan.co.kr/article/202606142053005)
+- [트럼프](/people/donald-trump) — **반대**: 이란의 호르무즈 해협 봉쇄에 대해 동맹국들의 지원이 충분하지 않다고 공개적으로 비난할 가능성을 내비쳤다. [출처](https://www.khan.co.kr/article/202606142053005)
 <!-- /agent:stances -->
