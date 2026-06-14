@@ -17,8 +17,6 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [신원식](/people/sin-won-sik) — **미확인**: 계엄 정당화 메시지 전달 경위와 관련해 종합특검에 소환돼 조사받았다. [출처](https://www.segye.com/newsView/20260610511750?OutUrl=naver)
 - [이상민](/people/i-sang-min) — **미확인**: 관저 이전 예산 전용 의혹과 관련해 종합특검이 기소했으며, 이슈 전반의 수사 대상에 포함됐다. [출처](https://www.khan.co.kr/article/202606092104015)
 - [김도형](/people/gim-do-hyeong) — **미확인**: 통일교 수사 무마 의혹과 관련해 종합특검의 피의자 조사 대상이 됐다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=1780999164&code=11131000&cp=nv)
-- [윤석열](/people/yun-seok-yeol) — **미확인**: 없음.
-- [한동훈](/people/han-dong-hun) — **미확인**: 없음.
 - [윤석열](/people/yun-seok-yeol) — **중립**: 종합특검 조사에서 계엄을 ‘경고용’이라고 주장하며 혐의를 부인했다. [출처](https://news.jtbc.co.kr/article/NB12303173?influxDiv=NAVER)
 - [한동훈](/people/han-dong-hun) — **반대**: 자신에 대한 출국금지 연장을 두고 종합특검을 강하게 비판했다. [출처](https://www.hankyung.com/article/2026061235157)
 <!-- /agent:stances -->
