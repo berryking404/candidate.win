@@ -15,5 +15,5 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [배현진](/people/bae-hyeon-jin) — **반대**: 나무호 피격을 이란의 해상 장악 시도와 연결해 해석하며 정부의 신중론에 맞섰다. [출처](https://www.hidomin.com/news/articleView.html?idxno=706122)
 - [도널드 트럼프](/people/donald-trump) — **중립**: 호르무즈 해협 봉쇄와 대이란 제재 문제를 조만간 해결될 수 있다고 보며, 봉쇄 지속 가능성은 낮다고 언급했다. [출처](https://www.joongang.co.kr/article/25433630)
 - [트럼프](/people/donald-trump) — **반대**: 이란의 호르무즈 해협 봉쇄에 대해 동맹국들의 지원이 충분하지 않다고 공개적으로 비난할 가능성을 내비쳤다. [출처](https://www.khan.co.kr/article/202606142053005)
-- [도널드 트럼프](/people/donald-trump) — **지지**: 호르무즈 해협의 통행료 없는 개방과 미국 해군 봉쇄 해제를 승인하고 프로젝트 프리덤으로 민간 선박 구출을 추진했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8586804&ref=A)
+
 <!-- /agent:stances -->

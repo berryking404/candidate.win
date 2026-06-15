@@ -27,5 +27,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [이경숙](/people/i-gyeong-suk) — **지지**: 젠더 갈등의 구조적 원인을 증거 기반 데이터로 분석하고 공론화를 추진하겠다고 설명했다. [출처](https://news.cpbc.co.kr/article/1173583?division=NAVER)
 - [김지수](/people/gim-ji-su) — **지지**: 청년특위 위원장으로 2030 세대의 젠더 갈등 해소를 위한 참여 구조를 맡았다. [출처](https://www.sisajournal.com/news/articleView.html?idxno=376211)
 - [최욱](/people/choe-uk) — **반대**: 방송 발언에서 2030 남성의 보수화와 혐오 발언을 다루며 논란을 일으켰고, 이후 사과했다. [출처](https://www.seoul.co.kr/news/society/accident/2026/06/11/20260611500239?wlog_tag3=naver)
-- [고아성](/people/go-a-seong) — **중립**: 성차별적인 연예계 현실과 여성 배우의 경력 단절 경험을 토로하며 문제를 제기했다. [출처](https://mhnse.com/news/articleView.html?idxno=1432214)
+
 <!-- /agent:stances -->
