@@ -43,5 +43,10 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [윤영석](/people/yun-yeong-seok) — **혼합**: 핵심 사회안전망의 지속가능성을 위해 재정 위험의 투명한 공개와 연금개혁, 사회적 합의가 필요하다고 강조했다. [출처](https://www.pinpointnews.co.kr/news/articleView.html?idxno=459692)
 - [진옥동](/people/jin-ok-dong) — **지지**: 금융회사가 금융 사각지대를 줄이며 사회 안전망 역할을 해야 한다는 포용금융 구상을 제시했다. [출처](https://www.ppss.kr/news/articleView.html?idxno=298709)
 - [김성아](/people/gim-seong-a) — **지지**: 최소한의 삶을 유지하게 하는 사회안전망과 사회보장의 필요성을 강조하며 청년복지 강화를 언급했다. [출처](https://www.nocutnews.co.kr/news/6530280?utm_source=naver&utm_medium=article&utm_campaign=20260613053024)
-
+- [김윤철](/people/gim-yun-cheol) — **지지**: 지역사회 중심의 통합 돌봄 체계 구축을 강조했다. [출처](https://www.gnnews.co.kr/news/articleView.html?idxno=638998)
+- [이창우](/people/i-chang-u) — **지지**: 어르신 노후 보장과 노인복지 증진을 약속했다. [출처](https://www.hidomin.com/news/articleView.html?idxno=709444)
+- [임현주](/people/im-hyeon-ju) — **지지**: 시민이 필요한 의료와 돌봄을 제때 받는 통합돌봄 의료체계 구축을 강조했다. [출처](https://www.gnnews.co.kr/news/articleView.html?idxno=638720)
+- [양충모](/people/yang-chung-mo) — **지지**: 거주지 기반 통합돌봄 의료체계 구축 필요성을 제기했다. [출처](https://www.betanews.net/article/view/beta202606150111)
+- [박일하](/people/bak-il-ha) — **지지**: 지역 주민의 건강한 일상과 체계적 운동 지원을 통한 공공 돌봄 강화를 언급했다. [출처](https://www.cnbizm.com/news/articleView.html?idxno=305564)
+- [임을기](/people/im-eul-gi) — **지지**: 거주지 중심의 예방형 장기요양 서비스 확대 의지를 밝혔다. [출처](https://www.korea.kr/news/policyNewsView.do?newsId=148966548&call_from=naver_news)
 <!-- /agent:stances -->
