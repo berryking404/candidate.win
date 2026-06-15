@@ -1,7 +1,7 @@
 ---
 title: 김선호
 slug: gim-seon-ho
-status: stub
+status: curated
 role: 전 국방부 차관
 party: 무소속
 ---

@@ -2,7 +2,8 @@
 title: 손범규
 slug: son-beom-gyu
 role: 국민의힘 인천 남동갑 당협위원장
-status: stub
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

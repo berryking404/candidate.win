@@ -2,7 +2,7 @@
 title: 고학수
 slug: go-hak-su
 role: 개인정보보호위원회 위원장
-status: stub
+status: curated
 ---
 
 ## 행적

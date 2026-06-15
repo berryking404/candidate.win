@@ -1,8 +1,8 @@
 ---
 title: 김은정
 slug: gim-eun-jeong
-role: 참여연대 민생희망본부
-status: stub
+role: 참여연대 협동사무처장
+status: curated
 ---
 
 ## 행적

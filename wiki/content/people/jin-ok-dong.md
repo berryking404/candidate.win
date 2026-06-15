@@ -1,8 +1,8 @@
 ---
 title: 진옥동
 slug: jin-ok-dong
-role: 금융지주 회장
-status: stub
+role: 신한금융그룹 회장
+status: curated
 ---
 
 ## 행적

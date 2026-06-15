@@ -2,7 +2,7 @@
 title: 이재갑
 slug: i-jae-gap
 role: 안동시의원
-status: stub
+status: curated
 ---
 
 ## 행적

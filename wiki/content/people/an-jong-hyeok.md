@@ -1,8 +1,9 @@
 ---
 title: 안종혁
 slug: an-jong-hyeok
-role: 충남도의회 기획경제위원장 / 충남도의원
-status: stub
+role: 충남도의회 기획경제위원장
+status: curated
+party: 무소속
 ---
 
 ## 행적

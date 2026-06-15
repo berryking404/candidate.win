@@ -1,8 +1,9 @@
 ---
 title: 유영하
 slug: yu-yeong-ha
-role: 국민의힘 의원
-status: stub
+role: 제22대 국회의원
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

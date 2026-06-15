@@ -1,8 +1,9 @@
 ---
 title: 정희용
 slug: jeong-hui-yong
-role: 국민의힘 수석대변인
-status: stub
+role: 제22대 국회의원·국민의힘 수석대변인
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

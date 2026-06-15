@@ -2,7 +2,7 @@
 title: 최욱
 slug: choe-uk
 role: 방송인
-status: stub
+status: curated
 ---
 
 ## 행적

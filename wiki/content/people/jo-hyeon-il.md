@@ -2,7 +2,8 @@
 title: 조현일
 slug: jo-hyeon-il
 role: 경산시장
-status: stub
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

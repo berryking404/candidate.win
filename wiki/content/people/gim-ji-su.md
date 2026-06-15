@@ -1,8 +1,8 @@
 ---
 title: 김지수
 slug: gim-ji-su
-role: 국민통합위 세대젠더갈등해소분과위원
-status: stub
+role: 국민통합위원회 세대·젠더갈등해소분과위원
+status: curated
 ---
 
 ## 행적

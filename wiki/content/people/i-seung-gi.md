@@ -1,8 +1,8 @@
 ---
 title: 이승기
 slug: i-seung-gi
-role: 가수
-status: stub
+role: 가수·배우
+status: curated
 ---
 
 ## 행적

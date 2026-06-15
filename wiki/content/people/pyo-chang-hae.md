@@ -1,8 +1,8 @@
 ---
 title: 표창해
 slug: pyo-chang-hae
-role: 병원장
-status: stub
+role: 서울특별시 서남병원장
+status: curated
 ---
 
 ## 행적

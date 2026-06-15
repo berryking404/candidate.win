@@ -1,8 +1,8 @@
 ---
 title: 한진만
 slug: han-jin-man
-role: 삼성전자 DS부문 파운드리 사업부장(사장)
-status: stub
+role: 삼성전자 DS부문 파운드리 사업부장 사장
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 함영주
 slug: ham-yeong-ju
 role: 하나금융그룹 회장
-status: stub
+status: curated
 ---
 
 ## 행적

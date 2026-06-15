@@ -1,8 +1,8 @@
 ---
 title: 장우철
 slug: jang-u-cheol
-role: 국토부 주택정책관
-status: stub
+role: 국토교통부 주택정책관
+status: curated
 ---
 
 ## 행적

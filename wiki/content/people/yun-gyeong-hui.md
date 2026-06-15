@@ -2,7 +2,8 @@
 title: 윤경희
 slug: yun-gyeong-hui
 role: 청송군수
-status: stub
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

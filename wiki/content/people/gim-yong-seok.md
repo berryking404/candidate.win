@@ -1,8 +1,8 @@
 ---
 title: 김용석
 slug: gim-yong-seok
-role: 국토교통부 대도시광역교통위원회 위원장
-status: stub
+role: 국토교통부 대도시권광역교통위원회 위원장
+status: curated
 ---
 
 ## 행적

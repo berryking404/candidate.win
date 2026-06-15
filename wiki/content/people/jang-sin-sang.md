@@ -2,7 +2,8 @@
 title: 장신상
 slug: jang-sin-sang
 role: 횡성군수 당선인
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

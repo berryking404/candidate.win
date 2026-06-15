@@ -2,7 +2,7 @@
 title: 허성두
 slug: heo-seong-du
 role: 진주상공회의소 회장
-status: stub
+status: curated
 ---
 
 ## 행적

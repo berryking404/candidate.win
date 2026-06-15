@@ -2,7 +2,8 @@
 title: 변광용
 slug: byeon-gwang-yong
 role: 거제시장
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

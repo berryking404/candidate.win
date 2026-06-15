@@ -2,7 +2,7 @@
 title: 박대준
 slug: bak-dae-jun
 role: 전 쿠팡 대표
-status: stub
+status: curated
 ---
 
 ## 행적

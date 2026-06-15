@@ -1,8 +1,9 @@
 ---
 title: 이주희
 slug: i-ju-hui
-role: 민주당 원내대변인
-status: stub
+role: 더불어민주당 원내대변인
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

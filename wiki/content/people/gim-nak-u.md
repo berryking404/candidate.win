@@ -1,8 +1,9 @@
 ---
 title: 김낙우
 slug: gim-nak-u
-role: 충주시의회 의장 / 지방의회
-status: stub
+role: 충주시의회 의장
+status: curated
+party: 무소속
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 최준용
 slug: choe-jun-yong
 role: 배우
-status: stub
+status: curated
 ---
 
 ## 행적

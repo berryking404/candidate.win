@@ -2,7 +2,8 @@
 title: 정영두
 slug: jeong-yeong-du
 role: 김해시장 당선인
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적
