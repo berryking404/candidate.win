@@ -40,4 +40,5 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [김용범](/people/gim-yong-beom) — **지지**: 한-이탈리아 미래산업 협력 확대를 언급하며 첨단산업 기반 강화에 힘을 실었다. [출처](https://www.newspim.com/news/view/20260613000058)
 - [함영주](/people/ham-yeong-ju) — **지지**: 첨단산업과 전통산업을 아우르는 포용금융 필요성을 강조했다. [출처](https://www.viva100.com/article/20260613500137)
 - [신용한](/people/sin-yong-han) — **지지**: 청주국제공항 기반 확충과 방사광가속기 중심 첨단산업 클러스터 조성에 국비 지원 상향을 요구하며 청년 일자리 기반을 뒷받침했다. [출처](https://www.daejonilbo.com/news/articleView.html?idxno=2281894)
+- [백현조](/people/baek-hyeon-jo) — **지지**: 수소산업과 AI 등 미래 첨단산업을 적극 육성해 청년 일자리를 창출하겠다고 밝혔다. [출처](https://www.ksilbo.co.kr/news/articleView.html?idxno=1059512)
 <!-- /agent:stances -->
