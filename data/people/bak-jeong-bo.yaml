@@ -1,0 +1,14 @@
+slug: bak-jeong-bo
+name_ko: 박정보
+name_en: null
+party: null
+role: 서울경찰청장
+status: stub
+aliases:
+- 박정보 서울경찰청장
+discovered_via_issue: coupang-data-leak-2026
+discovered_at: '2026-06-15'
+sources:
+  news_keywords:
+  - 박정보
+  youtube_channels: []
