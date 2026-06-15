@@ -30,5 +30,4 @@ party: 더불어민주당
 - [스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)](/issues/starbucks-tank-day-2026) — **반대**: 스타벅스 논란을 선거 쟁점으로 직접 비판하며 불매 확산에 힘을 실었다. [출처](https://www.ilyosisa.co.kr/news/article.html?no=256193)
 - [사회안전망 강화와 고령화 대응 (2026)](/issues/social-safety-net-aging-2026) — **지지**: 사회안전망 전반의 쇄신과 채무로 인한 극단적 선택 예방을 강조하며 국가 보호 강화 필요성을 주문했다. [출처](http://www.00news.co.kr/news/articleView.html?idxno=104198)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **중립**: 삼성전자 노사 갈등과 초과이윤 분배 논의를 언급하며 신중한 접근이 필요하지만 피할 수 없는 문제라고 말했다. [출처](https://news.jtbc.co.kr/article/NB12302107?influxDiv=NAVER)
-
 <!-- /agent:stances -->
