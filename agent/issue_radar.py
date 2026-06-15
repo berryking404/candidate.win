@@ -72,6 +72,10 @@ POLITICAL_TERMS = [
 ]
 NEGATIVE_TERMS = ["연예", "아이돌", "드라마", "영화", "스포츠", "야구", "축구", "게임", "맛집"]
 GENERIC_KEYWORDS = {"국회", "정부", "민주당", "국민의힘", "대통령", "국회의장", "정부의", "정책", "논란"}
+SUPPRESSED_CANDIDATE_TOPIC_TERMS = {
+    "특검": "comprehensive-special-counsel-probes-2026",
+    "선관위": "election-commission-management-controversy-2026",
+}
 ISSUE_CUES = [
     "논란", "의혹", "사태", "갈등", "반발", "비판", "공방", "쟁점", "국정조사", "특검", "탄핵",
     "법안", "개정", "청문회", "선관위", "공천", "파업", "유출", "사고", "대책", "대응", "조사",
@@ -336,7 +340,17 @@ def cluster_candidates(seeds: list[Seed], naver_by_keyword: dict[str, list[dict[
         key = re.sub(r"[^가-힣A-Za-z0-9]", "", c.keyword.lower())[:30]
         if key not in by_key:
             by_key[key] = c
-    return sorted(by_key.values(), key=lambda x: x.score, reverse=True)
+    return [c for c in sorted(by_key.values(), key=lambda x: x.score, reverse=True) if not is_suppressed_candidate_topic(c)]
+
+
+def is_suppressed_candidate_topic(candidate: Candidate) -> bool:
+    """Hide candidate suggestions Eric directed us to merge into existing topic radars.
+
+    The terms remain useful as search keywords on the existing issues, but should not
+    keep appearing in Linear approval reports as new/merge candidates.
+    """
+    text = f"{candidate.keyword} {candidate.title} {candidate.merge_target or ''}"
+    return any(term in text or target == candidate.merge_target for term, target in SUPPRESSED_CANDIDATE_TOPIC_TERMS.items())
 
 
 def domain_from_url(url: str) -> str:

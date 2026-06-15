@@ -49,6 +49,48 @@ def test_score_candidate_duplicate_merge():
     assert merge_target == "coupang-data-leak-2026"
 
 
+def test_suppresses_directed_merge_topics_from_candidate_reports():
+    special = issue_radar.Candidate(
+        title="종합특검, 김건희 수사 무마 의혹 조사",
+        keyword="종합특검",
+        slug="special-counsel-test",
+        score=6,
+        recommendation="기존 이슈 병합/업데이트",
+        merge_target="comprehensive-special-counsel-probes-2026",
+        signals={},
+        articles=[],
+        official_signals=[],
+        duplicate_matches=[],
+    )
+    nec = issue_radar.Candidate(
+        title="선관위 성과급 논란",
+        keyword="선관위 개혁",
+        slug="nec-test",
+        score=6,
+        recommendation="기존 이슈 병합/업데이트",
+        merge_target="election-commission-management-controversy-2026",
+        signals={},
+        articles=[],
+        official_signals=[],
+        duplicate_matches=[],
+    )
+    other = issue_radar.Candidate(
+        title="홈플러스 국회 청문회 재점화",
+        keyword="홈플러스 국회 청문회",
+        slug="homeplus-hearing-test",
+        score=4,
+        recommendation="보류 후 추가 확인",
+        merge_target=None,
+        signals={},
+        articles=[],
+        official_signals=[],
+        duplicate_matches=[],
+    )
+    assert issue_radar.is_suppressed_candidate_topic(special)
+    assert issue_radar.is_suppressed_candidate_topic(nec)
+    assert not issue_radar.is_suppressed_candidate_topic(other)
+
+
 def test_render_report_contains_approval_instructions():
     cand = issue_radar.Candidate(
         title="국회 특검법 논란",
