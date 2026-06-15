@@ -31,5 +31,4 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [손경식](/people/son-gyeong-sik) — **반대**: 주요 기업 노조의 과도한 성과급 요구가 기업 성장동력을 저해할 수 있다고 비판했다. [출처](https://www.newsis.com/view/NISX20260610_0003663125)
 - [이재명](/people/i-jae-myeong) — **중립**: 삼성전자 노사 갈등과 초과이윤 분배 논의를 언급하며 신중한 접근이 필요하지만 피할 수 없는 문제라고 말했다. [출처](https://news.jtbc.co.kr/article/NB12302107?influxDiv=NAVER)
 - [김영훈](/people/gim-yeong-hun) — **중립**: 삼성전자 노사 갈등을 계기로 초과이익 배분 문제에 대한 사회적 대화 필요성을 언급했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003242100&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
-
 <!-- /agent:stances -->
