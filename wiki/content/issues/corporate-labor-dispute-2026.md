@@ -33,4 +33,5 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [김영훈](/people/gim-yeong-hun) — **중립**: 삼성전자 노사 갈등을 계기로 초과이익 배분 문제에 대한 사회적 대화 필요성을 언급했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003242100&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [삼성전자 노조](/people/samsung_electronics_union) — **혼합**: 성과급 제도화와 상한 폐지를 요구하며 총파업을 예고했지만, 내부 갈등과 재신임 투표가 이어지면서 교섭력 유지에 집중하고 있다. [출처](https://www.kukinews.com/article/view/kuk202606160182)
 - [삼성바이오 노조](/people/samsung_biologics_union) — **혼합**: 경영권 개입 논란이 있는 요구를 일부 거두고 사측과 재협상에 나서며 파업 이후 대화 국면으로 전환했다. [출처](https://www.hankookilbo.com/news/article/A2026061618060003367?did=NA)
+- [삼성전자](/people/samsung) — **중립**: 성과급 협상에서 일부 양보가 있었지만, 파업 리스크와 업계 관행을 설명하는 수준으로 명시적 찬반 입장은 드러나지 않았다. [출처](https://www.donga.com/news/Opinion/article/all/20260616/134125423/1)
 <!-- /agent:stances -->
