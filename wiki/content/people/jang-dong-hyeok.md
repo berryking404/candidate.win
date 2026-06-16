@@ -27,4 +27,5 @@ party: 국민의힘
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 국민의힘 유세에서 경제 파탄과 민생 붕괴를 막아야 한다며 정권 심판과 민생 회복을 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8570830&ref=A)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 투표용지 부족 사태를 선관위의 중대한 관리 실패로 규정하고 재선거·특검·국정조사와 해체 수준 개혁을 요구했다. [출처](https://www.ytn.co.kr/_ln/0101_202606131953356135)
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **반대**: 지방선거 패배 뒤 지도부 책임론과 공천권 갈등의 중심에 놓였다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8586584&ref=A)
+- [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **지지**: 투표용지 부족 사태를 이유로 전국 재선거와 선관위 개혁, 특검 추진을 주장했다. [출처](https://www.pressian.com/pages/articles/2026061615443753978?utm_source=naver&utm_medium=search)
 <!-- /agent:stances -->

@@ -13,5 +13,5 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
+- [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **지지**: 선관위 특검과 국정조사를 통해 6·3 국민 참정권 훼손의 진상을 규명해야 한다고 강조했다. [출처](https://www.naeil.com/news/read/592094?ref=naver)
 <!-- /agent:stances -->
