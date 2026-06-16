@@ -26,7 +26,6 @@ party: 더불어민주당
 - [전세·주거 불안과 지역 민생 (2026)](/issues/housing-jeonse-crisis-2026) — **지지**: 청년·신혼부부 대상 월 3만 원 임대주택과 전세보증금 보증 구조를 제시하며 주거 부담 완화를 강조했다. [출처](https://www.newsis.com/view/NISX20260529_0003649319)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **반대**: 국민의힘이 지역 살리기를 외면하고 정쟁에만 매달린다고 비판했다. [출처](https://www.news1.kr/local/daejeon-chungnam/6165735)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 기득권 정치를 끝내고 진짜 민생정치를 실현하겠다고 밝혔다. [출처](https://www.kukinews.com/article/view/kuk202605130150)
-- [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **미확인**: 외교·안보 사안을 정쟁 소재로 삼고 있다는 반론이 나왔다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=05530086645453184)
 <!-- /agent:stances -->
 no=1503498)
 <!-- /agent:stances -->

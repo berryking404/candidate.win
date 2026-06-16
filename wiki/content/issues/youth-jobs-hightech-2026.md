@@ -44,7 +44,5 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [박수현](/people/bak-su-hyeon) — **지지**: 서산을 인공지능·첨단산업 중심지로 키우고 대산산단 국가산단 지정과 미래항공모빌리티 산업 육성을 약속했다. [출처](https://www.kukinews.com/article/view/kuk202606160189)
 - [정장선](/people/jeong-jang-seon) — **지지**: 평택시를 글로벌 AI 반도체 혁신 거점으로 만들기 위한 KAIST 캠퍼스 조성을 추진했다. [출처](http://www.newstown.co.kr/news/articleView.html?idxno=706379)
 - [이민근](/people/i-min-geun) — **지지**: 신길 첨단산업단지 조성과 제약바이오 R&D 기업 유치 등으로 청년 일자리 기반을 넓히려 했다. [출처](http://www.newsroad.co.kr/news/articleView.html?idxno=60510)
-- [권기창](/people/gweon-gi-chang) — **지지**: 안동바이오생명국가산업단지와 바이오·첨단산업 기반 확대를 통해 지역 인재 양성과 일자리 창출을 추진했다. [출처](https://www.idaegu.com/news/articleView.html?idxno=663646)
-- [안민석](/people/an-min-seok) — **지지**: 경기AI교육원 설립과 AI·반도체 교육 기반 확충으로 AI 인재 양성과 청년 역량 강화를 약속했다. [출처](https://www.kyeonggi.com/article/20260616580519)
-- [이채영](/people/i-chae-yeong) — **지지**: 대학일자리플러스센터 프로그램으로 청년 취업 역량을 높이겠다고 밝혔다. [출처](http://www.beyondpost.co.kr/view.php?ud=2026061620463319892e75d13a3_30)
+- [권기창](/people/gwon-gi-chang) — **지지**: 안동바이오생명국가산업단지와 바이오·첨단산업 기반 확대를 통해 지역 인재 양성과 일자리 창출을 추진했다. [출처](https://www.idaegu.com/news/articleView.html?idxno=663646)
 <!-- /agent:stances -->
