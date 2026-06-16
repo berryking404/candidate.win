@@ -75,6 +75,10 @@ GENERIC_KEYWORDS = {"국회", "정부", "민주당", "국민의힘", "대통령"
 SUPPRESSED_CANDIDATE_TOPIC_TERMS = {
     "특검": "comprehensive-special-counsel-probes-2026",
     "선관위": "election-commission-management-controversy-2026",
+    "투표용지": "election-commission-management-controversy-2026",
+    "재선거": "election-commission-management-controversy-2026",
+    "선거 소청": "election-commission-management-controversy-2026",
+    "선거 과정 논란": "election-commission-management-controversy-2026",
 }
 ISSUE_CUES = [
     "논란", "의혹", "사태", "갈등", "반발", "비판", "공방", "쟁점", "국정조사", "특검", "탄핵",
