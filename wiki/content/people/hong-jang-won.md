@@ -14,5 +14,5 @@ role: 전 국가정보원 1차장
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **중립**: 계엄 선포 직후 회의에서 계엄사 합수부 지원과 방첩사 연락 체계 구축 정황이 보도됐다. [출처](https://news.jtbc.co.kr/article/NB12303515?influxDiv=NAVER)
 <!-- /agent:stances -->
