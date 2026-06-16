@@ -31,4 +31,7 @@ summary: 쿠팡 대규모 개인정보 유출과 정부·정치권·시민사회
 - [박대준](/people/bak-dae-jun) — **미확인**: 쿠팡 측은 과징금 처분에 불복해 행정소송 방침을 밝혔다. [출처](https://economist.co.kr/article/view/ecn202606130014)
 - [박정보](/people/bak-jeong-bo) — **중립**: 쿠팡 개인정보 유출 의혹에 대해 절차에 따라 수사를 진행 중이라고 밝혔다. [출처](https://www.news1.kr/society/incident-accident/6197501)
 - [김종철](/people/gim-jong-cheol) — **중립**: 쿠팡의 개인정보 유출 사태와 관련해 납치광고 문제를 들여다보고 있다고 밝혔다. [출처](https://www.mk.co.kr/article/12074455)
+- [쿠팡](/people/coupang) — **반대**: 개인정보 유출과 안전조치 의무 위반, 무단 수집에 대한 제재에 불복해 행정소송을 예고했다. [출처](https://www.queen.co.kr/news/articleView.html?idxno=458662)
+- [박대준](/people/park-daejun) — **미확인**: 쿠팡 개인정보 유출 사태 관련 국회 청문회 위증 혐의로 수사를 받고 있다. [출처](https://www.hani.co.kr/arti/society/society_general/1263850.html)
+- [김범석](/people/kim-bumseok) — **미확인**: 쿠팡의 동일인 지정 공방과 함께 개인정보 유출 사태가 규제 판단의 배경으로 거론됐다. [출처](https://www.lawtimes.co.kr/news/articleView.html?idxno=222119)
 <!-- /agent:stances -->
