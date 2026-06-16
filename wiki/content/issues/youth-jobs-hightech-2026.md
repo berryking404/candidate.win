@@ -41,4 +41,10 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [함영주](/people/ham-yeong-ju) — **지지**: 첨단산업과 전통산업을 아우르는 포용금융 필요성을 강조했다. [출처](https://www.viva100.com/article/20260613500137)
 - [신용한](/people/sin-yong-han) — **지지**: 청주국제공항 기반 확충과 방사광가속기 중심 첨단산업 클러스터 조성에 국비 지원 상향을 요구하며 청년 일자리 기반을 뒷받침했다. [출처](https://www.daejonilbo.com/news/articleView.html?idxno=2281894)
 - [백현조](/people/baek-hyeon-jo) — **지지**: 수소산업과 AI 등 미래 첨단산업을 적극 육성해 청년 일자리를 창출하겠다고 밝혔다. [출처](https://www.ksilbo.co.kr/news/articleView.html?idxno=1059512)
+- [박수현](/people/bak-su-hyeon) — **지지**: 서산을 인공지능·첨단산업 중심지로 키우고 대산산단 국가산단 지정과 미래항공모빌리티 산업 육성을 약속했다. [출처](https://www.kukinews.com/article/view/kuk202606160189)
+- [정장선](/people/jeong-jang-seon) — **지지**: 평택시를 글로벌 AI 반도체 혁신 거점으로 만들기 위한 KAIST 캠퍼스 조성을 추진했다. [출처](http://www.newstown.co.kr/news/articleView.html?idxno=706379)
+- [이민근](/people/i-min-geun) — **지지**: 신길 첨단산업단지 조성과 제약바이오 R&D 기업 유치 등으로 청년 일자리 기반을 넓히려 했다. [출처](http://www.newsroad.co.kr/news/articleView.html?idxno=60510)
+- [권기창](/people/gweon-gi-chang) — **지지**: 안동바이오생명국가산업단지와 바이오·첨단산업 기반 확대를 통해 지역 인재 양성과 일자리 창출을 추진했다. [출처](https://www.idaegu.com/news/articleView.html?idxno=663646)
+- [안민석](/people/an-min-seok) — **지지**: 경기AI교육원 설립과 AI·반도체 교육 기반 확충으로 AI 인재 양성과 청년 역량 강화를 약속했다. [출처](https://www.kyeonggi.com/article/20260616580519)
+- [이채영](/people/i-chae-yeong) — **지지**: 대학일자리플러스센터 프로그램으로 청년 취업 역량을 높이겠다고 밝혔다. [출처](http://www.beyondpost.co.kr/view.php?ud=2026061620463319892e75d13a3_30)
 <!-- /agent:stances -->
