@@ -2,7 +2,7 @@
 title: 쿠팡 고객 개인정보 대규모 유출 사고와 정부 대응 (2026)
 slug: coupang-data-leak-2026
 category: social
-status: ongoing
+status: closed
 summary: 쿠팡 대규모 개인정보 유출과 정부·정치권·시민사회의 대응 이슈
 ---
 
@@ -31,3 +31,9 @@ summary: 쿠팡 대규모 개인정보 유출과 정부·정치권·시민사회
 - [박정보](/people/bak-jeong-bo) — **중립**: 쿠팡 개인정보 유출 의혹에 대해 절차에 따라 수사를 진행 중이라고 밝혔다. [출처](https://www.news1.kr/society/incident-accident/6197501)
 - [김종철](/people/gim-jong-cheol) — **중립**: 쿠팡의 개인정보 유출 사태와 관련해 납치광고 문제를 들여다보고 있다고 밝혔다. [출처](https://www.mk.co.kr/article/12074455)
 <!-- /agent:stances -->
+
+<!-- human-edit -->
+## 편집자 노트
+
+2026-06-16 Eric의 Linear 지시에 따라 이 이슈의 active tracking을 종료합니다. 기존 인물별 입장 기록은 역사적 참고로 보존합니다.
+<!-- /human-edit -->

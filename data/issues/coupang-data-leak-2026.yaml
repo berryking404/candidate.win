@@ -2,7 +2,7 @@ slug: coupang-data-leak-2026
 title_ko: 쿠팡 고객 개인정보 대규모 유출 사고와 정부 대응 (2026)
 title_en: Massive Coupang Customer Data Leak and Government Response (2026)
 category: social
-status: ongoing
+status: closed
 started_at: 2026-02-10
 summary: |
   2026년 2월, 쿠팡에서 약 3,367만 건의 고객 정보가 유출된 역대 최대 규모의 사고가 발생함.
@@ -26,3 +26,5 @@ sources:
   - url: https://www.boannews.com/media/view.asp?idx=126600
     title: "쿠팡, 3300만명 개인정보 유출... 역대 최대 규모"
     date: 2026-02-10
+conclusion: |
+  2026-06-16 Eric의 Linear 지시에 따라 active tracking을 종료함. 기존 인물별 입장 기록은 역사적 참고로 보존.
