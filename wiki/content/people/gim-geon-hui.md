@@ -19,5 +19,4 @@ party: 무소속
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **중립**: 도이치모터스 주가조작·명태균 공천 개입·관저 이전 의혹 등 특검 수사가 진행 중이라는 보도가 연달아 나왔다. [출처](https://www.news1.kr/society/court-prosecution/6163777)
 - [도이치모터스 주가 조작 의혹 및 김건희 여사 연루 논란 (2023)](/issues/deutsch-motors-stock-2023) — **미확인**: 도이치모터스 주가조작 관련 수사·논란의 핵심 관련 인물로 보도됨. [출처](https://www.yna.co.kr/view/AKR20260612167551004?input=1195m)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **중립**: 종합특검의 참고인 조사 통보에 응하지 않았고, 수사 무마 의혹 관련 조사를 거부했다. [출처](https://www.yna.co.kr/view/AKR20260615110951004?input=1195m)
-
 <!-- /agent:stances -->
