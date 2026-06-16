@@ -14,4 +14,5 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
+- [종합특검](/issues/comprehensive-special-counsel-probes-2026) — **중립**: 2차 종합특검팀 특별검사로서 계엄사 지원 방안 논의 정황을 공개했다. [출처](https://www.news1.kr/society/court-prosecution/6199400)
 <!-- /agent:stances -->

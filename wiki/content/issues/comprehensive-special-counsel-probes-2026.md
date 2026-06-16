@@ -25,4 +25,5 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [김명수](/people/gim-myeong-su) — **중립**: 비상계엄 당시 내란 가담 의혹으로 특검 구속심사를 받았다. [출처](https://www.sbs.co.kr/news/endPage.do?news_id=N1008611496&plink=ORI&cooper=NAVER)
 - [홍장원](/people/hong-jang-won) — **중립**: 계엄 선포 직후 회의에서 계엄사 합수부 지원과 방첩사 연락 체계 구축 정황이 보도됐다. [출처](https://news.jtbc.co.kr/article/NB12303515?influxDiv=NAVER)
 - [최재훈](/people/choe-jae-hun) — **반대**: 김건희 도이치모터스 수사 무마 의혹 관련 피의자 조사에서 외압과 부당 지시를 부인했다. [출처](https://www.news1.kr/society/court-prosecution/6198562)
+- [권창영](/people/gwon-chang-yeong) — **중립**: 2차 종합특검팀 특별검사로서 계엄사 지원 방안 논의 정황을 공개했다. [출처](https://www.news1.kr/society/court-prosecution/6199400)
 <!-- /agent:stances -->
