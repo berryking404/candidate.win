@@ -1,7 +1,7 @@
 ---
-title: 박민성
-slug: bak-min-seong
-role: 산업연구원 연구위원
+title: 오승용
+slug: o-seung-yong
+role: 정치평론가
 status: curated
 ---
 

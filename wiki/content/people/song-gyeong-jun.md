@@ -1,8 +1,8 @@
 ---
 title: 송경준
 slug: song-gyeong-jun
-role: 병원장
-status: stub
+role: 서울특별시보라매병원장
+status: curated
 ---
 
 ## 행적

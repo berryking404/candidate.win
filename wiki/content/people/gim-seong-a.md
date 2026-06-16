@@ -1,8 +1,8 @@
 ---
 title: 김성아
 slug: gim-seong-a
-role: 연구원
-status: stub
+role: 한국보건사회연구원 연구원
+status: curated
 ---
 
 ## 행적

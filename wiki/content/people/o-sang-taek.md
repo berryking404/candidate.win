@@ -2,7 +2,7 @@
 title: 오상택
 slug: o-sang-taek
 role: 울산 중구지역위원장·중구청장 선거 총괄선대위원장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -1,8 +1,8 @@
 ---
 title: 박범계
 slug: bak-beom-gye
-role: 국회의원
-status: stub
+role: 제22대 국회의원
+status: curated
 ---
 
 ## 행적

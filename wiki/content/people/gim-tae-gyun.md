@@ -2,7 +2,7 @@
 title: 김태균
 slug: gim-tae-gyun
 role: 전남도의회 의장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -1,8 +1,8 @@
 ---
 title: 박일하
 slug: bak-il-ha
-role: 구청장
-status: stub
+role: 동작구청장
+status: curated
 ---
 
 ## 행적

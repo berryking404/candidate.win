@@ -2,7 +2,7 @@
 title: 임을기
 slug: im-eul-gi
 role: 보건복지부 노인정책관
-status: stub
+status: curated
 ---
 
 ## 행적

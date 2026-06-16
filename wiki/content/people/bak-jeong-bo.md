@@ -2,7 +2,7 @@
 title: 박정보
 slug: bak-jeong-bo
 role: 서울경찰청장
-status: stub
+status: curated
 ---
 
 ## 행적

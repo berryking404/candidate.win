@@ -2,7 +2,7 @@
 title: 이원진
 slug: i-won-jin
 role: 삼성전자 관련 인물
-status: stub
+status: curated
 ---
 
 ## 행적

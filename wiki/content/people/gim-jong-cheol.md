@@ -2,7 +2,7 @@
 title: 김종철
 slug: gim-jong-cheol
 role: 방송미디어통신위원회 위원장
-status: stub
+status: curated
 ---
 
 ## 행적

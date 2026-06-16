@@ -3,7 +3,7 @@ name_ko: 박정보
 name_en: null
 party: null
 role: 서울경찰청장
-status: stub
+status: curated
 aliases:
 - 박정보 서울경찰청장
 discovered_via_issue: coupang-data-leak-2026

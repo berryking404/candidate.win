@@ -1,8 +1,8 @@
 ---
 title: 백현조
 slug: baek-hyeon-jo
-role: 북구 제3선거구 당선인
-status: stub
+role: 울산광역시의회 의원
+status: curated
 ---
 
 ## 행적

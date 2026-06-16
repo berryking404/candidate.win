@@ -2,7 +2,7 @@
 title: 권혁웅
 slug: gwon-hyeok-ung
 role: 기업 인사/경영 관련 인물
-status: stub
+status: curated
 ---
 
 ## 행적

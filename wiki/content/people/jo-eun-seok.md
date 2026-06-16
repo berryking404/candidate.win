@@ -2,7 +2,7 @@
 title: 조은석
 slug: jo-eun-seok
 role: 특검팀 책임자
-status: stub
+status: curated
 ---
 
 ## 행적

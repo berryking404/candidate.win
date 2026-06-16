@@ -2,7 +2,7 @@
 title: 정장선
 slug: jeong-jang-seon
 role: 평택시장
-status: stub
+status: curated
 ---
 
 ## 행적

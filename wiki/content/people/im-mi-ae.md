@@ -1,7 +1,7 @@
 ---
-title: 박민성
-slug: bak-min-seong
-role: 산업연구원 연구위원
+title: 임미애
+slug: im-mi-ae
+role: 제22대 국회의원
 status: curated
 ---
 

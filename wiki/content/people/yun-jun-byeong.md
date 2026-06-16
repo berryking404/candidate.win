@@ -2,7 +2,7 @@
 title: 윤준병
 slug: yun-jun-byeong
 role: 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적
