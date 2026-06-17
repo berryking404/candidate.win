@@ -23,4 +23,9 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [홍장원](/people/hong-jang-won) — **중립**: 계엄 선포 직후 회의에서 계엄사 합수부 지원과 방첩사 연락 체계 구축 정황이 보도됐다. [출처](https://news.jtbc.co.kr/article/NB12303515?influxDiv=NAVER)
 - [최재훈](/people/choe-jae-hun) — **반대**: 김건희 도이치모터스 수사 무마 의혹 관련 피의자 조사에서 외압과 부당 지시를 부인했다. [출처](https://www.news1.kr/society/court-prosecution/6198562)
 - [권창영](/people/gwon-chang-yeong) — **중립**: 2차 종합특검팀 특별검사로서 계엄사 지원 방안 논의 정황을 공개했다. [출처](https://www.news1.kr/society/court-prosecution/6199400)
+- [오세훈](/people/o-se-hun) — **반대**: 명태균 여론조사 비용 대납 의혹 특검 구형을 두고 “명태균 사기극”, “짜깁기 기소”, “민주당의, 민주당에 의한, 민주당을 위한 특검”이라며 정치적 기소라고 반박했다. [출처](https://www.yna.co.kr/view/AKR20260617121251004?input=1195m)
+- [박안수](/people/bak-an-su) — **중립**: 계엄해제 의결 뒤 병력 현황을 물었다는 의혹 등으로 2차 계엄 사전 준비 의심을 받는 정황이 특검 보도에 담겼다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=0029982159&code=61121111&cp=nv)
+- [여인형](/people/yeo-in-hyeong) — **중립**: 국정원 공문과 합수부 계획 관련 보도로 12·3 비상계엄 대비 정황이 제기됐다. [출처](https://www.donga.com/news/Society/article/all/20260617/134125497/2)
+- [김승호](/people/gim-seung-ho) — **중립**: 김건희 봐주기 수사 의혹과 관련한 ‘디올백 수사 무마’ 특검 소환 대상로 보도됐다. [출처](https://www.ytn.co.kr/_ln/0103_202606171747085575)
+- [장동혁](/people/jang-dong-hyeok) — **지지**: 투표용지 부족 사태를 계기로 선거 소청 확대와 전국 재선거를 촉구하며 특검·국정조사 필요성을 강조했다. [출처](http://www.breaknews.com/1214704)
 <!-- /agent:stances -->

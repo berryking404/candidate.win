@@ -25,4 +25,5 @@ party: 국민의힘
 - [젠더 갈등 심화 (2026)](/issues/gender-conflict-2026) — **중립**: 젠더 갈등이 정치·사회적 양극화와 연결된 사례의 맥락에서 언급됐다. [출처](https://www.viva100.com/article/20260526500544)
 - [물가 안정과 에너지 요금 부담 (2026)](/issues/energy-price-inflation-2026) — **지지**: 고물가 시대 장바구니 부담을 덜기 위한 물가 안정 대책을 강조했다. [출처](https://www.mt.co.kr/politics/2026/05/31/2026053109065077507)
 - [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **혼합**: 균형발전 논의 속에서도 서울의 역할과 개발 구상을 함께 강조하며, 정원오 후보와 수도권-지방 관계를 둘러싼 공방을 벌였다. [출처](https://www.joongang.co.kr/article/25432195)
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 명태균 여론조사 비용 대납 의혹 특검 구형을 두고 “명태균 사기극”, “짜깁기 기소”, “민주당의, 민주당에 의한, 민주당을 위한 특검”이라며 정치적 기소라고 반박했다. [출처](https://www.yna.co.kr/view/AKR20260617121251004?input=1195m)
 <!-- /agent:stances -->
