@@ -2,7 +2,7 @@
 title: 김재민
 slug: gim-jae-min
 role: 한국남동발전노동조합 위원장
-status: stub
+status: curated
 ---
 
 ## 행적

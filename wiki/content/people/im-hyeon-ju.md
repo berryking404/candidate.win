@@ -1,8 +1,8 @@
 ---
 title: 임현주
 slug: im-hyeon-ju
-role: 복지여성국장
-status: stub
+role: 창원시 복지여성보건국장
+status: curated
 ---
 
 ## 행적

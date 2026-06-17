@@ -1,8 +1,9 @@
 ---
 title: 조은희
 slug: jo-eun-hui
-role: 국민의힘 의원, 전기요금 소비자인식지수 자료 언급
-status: stub
+role: 국회의원
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

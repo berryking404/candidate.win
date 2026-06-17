@@ -1,8 +1,8 @@
 ---
 title: 정재욱
 slug: jeong-jae-uk
-role: 도의원
-status: stub
+role: 경상남도의원
+status: curated
 ---
 
 ## 행적

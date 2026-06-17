@@ -2,7 +2,7 @@
 title: 최승준
 slug: choe-seung-jun
 role: 정선군수 당선인
-status: stub
+status: curated
 ---
 
 ## 행적

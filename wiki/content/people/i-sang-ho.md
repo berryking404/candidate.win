@@ -2,7 +2,8 @@
 title: 이상호
 slug: i-sang-ho
 role: 태백시장
-status: stub
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

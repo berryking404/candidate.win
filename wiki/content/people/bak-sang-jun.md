@@ -2,7 +2,7 @@
 title: 박상준
 slug: bak-sang-jun
 role: 키움증권 연구원
-status: stub
+status: curated
 ---
 
 ## 행적

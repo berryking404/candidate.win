@@ -1,8 +1,8 @@
 ---
 title: 차가원
 slug: cha-ga-won
-role: 원헌드레드레이블 회장
-status: stub
+role: 원헌드레드레이블 대표
+status: curated
 ---
 
 ## 행적

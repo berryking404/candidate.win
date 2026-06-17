@@ -2,7 +2,7 @@
 title: 현동엽
 slug: hyeon-dong-yeop
 role: 변호사
-status: stub
+status: curated
 ---
 
 ## 행적
