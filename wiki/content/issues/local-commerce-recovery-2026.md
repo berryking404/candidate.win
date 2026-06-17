@@ -86,4 +86,10 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [장상만](/people/jang-sang-man) — **지지**: 전북의 소상공인·중소기업 지원과 전통시장, 골목상권 활성화 방안을 현장에서 듣겠다고 밝혔다. [출처](http://www.jeollailbo.com/news/articleView.html?idxno=803034)
 - [심동섭](/people/sim-dong-seop) — **지지**: 창원 모바일 누비전 발행을 통해 전통시장과 골목상권 소비를 유도해 소상공인 매출 회복을 뒷받침하겠다고 밝혔다. [출처](https://www.newspim.com/news/view/20260617001029)
 - [양금희](/people/yang-geum-hui) — **지지**: 경북의 상권·시장 육성 공모사업 성과를 바탕으로 소상공인 경쟁력 강화를 강조했다. [출처](https://www.ksmnews.co.kr/news/view.php?idx=609428)
+- [최원용](/people/choi-wonyong) — **지지**: 청년 정책과 소상공인 지원 확대를 주문하며 민생과 직결된 분야의 지원 강화를 강조했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=0029983287&code=61122013&cp=nv)
+- [박권현](/people/park-gwonhyeon) — **지지**: 골목상권 회복을 최우선 과제로 제시하고 소상공인 매출 동행 패키지와 전통시장 특화 먹거리 골목 조성을 약속했다. [출처](https://www.yeongnam.com/web/view.php?key=20260617024410438)
+- [한원찬](/people/han-wonchan) — **지지**: 소상공인 지원 정책의 중요성을 강조하며 민생경제 현안을 더 촘촘히 살펴야 한다고 밝혔다. [출처](http://www.bizwnews.com/news/articleView.html?idxno=138891)
+- [조지훈](/people/jo-jihoon) — **지지**: 소상공인 지원사업 원스톱 시스템 구축과 상가임대차 교육 확대 등 민생경제 회복 방안을 논의했다. [출처](http://www.hansbiz.co.kr/news/articleView.html?idxno=844956)
+- [전진선](/people/jeon-jinseon) — **지지**: 취임식 예산을 청년창업공간 지원에 돌리고 청년 창업가와 소상공인 현장 의견을 향후 정책에 반영하겠다고 했다. [출처](http://www.beyondpost.co.kr/view.php?ud=2026061721141668674c878f8fa1_30)
+- [전화식](/people/jeon-hwasik) — **지지**: 지역경제 활성화와 소상공인 지원, 도시 경쟁력 강화 방안을 핵심 과제로 제시했다. [출처](https://www.ekn.kr/web/view.php?key=20260617027494197)
 <!-- /agent:stances -->
