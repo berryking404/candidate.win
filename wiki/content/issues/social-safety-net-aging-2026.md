@@ -50,4 +50,5 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [박일하](/people/bak-il-ha) — **지지**: 지역 주민의 건강한 일상과 체계적 운동 지원을 통한 공공 돌봄 강화를 언급했다. [출처](https://www.cnbizm.com/news/articleView.html?idxno=305564)
 - [임을기](/people/im-eul-gi) — **지지**: 거주지 중심의 예방형 장기요양 서비스 확대 의지를 밝혔다. [출처](https://www.korea.kr/news/policyNewsView.do?newsId=148966548&call_from=naver_news)
 - [박수현](/people/bak-su-hyeon) — **지지**: 통합돌봄이 경로당에서 시작돼야 한다는 주민 의견을 들었다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8587731&ref=A)
+- [추경호](/people/chu-gyeong-ho) — **지지**: 노인일자리·아동보호·필수의료 현장 점검을 통해 사회안전망 구축을 강조했다. [출처](https://www.tbc.co.kr/news/view?pno=20260617152107AE01198&id=207441)
 <!-- /agent:stances -->
