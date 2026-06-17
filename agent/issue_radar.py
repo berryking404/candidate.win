@@ -904,7 +904,7 @@ def close_issue(cand: dict[str, Any]) -> str:
     data["status"] = "closed"
     today = datetime.now(timezone.utc).date().isoformat()
     if not data.get("conclusion"):
-        data["conclusion"] = f"{today} issue-radar 종료 후보 승인에 따라 active tracking을 종료함. 기존 기록은 역사적 참고로 보존."
+        data["conclusion"] = f"{today}: 이 이슈의 능동 추적을 종료함. 기존 기록은 역사적 참고로 보존."
     yaml_path.write_text(yaml.safe_dump(data, allow_unicode=True, sort_keys=False), encoding="utf-8")
     if md_path.exists():
         text = md_path.read_text(encoding="utf-8")
@@ -915,7 +915,7 @@ def close_issue(cand: dict[str, Any]) -> str:
 <!-- human-edit -->
 ## 편집자 노트
 
-{today} issue-radar 종료 후보 승인에 따라 이 이슈의 active tracking을 종료합니다. 기존 입장 기록은 역사적 참고로 보존합니다.
+{today}: 이 이슈의 능동 추적을 종료합니다. 기존 입장 기록은 역사적 참고로 보존합니다.
 <!-- /human-edit -->
 """
             text = text.rstrip() + note
