@@ -1,7 +1,7 @@
 ---
 title: 박권현
 slug: bak-gwon-hyeon
-role: 청도군수 예비후보 (전 경상북도의원)
+role: 경북 청도군수
 status: curated
 party: 무소속
 ---

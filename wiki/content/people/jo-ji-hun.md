@@ -1,7 +1,7 @@
 ---
 title: 조지훈
 slug: jo-ji-hun
-role: 후보
+role: 전북 전주시장
 status: curated
 party: null
 ---

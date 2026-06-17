@@ -1,7 +1,7 @@
 ---
 title: 최현덕
 slug: choe-hyeon-deok
-role: 남양주시장 후보 (전 남양주 부시장)
+role: 경기 남양주시장
 status: curated
 party: 더불어민주당
 ---

@@ -2,7 +2,7 @@
 title: 남한권
 slug: nam-hankwon
 status: curated
-role: 지역 선거 후보/공적 인물
+role: 경북 울릉군수
 ---
 
 ## 행적

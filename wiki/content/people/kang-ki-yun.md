@@ -2,7 +2,7 @@
 title: 강기윤
 slug: kang-ki-yun
 status: curated
-role: 창원시장 후보
+role: 경남 창원시장
 party: 국민의힘
 ---
 

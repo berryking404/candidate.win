@@ -2,7 +2,7 @@
 title: 고의숙
 slug: go-ui-suk
 status: curated
-role: 제주특별자치도교육감 후보
+role: 제주특별자치도교육감
 party: null
 ---
 

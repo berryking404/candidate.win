@@ -1,7 +1,7 @@
 ---
 title: 장세일
 slug: jang-se-il
-role: 영광군수 후보
+role: 전남 영광군수
 status: curated
 party: 더불어민주당
 ---

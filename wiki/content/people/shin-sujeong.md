@@ -2,7 +2,7 @@
 title: 신수정
 slug: shin-sujeong
 status: curated
-role: 지역 선거 후보/공적 인물
+role: 광주 북구청장
 ---
 
 ## 행적

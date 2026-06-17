@@ -1,7 +1,7 @@
 ---
 title: 위성곤
 slug: wi-seong-gon
-role: 예비후보
+role: 제주특별자치도지사
 status: curated
 party: 더불어민주당
 ---

@@ -1,7 +1,7 @@
 ---
 title: 안병윤
 slug: an-byeong-yun
-role: 국립경국대학교 공공부총장 (2026년 예천군수 후보)
+role: 경북 예천군수
 status: curated
 party: 국민의힘
 ---

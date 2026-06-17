@@ -1,7 +1,7 @@
 ---
 title: 김윤철
 slug: gim-yun-cheol
-role: 현직 무소속 후보
+role: 경남 합천군수
 status: curated
 party: null
 ---

@@ -1,7 +1,7 @@
 ---
 title: 김원기
 slug: gim-won-gi
-role: 의정부시장 후보
+role: 경기 의정부시장
 status: curated
 party: 더불어민주당
 ---

@@ -1,7 +1,7 @@
 ---
 title: 조용식
 slug: jo-yong-sik
-role: 울산광역시교육감 예비후보
+role: 울산광역시교육감
 status: curated
 party: 무소속
 ---

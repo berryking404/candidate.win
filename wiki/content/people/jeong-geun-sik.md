@@ -1,7 +1,7 @@
 ---
 title: 정근식
 slug: jeong-geun-sik
-role: 서울특별시교육감, 2026년 서울시교육감 후보
+role: 서울특별시교육감
 status: curated
 ---
 

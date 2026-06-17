@@ -1,7 +1,7 @@
 ---
 title: 우상호
 slug: u-sang-ho
-role: 강원특별자치도지사 후보
+role: 강원특별자치도지사
 status: curated
 party: 더불어민주당
 ---

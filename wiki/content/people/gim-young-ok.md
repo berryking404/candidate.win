@@ -2,7 +2,7 @@
 title: 김영욱
 slug: gim-young-ok
 status: curated
-role: 지역 선거 후보/공적 인물
+role: 부산 부산진구청장
 ---
 
 ## 행적

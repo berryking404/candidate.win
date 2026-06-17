@@ -2,7 +2,7 @@
 title: 구자열
 slug: gu-jayeol
 status: curated
-role: 지역 선거 후보/공적 인물
+role: 강원 원주시장
 ---
 
 ## 행적

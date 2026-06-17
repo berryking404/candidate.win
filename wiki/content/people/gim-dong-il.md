@@ -1,7 +1,7 @@
 ---
 title: 김동일
 slug: gim-dong-il
-role: 철원군수 후보 (전 강원도의회 의장)
+role: 강원 철원군수
 status: curated
 party: 국민의힘
 ---

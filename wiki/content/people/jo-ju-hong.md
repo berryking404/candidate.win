@@ -2,7 +2,7 @@
 title: 조주홍
 slug: jo-ju-hong
 status: curated
-role: 교육감 후보/공적 인물
+role: 경북 영덕군수
 ---
 
 ## 행적

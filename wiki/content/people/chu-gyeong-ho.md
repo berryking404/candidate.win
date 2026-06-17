@@ -1,7 +1,7 @@
 ---
 title: 추경호
 slug: chu-gyeong-ho
-role: 후보
+role: 대구광역시장
 status: curated
 party: 국민의힘
 ---

@@ -2,7 +2,7 @@
 title: 장길선
 slug: jang-gil-seon
 status: curated
-role: 구례군수 후보
+role: 전남 구례군수
 ---
 
 ## 행적

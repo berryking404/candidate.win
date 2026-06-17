@@ -1,7 +1,7 @@
 ---
 title: 추미애
 slug: chu-mi-ae
-role: 후보
+role: 경기도지사
 status: curated
 party: 더불어민주당
 ---

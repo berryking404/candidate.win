@@ -1,7 +1,7 @@
 ---
 title: 이상일
 slug: i-sang-il
-role: 용인시장후보
+role: 경기 용인시장
 status: curated
 party: null
 ---

@@ -1,7 +1,7 @@
 ---
 title: 박승원
 slug: bak-seung-won
-role: 후보
+role: 경기 광명시장
 status: curated
 party: null
 ---

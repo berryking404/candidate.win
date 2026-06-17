@@ -2,7 +2,7 @@
 title: 김기재
 slug: gimgijae
 status: curated
-role: 지역 선거 후보/공적 인물
+role: 충남 당진시장
 ---
 
 ## 행적

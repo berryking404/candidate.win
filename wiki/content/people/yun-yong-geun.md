@@ -1,7 +1,7 @@
 ---
 title: 윤용근
 slug: yun-yong-geun
-role: 후보
+role: 공주시부여군청양군 국회의원
 status: curated
 ---
 
