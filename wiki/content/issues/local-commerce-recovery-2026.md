@@ -80,4 +80,10 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이상일](/people/i-sang-il) — **지지**: 백암5일장을 지역 주민의 일상과 상권을 지탱하는 중요한 공간으로 보고, 주차 불편 해소와 지역경제 활성화를 추진하겠다고 밝혔다. [출처](http://www.newstown.co.kr/news/articleView.html?idxno=706384)
 - [박수현](/people/bak-su-hyeon) — **지지**: 서산·태안 민생 소통 과정에서 지역경제에 새 활력을 넣기 위한 대규모 지원과 특별법 후속 대응 필요성을 언급했다. [출처](https://news.tf.co.kr/read/national/2333403.htm)
 - [조정식](/people/jo-jeong-sik) — **지지**: 경제 활력 회복을 위해 소상공인이 환하게 웃을 수 있어야 한다고 말하며, 민생 회복과 입법·제도 개선 의지를 밝혔다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=1781595126&code=11121100&cp=nv)
+- [박용선](/people/bak-yong-seon) — **지지**: 포항시 민선 9기 핵심 과제로 소상공인·자영업자 지원과 민생경제 회복을 제시했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=05352966645482704)
+- [정명희](/people/jeong-myeong-hui) — **지지**: 덕천동 골목상권 활성화와 구포시장의 야시장·먹거리·문화 콘텐츠 결합 추진 의지를 밝혔다. [출처](https://news.bbsi.co.kr/news/articleView.html?idxno=4089788)
+- [윤병태](/people/yun-byeong-tae) — **지지**: 나주 원도심의 상권 활성화가 시급하다고 보고 관광객 유입을 통한 회복 방안을 언급했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8588719&ref=A)
+- [장상만](/people/jang-sang-man) — **지지**: 전북의 소상공인·중소기업 지원과 전통시장, 골목상권 활성화 방안을 현장에서 듣겠다고 밝혔다. [출처](http://www.jeollailbo.com/news/articleView.html?idxno=803034)
+- [심동섭](/people/sim-dong-seop) — **지지**: 창원 모바일 누비전 발행을 통해 전통시장과 골목상권 소비를 유도해 소상공인 매출 회복을 뒷받침하겠다고 밝혔다. [출처](https://www.newspim.com/news/view/20260617001029)
+- [양금희](/people/yang-geum-hui) — **지지**: 경북의 상권·시장 육성 공모사업 성과를 바탕으로 소상공인 경쟁력 강화를 강조했다. [출처](https://www.ksmnews.co.kr/news/view.php?idx=609428)
 <!-- /agent:stances -->
