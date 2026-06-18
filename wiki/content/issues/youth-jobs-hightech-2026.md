@@ -49,4 +49,5 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [송영길](/people/song-yeong-gil) — **지지**: 청년 실업이 증가하는 상황에서 취업 중심 사회를 창업 중심 사회로 전환해야 한다고 말했다. [출처](http://www.newstomato.com/ReadNews.aspx?no=1304271&inflow=N)
 - [민형배](/people/min-hyeong-bae) — **지지**: 광주의 AI 인프라, 인재 양성, 창업 지원, 미래산업 기반을 정부가 확실히 지원해야 한다고 요청했다. [출처](https://www.mhns.co.kr/news/articleView.html?idxno=750632)
 - [구윤철](/people/gu-yun-cheol) — **지지**: 재정 여력을 청년 지원과 국가 발전 투자에 우선 써야 한다고 밝혔다. [출처](http://www.fnnews.com/news/202606171830182605)
+- [정진욱](/people/jeong-jin-uk) — **지지**: 완전한 반도체산업클러스터를 구축해 소재·부품·장비 기업이 모이고 양질의 청년 일자리가 늘어야 한다고 강조했다. [출처](https://www.hansbiz.co.kr/news/articleView.html?idxno=845194)
 <!-- /agent:stances -->
