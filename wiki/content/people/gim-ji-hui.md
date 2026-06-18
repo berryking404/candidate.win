@@ -1,7 +1,7 @@
 ---
-title: 오현주
-slug: o-hyeon-ju
-role: 국가안보실 3차장
+title: 김지희
+slug: gim-ji-hui
+role: 교수
 status: stub
 ---
 

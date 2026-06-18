@@ -1,7 +1,7 @@
 ---
-title: 오현주
-slug: o-hyeon-ju
-role: 국가안보실 3차장
+title: 이언주
+slug: i-eon-ju
+role: 전 민주당 최고위원
 status: stub
 ---
 

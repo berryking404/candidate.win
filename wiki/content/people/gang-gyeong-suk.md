@@ -1,7 +1,7 @@
 ---
-title: 오현주
-slug: o-hyeon-ju
-role: 국가안보실 3차장
+title: 강경숙
+slug: gang-gyeong-suk
+role: 국회의원
 status: stub
 ---
 

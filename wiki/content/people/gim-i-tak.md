@@ -1,7 +1,7 @@
 ---
-title: 오현주
-slug: o-hyeon-ju
-role: 국가안보실 3차장
+title: 김이탁
+slug: gim-i-tak
+role: 국토교통부 관계자
 status: stub
 ---
 

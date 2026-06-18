@@ -1,7 +1,7 @@
 ---
-title: 오현주
-slug: o-hyeon-ju
-role: 국가안보실 3차장
+title: 최항섭
+slug: choe-hang-seop
+role: 국민대 사회학과 교수
 status: stub
 ---
 

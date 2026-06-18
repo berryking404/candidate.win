@@ -1,7 +1,7 @@
 ---
-title: 오현주
-slug: o-hyeon-ju
-role: 국가안보실 3차장
+title: 안철수
+slug: an-cheol-su
+role: 국회의원/정치인
 status: stub
 ---
 

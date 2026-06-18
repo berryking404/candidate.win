@@ -33,5 +33,4 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [강경숙](/people/gang-gyeong-suk) — **지지**: 여성의 정치적 대표성 부족과 구조적 성차별 문제를 지속적으로 개선해야 한다고 밝혔다. [출처](https://www.nocutnews.co.kr/news/6534962?utm_source=naver&utm_medium=article&utm_campaign=20260618104726)
 - [남인순](/people/nam-in-sun) — **지지**: 여성 노동자 인권 침해와 성차별적 문제를 드러내고 국가인권위의 성차별 판단을 언급하며 성차별 완화 필요성을 강조했다. [출처](https://www.ytn.co.kr/_ln/0103_202606181226560850)
 - [김지희](/people/gim-ji-hui) — **지지**: AI 시대의 혐오와 편향, 특히 성차별적 구조를 비판하며 윤리적 나침반으로서의 대응을 촉구했다. [출처](http://www.bulkyo21.com/news/articleView.html?idxno=64394)
-- [이언주](/people/i-eon-ju) — **혼합**: 캠페인 차원에서 페미니즘을 언급하며 진영 정치의 일부로 비판했지만, 제공된 자료만으로 젠더 갈등 이슈에 대한 명확한 찬반 입장은 확인되지 않았다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=734360)
 <!-- /agent:stances -->

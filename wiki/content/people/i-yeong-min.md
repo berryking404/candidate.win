@@ -1,7 +1,7 @@
 ---
-title: 오현주
-slug: o-hyeon-ju
-role: 국가안보실 3차장
+title: 이영민
+slug: i-yeong-min
+role: 주거정책 전문가
 status: stub
 ---
 

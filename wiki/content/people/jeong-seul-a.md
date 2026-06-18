@@ -1,7 +1,7 @@
 ---
-title: 오현주
-slug: o-hyeon-ju
-role: 국가안보실 3차장
+title: 정슬아
+slug: jeong-seul-a
+role: 한국여성민우회 성평등미디어·반차별팀장
 status: stub
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: 오현주
-slug: o-hyeon-ju
-role: 국가안보실 3차장
+title: 양종환
+slug: yang-jong-hwan
+role: 신세계그룹 감사팀장 상무
 status: stub
 ---
 
