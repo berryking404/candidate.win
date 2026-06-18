@@ -2,7 +2,7 @@
 title: 강동완
 slug: gang-dong-wan
 role: 중앙선관위 사무총장 직무대리
-status: stub
+status: curated
 ---
 
 ## 행적

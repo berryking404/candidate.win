@@ -1,8 +1,8 @@
 ---
 title: 한석호
 slug: han-seok-ho
-role: 노동 운동가 출신
-status: stub
+role: 노동운동가
+status: curated
 ---
 
 ## 행적

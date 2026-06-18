@@ -1,8 +1,9 @@
 ---
 title: 정명희
 slug: jeong-myeong-hui
-role: 북구청장 당선인
-status: stub
+role: 부산 북구청장 당선인
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

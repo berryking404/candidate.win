@@ -2,7 +2,7 @@
 title: 양금희
 slug: yang-geum-hui
 role: 경북도 경제부지사
-status: stub
+status: curated
 ---
 
 ## 행적

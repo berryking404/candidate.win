@@ -2,7 +2,7 @@
 title: 박용선
 slug: bak-yong-seon
 role: 포항시장 당선인
-status: stub
+status: curated
 ---
 
 ## 행적

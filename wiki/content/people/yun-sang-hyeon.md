@@ -1,8 +1,9 @@
 ---
 title: 윤상현
 slug: yun-sang-hyeon
-role: 국민의힘 의원, 국조특위 위원장
-status: stub
+role: 국회의원
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

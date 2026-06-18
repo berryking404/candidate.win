@@ -1,8 +1,8 @@
 ---
 title: 이창우
 slug: i-chang-u
-role: 구청장
-status: stub
+role: 전 서울 동작구청장
+status: curated
 ---
 
 ## 행적

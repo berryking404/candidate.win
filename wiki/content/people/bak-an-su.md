@@ -2,7 +2,7 @@
 title: 박안수
 slug: bak-an-su
 role: 전 육군참모총장
-status: stub
+status: curated
 ---
 
 ## 행적

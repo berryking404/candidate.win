@@ -1,8 +1,9 @@
 ---
 title: 최보윤
 slug: choe-bo-yun
-role: 국민의힘 수석대변인
-status: stub
+role: 국회의원·국민의힘 수석대변인
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

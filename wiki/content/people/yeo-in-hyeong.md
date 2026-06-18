@@ -1,8 +1,8 @@
 ---
 title: 여인형
 slug: yeo-in-hyeong
-role: 전 방첩사령관
-status: stub
+role: 전 국군방첩사령관
+status: curated
 ---
 
 ## 행적

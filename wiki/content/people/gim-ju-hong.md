@@ -2,7 +2,7 @@
 title: 김주홍
 slug: gim-ju-hong
 role: 전 울산교육감 후보
-status: stub
+status: curated
 ---
 
 ## 행적

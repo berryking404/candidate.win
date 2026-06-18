@@ -1,8 +1,8 @@
 ---
 title: 황진석
 slug: hwang-jin-seok
-role: 교수
-status: stub
+role: 동국대 국제정보보호대학원 교수
+status: curated
 ---
 
 ## 행적

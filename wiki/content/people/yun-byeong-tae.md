@@ -1,8 +1,9 @@
 ---
 title: 윤병태
 slug: yun-byeong-tae
-role: 나주시장 당선인
-status: stub
+role: 전남 나주시장 당선인
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

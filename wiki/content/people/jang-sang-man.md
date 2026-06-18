@@ -1,8 +1,8 @@
 ---
 title: 장상만
 slug: jang-sang-man
-role: 전북중기청장
-status: stub
+role: 전북중소벤처기업청장
+status: curated
 ---
 
 ## 행적

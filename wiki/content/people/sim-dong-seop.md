@@ -2,7 +2,7 @@
 title: 심동섭
 slug: sim-dong-seop
 role: 창원특례시 경제일자리국장
-status: stub
+status: curated
 ---
 
 ## 행적

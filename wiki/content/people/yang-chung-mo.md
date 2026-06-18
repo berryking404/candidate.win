@@ -1,8 +1,8 @@
 ---
 title: 양충모
 slug: yang-chung-mo
-role: 당선자
-status: stub
+role: 남원시장 당선인
+status: curated
 ---
 
 ## 행적
