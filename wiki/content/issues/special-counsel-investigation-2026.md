@@ -32,4 +32,7 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [최상목](/people/choe-sang-mok) — **반대**: 명태균 특검법안에 재의요구권을 행사해 특검 추진에 제동을 걸었다. [출처](https://www.news1.kr/politics/assembly/6194129)
 - [이재명](/people/i-jae-myeong) — **지지**: 특검 마무리를 위해 힘을 모아야 한다고 언급해 수사·특검 추진에 우호적인 태도를 보였다. [출처](https://www.businesspost.co.kr/BP?command=article_view&num=440030)
 - [한동훈](/people/han-dong-hun) — **혼합**: 윤석열 전 대통령 및 여권 권력 구도와 거리를 두며 대통령 탄핵 가능성까지 거론하는 비판적 발언을 했다. [출처](https://www.joongang.co.kr/article/25437262)
+- [윤석열](/people/yun-seok-yeol) — **지지**: 비상계엄 및 관련 의혹에 대한 국정조사와 특검 수사를 통해 책임 소재를 밝혀야 한다는 취지로 발언했다. [출처](https://news.jtbc.co.kr/article/NB12303858?influxDiv=NAVER)
+- [한동훈](/people/han-dong-hun) — **반대**: 선관위 투표용지 사태와 관련해 위철환 상임위원의 책임을 물어 탄핵을 촉구했다. [출처](https://www.news1.kr/politics/assembly/6201266)
+- [오세훈](/people/o-se-hun) — **반대**: ‘정치특검’이 정치적 기소를 했다고 비판하며 특검 수사의 정당성에 문제를 제기했다. [출처](https://www.munhwa.com/article/11596600?ref=naver)
 <!-- /agent:stances -->
