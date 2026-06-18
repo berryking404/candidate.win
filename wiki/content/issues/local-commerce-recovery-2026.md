@@ -89,4 +89,9 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [박권현](/people/bak-gwon-hyeon) — **지지**: 골목상권 회복을 최우선 과제로 제시하고 소상공인 매출 동행 패키지와 전통시장 특화 먹거리 골목 조성을 약속했다. [출처](https://www.yeongnam.com/web/view.php?key=20260617024410438)
 - [조지훈](/people/jo-ji-hun) — **지지**: 소상공인 지원사업 원스톱 시스템 구축과 상가임대차 교육 확대 등 민생경제 회복 방안을 논의했다. [출처](http://www.hansbiz.co.kr/news/articleView.html?idxno=844956)
 - [전진선](/people/jeon-jin-seon) — **지지**: 취임식 예산을 청년창업공간 지원에 돌리고 청년 창업가와 소상공인 현장 의견을 향후 정책에 반영하겠다고 했다. [출처](http://www.beyondpost.co.kr/view.php?ud=2026061721141668674c878f8fa1_30)
+- [이범석](/people/lee-beom-seok) — **지지**: 청주의 옛 대현지하상가를 청년창업지원센터와 로컬창업타운으로 바꾸며 원도심 상권 회복을 추진했다. [출처](https://www.newscj.com/news/articleView.html?idxno=3410329)
+- [김찬술](/people/gim-chan-sul) — **지지**: 전통시장·상점가 관계자들과 만나 상권 침체 대응과 실질적 지원 대책을 논의했다. [출처](https://www.daejonilbo.com/news/articleView.html?idxno=2282602)
+- [신수정](/people/shin-sujeong) — **지지**: 소상공인 디지털 전환을 더 적극적으로 추진하겠다고 밝혔다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8589850&ref=A)
+- [장세일](/people/jang-se-il) — **지지**: 지역 상권 활성화를 위해 축제 기간 전통시장과 숙박·음식업 소비 확대를 기대하는 입장을 보였다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=734485)
+- [이남철](/people/i-nam-cheol) — **지지**: 관광 소비가 지역 상권으로 이어지도록 야간관광벨트와 프리미엄 숙박시설 확충을 구상했다. [출처](https://www.ksmnews.co.kr/news/articleView.html?idxno=609689)
 <!-- /agent:stances -->
