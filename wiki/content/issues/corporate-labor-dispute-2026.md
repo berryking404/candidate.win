@@ -32,9 +32,4 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [이재명](/people/i-jae-myeong) — **중립**: 삼성전자 노사 갈등과 초과이윤 분배 논의를 언급하며 신중한 접근이 필요하지만 피할 수 없는 문제라고 말했다. [출처](https://news.jtbc.co.kr/article/NB12302107?influxDiv=NAVER)
 - [김영훈](/people/gim-yeong-hun) — **중립**: 삼성전자 노사 갈등을 계기로 초과이익 배분 문제에 대한 사회적 대화 필요성을 언급했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003242100&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [한석호](/people/han-seok-ho) — **지지**: 삼성전자 노조의 이익 연동형 보상 요구를 노동계 전반의 흐름으로 보며 정당한 요구로 설명했다. [출처](https://www.slownews.kr/161698)
-- [동행노조](/people/donghaeng-nojo) — **지지**: DX 부문 직원들의 검은 옷 출근 캠페인을 주도하며 DS·DX 간 성과급 격차 해소를 요구했다. [출처](https://www.dailian.co.kr/news/view/1657766/?sc=Naver)
-- [한국노총](/people/hanguk-nochong) — **지지**: 삼성전자 사례를 들어 초과이윤 분배의 사회적 논의를 촉구하며 노사 갈등의 제도적 해법을 주문했다. [출처](https://www.mk.co.kr/article/12078512)
-- [정점식](/people/jeong-jeom-sik) — **중립**: 삼성전자 성과급 분쟁 사례를 언급하며 노사상생과 사회적 논의 필요성을 언급했으나, 이슈에 대한 명시적 찬반은 확인되지 않았다. [출처](https://www.mk.co.kr/article/12078512)
-- [전국삼성전자노조](/people/jeonguk-samseongjeonja-nojo) — **지지**: 성과급 격차에 반발해 조합원 확대와 집단행동을 이어가며 성과급 제도 개선을 요구했다. [출처](https://www.mk.co.kr/article/12078504)
-- [초기업노조](/people/chogieob-nojo) — **지지**: 성과급 제도 개편과 비메모리 사업부 처우 개선을 요구하며 이직 설문까지 진행했다. [출처](https://news.mtn.co.kr/news-detail/2026061916145543581)
 <!-- /agent:stances -->

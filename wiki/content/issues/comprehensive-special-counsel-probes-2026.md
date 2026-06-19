@@ -28,10 +28,5 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [여인형](/people/yeo-in-hyeong) — **중립**: 국정원 공문과 합수부 계획 관련 보도로 12·3 비상계엄 대비 정황이 제기됐다. [출처](https://www.donga.com/news/Society/article/all/20260617/134125497/2)
 - [김승호](/people/gim-seung-ho) — **중립**: 김건희 봐주기 수사 의혹과 관련한 ‘디올백 수사 무마’ 특검 소환 대상로 보도됐다. [출처](https://www.ytn.co.kr/_ln/0103_202606171747085575)
 - [장동혁](/people/jang-dong-hyeok) — **지지**: 투표용지 부족 사태를 계기로 선거 소청 확대와 전국 재선거를 촉구하며 특검·국정조사 필요성을 강조했다. [출처](http://www.breaknews.com/1214704)
-- [이원석](/people/lee-won-seok) — **중립**: 김건희 수사 무마 의혹 관련 참고인 출석 통보를 받고도 언론을 통해 알았다고 반발했다. [출처](https://www.hankookilbo.com/news/article/A2026061914450005537?did=NA)
-- [이창수](/people/lee-chang-su) — **중립**: 김건희 수사 무마 의혹과 관련해 특검의 2차 피의자 조사를 받았다. [출처](https://www.ytn.co.kr/_ln/0103_202606191033130699)
-- [윤희근](/people/yun-hui-geun) — **중립**: 통일교 원정도박 수사 무마 의혹과 관련해 23일 피의자 신분 소환 통보를 받았다. [출처](https://www.ytn.co.kr/_ln/0103_202606191053324393)
-- [윤석열](/people/yoon-suk-yeol) — **중립**: 관저 이전 의혹, 계엄 관련 반란 혐의, 김건희 수사 무마 의혹 수사 전반의 배경 인물로 계속 거론됐다. [출처](https://www.khan.co.kr/article/202606190011001)
-- [조태용](/people/cho-tae-yong) — **중립**: 계엄 정당화 메시지 관련 내란중요임무종사 혐의 조사 대상로 보도됐다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=308317)
-- [조태열](/people/cho-tae-yul) — **중립**: 계엄 정당화 공문 관련 참고인 조사 대상로 보도됐다. [출처](https://www.khan.co.kr/article/202606190011001)
+- [이원석](/people/i-won-seok) — **중립**: 김건희 수사 무마 의혹 관련 참고인 출석 통보를 받고도 언론을 통해 알았다고 반발했다. [출처](https://www.hankookilbo.com/news/article/A2026061914450005537?did=NA)
 <!-- /agent:stances -->

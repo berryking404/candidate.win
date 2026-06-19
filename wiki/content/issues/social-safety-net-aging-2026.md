@@ -52,11 +52,4 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [박수현](/people/bak-su-hyeon) — **지지**: 통합돌봄이 경로당에서 시작돼야 한다는 주민 의견을 들었다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8587731&ref=A)
 - [추경호](/people/chu-gyeong-ho) — **지지**: 노인일자리·아동보호·필수의료 현장 점검을 통해 사회안전망 구축을 강조했다. [출처](https://www.tbc.co.kr/news/view?pno=20260617152107AE01198&id=207441)
 - [김성근](/people/gim-seong-geun) — **중립**: 건강보험은 최소한의 사회안전망이어야 한다며 복지의 원칙을 강조했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=06733846645483032)
-- [모영미](/people/) — **미확인**: 돌봄플러그 확대를 통해 돌봄 사각지대 축소와 통합돌봄 체계 구축을 강조했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3613116)
-- [한지아](/people/han-ji-a) — **미확인**: 건강보험 재정이 가장 절실한 곳에 투입돼야 한다는 취지의 문제의식을 보였다. [출처](https://www.mdtoday.co.kr/news/articleView.html?idxno=601702)
-- [이준석](/people/i-jun-seok) — **미확인**: 한정된 건강보험 재정의 우선순위를 강조하며 재정이 절실한 곳에 쓰여야 한다는 입장을 드러냈다. [출처](https://www.mdtoday.co.kr/news/articleView.html?idxno=601702)
-- [김문수](/people/gim-mun-su) — **미확인**: 치매환자 실종예방과 지역사회 안전망 강화를 추진하겠다고 밝혔다. [출처](https://www.kbsm.net/news/view.php?idx=523651)
-- [황명석](/people/hwang-myeong-seok) — **지지**: 복지를 사회적 안전망으로 보고 AI 산업과 융합한 미래형 복지산업 발전 지원 의지를 밝혔다. [출처](https://www.nocutnews.co.kr/news/6535901?utm_source=naver&utm_medium=article&utm_campaign=20260619060041)
-- [우석진](/people/u-seok-jin) — **지지**: AI발 산업 구조조정에 대비해 사회안전망 구축에 상당한 재원을 써야 한다고 주장했다. [출처](https://www.hankyung.com/article/2026061974731)
-- [곽금주](/people/gwak-geum-ju) — **지지**: 초과세수를 AI 시대 산업 전환과 미래 세대 사회안전망 구축에 활용해야 한다는 견해를 밝혔다. [출처](https://www.hankyung.com/article/2026061974791)
 <!-- /agent:stances -->

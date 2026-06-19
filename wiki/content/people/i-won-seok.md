@@ -13,5 +13,5 @@ status: stub
 ## 이슈별 입장
 
 <!-- agent:stances -->
-- [도이치모터스 주가 조작 의혹 및 김건희 여사 연루 논란 (2023)](/issues/deutsch-motors-stock-2023) — **중립**: 김건희 여사 도이치모터스 주가조작 사건의 수사 상황을 박성재 전 법무부장관에게 전달했다는 의혹을 부인했으나, 제공된 기사만으로는 사건 본안에 대한 찬반 입장은 확인되지 않았다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/06/19/2026061990171.html)
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **중립**: 김건희 수사 무마 의혹 관련 참고인 출석 통보를 받고도 언론을 통해 알았다고 반발했다. [출처](https://www.hankookilbo.com/news/article/A2026061914450005537?did=NA)
 <!-- /agent:stances -->
