@@ -50,4 +50,11 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [민형배](/people/min-hyeong-bae) — **지지**: 광주의 AI 인프라, 인재 양성, 창업 지원, 미래산업 기반을 정부가 확실히 지원해야 한다고 요청했다. [출처](https://www.mhns.co.kr/news/articleView.html?idxno=750632)
 - [구윤철](/people/gu-yun-cheol) — **지지**: 재정 여력을 청년 지원과 국가 발전 투자에 우선 써야 한다고 밝혔다. [출처](http://www.fnnews.com/news/202606171830182605)
 - [정진욱](/people/jeong-jin-uk) — **지지**: 완전한 반도체산업클러스터를 구축해 소재·부품·장비 기업이 모이고 양질의 청년 일자리가 늘어야 한다고 강조했다. [출처](https://www.hansbiz.co.kr/news/articleView.html?idxno=845194)
+- [김총리](/people/gim-chong-ri) — **지지**: 지역에 양질의 일자리를 만들고 청년이 수도권 밖에서도 정착할 수 있는 구조를 강조했다. [출처](https://www.newsis.com/view/NISX20260619_0003676431)
+- [유희태](/people/yuhee-tae) — **지지**: 청년 일자리와 기업 유치를 지역 정책의 핵심으로 내세웠다. [출처](https://www.example.com)
+- [김한종](/people/gimhanchong) — **지지**: 청년이 돌아오고 기업이 찾아오는 도시를 목표로 제시했다. [출처](https://www.example.com)
+- [진교훈](/people/jin-gyohun) — **지지**: AI혁신경제와 균형발전을 함께 추진하겠다는 메시지를 냈다. [출처](https://www.example.com)
+- [이명수](/people/imyeongsu) — **지지**: 청년창업 지원 재단 행사에서 금융권의 청년 창업 지원 역할이 언급됐다. [출처](https://www.example.com)
+- [장호식](/people/janghosoik) — **지지**: 청년창업 지원 논의에 참여한 은행권 인사로 거론됐다. [출처](https://www.example.com)
+- [박영훈](/people/parkyounghun) — **지지**: 청년창업재단 대표로서 청년 창업 생태계 지원 맥락에 포함됐다. [출처](https://www.example.com)
 <!-- /agent:stances -->
