@@ -22,4 +22,7 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [JD 밴스](/people/jd-vance) — **지지**: 미국 측 협상에서 호르무즈 해협 재개방과 미군 태세 유지 조건을 담은 MOU 서명에 관여한 것으로 보도됐다. [출처](https://www.news1.kr/world/usa-canada/6198216)
 - [JD 밴스](/people/jd-vance) — **중립**: 호르무즈 해협 통과 재개와 미국의 해상 봉쇄 해제를 브리핑했지만, 텍스트만으로는 봉쇄 해제 자체에 대한 명시적 찬반 입장은 확인되지 않았다. [출처](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000535472)
 - [모테기 도시미쓰](/people/motegi-toshimitsu) — **중립**: 호르무즈 해협 봉쇄로 페르시아만에 체류하던 일본인 전원 대피 사실을 설명했으나, 이슈에 대한 직접 입장은 확인되지 않았다. [출처](https://www.ytn.co.kr/_ln/0104_202606192024072546)
+- [에스마일 바가이](/people/esmail-bagaei) — **중립**: 양해각서상 호르무즈 해협 재개와 미 해상봉쇄 해제가 협상 조건이라며 봉쇄 주장에 선을 그었다. [출처](https://www.ytn.co.kr/_ln/0104_202606192349453994)
+- [트럼프 1기 에너지장관](/people/trump-1st-term-energy-secretary) — **반대**: MOU가 이란에 관대하다며 호르무즈 재봉쇄 가능성까지 우려했다. [출처](https://www.yna.co.kr/view/AKR20260619169600071?input=1195m)
+- [도널드 트럼프](/people/donald-trump) — **지지**: 미국과 이란의 MOU 서명을 통해 호르무즈 개방과 대이란 해상봉쇄 해제에 합의했다고 밝혔다. [출처](https://www.dt.co.kr/article/12068483?ref=naver)
 <!-- /agent:stances -->
