@@ -2,7 +2,8 @@
 title: 김찬술
 slug: gim-chan-sul
 role: 대전 대덕구청장 당선인
-status: stub
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

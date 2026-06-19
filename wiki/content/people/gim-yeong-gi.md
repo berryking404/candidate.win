@@ -1,8 +1,9 @@
 ---
 title: 김영기
 slug: gim-yeong-gi
-role: 대표
-status: stub
+role: 경기도의원
+party: 국민의힘
+status: curated
 ---
 
 ## 행적

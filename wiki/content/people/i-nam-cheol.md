@@ -1,8 +1,9 @@
 ---
 title: 이남철
 slug: i-nam-cheol
-role: 고령군수
-status: stub
+role: 경북 고령군수
+party: 국민의힘
+status: curated
 ---
 
 ## 행적

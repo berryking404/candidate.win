@@ -1,8 +1,9 @@
 ---
 title: 김대영
 slug: gim-dae-yeong
-role: 울산 중구 웅동2동장
-status: stub
+role: 울산 남구의원
+party: 국민의힘
+status: curated
 ---
 
 ## 행적

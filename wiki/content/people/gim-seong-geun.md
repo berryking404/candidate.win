@@ -2,7 +2,7 @@
 title: 김성근
 slug: gim-seong-geun
 role: 대한의사협회 대변인
-status: stub
+status: curated
 ---
 
 ## 행적

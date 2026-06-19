@@ -1,8 +1,8 @@
 ---
 title: 최항섭
 slug: choe-hang-seop
-role: 국민대 사회학과 교수
-status: stub
+role: 국민대학교 사회학과 교수
+status: curated
 ---
 
 ## 행적

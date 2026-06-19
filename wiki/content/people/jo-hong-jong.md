@@ -1,8 +1,8 @@
 ---
 title: 조홍종
 slug: jo-hong-jong
-role: 단국대 경제학과 교수
-status: stub
+role: 단국대학교 경제학과 교수
+status: curated
 ---
 
 ## 행적

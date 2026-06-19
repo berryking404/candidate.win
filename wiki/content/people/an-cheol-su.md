@@ -1,8 +1,9 @@
 ---
 title: 안철수
 slug: an-cheol-su
-role: 국회의원/정치인
-status: stub
+role: 국회의원(경기 성남시분당구갑)
+party: 국민의힘
+status: curated
 ---
 
 ## 행적

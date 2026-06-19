@@ -1,8 +1,8 @@
 ---
 title: 김이탁
 slug: gim-i-tak
-role: 국토교통부 관계자
-status: stub
+role: 국토교통부 제1차관
+status: curated
 ---
 
 ## 행적

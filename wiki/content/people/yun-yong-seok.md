@@ -2,7 +2,7 @@
 title: 윤용석
 slug: yun-yong-seok
 role: 변호사
-status: stub
+status: curated
 ---
 
 ## 행적

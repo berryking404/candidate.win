@@ -1,8 +1,9 @@
 ---
 title: 박성민
 slug: bak-seong-min
-role: 의원
-status: stub
+role: 국회의원(울산 중구)
+party: 국민의힘
+status: curated
 ---
 
 ## 행적

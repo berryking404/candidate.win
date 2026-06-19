@@ -1,8 +1,8 @@
 ---
 title: 정슬아
 slug: jeong-seul-a
-role: 한국여성민우회 성평등미디어·반차별팀장
-status: stub
+role: 한국여성민우회 성평등미디어팀장
+status: curated
 ---
 
 ## 행적

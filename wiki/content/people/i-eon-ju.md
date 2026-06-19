@@ -1,8 +1,9 @@
 ---
 title: 이언주
 slug: i-eon-ju
-role: 전 민주당 최고위원
-status: stub
+role: 국회의원(경기 용인시정)
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

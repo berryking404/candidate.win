@@ -1,8 +1,8 @@
 ---
 title: 곽봉근
 slug: gwak-bong-geun
-role: 인터뷰 대상자
-status: stub
+role: 충청북도 혁신도시발전과장
+status: curated
 ---
 
 ## 행적

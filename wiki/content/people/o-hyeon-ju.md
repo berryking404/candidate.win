@@ -1,8 +1,8 @@
 ---
 title: 오현주
 slug: o-hyeon-ju
-role: 국가안보실 3차장
-status: stub
+role: 국가안보실 제3차장
+status: curated
 ---
 
 ## 행적

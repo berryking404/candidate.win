@@ -1,8 +1,8 @@
 ---
 title: 김순택
 slug: gim-sun-taek
-role: 경남도의원
-status: stub
+role: 경상남도의원
+status: curated
 ---
 
 ## 행적
