@@ -2,7 +2,7 @@
 title: 이원석
 slug: i-won-seok
 role: 前 검찰총장
-status: stub
+status: curated
 ---
 
 ## 행적

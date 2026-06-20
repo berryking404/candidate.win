@@ -2,7 +2,7 @@
 title: 이진호
 slug: i-jin-ho
 role: 유튜버
-status: stub
+status: curated
 ---
 
 ## 행적

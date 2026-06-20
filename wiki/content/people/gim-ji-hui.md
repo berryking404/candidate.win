@@ -1,8 +1,8 @@
 ---
 title: 김지희
 slug: gim-ji-hui
-role: 교수
-status: stub
+role: 동국대 컴퓨터·AI학부 교수
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 양종환
 slug: yang-jong-hwan
 role: 신세계그룹 감사팀장 상무
-status: stub
+status: curated
 ---
 
 ## 행적

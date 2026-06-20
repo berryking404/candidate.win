@@ -1,8 +1,8 @@
 ---
 title: 고성곤
 slug: go-seong-gon
-role: 노인회장
-status: stub
+role: 임현1리 노인회장
+status: curated
 ---
 
 ## 행적

@@ -1,8 +1,8 @@
 ---
 title: 김철우
 slug: gim-cheol-u
-role: 신임 회장
-status: stub
+role: 전남 보성군수·참좋은지방정부협의회 회장
+status: curated
 ---
 
 ## 행적
