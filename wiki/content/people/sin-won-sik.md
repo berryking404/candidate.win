@@ -8,6 +8,7 @@ role: 전 국방부 장관
 ## 행적
 
 <!-- agent:events -->
+
 <!-- /agent:events -->
 
 ## 이슈별 입장
