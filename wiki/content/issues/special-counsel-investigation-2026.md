@@ -33,4 +33,9 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [이재명](/people/i-jae-myeong) — **지지**: 특검 마무리를 위해 힘을 모아야 한다고 언급해 수사·특검 추진에 우호적인 태도를 보였다. [출처](https://www.businesspost.co.kr/BP?command=article_view&num=440030)
 - [한동훈](/people/han-dong-hun) — **혼합**: 윤석열 전 대통령 및 여권 권력 구도와 거리를 두며 대통령 탄핵 가능성까지 거론하는 비판적 발언을 했다. [출처](https://www.joongang.co.kr/article/25437262)
 - [오세훈](/people/o-se-hun) — **반대**: ‘정치특검’이 정치적 기소를 했다고 비판하며 특검 수사의 정당성에 문제를 제기했다. [출처](https://www.munhwa.com/article/11596600?ref=naver)
+- [이화영](/people/i-hwa-yeong) — **혼합**: 박상용 검사 청문회에서 ‘연어 술 파티’가 있었다고 증언했지만 법원은 위증으로 판단해 그의 진술 신빙성에 중대한 타격이 생겼다. [출처](https://www.news1.kr/local/gyeonggi/6203178)
+- [박상용](/people/bak-sang-yong) — **반대**: 이화영의 청문회 증언과 민주당의 조작기소 의혹 제기에 맞서 수사·기소의 정당성을 방어하는 국면에 놓였다. [출처](https://www.yna.co.kr/view/AKR20260620026600004?input=1195m)
+- [한동훈](/people/han-dong-hun) — **반대**: 법원이 ‘연어 술판’이 없다고 보자 권력으로 재판을 없애려 들면 결말은 탄핵과 파국뿐이라고 경고하며 정부·여당을 비판했다. [출처](https://www.mk.co.kr/article/12078889)
+- [박성훈](/people/bak-seong-hun) — **반대**: 민주당의 검사 탄핵·공소취소 추진을 검찰 악마화라고 비판하며 조작 수사 프레임이 무너졌다고 주장했다. [출처](https://www.newdaily.co.kr/site/data/html/2026/06/20/2026062000031.html)
+- [홍준표](/people/hong-jun-pyo) — **중립**: 이번 이슈와 직접 연결되는 실질 찬반 발언은 확인되지 않았다. [출처](https://www.dt.co.kr/article/12068501?ref=naver)
 <!-- /agent:stances -->
