@@ -37,5 +37,4 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [박상용](/people/bak-sang-yong) — **반대**: 이화영의 청문회 증언과 민주당의 조작기소 의혹 제기에 맞서 수사·기소의 정당성을 방어하는 국면에 놓였다. [출처](https://www.yna.co.kr/view/AKR20260620026600004?input=1195m)
 - [한동훈](/people/han-dong-hun) — **반대**: 법원이 ‘연어 술판’이 없다고 보자 권력으로 재판을 없애려 들면 결말은 탄핵과 파국뿐이라고 경고하며 정부·여당을 비판했다. [출처](https://www.mk.co.kr/article/12078889)
 - [박성훈](/people/bak-seong-hun) — **반대**: 민주당의 검사 탄핵·공소취소 추진을 검찰 악마화라고 비판하며 조작 수사 프레임이 무너졌다고 주장했다. [출처](https://www.newdaily.co.kr/site/data/html/2026/06/20/2026062000031.html)
-- [홍준표](/people/hong-jun-pyo) — **중립**: 이번 이슈와 직접 연결되는 실질 찬반 발언은 확인되지 않았다. [출처](https://www.dt.co.kr/article/12068501?ref=naver)
 <!-- /agent:stances -->

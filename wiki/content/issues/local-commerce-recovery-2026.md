@@ -42,7 +42,6 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [최민호](/people/choe-min-ho) — **지지**: 소상공인과 상권을 함께 살리는 생활경제 회복을 강조했다. [출처](https://www.ccreview.co.kr/news/articleView.html?idxno=349333)
 - [박근혜](/people/bak-geun-hye) — **지지**: 서문시장 방문으로 전통시장 지원 유세에 나서 지역 상권 회복 메시지를 보냈다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3596500)
 - [이준석](/people/i-jun-seok) — **중립**: 마산 원도심과 전통시장 현장을 찾아 상권 회복 필요성을 강조하며 지원 유세를 이어갔다. [출처](https://www.newsfreezone.co.kr/news/articleView.html?idxno=688664)
-- [장세일](/people/jang-se-il) — **중립**: 상권활성화지원센터 건립, 온누리상품권 사용 지역 확대 등 구체적 방안을 논의했지만 명시적 찬반 입장은 확인되지 않았다. [출처](https://www.jnilbo.com/news/articleView.html?idxno=90000032817)
 - [주병기](/people/ju-byeong-gi) — **지지**: 플랫폼 거래공정화법 논의를 적극 지원하며 입점 소상공인과의 거래 안전성 강화를 지지했다. [출처](https://news.einfomax.co.kr/news/articleView.html?idxno=4413143)
 - [정명근](/people/jeong-myeong-geun) — **지지**: 민생경제와 골목상권 회복을 위해 지역화폐 1조원 지속 발행과 공공산후조리원 건립을 공약했다. [출처](https://www.sportsseoul.com/news/read/1612620?ref=naver)
 - [허태정](/people/heo-tae-jeong) — **지지**: 전통시장과 골목상권을 찾아 자영업자와 노동자의 생활 현안을 듣는 민생 행보를 이어갔다. [출처](https://www.ccdn.co.kr/news/articleView.html?idxno=1080876)

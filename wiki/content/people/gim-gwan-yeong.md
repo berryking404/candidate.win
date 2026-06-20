@@ -16,7 +16,6 @@ party: 더불어민주당
 ## 이슈별 입장
 
 <!-- agent:stances -->
-- [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **중립**: ‘72시간 논스톱 민생행보’를 강조했지만, 이슈에 대한 명시적 찬반 입장은 확인되지 않았다. [출처](https://biz.heraldcorp.com/article/10760139?ref=naver)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 전북 현안을 중앙정치의 소모적 정쟁이 아니라 민생 회복과 지역경제 활성화로 풀겠다고 강조했다. [출처](https://www.dt.co.kr/article/12065075?ref=naver)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **반대**: 민주당 중앙당이 전북 선거를 서울정치와 소모적 정쟁으로 끌고 간다고 비판했다. [출처](https://www.newspim.com/news/view/20260524000143)
 - [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **지지**: 대기업 유치와 지역경제 활성화를 통한 전북 성장 전략을 제시했다. [출처](https://www.topstarnews.net/news/articleView.html?idxno=16070038)

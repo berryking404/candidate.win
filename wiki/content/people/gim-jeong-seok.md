@@ -14,5 +14,4 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-- [젠더 갈등 심화 (2026)](/issues/gender-conflict-2026) — **중립**: 교회와 사회의 갈등·분열을 치유·화해로 풀어야 한다는 취지의 발언이 확인되지만, 젠더 갈등에 대한 직접 찬반 입장은 명시되지 않았다. [출처](http://www.enewstoday.co.kr/news/articleView.html?idxno=2427351)
 <!-- /agent:stances -->

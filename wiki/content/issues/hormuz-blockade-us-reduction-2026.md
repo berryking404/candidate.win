@@ -20,6 +20,4 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [김민석](/people/gim-min-seok) — **지지**: 호르무즈 해협을 운항 중인 우리 선박과 선원들의 안전한 귀환을 지원하겠다고 밝혔다. [출처](https://www.ktv.go.kr/content/view?content_id=756660)
 - [김정관](/people/gim-jeong-gwan) — **지지**: 호르무즈 해협 봉쇄 재발에 대비해 UAE 우회 송유관 건설과 한국 기업 참여를 당부했다. [출처](https://www.news1.kr/economy/idustry-trade/6199340)
 - [JD 밴스](/people/jd-vance) — **지지**: 미국 측 협상에서 호르무즈 해협 재개방과 미군 태세 유지 조건을 담은 MOU 서명에 관여한 것으로 보도됐다. [출처](https://www.news1.kr/world/usa-canada/6198216)
-- [성일광](/people/seong-il-gwang) — **중립**: 호르무즈 해협의 봉쇄 가능성과 핵 협상 재개 이후의 해상 봉쇄 시나리오를 설명했지만, 파병·미군 감축에 대한 명시적 찬반은 드러나지 않았다. [출처](https://www.ytn.co.kr/_ln/0104_202606201830230256)
-- [JD 밴스](/people/jd-vance) — **중립**: 이란의 호르무즈 해협 봉쇄 증거는 보이지 않지만 스위스에서의 미국·이란 협상이 이르면 21일 시작될 수 있다고 밝혔다. [출처](https://www.hani.co.kr/arti/international/international_general/1264480.html)
 <!-- /agent:stances -->

@@ -19,7 +19,6 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [김영훈](/people/gim-yeong-hun) — **지지**: 긴급조정권 사용을 부인하고 노사 간 상생협력기금 제안을 통해 노동자 보상과 사회적 배분 논의를 중재했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008574634&plink=ORI&cooper=NAVER)
 - [장동혁](/people/jang-dong-hyeok) — **반대**: 삼성전자 노사 협상 타결 과정과 정부·여당의 개입을 강하게 비판하며 노조 측 합의를 문제 삼았다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=03401366645451544)
 - [김영훈](/people/gim-yeong-hun) — **지지**: 삼성전자 노사 갈등을 중재하며 초과이익 배분의 사회적 논의를 강조했다. [출처](https://www.yna.co.kr/view/AKR20260529146400530?input=1195m)
-- [김용범](/people/gim-yong-beom) — **중립**: 삼성전자 노조의 성과급 요구와 맞물린 상황에서 AI 시대 과실 배분의 필요성을 언급했지만, 이슈에 대한 명시적 찬반은 확인되지 않았다. [출처](https://www.hani.co.kr/arti/politics/bluehouse/1258206.html)
 - [신제윤](/people/sin-je-yun) — **반대**: 총파업이 노사 모두에 치명적이라며 파업 자제를 공개적으로 호소했다. [출처](https://www.sedaily.com/article/20040526?ref=naver)
 - [김재원](/people/gim-jae-won) — **지지**: 삼성전자 초기업노조 정책기획국장으로 사후조정 협상에 참여하며 노조의 성과급 요구를 뒷받침했다. [출처](http://www.mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5192987)
 - [김도형](/people/gim-do-hyeong) — **중립**: 노동부 차원의 중재와 면담을 진행하며 노사 대화를 독려했다. [출처](https://www.busan.com/view/busan/view.php?code=2026050813293118857)
