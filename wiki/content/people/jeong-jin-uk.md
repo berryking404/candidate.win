@@ -9,6 +9,7 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
+- 2026-06-18: 국회 기자회견에서 광주·전남의 반도체 산업클러스터 조성과 팹 유치를 통해 청년 일자리를 창출해야 한다고 강조했다. [출처](https://www.mhns.co.kr/news/articleView.html?idxno=750886)
 <!-- /agent:events -->
 
 ## 이슈별 입장
