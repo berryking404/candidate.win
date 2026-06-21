@@ -37,4 +37,7 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [박상용](/people/bak-sang-yong) — **반대**: 이화영의 청문회 증언과 민주당의 조작기소 의혹 제기에 맞서 수사·기소의 정당성을 방어하는 국면에 놓였다. [출처](https://www.yna.co.kr/view/AKR20260620026600004?input=1195m)
 - [한동훈](/people/han-dong-hun) — **반대**: 법원이 ‘연어 술판’이 없다고 보자 권력으로 재판을 없애려 들면 결말은 탄핵과 파국뿐이라고 경고하며 정부·여당을 비판했다. [출처](https://www.mk.co.kr/article/12078889)
 - [박성훈](/people/bak-seong-hun) — **반대**: 민주당의 검사 탄핵·공소취소 추진을 검찰 악마화라고 비판하며 조작 수사 프레임이 무너졌다고 주장했다. [출처](https://www.newdaily.co.kr/site/data/html/2026/06/20/2026062000031.html)
+- [서영교](/people/seo-yeong-gyo) — **지지**: 이화영 관련 ‘조작기소’ 의혹에 대한 특검 도입을 촉구했다. [출처](https://news.tf.co.kr/read/ptoday/2334807.htm)
+- [이건태](/people/i-geon-tae) — **지지**: 조작기소 특검의 필요성을 강조하며 특검 추진에 힘을 실었다. [출처](https://news.tf.co.kr/read/ptoday/2334807.htm)
+- [이용우](/people/i-yong-u) — **지지**: 이화영 사건의 조작기소 의혹 진상규명을 위해 특검 도입을 촉구했다. [출처](https://news.tf.co.kr/read/ptoday/2334807.htm)
 <!-- /agent:stances -->
