@@ -52,6 +52,5 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [박수현](/people/bak-su-hyeon) — **지지**: 통합돌봄이 경로당에서 시작돼야 한다는 주민 의견을 들었다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8587731&ref=A)
 - [추경호](/people/chu-gyeong-ho) — **지지**: 노인일자리·아동보호·필수의료 현장 점검을 통해 사회안전망 구축을 강조했다. [출처](https://www.tbc.co.kr/news/view?pno=20260617152107AE01198&id=207441)
 - [김성근](/people/gim-seong-geun) — **중립**: 건강보험은 최소한의 사회안전망이어야 한다며 복지의 원칙을 강조했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=06733846645483032)
-- [원민경](/people/pending) — **지지**: 사회 안전망의 사각지대를 촘촘히 보완하겠다고 약속했다. [출처](https://kjmbc.co.kr/NewsArticle/1523997)
 - [김순택](/people/gim-sun-taek) — **지지**: 초고령사회 대응을 위해 대중교통을 노인복지정책 관점에서 봐야 한다고 강조했다. [출처](http://www.gnmaeil.com/news/articleView.html?idxno=589049)
 <!-- /agent:stances -->
