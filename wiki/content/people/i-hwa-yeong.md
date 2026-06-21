@@ -2,7 +2,7 @@
 title: 이화영
 slug: i-hwa-yeong
 role: 전 경기도 평화부지사
-status: stub
+status: curated
 ---
 
 ## 행적

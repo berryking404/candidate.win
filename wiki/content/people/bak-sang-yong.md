@@ -2,7 +2,7 @@
 title: 박상용
 slug: bak-sang-yong
 role: 검사
-status: stub
+status: curated
 ---
 
 ## 행적
