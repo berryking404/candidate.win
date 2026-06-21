@@ -29,4 +29,9 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [김승호](/people/gim-seung-ho) — **중립**: 김건희 봐주기 수사 의혹과 관련한 ‘디올백 수사 무마’ 특검 소환 대상로 보도됐다. [출처](https://www.ytn.co.kr/_ln/0103_202606171747085575)
 - [장동혁](/people/jang-dong-hyeok) — **지지**: 투표용지 부족 사태를 계기로 선거 소청 확대와 전국 재선거를 촉구하며 특검·국정조사 필요성을 강조했다. [출처](http://www.breaknews.com/1214704)
 - [이원석](/people/i-won-seok) — **중립**: 김건희 수사 무마 의혹 관련 참고인 출석 통보를 받고도 언론을 통해 알았다고 반발했다. [출처](https://www.hankookilbo.com/news/article/A2026061914450005537?did=NA)
+- [신원식](/people/sin-won-sik) — **지지**: 종합특검의 수사·기소 과정에 대해 법원의 공소권 남용 판단을 강조하며 방어적 입장을 보였다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
+- [윤재선](/people/yun-jae-sun) — **지지**: 종합특검 관련 수사에서 검찰의 공소권 남용 판단을 언급하며 수사 정당성에 비판적인 입장을 보였다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
+- [김오진](/people/gim-o-jin) — **지지**: 종합특검팀의 수사를 통해 실체적 진실을 따져봐야 한다며, 공소권 남용 판단을 강조했다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
+- [이상민](/people/i-sang-min) — **지지**: 종합특검과 관련한 검찰의 공소권 남용 판단을 강조하며 수사 정당성에 비판적 태도를 보였다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
+- [김도형](/people/gim-do-hyeong) — **지지**: 종합특검팀의 수사와 법원 판단을 거론하며 검찰 수사 정당성에 문제를 제기하는 취지의 입장을 보였다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
 <!-- /agent:stances -->
