@@ -53,4 +53,8 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [추경호](/people/chu-gyeong-ho) — **지지**: 노인일자리·아동보호·필수의료 현장 점검을 통해 사회안전망 구축을 강조했다. [출처](https://www.tbc.co.kr/news/view?pno=20260617152107AE01198&id=207441)
 - [김성근](/people/gim-seong-geun) — **중립**: 건강보험은 최소한의 사회안전망이어야 한다며 복지의 원칙을 강조했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=06733846645483032)
 - [김순택](/people/gim-sun-taek) — **지지**: 초고령사회 대응을 위해 대중교통을 노인복지정책 관점에서 봐야 한다고 강조했다. [출처](http://www.gnmaeil.com/news/articleView.html?idxno=589049)
+- [이연희](/people/i-yeon-hui) — **지지**: 사회적 안전망의 빈틈을 언급하며 지역소멸·인구변화에 대응하는 복지 강화의 필요성을 강조했다. [출처](https://www.nocutnews.co.kr/news/6536825?utm_source=naver&utm_medium=article&utm_campaign=20260622060818)
+- [김기문](/people/kim-gi-mun) — **지지**: 저출산·고령화 등 인구구조 변화에 맞는 중소기업 정책과 사회 대응이 필요하다고 밝혔다. [출처](https://news.mtn.co.kr/news-detail/2026062216051924192)
+- [오세훈](/people/o-se-hun) — **지지**: 고령층 교통복지 체계를 버스까지 넓히는 방안을 검토하며 노인 복지 확대 방향을 제시했다. [출처](https://www.hani.co.kr/arti/area/area_general/1264773.html)
+- [서호관](/people/seo-ho-gwan) — **지지**: 복지를 기본 안전망으로 규정하며 시민 삶을 지키는 사회안전망의 중요성을 강조했다. [출처](https://www.gnnews.co.kr/news/articleView.html?idxno=639517)
 <!-- /agent:stances -->
