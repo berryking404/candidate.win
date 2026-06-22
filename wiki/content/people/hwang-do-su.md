@@ -1,8 +1,8 @@
 ---
 title: 황도수
 slug: hwang-do-su
-role: 헌법학 교수
-status: stub
+role: 건국대학교 법학전문대학원 교수
+status: curated
 ---
 
 ## 행적

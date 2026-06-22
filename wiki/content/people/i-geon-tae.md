@@ -1,8 +1,9 @@
 ---
 title: 이건태
 slug: i-geon-tae
-role: 더불어민주당 의원
-status: stub
+role: 더불어민주당 국회의원(경기 부천시병)
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

@@ -1,8 +1,9 @@
 ---
 title: 박대출
 slug: bak-dae-chul
-role: 국민의힘 의원
-status: stub
+role: 국민의힘 국회의원(경남 진주시갑)
+party: 국민의힘
+status: curated
 ---
 
 ## 행적

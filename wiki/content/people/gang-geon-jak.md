@@ -1,8 +1,8 @@
 ---
 title: 강건작
 slug: gang-geon-jak
-role: 전 국가안보실 1차장, 예비역 중장
-status: stub
+role: 국가안보실 1차장, 예비역 중장
+status: curated
 ---
 
 ## 행적

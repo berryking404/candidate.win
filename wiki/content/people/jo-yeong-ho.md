@@ -1,8 +1,8 @@
 ---
 title: 조영호
 slug: jo-yeong-ho
-role: 교수
-status: stub
+role: 서강대학교 정치외교학과 교수
+status: curated
 ---
 
 ## 행적

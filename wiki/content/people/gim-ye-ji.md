@@ -1,8 +1,9 @@
 ---
 title: 김예지
 slug: gim-ye-ji
-role: 국민의힘 의원
-status: stub
+role: 국민의힘 국회의원(비례대표)
+party: 국민의힘
+status: curated
 ---
 
 ## 행적
