@@ -36,4 +36,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [이효린](/people/i-hyo-rin) — **지지**: AI 학습 데이터에 반영된 성차별과 폭력을 감시할 젠더 관점의 필요성을 강조했다. [출처](https://www.obsnews.co.kr/news/articleView.html?idxno=1523578)
 - [정근식](/people/jeong-geun-sik) — **지지**: 교육 현장의 혐오와 갈등을 줄이는 방향으로 성평등·공존을 강조했다. [출처](http://www.babytimes.co.kr/news/articleView.html?idxno=73161)
 - [은희영](/people/eun-hui-yeong) — **지지**: 성차별이 여전히 일상에 스며들어 있다고 지적했다. [출처](https://www.ccdailynews.com/news/articleView.html?idxno=2419826)
+- [고민정](/people/go-min-jeong) — **반대**: 젠더 갈등과 성차별을 구조적 문제로 보고 성평등 가치와 공론장 확대를 강조했다. [출처](https://view.asiae.co.kr/article/2026062211101163628)
 <!-- /agent:stances -->
