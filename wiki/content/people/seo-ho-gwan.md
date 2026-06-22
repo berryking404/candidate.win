@@ -1,0 +1,17 @@
+---
+title: 서호관
+slug: seo-ho-gwan
+role: 지방자치단체장
+status: stub
+---
+
+## 행적
+
+<!-- agent:events -->
+<!-- /agent:events -->
+
+## 이슈별 입장
+
+<!-- agent:stances -->
+- [사회안전망 강화와 고령화 대응 (2026)](/issues/social-safety-net-aging-2026) — **지지**: 복지를 기본 안전망으로 규정하며 시민 삶을 지키는 사회안전망의 중요성을 강조했다. [출처](https://www.gnnews.co.kr/news/articleView.html?idxno=639517)
+<!-- /agent:stances -->

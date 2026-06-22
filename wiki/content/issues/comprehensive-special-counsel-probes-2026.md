@@ -34,7 +34,5 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [김오진](/people/gim-o-jin) — **지지**: 종합특검팀의 수사를 통해 실체적 진실을 따져봐야 한다며, 공소권 남용 판단을 강조했다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
 - [이상민](/people/i-sang-min) — **지지**: 종합특검과 관련한 검찰의 공소권 남용 판단을 강조하며 수사 정당성에 비판적 태도를 보였다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
 - [김도형](/people/gim-do-hyeong) — **지지**: 종합특검팀의 수사와 법원 판단을 거론하며 검찰 수사 정당성에 문제를 제기하는 취지의 입장을 보였다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
-- [홍장원](/people/hong-jang-won) — **반대**: 비상계엄 직후 우방국에 계엄 정당화 메시지를 전달하려 했다는 의혹과 계엄사 합수부 지원 논의 의혹을 전면 부인했다. [출처](https://www.kgnews.co.kr/news/article.html?no=900991)
-- [심우정](/people/sim-u-jeong) — **미확인**: 내란 가담 및 김건희·도이치 수사무마 의혹과 관련해 24일 소환 조사를 앞두고 있다. [출처](https://www.yna.co.kr/view/AKR20260622101951004?input=1195m)
-- [권창영](/people/gwon-chang-yeong) — **미확인**: 2차 종합특검 특별검사로서 계엄 정당화 메시지, 북풍 공작, 관저 이전 예산 집행, 통일교 수사 무마 등 잔여 의혹을 수사하고 있다. [출처](https://www.mt.co.kr/society/2026/06/22/2026062214135122087)
+- [홍장원](/people/hong-jang-won) — **지지**: 비상계엄 직후 우방국에 계엄 정당화 메시지를 전달하려 했다는 의혹과 계엄사 합수부 지원 논의 의혹을 전면 부인했다. [출처](https://www.kgnews.co.kr/news/article.html?no=900991)
 <!-- /agent:stances -->
