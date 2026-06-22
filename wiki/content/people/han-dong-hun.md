@@ -22,4 +22,5 @@ party: 국민의힘
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 자신에 대한 출국금지 연장을 두고 종합특검을 강하게 비판했다. [출처](https://www.hankyung.com/article/2026061235157)
 - [전시작전통제권(전작권) 전환 추진과 안보 논쟁 (2026)](/issues/opcon-transfer-2026) — **혼합**: 전작권 환수는 언젠가 필요하다고 보면서도, 이념적·정무적 추진은 문제이며 한미연합사 해체와 주한미군 존속까지 함께 따져봐야 한다고 했다. [출처](https://www.segye.com/newsView/20260620503989?OutUrl=naver)
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **반대**: 법원이 ‘연어 술판’이 없다고 본 판결을 근거로 재판을 권력으로 없애려 들면 탄핵과 파국뿐이라고 경고했다. [출처](https://www.mk.co.kr/article/12078889)
+- [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 투표용지 부족 사태를 계기로 선관위의 책임성과 외부 통제 장치 강화를 요구하는 입법을 추진했다. [출처](https://www.kgnews.co.kr/news/article.html?no=901040)
 <!-- /agent:stances -->

@@ -15,4 +15,5 @@ party: 국민의힘
 ## 이슈별 입장
 
 <!-- agent:stances -->
+- [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 투표용지 부족 사태를 계기로 선관위 책임 규명과 국정조사, 조직 운영 개선을 요구하는 입장에 섰다. [출처](https://www.kado.net/news/articleView.html?idxno=2057074)
 <!-- /agent:stances -->
