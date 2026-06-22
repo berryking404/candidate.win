@@ -16,4 +16,5 @@ party: 더불어민주당
 <!-- agent:stances -->
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 민생 법안 처리를 발목 잡는다면 책임 정치가 필요하다고 말하며 국회가 민생 입법에 우선순위를 둬야 한다고 강조했다. [출처](https://news.tf.co.kr/read/ptoday/2319240.htm)
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **중립**: 지방선거 판세를 분석하며 민주당 공천 문제를 지적했고, 전북·평택 등 접전지의 흐름을 설명했다. [출처](https://www.pressian.com/pages/articles/2026060218174540620?utm_source=naver&utm_medium=search)
+- [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **혼합**: 특검과 탄핵 정국의 과열을 우려하면서도 대통령의 당무 개입 논란을 함께 언급했다. [출처](https://www.newsis.com/view/NISX20260622_0003678298)
 <!-- /agent:stances -->

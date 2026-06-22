@@ -40,4 +40,10 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [서영교](/people/seo-yeong-gyo) — **지지**: 이화영 관련 ‘조작기소’ 의혹에 대한 특검 도입을 촉구했다. [출처](https://news.tf.co.kr/read/ptoday/2334807.htm)
 - [이건태](/people/i-geon-tae) — **지지**: 조작기소 특검의 필요성을 강조하며 특검 추진에 힘을 실었다. [출처](https://news.tf.co.kr/read/ptoday/2334807.htm)
 - [이용우](/people/i-yong-u) — **지지**: 이화영 사건의 조작기소 의혹 진상규명을 위해 특검 도입을 촉구했다. [출처](https://news.tf.co.kr/read/ptoday/2334807.htm)
+- [명태균](/people/myeong-tae-gyun) — **중립**: 윤석열의 비상계엄 전 명태균 공천개입 사건 언급이 법원 판단 근거로 다뤄졌다. [출처](https://www.hani.co.kr/arti/society/society_general/1264758.html)
+- [박성재](/people/bak-seong-jae) — **중립**: 비상계엄 이후 탄핵 소추와 내란 수사 대응 문건 작성 지시가 법원에서 다뤄졌다. [출처](https://biz.sbs.co.kr/article_hub/20000318092?division=NAVER)
+- [이준석](/people/i-jun-seok) — **반대**: 민주당의 탄핵·공소취소 공세를 겨냥해 “공소취소 끝은 하야”라고 비판했다. [출처](https://www.kyeonggi.com/article/20260622580091)
+- [박지원](/people/bak-ji-won) — **혼합**: 특검·탄핵 국면을 둘러싼 당내 갈등을 자제하자며 대통령의 당무 개입 논란을 함께 언급했다. [출처](https://www.newsis.com/view/NISX20260622_0003678298)
+- [김어준](/people/gim-eo-jun) — **중립**: 계엄·탄핵 인식과 관련한 여론조사에서 부정 인식이 높게 나타났다고 보도됐다. [출처](https://www.pressian.com/pages/articles/2026062217212925509?utm_source=naver&utm_medium=search)
+- [한찬식](/people/han-chan-sik) — **중립**: 민정수석 인선 논란의 당사자로 거론됐지만 특검·탄핵 사안에 대한 직접 입장은 확인되지 않았다. [출처](https://www.dailian.co.kr/news/view/1658523/?sc=Naver)
 <!-- /agent:stances -->
