@@ -22,4 +22,5 @@ party: 더불어민주당
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **반대**: 한일 국방장관 회담에서 ACSA 논의가 있었다고 설명하면서도, 국민 이해와 설득, 국내 여론과 역사 문제를 고려해 현 시점 체결에는 신중해야 한다는 취지를 밝혔다. [출처](https://news.kbs.co.kr/news/view.do?ncd=8574315), [출처](https://www.hankookilbo.com/news/article/A2026060810340004190?did=NA)
 - [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **중립**: 호르무즈 해협 정상화에 대한 단계적 기여 방안을 미국에 전달했고, 전작권과의 연계를 분리해 설명했다. [출처](https://www.khan.co.kr/article/202605130742001)
 - [전시작전통제권(전작권) 전환 추진과 안보 논쟁 (2026)](/issues/opcon-transfer-2026) — **지지**: 2026년을 전작권 ‘회수’와 한국 주도 방위체계 전환의 중요한 시점으로 보고, 전환 추진에 우호적인 입장을 드러냈다. [출처](https://www.newspim.com/news/view/20260126000763)
+- [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **중립**: ACSA는 “검토해야 할 시기가 온 것 같다”고 했지만, 국내적으로 수용할 준비가 됐는지는 더 시간을 갖고 봐야 한다고 말했다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1264658.html)
 <!-- /agent:stances -->
