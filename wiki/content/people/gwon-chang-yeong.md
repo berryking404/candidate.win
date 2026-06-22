@@ -8,7 +8,8 @@ status: curated
 ## 행적
 
 <!-- agent:events -->
-- 2026-06-08: 김건희 여사의 도이치모터스 주가조작 수사 무마 의혹과 관련해 이창수 전 서울중앙지검장 소환 조사를 진행했다. [출처](https://news.jtbc.co.kr/article/NB12302148?influxDiv=NAVER)
+- 2026-06-22: 2차 종합특검 특별검사로서 홍장원 전 국정원 1차장을 세 번째로 소환해 계엄 관련 의혹을 조사했다. [출처](https://www.kgnews.co.kr/news/article.html?no=900991)
+- 2026-06-22: 홍장원 전 차장에 대한 조사를 마친 뒤 26일 재소환을 예고했다. [출처](https://www.newsis.com/view/NISX20260622_0003679009)
 <!-- /agent:events -->
 
 ## 이슈별 입장
