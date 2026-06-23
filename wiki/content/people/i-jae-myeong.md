@@ -32,4 +32,5 @@ party: 더불어민주당
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **중립**: 삼성전자 노사 갈등과 초과이윤 분배 논의를 언급하며 신중한 접근이 필요하지만 피할 수 없는 문제라고 말했다. [출처](https://news.jtbc.co.kr/article/NB12302107?influxDiv=NAVER)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 투표용지 부족 사태를 선관위의 총체적 부실로 규정하고, 국정조사·수사 의뢰와 원포인트 개헌까지 거론하며 강한 개혁 필요성을 주문했습니다. [출처](https://www.inews24.com/view/1978182)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **중립**: 선관위 논란에 대해 부정부패·채용비리·예산낭비까지 철저히 수사하라고 주문했다. [출처](https://www.donga.com/news/Politics/article/all/20260623/134165701/1)
+- [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **혼합**: 현실적 필요성은 인정하지만 국민정서와 과거사 문제를 이유로 지금은 어렵다고 했다. [출처](https://www.hani.co.kr/arti/politics/bluehouse/1262506.html)
 <!-- /agent:stances -->
