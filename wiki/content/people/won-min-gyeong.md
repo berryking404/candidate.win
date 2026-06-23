@@ -8,6 +8,7 @@ status: curated
 ## 행적
 
 <!-- agent:events -->
+- 2026-06-23: 젠더 갈등이 저성장·기회 부족 등 구조적 과제와 맞닿아 있다고 설명하고, 남녀 동수공천 등 해법을 언급했다. [출처](https://www.newsis.com/view/NISX20260623_0003680622)
 <!-- /agent:events -->
 
 ## 이슈별 입장
