@@ -28,4 +28,5 @@ party: 국민의힘
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 명태균 여론조사 비용 대납 의혹 특검 구형을 두고 “명태균 사기극”, “짜깁기 기소”, “민주당의, 민주당에 의한, 민주당을 위한 특검”이라며 정치적 기소라고 반박했다. [출처](https://www.yna.co.kr/view/AKR20260617121251004?input=1195m)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **혼합**: 정치권의 정쟁화를 비판하며 공방을 이어갔지만, 민생 집중도 논쟁과는 별개의 선거·언론 논란 중심 반응이었다. [출처](https://www.newdaily.co.kr/site/data/html/2026/06/18/2026061800223.html)
 - [사회안전망 강화와 고령화 대응 (2026)](/issues/social-safety-net-aging-2026) — **지지**: 고령층 교통복지 확대를 위해 지하철 무임승차 연령 상향과 버스비 지원 검토를 추진했다. [출처](https://www.hani.co.kr/arti/area/area_general/1264773.html)
+- [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **중립**: 보훈과 공공사업이 정쟁의 대상이 돼선 안 되며, 민생보다 정치적 폄훼가 앞서선 안 된다고 말했다. [출처](https://www.segye.com/newsView/20260623513803?OutUrl=naver)
 <!-- /agent:stances -->

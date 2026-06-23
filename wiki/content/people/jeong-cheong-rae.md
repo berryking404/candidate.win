@@ -30,4 +30,5 @@ party: 더불어민주당
 - [스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)](/issues/starbucks-tank-day-2026) — **반대**: 스타벅스 논란을 선거에 적극 활용하며 강하게 비판했다. [출처](https://www.hankookilbo.com/news/article/A2026060114220005071?did=NA)
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **혼합**: 지방선거 공천과 선거 전략을 주도했지만, 전북지사·대구시장 공천 논란의 책임론도 함께 거론됐다. [출처](https://www.sisaweek.com/news/articleView.html?idxno=235884)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 투표용지 부족 사태와 관련해 즉각적인 국정조사와 특검 도입을 요구하며 선관위 책임 규명을 강조했다. [출처](https://www.joongang.co.kr/article/25436212)
+- [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **혼합**: 국회를 정쟁의 장으로 변질시킨다는 비판 속에서도 법사위원장 사수를 강조하며 민생·개혁 입법 우선 기조를 내세웠다. [출처](https://www.mt.co.kr/politics/2026/06/23/2026062315472832425)
 <!-- /agent:stances -->
