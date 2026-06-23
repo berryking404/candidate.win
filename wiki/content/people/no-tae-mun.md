@@ -14,4 +14,5 @@ status: curated
 
 <!-- agent:stances -->
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **반대**: 임직원들에게 미래 경쟁력 훼손을 막기 위해 임금협상을 신중히 해달라고 당부했다. [출처](https://woman.chosun.com/news/articleView.html?idxno=125788)
+- [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **중립**: DX부문 노조와 직접 면담하며 성과급 격차와 보상 체계를 논의했다. [출처](https://www.econovill.com/news/articleView.html?idxno=743217)
 <!-- /agent:stances -->
