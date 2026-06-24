@@ -29,4 +29,5 @@ party: 국민의힘
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **반대**: 지방선거 패배 뒤 지도부 책임론과 공천권 갈등의 중심에 놓였다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8586584&ref=A)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **지지**: 투표용지 부족 사태를 이유로 전국 재선거와 선관위 개혁, 특검 추진을 주장했다. [출처](https://www.pressian.com/pages/articles/2026061615443753978?utm_source=naver&utm_medium=search)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **지지**: 투표용지 부족 사태를 계기로 선거 소청 확대와 전국 재선거를 촉구하며 특검·국정조사 필요성을 강조했다. [출처](http://www.breaknews.com/1214704)
+- [전시작전통제권(전작권) 전환 추진과 안보 논쟁 (2026)](/issues/opcon-transfer-2026) — **반대**: 전작권 조기 환수가 주한미군 철수의 트리거이자 한미동맹 해체로 이어질 수 있다고 비판했다. [출처](https://www.newdaily.co.kr/site/data/html/2026/06/02/2026060200060.html)
 <!-- /agent:stances -->
