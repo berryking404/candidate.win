@@ -33,4 +33,5 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [한석호](/people/han-seok-ho) — **지지**: 삼성전자 노조의 이익 연동형 보상 요구를 노동계 전반의 흐름으로 보며 정당한 요구로 설명했다. [출처](https://www.slownews.kr/161698)
 - [노태문](/people/no-tae-mun) — **중립**: DX부문 노조와 직접 면담하며 성과급 격차와 보상 체계를 논의했다. [출처](https://www.econovill.com/news/articleView.html?idxno=743217)
 - [백순안](/people/baek-sun-an) — **지지**: 경영진의 의사결정이 구성원을 충분히 고려하는지 문제를 제기하며 보상체계 개선 필요성을 강조했다. [출처](https://www.hankookilbo.com/news/article/A2026062315130002859?did=NA)
+- [김용범](/people/gim-yong-beom) — **중립**: 삼성전자 성과급 갈등을 두고 "세계 최초 사례"라고 언급했지만, 이슈에 대한 명시적 찬반은 기사들에서 확인되지 않았다. [출처](https://www.dt.co.kr/article/12069347?ref=naver)
 <!-- /agent:stances -->
