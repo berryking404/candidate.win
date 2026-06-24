@@ -67,4 +67,9 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [울산대](/people/ulsan-dae) — **지지**: 급속한 고령화에 대응하기 위한 시니어 토탈케어 전문 인재 양성 센터를 설립했다. [출처](http://www.ujeil.com/news/articleView.html?idxno=387799)
 - [이천문형](/people/lee-cheon-mun-hyeong) — **지지**: 고령화에 따라 노인복지 현장의 응급상황 대응 역량을 강조하며 안전한 돌봄 환경 필요성을 밝혔다. [출처](https://www.kyeonggi.com/article/20260624580523)
 - [대구시](/people/daegu-si) — **지지**: 초고령사회 대응 모델로 대구형 통합돌봄 '단디돌봄'을 확산하고 있다. [출처](https://www.kyongbuk.co.kr/news/articleView.html?idxno=4076534)
+- [서울시](/people/seoul-si) — **지지**: 초고령사회 대응을 위해 '서울형 통합돌봄' 체계를 구축하고 어르신 전담 조직을 신설한다고 밝혔다. [출처](https://www.m-i.kr/news/articleView.html?idxno=1385032)
+- [경주시](/people/gyeongju-si) — **지지**: 퇴원한 고령자를 주거·의료·돌봄으로 묶어 지원하는 통합돌봄 케어안심주택을 가동한다고 밝혔다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3616570)
+- [은평구](/people/eunpyeong-gu) — **지지**: 지역사회 통합돌봄 공론장을 열어 민관 협력 기반의 돌봄 체계 구축에 나섰다. [출처](http://www.enewstoday.co.kr/news/articleView.html?idxno=2441855)
+- [달성군](/people/dalseong-gun) — **지지**: 24시간 어린이집을 필수 돌봄 안전망으로 안착시켜 돌봄 공백 해소에 기여하고 있다. [출처](https://www.idaegu.co.kr/news/articleView.html?idxno=552029)
+- [전진숙](/people/jeon-jin-suk) — **지지**: 통합돌봄 확장과 돌봄청 신설을 핵심 과제로 제시했다. [출처](http://www.kwangju.co.kr/article.php?aid=1782304800800540004)
 <!-- /agent:stances -->
