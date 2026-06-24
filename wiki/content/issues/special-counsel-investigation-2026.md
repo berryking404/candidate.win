@@ -44,4 +44,8 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [이준석](/people/i-jun-seok) — **반대**: 민주당의 탄핵·공소취소 공세를 겨냥해 “공소취소 끝은 하야”라고 비판했다. [출처](https://www.kyeonggi.com/article/20260622580091)
 - [박지원](/people/bak-ji-won) — **혼합**: 특검·탄핵 국면을 둘러싼 당내 갈등을 자제하자며 대통령의 당무 개입 논란을 함께 언급했다. [출처](https://www.newsis.com/view/NISX20260622_0003678298)
 - [김어준](/people/gim-eo-jun) — **중립**: 계엄·탄핵 인식과 관련한 여론조사에서 부정 인식이 높게 나타났다고 보도됐다. [출처](https://www.pressian.com/pages/articles/2026062217212925509?utm_source=naver&utm_medium=search)
+- [명태균](/people/myeong-tae-gyun) — **중립**: 명태균 게이트와 공천 개입 의혹의 핵심 인물로 언급됐으나 직접 입장은 확인되지 않았다. [출처](https://www.ntoday.co.kr/news/articleView.html?idxno=127806)
+- [이재명](/people/i-jae-myeong) — **중립**: 특검 관련 법안과 국정 운영 맥락에서 거론됐지만 이 이슈에 대한 직접 입장은 확인되지 않았다. [출처](https://www.yna.co.kr/view/AKR20260624085600001?input=1195m)
+- [나경원](/people/na-gyeong-won) — **중립**: 특검·탄핵 관련 정치 공방 기사에서 거론됐으나 직접 입장은 확인되지 않았다. [출처](https://www.viewsnnews.com/article?q=236710)
+- [김병기](/people/gim-byeong-gi) — **중립**: 특검 관련 기사에서 언급됐지만 이 이슈에 대한 직접 입장은 확인되지 않았다. [출처](https://www.koreaherald.com/article/10651826?ref=naver)
 <!-- /agent:stances -->
