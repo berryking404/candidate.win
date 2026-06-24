@@ -19,4 +19,5 @@ party: 개혁신당
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **반대**: 특검을 정쟁의 도구가 아니라 진실 규명의 수단으로 돌려야 한다고 주장했다. [출처](https://www.hankyung.com/article/2026061724577)
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **반대**: 민주당이 검사 탄핵과 공소취소를 동원해 수사 의혹을 정치적으로 활용한다고 비판했다. [출처](https://www.kyeonggi.com/article/20260622580091)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 투표용지 부족 사태와 재선거 논란을 고리로 선관위의 무능과 책임을 비판했다. [출처](https://www.news1.kr/politics/assembly/6206211)
+- [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **반대**: 육사 통합사관학교 추진을 계엄 공포에 기대는 방식으로 비판하며 반대했다. [출처](https://www.news1.kr/politics/assembly/6207403)
 <!-- /agent:stances -->
