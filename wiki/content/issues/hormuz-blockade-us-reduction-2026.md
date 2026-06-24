@@ -19,4 +19,6 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [프리드리히 메르츠](/people/fridrich-merz) — **혼합**: 미국의 전쟁 개입을 전략 부재라고 비판했지만, 이후 독일 주둔 미군 감축을 추진하며 동맹 재조정을 압박하는 흐름을 보였다. [출처](https://view.asiae.co.kr/article/2026061620214781463)
 - [김민석](/people/gim-min-seok) — **지지**: 호르무즈 해협을 운항 중인 우리 선박과 선원들의 안전한 귀환을 지원하겠다고 밝혔다. [출처](https://www.ktv.go.kr/content/view?content_id=756660)
 - [김정관](/people/gim-jeong-gwan) — **지지**: 호르무즈 해협 봉쇄 재발에 대비해 UAE 우회 송유관 건설과 한국 기업 참여를 당부했다. [출처](https://www.news1.kr/economy/idustry-trade/6199340)
+- [아바스 아라그치](/people/abas-aragchi) — **반대**: 호르무즈 해협 개방과 미군 해상 봉쇄 해제를 포함한 MOU 체결을 미국의 패배로 규정하며 미국의 봉쇄 정책을 정면 비판했다. [출처](https://www.news1.kr/world/middleeast-africa/6207500)
+- [전정근](/people/jeon-jeong-geun) — **중립**: 호르무즈 봉쇄로 불안에 놓인 선원들의 안전을 언급하며 통항 재개를 지켜봤지만, 봉쇄 자체에 대한 찬반 입장은 드러내지 않았다. [출처](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000536271)
 <!-- /agent:stances -->
