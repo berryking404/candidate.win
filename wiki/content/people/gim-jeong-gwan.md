@@ -14,7 +14,7 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
 - [삼성전자 노사 갈등](/issues/corporate-labor-dispute-2026) — **지지**: 파업이 발생하면 긴급조정이 불가피하다고 밝히며 노사 양측의 대화와 타협을 촉구했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8561762&ref=A)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **반대**: 반도체 산업의 특성을 들어 초과이익은 재투자해야 한다며 사회적 분배론에 선을 그었다. [출처](https://www.asiatime.co.kr/article/20260529500293)
+- [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **혼합**: 삼성전자 노조의 이익 연동 성과급 요구에는 동의하지 않지만, 노조의 합법적 권한 행사가 위협받는 상황은 문제라고 봤다. [출처](https://www.chosun.com/opinion/journalist_view/2026/06/24/BBH42VWILRDIHGFQMG6PJ5PEPQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
 <!-- /agent:stances -->
