@@ -57,6 +57,4 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [오세훈](/people/o-se-hun) — **지지**: 고령층 교통복지 체계를 버스까지 넓히는 방안을 검토하며 노인 복지 확대 방향을 제시했다. [출처](https://www.hani.co.kr/arti/area/area_general/1264773.html)
 - [서호관](/people/seo-ho-gwan) — **지지**: 복지를 기본 안전망으로 규정하며 시민 삶을 지키는 사회안전망의 중요성을 강조했다. [출처](https://www.gnnews.co.kr/news/articleView.html?idxno=639517)
 - [정은경](/people/jeong-eun-gyeong) — **지지**: 주거복지를 사회적 불평등 완화와 지역사회 지속가능성을 위한 기본적인 사회안전망으로 강조했다. [출처](https://www.jemin.com/news/articleView.html?idxno=839281)
-- [이기일](/people/i-gi-il) — **지지**: 자립준비청년·고립은둔청년·가족돌봄청년의 사각지대 해소를 통해 사회안전망을 강화하자고 밝혔다. [출처](none)
-- [박능후](/people/bak-neung-hu) — **지지**: 기초연금 인상, 노인일자리 확충, 치매·장기요양 등 돌봄 체계 강화를 통한 고령화 대응을 언급했다. [출처](none)
 <!-- /agent:stances -->

@@ -1,8 +1,8 @@
 ---
-title: 여인형
-slug: yeo-in-hyeong
-role: 전 국군방첩사령관
-status: curated
+title: 강명구
+slug: gang-myeong-gu
+role: 국민의힘 의원
+status: stub
 ---
 
 ## 행적

@@ -1,7 +1,7 @@
 ---
-title: 조시정
-slug: jo-si-jeong
-role: 삼성전자 피플팀장 부사장
+title: 박종효
+slug: bak-jong-hyo
+role: 남동구청장
 status: stub
 ---
 
@@ -13,5 +13,4 @@ status: stub
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
 <!-- /agent:stances -->
