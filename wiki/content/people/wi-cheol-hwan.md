@@ -8,6 +8,8 @@ status: stub
 ## 행적
 
 <!-- agent:events -->
+- 2026-06-24: 투표용지 부족 사태 국정조사 과정에서 재선거 관련 발언을 두고 과도한 표현이었다고 사과했다. [출처](https://www.news1.kr/politics/assembly/6207438)
+- 2026-06-24: 국정조사에서 선관위 증인들의 대거 불참과 관련한 논란 속에 선관위 입장을 설명했다. [출처](https://www.idaegu.co.kr/news/articleView.html?idxno=551974)
 <!-- /agent:events -->
 
 ## 이슈별 입장
