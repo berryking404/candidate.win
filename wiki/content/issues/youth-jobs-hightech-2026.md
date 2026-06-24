@@ -54,4 +54,6 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [김민석](/people/gim-min-seok) — **지지**: 반도체를 포함한 첨단산업 분야 협력과 혁신산업 육성을 강조하며 청년 일자리 기반 확대와 맞닿는 행보를 보였다. [출처](https://www.news1.kr/politics/president/6206208)
 - [김영훈](/people/gim-yeong-hun) — **지지**: AI 대기업 초과이익을 협력사와 나눠야 한다고 발언해 AI·일자리 구조와 연계된 분배 강화를 지지했다. [출처](https://www.sedaily.com/article/20052461?ref=naver)
 - [박종효](/people/bak-jong-hyo) — **지지**: 도시첨단산단과 청년 산업 생태계 조성을 신년사에서 언급하며 지역 청년 일자리 확대를 뒷받침했다. [출처](http://www.breaknews.com/1173370)
+- [이상일](/people/i-sang-il) — **지지**: 반도체 시행령 수정 환영과 함께 용인 첨단시스템반도체 국가산단의 신속한 추진을 촉구했다. [출처](http://www.enewstoday.co.kr/news/articleView.html?idxno=2442195)
+- [김중남](/people/gim-jung-nam) — **지지**: 지역 대학 총장들과 청년 일자리 창출, 창업 지원, 지산학 협력 활성화를 논의했다. [출처](https://www.yna.co.kr/view/AKR20260624166900062?input=1195m)
 <!-- /agent:stances -->
