@@ -25,4 +25,5 @@ party: 더불어민주당
 - [전시작전통제권(전작권) 전환 추진과 안보 논쟁 (2026)](/issues/opcon-transfer-2026) — **지지**: 2026년을 전작권 ‘회수’와 한국 주도 방위체계 전환의 중요한 시점으로 보고, 전환 추진에 우호적인 입장을 드러냈다. [출처](https://www.newspim.com/news/view/20260126000763)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **중립**: ACSA는 “검토해야 할 시기가 온 것 같다”고 했지만, 국내적으로 수용할 준비가 됐는지는 더 시간을 갖고 봐야 한다고 말했다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1264658.html)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **혼합**: 안보 환경상 검토할 시기가 왔다고 보면서도 국내적으로 수용할 준비가 됐는지 더 검토해야 한다고 했다. [출처](https://www.hani.co.kr/arti/politics/defense/1261264.html)
+- [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **지지**: 한일 ACSA 체결이 한미일 안보협력 강화의 맥락에서 거론되고 있다고 전했다. [출처](https://www.newsis.com/view/NISX20260619_0003675338)
 <!-- /agent:stances -->
