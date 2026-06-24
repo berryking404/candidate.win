@@ -35,7 +35,6 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [이상민](/people/i-sang-min) — **지지**: 종합특검과 관련한 검찰의 공소권 남용 판단을 강조하며 수사 정당성에 비판적 태도를 보였다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
 - [김도형](/people/gim-do-hyeong) — **지지**: 종합특검팀의 수사와 법원 판단을 거론하며 검찰 수사 정당성에 문제를 제기하는 취지의 입장을 보였다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
 - [홍장원](/people/hong-jang-won) — **지지**: 비상계엄 직후 우방국에 계엄 정당화 메시지를 전달하려 했다는 의혹과 계엄사 합수부 지원 논의 의혹을 전면 부인했다. [출처](https://www.kgnews.co.kr/news/article.html?no=900991)
-- [윤희근](/people/yun-hui-geun) — **반대**: 통일교 수사 무마 의혹과 관련한 피의자 조사에서 관련 내용을 전혀 들은 적이 없다며 혐의를 전면 부인했다. [출처](https://www.khan.co.kr/article/202606231111011)
-- [홍장원](/people/hong-jang-won) — **반대**: 계엄 정당화 메시지 전달 의혹과 관련해 특검 조사에 출석했지만, 관련 행위를 부인했다. [출처](https://www.g-enews.com/view.php?ud=20260622214114687995c8fcfb13_1)
-- [심우정](/people/sim-u-jeong) — **중립**: 12·3 비상계엄 당시 계엄사 합동수사본부에 검사 파견을 검토한 혐의와 김건희 수사 무마 관여 의혹으로 종합특검 소환 조사를 받았다. [출처](https://www.hankyung.com/article/202606246244i)
+- [윤희근](/people/yun-hui-geun) — **지지**: 통일교 수사 무마 의혹과 관련한 피의자 조사에서 관련 내용을 전혀 들은 적이 없다며 혐의를 전면 부인했다. [출처](https://www.khan.co.kr/article/202606231111011)
+- [홍장원](/people/hong-jang-won) — **지지**: 계엄 정당화 메시지 전달 의혹과 관련해 특검 조사에 출석했지만, 관련 행위를 부인했다. [출처](https://www.g-enews.com/view.php?ud=20260622214114687995c8fcfb13_1)
 <!-- /agent:stances -->

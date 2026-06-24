@@ -10,7 +10,6 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 
 <!-- agent:stances -->
 - [김광민](/people/gim-gwang-min) — **중립**: 민주연구원 부원장으로서 성희롱·성차별 논쟁에 대해 페미니즘과 표현의 해석 문제를 제기하는 반박 글을 썼다. [출처](https://www.mk.co.kr/article/12036394)
-- [이효린](/people/i-hyo-rin) — **중립**: AI 학습 데이터에 반영된 성차별과 폭력을 감시할 젠더 관점의 필요성을 강조했으나, 특정 찬반 입장은 드러나지 않았다. [출처](https://www.obsnews.co.kr/news/articleView.html?idxno=1523578)
 - [조전혁](/people/jo-jeon-hyeok) — **반대**: 동성애 교육 추방을 내건 교육감 선거 맥락에서 혐오·차별 확산에 반대하는 현수막 논쟁의 당사자로 거론됐다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003236857&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [이재명](/people/i-jae-myeong) — **반대**: 일베의 여성·장애인 혐오와 지역 차별을 지적하며 폐쇄 검토를 지시했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8568848&ref=A)
 - [나경원](/people/na-gyeong-won) — **중립**: 이번 수집 기사에서는 젠더 갈등 이슈와 관련해 직접적인 찬반 입장보다 과거 여성 혐오 표현 논란과 사과 사실이 함께 언급됐다. [출처](https://www.imnews.imbc.com/replay/2026/nwtoday/article/6825184_37012.html)

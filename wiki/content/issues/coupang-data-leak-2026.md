@@ -26,7 +26,6 @@ summary: 쿠팡 대규모 개인정보 유출과 정부·정치권·시민사회
 - [이용우](/people/i-yong-u) — **지지**: 미국 기업도 FTA에 따라 동일하게 대우받아야 한다며 쿠팡 조사 필요성을 강조했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3568274)
 - [정성호](/people/jeong-seong-ho) — **지지**: 쿠팡 개인정보 유출 사태와 관련해 쿠팡 측 대응을 강도 높게 비판하며 정부 규제권의 정당성을 강조했다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260601010009174)
 - [송경희](/people/song-gyeong-hui) — **중립**: 개인정보보호위원회가 대규모 개인정보 유출에 대한 제재 강화와 시행령 개정을 추진했다. [출처](https://www.ajunews.com/view/20260603181408751)
-- [여한구](/people/yeo-han-gu) — **중립**: 쿠팡 개인정보 유출 사태에 대한 미국 측 우려와 통상 현안을 설명하는 역할로 언급됐지만, 이슈 자체에 대한 찬반 입장은 확인되지 않았다. [출처](https://www.ytn.co.kr/_ln/0104_202601142134185302)
 - [고학수](/people/go-hak-su) — **지지**: 쿠팡의 개인정보 유출·조사방해·불법 수집 정황을 근거로 역대 최대 규모의 과징금 처분을 의결했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8584842&ref=A)
 - [박정보](/people/bak-jeong-bo) — **중립**: 쿠팡 개인정보 유출 의혹에 대해 절차에 따라 수사를 진행 중이라고 밝혔다. [출처](https://www.news1.kr/society/incident-accident/6197501)
 - [김종철](/people/gim-jong-cheol) — **중립**: 쿠팡의 개인정보 유출 사태와 관련해 납치광고 문제를 들여다보고 있다고 밝혔다. [출처](https://www.mk.co.kr/article/12074455)

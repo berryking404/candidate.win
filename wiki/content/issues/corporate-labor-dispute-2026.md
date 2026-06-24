@@ -11,7 +11,6 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 <!-- agent:stances -->
 - [최승호](/people/choe-seung-ho) — **지지**: 삼성전자 초기업노조 위원장으로 성과급 제도화와 상한 폐지를 요구하며 총파업 가능성을 공개적으로 밝혔고, 협상에서도 강경한 입장을 유지했다. [출처](http://www.yonhapnewstv.co.kr/news/AKR20260512102610yQz)
 - [최승호](/people/choe-seung-ho) — **지지**: 성과급 상한 폐지와 제도화를 고수하며 파업 가능성을 압박 수단으로 제시했다. [출처](https://www.yna.co.kr/view/AKR20260515037000003?input=1195m)
-- [김형로](/people/gim-hyeong-ro) — **중립**: 삼성전자 사측 대표 교섭위원으로 노사 조정 회의에 참석했지만, 제공된 기사들에서 구체적인 찬반 입장은 확인되지 않았다. [출처](http://www.edaily.co.kr/news/newspath.asp?newsid=04152486645448264)
 - [구윤철](/people/gu-yun-cheol) — **반대**: 삼성전자 노조의 파업에 대해 "파업은 절대 있어서는 안 된다"며 대화를 통한 해결을 촉구했다. [출처](https://www.news1.kr/economy/trend/6164945)
 - [김정관](/people/gim-jeong-gwan) — **반대**: 삼성전자 파업이 현실화할 경우 긴급조정권 발동이 불가피하다고 밝히며 파업 자제와 노사 타협을 촉구했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8561762&ref=A)
 - [김정관](/people/gim-jeong-gwan) — **반대**: 반도체 산업의 특성을 들어 초과이익은 재투자해야 한다며 사회적 분배론에 선을 그었다. [출처](https://www.asiatime.co.kr/article/20260529500293)
@@ -33,6 +32,5 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [한석호](/people/han-seok-ho) — **지지**: 삼성전자 노조의 이익 연동형 보상 요구를 노동계 전반의 흐름으로 보며 정당한 요구로 설명했다. [출처](https://www.slownews.kr/161698)
 - [노태문](/people/no-tae-mun) — **중립**: DX부문 노조와 직접 면담하며 성과급 격차와 보상 체계를 논의했다. [출처](https://www.econovill.com/news/articleView.html?idxno=743217)
 - [백순안](/people/baek-sun-an) — **지지**: 경영진의 의사결정이 구성원을 충분히 고려하는지 문제를 제기하며 보상체계 개선 필요성을 강조했다. [출처](https://www.hankookilbo.com/news/article/A2026062315130002859?did=NA)
-- [김용범](/people/gim-yong-beom) — **중립**: 삼성전자 성과급 갈등을 두고 "세계 최초 사례"라고 언급했지만, 이슈에 대한 명시적 찬반은 기사들에서 확인되지 않았다. [출처](https://www.dt.co.kr/article/12069347?ref=naver)
 - [김정관](/people/gim-jeong-gwan) — **혼합**: 삼성전자 노조의 영업이익 연동 성과급 요구에는 동의하지 않지만, 합법적 권한 행사가 권위주의적 위협을 받았다는 점은 문제라고 봤다. [출처](https://www.chosun.com/opinion/journalist_view/2026/06/24/BBH42VWILRDIHGFQMG6PJ5PEPQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
 <!-- /agent:stances -->
