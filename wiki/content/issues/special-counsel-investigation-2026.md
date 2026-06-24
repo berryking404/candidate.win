@@ -48,4 +48,5 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [이재명](/people/i-jae-myeong) — **중립**: 특검 관련 법안과 국정 운영 맥락에서 거론됐지만 이 이슈에 대한 직접 입장은 확인되지 않았다. [출처](https://www.yna.co.kr/view/AKR20260624085600001?input=1195m)
 - [나경원](/people/na-gyeong-won) — **중립**: 특검·탄핵 관련 정치 공방 기사에서 거론됐으나 직접 입장은 확인되지 않았다. [출처](https://www.viewsnnews.com/article?q=236710)
 - [김병기](/people/gim-byeong-gi) — **중립**: 특검 관련 기사에서 언급됐지만 이 이슈에 대한 직접 입장은 확인되지 않았다. [출처](https://www.koreaherald.com/article/10651826?ref=naver)
+- [심우정](/people/sim-u-jeong) — **중립**: 비상계엄 관련 내란 가담 의혹과 윤석열 전 대통령 구속취소 결정 미즉시항고 문제로 특검 조사를 받는 당사자로 거론됐다. [출처](https://www.ytn.co.kr/_ln/0103_202606242159353579)
 <!-- /agent:stances -->
