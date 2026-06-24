@@ -104,4 +104,11 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [김영욱](/people/gim-young-ok) — **지지**: 권역별 자율상권구역 확대와 소상공인 지원 정책으로 지역경제 활력을 높이겠다고 밝혔다. [출처](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260624.22003007085)
 - [이영복](/people/i-yeong-bok) — **지지**: 골목상권을 전통시장과 연결해 상권 범위를 넓히고, 소상공인이 체감할 수 있는 지원 정책을 추진하겠다고 밝혔다. [출처](https://sjbnews.com/news/news.php?number=881255)
 - [오도창](/people/o-do-chang) — **지지**: 농어촌 기본소득이 지역 소비 확대와 상권 활성화로 이어질 수 있다고 평가했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=05894166645484672)
+- [함영주](/people/ham-yeong-ju) — **지지**: 소상공인시장진흥공단과 협력해 청년 소상공인 육성과 지역 상권 회복을 위한 4년간 50억 원 규모의 지원 프로젝트를 추진했다. [출처](https://www.hankyung.com/article/2026062459681)
+- [인태연](/people/in-tae-yeon) — **지지**: 소상공인시장진흥공단과 하나금융의 청년 소상공인 상권 활성화 지원 업무협약에 참여해 지역 상권 회복 사업을 뒷받침했다. [출처](https://www.fnnews.com/news/202606241806542435)
+- [장인홍](/people/jang-in-hong) — **지지**: 구로사랑상품권 확대 발행으로 골목상권 활성화와 지역 소상공인 매출 증대를 추진했다. [출처](https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/06/24/20260624500269?wlog_tag3=naver)
+- [강철구](/people/gang-cheol-gu) — **지지**: 전통시장 대표 상품 축제를 통해 전통시장을 문화·체험 공간으로 키우는 지원사업을 추진했다. [출처](http://www.lawissue.co.kr/view.php?ud=20260624115932804d94aa4ada6_12)
+- [이병선](/people/i-byeong-seon) — **지지**: 민생회복지원금 지급으로 얼어붙은 골목상권과 지역 경제에 소비 마중물을 붓겠다고 밝혔다. [출처](http://www.breaknews.com/1216573)
+- [전문학](/people/jeon-mun-hak) — **지지**: 지역화폐와 골목상권, 관광 활성화를 연계해 지역경제를 살리는 방향의 공약 우선 추진을 주문했다. [출처](https://www.kukinews.com/article/view/kuk202606240169)
+- [김동구](/people/gim-dong-gu) — **지지**: 원도심 상권 회복을 위해 공공배달앱 대신 소상공인 직접 지원 방안을 검토했다. [출처](http://www.jmbc.co.kr/news/view/65729)
 <!-- /agent:stances -->
