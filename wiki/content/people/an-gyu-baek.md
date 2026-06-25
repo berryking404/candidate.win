@@ -26,4 +26,5 @@ party: 더불어민주당
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **중립**: ACSA는 “검토해야 할 시기가 온 것 같다”고 했지만, 국내적으로 수용할 준비가 됐는지는 더 시간을 갖고 봐야 한다고 말했다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1264658.html)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **혼합**: 안보 환경상 검토할 시기가 왔다고 보면서도 국내적으로 수용할 준비가 됐는지 더 검토해야 한다고 했다. [출처](https://www.hani.co.kr/arti/politics/defense/1261264.html)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **지지**: 한일 ACSA 체결이 한미일 안보협력 강화의 맥락에서 거론되고 있다고 전했다. [출처](https://www.newsis.com/view/NISX20260619_0003675338)
+- [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **반대**: 탄핵 청원을 “이재명 정권의 안보 정책에 대한 국민의 탄핵 선언”으로 규정하며, 장관 경질과 안보 파괴 중단을 요구했다. [출처](https://www.hankookilbo.com/news/article/A2026062509510004013?did=NA)
 <!-- /agent:stances -->
