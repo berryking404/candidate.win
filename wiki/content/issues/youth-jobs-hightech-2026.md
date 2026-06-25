@@ -55,4 +55,7 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [박종효](/people/bak-jong-hyo) — **지지**: 도시첨단산단과 청년 산업 생태계 조성을 신년사에서 언급하며 지역 청년 일자리 확대를 뒷받침했다. [출처](http://www.breaknews.com/1173370)
 - [이상일](/people/i-sang-il) — **지지**: 반도체 시행령 수정 환영과 함께 용인 첨단시스템반도체 국가산단의 신속한 추진을 촉구했다. [출처](http://www.enewstoday.co.kr/news/articleView.html?idxno=2442195)
 - [김중남](/people/gim-jung-nam) — **지지**: 지역 대학 총장들과 청년 일자리 창출, 창업 지원, 지산학 협력 활성화를 논의했다. [출처](https://www.yna.co.kr/view/AKR20260624166900062?input=1195m)
+- [이장섭](/people/i-jang-seop) — **지지**: 국가 첨단전략산업 특화도시 완성을 통해 청년들이 정착하는 양질의 일자리를 만들겠다고 밝혔다. [출처](https://www.ccdailynews.com/news/articleView.html?idxno=2424326)
+- [신수정](/people/sin-su-jeong) — **지지**: 청년과 함께 일자리, 창업, 주거, 정주 여건 개선을 논의하며 청년정책수정단을 출범했다. [출처](https://www.ekn.kr/web/view.php?key=20260625023296544)
+- [이정학](/people/i-jeong-hak) — **지지**: 기존 산업구조를 첨단·미래형으로 바꾸고 산업구조 변화를 시민생활과 연결하겠다고 밝혔다. [출처](https://www.kado.net/news/articleView.html?idxno=2057906)
 <!-- /agent:stances -->
