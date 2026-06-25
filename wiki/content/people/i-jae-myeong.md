@@ -33,4 +33,5 @@ party: 더불어민주당
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 투표용지 부족 사태를 선관위의 총체적 부실로 규정하고, 국정조사·수사 의뢰와 원포인트 개헌까지 거론하며 강한 개혁 필요성을 주문했습니다. [출처](https://www.inews24.com/view/1978182)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **중립**: 선관위 논란에 대해 부정부패·채용비리·예산낭비까지 철저히 수사하라고 주문했다. [출처](https://www.donga.com/news/Politics/article/all/20260623/134165701/1)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **혼합**: 현실적 필요성은 인정하지만 국민정서와 과거사 문제를 이유로 지금은 어렵다고 했다. [출처](https://www.hani.co.kr/arti/politics/bluehouse/1262506.html)
+- [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **지지**: 한일 상호군수지원협정의 현실적 필요성을 인정하며 한일 군사협력의 속도를 강조했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003246239&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 <!-- /agent:stances -->
