@@ -44,4 +44,5 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [이준석](/people/i-jun-seok) — **반대**: 민주당의 탄핵·공소취소 공세를 겨냥해 “공소취소 끝은 하야”라고 비판했다. [출처](https://www.kyeonggi.com/article/20260622580091)
 - [박지원](/people/bak-ji-won) — **혼합**: 특검·탄핵 국면을 둘러싼 당내 갈등을 자제하자며 대통령의 당무 개입 논란을 함께 언급했다. [출처](https://www.newsis.com/view/NISX20260622_0003678298)
 - [김어준](/people/gim-eo-jun) — **중립**: 계엄·탄핵 인식과 관련한 여론조사에서 부정 인식이 높게 나타났다고 보도됐다. [출처](https://www.pressian.com/pages/articles/2026062217212925509?utm_source=naver&utm_medium=search)
+- [우원식](/people/u-won-sik) — **지지**: 비상계엄을 막아내고 탄핵 소추를 이뤄냈다고 언급하며 관련 개혁의 정당성을 강조했다. [출처](https://www.nocutnews.co.kr/news/6538536?utm_source=naver&utm_medium=article&utm_campaign=20260625013451)
 <!-- /agent:stances -->
