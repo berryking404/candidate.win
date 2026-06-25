@@ -37,4 +37,9 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [홍장원](/people/hong-jang-won) — **지지**: 비상계엄 직후 우방국에 계엄 정당화 메시지를 전달하려 했다는 의혹과 계엄사 합수부 지원 논의 의혹을 전면 부인했다. [출처](https://www.kgnews.co.kr/news/article.html?no=900991)
 - [윤희근](/people/yun-hui-geun) — **지지**: 통일교 수사 무마 의혹과 관련한 피의자 조사에서 관련 내용을 전혀 들은 적이 없다며 혐의를 전면 부인했다. [출처](https://www.khan.co.kr/article/202606231111011)
 - [홍장원](/people/hong-jang-won) — **지지**: 계엄 정당화 메시지 전달 의혹과 관련해 특검 조사에 출석했지만, 관련 행위를 부인했다. [출처](https://www.g-enews.com/view.php?ud=20260622214114687995c8fcfb13_1)
+- [조은석](/people/jo-eun-seok) — **지지**: 내란특검으로서 윤석열 전 대통령의 내란 혐의에 대해 중형을 구형하며 계엄 관련 증거를 종합적으로 평가해야 한다고 주장했다. [출처](https://www.yna.co.kr/view/AKR20260625090051004?input=1195m)
+- [박상용](/people/bak-sang-yong) — **반대**: 대북송금 사건 수사와 관련한 ‘연어 술파티’ 의혹을 조작이라며 공개 사과를 요구했다. [출처](https://www.newscj.com/news/articleView.html?idxno=3411890)
+- [이시원](/people/i-si-won) — **중립**: 채상병 수사 외압 의혹과 관련해 종합특검의 피의자 신분 소환 조사를 받았다. [출처](https://www.newspim.com/news/view/20260625001110)
+- [김대기](/people/gim-dae-gi) — **중립**: 관저 이전 의혹 수사에서 김건희·관저 이전 관련 혐의로 함께 기소된 것으로 보도됐다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/06/10/2026061090001.html)
+- [김종욱](/people/gim-jong-uk) — **중립**: 해경 계엄 가담 의혹과 관련한 수사 또는 조사 대상로 거론됐다. [출처](https://www.sisajournal.com/news/articleView.html?idxno=325501)
 <!-- /agent:stances -->
