@@ -15,4 +15,5 @@ party: 기민련(CDU)
 
 <!-- agent:stances -->
 - [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **중립**: 트럼프의 대이란·동맹국 압박과 독일 주둔 미군 감축 국면의 상대국이지만, 이 이슈에 대한 직접 입장은 기사에서 확인되지 않는다. [출처](https://www.hankookilbo.com/news/article/A2026051018060001159?did=NA)
+- [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **혼합**: 미국의 전쟁 개입을 전략 부재라고 비판했지만, 이후 독일 주둔 미군 감축을 추진하며 동맹 재조정을 압박하는 흐름을 보였다. [출처](https://view.asiae.co.kr/article/2026061620214781463)
 <!-- /agent:stances -->
