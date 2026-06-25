@@ -14,5 +14,4 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **지지**: 내란특검으로서 윤석열 전 대통령의 내란 혐의에 대해 중형을 구형하며 계엄 관련 증거를 종합적으로 평가해야 한다고 주장했다. [출처](https://www.yna.co.kr/view/AKR20260625090051004?input=1195m)
 <!-- /agent:stances -->
