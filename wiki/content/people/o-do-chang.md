@@ -2,7 +2,8 @@
 title: 오도창
 slug: o-do-chang
 role: 영양군수
-status: stub
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

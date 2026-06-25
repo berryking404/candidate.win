@@ -1,9 +1,9 @@
 slug: seo-seok-yeong
 name_ko: 서석영
 name_en: null
-party: null
+party: 국민의힘
 role: 경북도의원
-status: stub
+status: curated
 aliases:
 - 서 의원
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 서석영
   youtube_channels: []
+  official_urls:
+  - https://council.gb.go.kr/member/intro/profile?search_code=12002

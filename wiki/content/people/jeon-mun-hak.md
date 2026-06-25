@@ -2,7 +2,8 @@
 title: 전문학
 slug: jeon-mun-hak
 role: 대전 서구청장 당선인
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

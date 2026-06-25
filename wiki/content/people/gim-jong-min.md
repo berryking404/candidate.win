@@ -1,8 +1,8 @@
 ---
 title: 김종민
 slug: gim-jong-min
-role: 국회 산업통상자원중소벤처기업위원회 소속 의원
-status: stub
+role: 국회의원
+status: curated
 ---
 
 ## 행적

@@ -1,9 +1,9 @@
 slug: go-min-jeong
 name_ko: 고민정
 name_en: null
-party: null
-role: 더불어민주당 의원
-status: stub
+party: 더불어민주당
+role: 국회의원
+status: curated
 aliases:
 - 고 의원
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 고민정
   youtube_channels: []
+  official_urls:
+  - https://www.assembly.go.kr/members/22nd/KOMINJUNG

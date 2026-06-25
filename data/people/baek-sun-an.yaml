@@ -2,8 +2,8 @@ slug: baek-sun-an
 name_ko: 백순안
 name_en: null
 party: null
-role: 삼성전자 노동조합 동행 정책기획국장
-status: stub
+role: 삼성전자노조동행 정책기획국장
+status: curated
 aliases:
 - 백순안 국장
 - 동행노조 백순안
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 백순안
   youtube_channels: []
+  official_urls:
+  - https://www.chosun.com/economy/tech_it/2026/05/19/YVVQ6CIXEBF2TFPA4SARTHQ4V4/

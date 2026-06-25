@@ -1,8 +1,9 @@
 ---
 title: 김영호
 slug: gim-yeong-ho
-role: 더불어민주당 의원
-status: stub
+role: 국회의원
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

@@ -1,9 +1,9 @@
 slug: gim-jun-hyeong
 name_ko: 김준형
 name_en: null
-party: null
+party: 조국혁신당
 role: 국회의원
-status: stub
+status: curated
 aliases:
 - 김 원내대표
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김준형
   youtube_channels: []
+  official_urls:
+  - https://www.assembly.go.kr/members/22nd/KIMJOONHYUNG

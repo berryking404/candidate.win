@@ -2,7 +2,8 @@
 title: 최혁진
 slug: choe-hyeok-jin
 role: 국회의원
-status: stub
+status: curated
+party: 무소속
 ---
 
 ## 행적

@@ -1,8 +1,8 @@
 ---
 title: 김영부
 slug: gim-yeong-bu
-role: BISTEP 원장
-status: stub
+role: 부산과학기술고등교육진흥원 원장
+status: curated
 ---
 
 ## 행적

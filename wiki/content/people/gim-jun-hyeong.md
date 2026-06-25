@@ -2,7 +2,8 @@
 title: 김준형
 slug: gim-jun-hyeong
 role: 국회의원
-status: stub
+status: curated
+party: 조국혁신당
 ---
 
 ## 행적

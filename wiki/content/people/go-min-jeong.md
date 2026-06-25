@@ -1,8 +1,9 @@
 ---
 title: 고민정
 slug: go-min-jeong
-role: 더불어민주당 의원
-status: stub
+role: 국회의원
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

@@ -1,9 +1,9 @@
 slug: jeon-mun-hak
 name_ko: 전문학
 name_en: null
-party: null
+party: 더불어민주당
 role: 대전 서구청장 당선인
-status: stub
+status: curated
 aliases:
 - 서구청장 당선인
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 전문학
   youtube_channels: []
+  official_urls:
+  - https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003240093

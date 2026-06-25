@@ -2,7 +2,7 @@
 title: 김민철
 slug: gim-min-cheol
 role: 경기도시장상권진흥원 원장
-status: stub
+status: curated
 ---
 
 ## 행적

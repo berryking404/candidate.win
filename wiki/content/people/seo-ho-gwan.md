@@ -1,8 +1,8 @@
 ---
 title: 서호관
 slug: seo-ho-gwan
-role: 지방자치단체장
-status: stub
+role: 창원 마산합포구청장
+status: curated
 ---
 
 ## 행적

@@ -2,8 +2,8 @@ slug: wi-cheol-hwan
 name_ko: 위철환
 name_en: null
 party: null
-role: 중앙선관위원장 직무대행
-status: stub
+role: 중앙선거관리위원장 직무대행
+status: curated
 aliases:
 - 위철환 중앙선관위원장 직무대행
 - 위 직무대행
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 위철환
   youtube_channels: []
+  official_urls:
+  - https://www.nec.go.kr/site/nec/ex/bbs/View.do?cbIdx=1090&bcIdx=326959

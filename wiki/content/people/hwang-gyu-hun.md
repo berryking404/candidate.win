@@ -2,7 +2,7 @@
 title: 황규훈
 slug: hwang-gyu-hun
 role: 인천시소상공인연합회장
-status: stub
+status: curated
 ---
 
 ## 행적

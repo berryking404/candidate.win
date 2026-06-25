@@ -2,7 +2,8 @@
 title: 이승미
 slug: i-seung-mi
 role: 서울시의원
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

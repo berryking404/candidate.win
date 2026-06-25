@@ -2,7 +2,8 @@
 title: 서석영
 slug: seo-seok-yeong
 role: 경북도의원
-status: stub
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

@@ -2,7 +2,8 @@
 title: 장인홍
 slug: jang-in-hong
 role: 구로구청장
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

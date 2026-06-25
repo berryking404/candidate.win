@@ -1,9 +1,9 @@
 slug: i-yeon-hui
 name_ko: 이연희
 name_en: null
-party: null
-role: 정치인
-status: stub
+party: 더불어민주당
+role: 국회의원
+status: curated
 aliases:
 - 이연희
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이연희
   youtube_channels: []
+  official_urls:
+  - https://www.assembly.go.kr/members/22nd/LEEYEONHEE

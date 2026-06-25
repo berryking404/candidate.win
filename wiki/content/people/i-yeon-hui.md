@@ -1,8 +1,9 @@
 ---
 title: 이연희
 slug: i-yeon-hui
-role: 정치인
-status: stub
+role: 국회의원
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

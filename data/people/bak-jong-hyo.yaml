@@ -1,9 +1,9 @@
 slug: bak-jong-hyo
 name_ko: 박종효
 name_en: null
-party: null
-role: 남동구청장
-status: stub
+party: 국민의힘
+role: 인천 남동구청장
+status: curated
 aliases:
 - 박종효 구청장
 - 남동구청장 박종효
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 박종효
   youtube_channels: []
+  official_urls:
+  - https://www.incheonilbo.com/news/articleView.html?idxno=1321698

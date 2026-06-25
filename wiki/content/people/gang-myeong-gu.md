@@ -1,8 +1,9 @@
 ---
 title: 강명구
 slug: gang-myeong-gu
-role: 국민의힘 의원
-status: stub
+role: 국회의원
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

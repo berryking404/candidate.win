@@ -1,9 +1,9 @@
 slug: o-do-chang
 name_ko: 오도창
 name_en: null
-party: null
+party: 국민의힘
 role: 영양군수
-status: stub
+status: curated
 aliases:
 - 오도창 군수
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 오도창
   youtube_channels: []
+  official_urls:
+  - https://www.yyg.go.kr/governor/intro/history

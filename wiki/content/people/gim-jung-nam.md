@@ -1,8 +1,9 @@
 ---
 title: 김중남
 slug: gim-jung-nam
-role: 시장 당선인
-status: stub
+role: 강릉시장 당선인
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

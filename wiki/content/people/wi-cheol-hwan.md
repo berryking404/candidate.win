@@ -1,8 +1,8 @@
 ---
 title: 위철환
 slug: wi-cheol-hwan
-role: 중앙선관위원장 직무대행
-status: stub
+role: 중앙선거관리위원장 직무대행
+status: curated
 ---
 
 ## 행적

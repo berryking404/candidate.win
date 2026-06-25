@@ -3,7 +3,7 @@ name_ko: 황규훈
 name_en: null
 party: null
 role: 인천시소상공인연합회장
-status: stub
+status: curated
 aliases:
 - 황규훈 회장
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 황규훈
   youtube_channels: []
+  official_urls:
+  - https://www.incheonilbo.com/news/articleView.html?idxno=1235421

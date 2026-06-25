@@ -1,9 +1,9 @@
 slug: nam-jong-seop
 name_ko: 남종섭
 name_en: null
-party: null
-role: 경기도의회 의장 후보
-status: stub
+party: 더불어민주당
+role: 경기도의원
+status: curated
 aliases:
 - 남 의원
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 남종섭
   youtube_channels: []
+  official_urls:
+  - https://www.yongin21.co.kr/news/articleView.html?idxno=84882

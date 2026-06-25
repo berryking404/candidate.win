@@ -1,8 +1,9 @@
 ---
 title: 남종섭
 slug: nam-jong-seop
-role: 경기도의회 의장 후보
-status: stub
+role: 경기도의원
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적
