@@ -58,6 +58,7 @@ DEFAULT_TEAM_ID = "8e27f9c8-aaa3-47f4-8d58-81dc753bd453"
 DEFAULT_PROJECT_ID = "05950f61-d9b6-4ded-a0a5-65a9c104bc69"
 DEFAULT_DONE_STATE_ID = "5f24409a-ee6c-4e85-b39d-ebf89e5e1505"
 DEFAULT_CANCELED_STATE_ID = "b338b1fc-1fa5-425c-9f58-5c5ff656decf"
+DEFAULT_REPORT_ASSIGNEE_ID = "22e0929d-a34a-40e0-8b58-f64600c74064"
 
 BROAD_QUERIES = [
     "국회 논란", "정부 대응 논란", "정책 논쟁", "특검 의혹", "해임건의안", "탄핵소추안",
@@ -650,6 +651,7 @@ def create_linear_report(report: str, json_path: Path) -> dict[str, Any]:
     team_id = os.getenv("ISSUE_RADAR_LINEAR_TEAM_ID", DEFAULT_TEAM_ID)
     project_id = os.getenv("ISSUE_RADAR_LINEAR_PROJECT_ID", DEFAULT_PROJECT_ID)
     state_id = os.getenv("ISSUE_RADAR_LINEAR_STATE_ID")
+    assignee_id = os.getenv("ISSUE_RADAR_LINEAR_ASSIGNEE_ID", DEFAULT_REPORT_ASSIGNEE_ID)
     title = f"[candidate.win] 이슈 후보 발굴 리포트 {datetime.now(timezone.utc).date().isoformat()}"
     mutation = """
     mutation CreateIssue($input: IssueCreateInput!) {
@@ -659,6 +661,8 @@ def create_linear_report(report: str, json_path: Path) -> dict[str, Any]:
     input_obj: dict[str, Any] = {"teamId": team_id, "projectId": project_id, "title": title, "description": report}
     if state_id:
         input_obj["stateId"] = state_id
+    if assignee_id:
+        input_obj["assigneeId"] = assignee_id
     data = linear_graphql(mutation, {"input": input_obj})["issueCreate"]
     issue = data["issue"]
     payload = json.loads(json_path.read_text(encoding="utf-8"))
