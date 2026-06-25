@@ -110,4 +110,5 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이병선](/people/i-byeong-seon) — **지지**: 민생회복지원금 지급으로 얼어붙은 골목상권과 지역 경제에 소비 마중물을 붓겠다고 밝혔다. [출처](http://www.breaknews.com/1216573)
 - [전문학](/people/jeon-mun-hak) — **지지**: 지역화폐와 골목상권, 관광 활성화를 연계해 지역경제를 살리는 방향의 공약 우선 추진을 주문했다. [출처](https://www.kukinews.com/article/view/kuk202606240169)
 - [김동구](/people/gim-dong-gu) — **지지**: 원도심 상권 회복을 위해 공공배달앱 대신 소상공인 직접 지원 방안을 검토했다. [출처](http://www.jmbc.co.kr/news/view/65729)
+- [한성숙](/people/han-seong-suk) — **지지**: 대기업 과실이 중소기업·소상공인·골목상권·노동자를 위한 사회안전망 투자로 이어지도록 하겠다고 밝혔다. [출처](https://www.segye.com/newsView/20260625516188?OutUrl=naver)
 <!-- /agent:stances -->
