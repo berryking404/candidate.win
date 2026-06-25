@@ -33,4 +33,5 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [노태문](/people/no-tae-mun) — **중립**: DX부문 노조와 직접 면담하며 성과급 격차와 보상 체계를 논의했다. [출처](https://www.econovill.com/news/articleView.html?idxno=743217)
 - [백순안](/people/baek-sun-an) — **지지**: 경영진의 의사결정이 구성원을 충분히 고려하는지 문제를 제기하며 보상체계 개선 필요성을 강조했다. [출처](https://www.hankookilbo.com/news/article/A2026062315130002859?did=NA)
 - [김정관](/people/gim-jeong-gwan) — **혼합**: 삼성전자 노조의 영업이익 연동 성과급 요구에는 동의하지 않지만, 합법적 권한 행사가 권위주의적 위협을 받았다는 점은 문제라고 봤다. [출처](https://www.chosun.com/opinion/journalist_view/2026/06/24/BBH42VWILRDIHGFQMG6PJ5PEPQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
+- [김용범](/people/gim-yong-beom) — **중립**: 삼성전자 성과급 논란을 두고 새로운 룰이 필요하다고 언급했다. [출처](https://economist.co.kr/article/view/ecn202606250006)
 <!-- /agent:stances -->

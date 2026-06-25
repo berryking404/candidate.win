@@ -18,4 +18,5 @@ party: 더불어민주당
 <!-- agent:stances -->
 - [사회안전망 강화와 고령화 대응 (2026)](/issues/social-safety-net-aging-2026) — **지지**: AI 국민배당금 논의에서 초과 세수를 사회 안전망 강화에 활용하자는 방향을 제안했다. [출처](https://www.newsfreezone.co.kr/news/articleView.html?idxno=689385)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **반대**: 3고를 성공 비용으로 표현한 발언이 국민 삶과 동떨어진 망언이라는 비판을 받았다. [출처](https://www.joongang.co.kr/article/25431255)
+- [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **중립**: 성과급 논란을 계기로 새로운 룰이 필요하다고 언급했다. [출처](https://economist.co.kr/article/view/ecn202606250006)
 <!-- /agent:stances -->
