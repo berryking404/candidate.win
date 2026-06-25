@@ -16,4 +16,5 @@ party: 국민의힘
 <!-- agent:stances -->
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 투표용지 부족 사태 진상규명과 선관위 개혁을 위한 국정조사를 이끌며 무너진 신뢰 회복과 제도 개선을 강조했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3610799)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 선관위에 상근직 위원장과 내부 감사위 도입 등을 주장하며 선거관리 체계 전반의 개혁을 요구했다. [출처](https://www.newsis.com/view/NISX20260622_0003678333)
+- [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **중립**: 국정조사특위 위원장으로서 투표용지 부족 사태의 원인과 선관위 구조 문제를 조사하고 있다. [출처](https://www.natv.go.kr/natv/news/newsView.do?newsId=513545)
 <!-- /agent:stances -->
