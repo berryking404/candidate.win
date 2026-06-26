@@ -38,4 +38,6 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [윤희근](/people/yun-hui-geun) — **지지**: 통일교 수사 무마 의혹과 관련한 피의자 조사에서 관련 내용을 전혀 들은 적이 없다며 혐의를 전면 부인했다. [출처](https://www.khan.co.kr/article/202606231111011)
 - [홍장원](/people/hong-jang-won) — **지지**: 계엄 정당화 메시지 전달 의혹과 관련해 특검 조사에 출석했지만, 관련 행위를 부인했다. [출처](https://www.g-enews.com/view.php?ud=20260622214114687995c8fcfb13_1)
 - [박상용](/people/bak-sang-yong) — **반대**: 대북송금 사건 수사와 관련한 ‘연어 술파티’ 의혹을 조작이라며 공개 사과를 요구했다. [출처](https://www.newscj.com/news/articleView.html?idxno=3411890)
+- [김완섭](/people/gim-wan-seop) — **중립**: 관저 이전 불법 예산 전용 의혹과 관련해 기재부 예산실장 시절 관여 여부로 특검 조사를 받았다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8595666&ref=A)
+- [홍장원](/people/hong-jang-won) — **반대**: 계엄 합수부 지원과 계엄 정당화 메시지 전달 의혹을 전면 부인하며 내란·계엄 관여가 없다는 입장을 밝혔다. [출처](https://www.hani.co.kr/arti/society/society_general/1265486.html)
 <!-- /agent:stances -->
