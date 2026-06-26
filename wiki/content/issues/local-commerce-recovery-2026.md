@@ -114,4 +114,5 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [강기윤](/people/kang-ki-yun) — **지지**: 전통시장 이용객 주차요금 지원 확대와 단속 완화로 지역 상권 회복을 뒷받침하겠다고 밝혔다. [출처](https://www.newspim.com/news/view/20260626000899)
 - [최원용](/people/choe-won-yong) — **지지**: 지역경제 활성화 기금 조성과 지역화폐 확대를 통해 소상공인과 골목상권을 지원하겠다고 했다. [출처](https://news.ifm.kr/news/articleView.html?idxno=473861)
 - [김용일](/people/gim-yong-il) — **지지**: 경기 침체로 어려움을 겪는 자영업자와 골목상권을 위해 현장 중심 대책을 마련했다고 밝혔다. [출처](https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/06/26/20260626500257?wlog_tag3=naver)
+- [박지은](/people/bak-ji-eun) — **지지**: 소상공인들이 코로나 이후 회복을 잘 못하고 있다며 제도적 지원과 체감형 활성화 방안을 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595991&ref=A)
 <!-- /agent:stances -->
