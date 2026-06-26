@@ -17,4 +17,5 @@ status: curated
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 원 구성 협상과 정치 현안이 있어도 민생을 챙기고 노동 현장 목소리를 듣는 일이 최우선이라고 했다. [출처](https://www.mk.co.kr/article/12078722)
 - [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **반대**: 육·해·공 사관학교 통폐합 졸속 추진과 방첩사 해체를 문제 삼으며 안규백 장관 등 외교·안보 라인 경질을 촉구했다. [출처](https://www.viewsnnews.com/article?q=236645)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 선관위 부실 운영을 강하게 질타하며 야당 추천 특검 도입을 주장했다. [출처](https://www.newspim.com/news/view/20260623000713)
+- [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **반대**: 보완수사권 폐지와 원 구성 파행이 민생범죄 수사를 약화시키는 정쟁이라고 비판했다. [출처](https://www.idaegu.co.kr/news/articleView.html?idxno=552206)
 <!-- /agent:stances -->

@@ -24,4 +24,5 @@ party: 국민의힘
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **반대**: 법원이 ‘연어 술판’이 없다고 본 판결을 근거로 재판을 권력으로 없애려 들면 탄핵과 파국뿐이라고 경고했다. [출처](https://www.mk.co.kr/article/12078889)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 투표용지 부족 사태를 계기로 선관위의 책임성과 외부 통제 장치 강화를 요구하는 입법을 추진했다. [출처](https://www.kgnews.co.kr/news/article.html?no=901040)
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **혼합**: 윤석열 전 대통령 및 여권 권력 구도와 거리를 두며 대통령 탄핵 가능성까지 거론하는 비판적 발언을 했다. [출처](https://www.joongang.co.kr/article/25437262)
+- [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 국가배상법 개정안을 최우선 민생법안으로 거론하며 민생 입법의 의미를 강조했다. [출처](https://www.sisajournal.com/news/articleView.html?idxno=377687)
 <!-- /agent:stances -->
