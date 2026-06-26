@@ -16,4 +16,5 @@ party: 더불어민주당
 
 <!-- agent:stances -->
 - [지역 상권 회복과 소상공인 지원 (2026)](/issues/local-commerce-recovery-2026) — **지지**: 지역화폐와 전통시장 활성화를 통해 지역경제와 소상공인 지원을 핵심 공약으로 내세웠다. [출처](https://www.thereport.co.kr/news/articleView.html?idxno=88381)
+- [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **지지**: 지역소멸 위기 극복을 위한 AI 행정 혁신 성과를 소개하며 지역 경쟁력 강화를 부각했다. [출처](https://www.beyondpost.co.kr/view.php?ud=2026062619163591874c878f8fa1_30)
 <!-- /agent:stances -->
