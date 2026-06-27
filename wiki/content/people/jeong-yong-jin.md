@@ -19,4 +19,5 @@ party: 무소속
 - [스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)](/issues/starbucks-tank-day-2026) — **반대**: 탱크데이 논란에 대해 대국민 사과를 하고 재발 방지와 내부 시스템 점검을 약속했다. [출처](https://www.yna.co.kr/view/AKR20260530046400030?input=1195m)
 - [스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)](/issues/starbucks-tank-day-2026) — **중립**: 스타벅스 논란으로 그룹 혼란을 책임지겠다는 차원에서 등기이사 복귀를 단행했다는 해석이 제기됐다. [출처](https://biz.sbs.co.kr/article_hub/20000315989?division=NAVER)
 - [스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)](/issues/starbucks-tank-day-2026) — **지지**: 논란 직후 대표 해임과 대국민 사과, 역사 인식 교육 약속 등 수습에 나섰다. [출처](https://www.etoday.co.kr/news/view/2589438)
+- [스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)](/issues/starbucks-tank-day-2026) — **미확인**: 탱크데이 논란 이후 역사 인식 교육을 이수하고 마케팅 검수 절차를 강화하는 후속 조치가 있었다. [출처](https://www.seoultimes.news/news/article.html?no=2000097106)
 <!-- /agent:stances -->
