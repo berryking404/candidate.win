@@ -1,8 +1,9 @@
 ---
 title: 박홍근
 slug: bak-hong-geun
-role: 기획예산처 장관
-status: stub
+role: 기획예산처 장관 후보자 / 국회의원
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

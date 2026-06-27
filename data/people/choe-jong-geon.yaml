@@ -2,8 +2,8 @@ slug: choe-jong-geon
 name_ko: 최종건
 name_en: null
 party: null
-role: 前 외교차관
-status: stub
+role: 전 외교부 제1차관
+status: curated
 aliases:
 - 최 전 차관
 - 최종건 前 외교차관
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 최종건
   youtube_channels: []
+  official_urls:
+  - https://www.hani.co.kr/arti/society/society_general/1099079.html

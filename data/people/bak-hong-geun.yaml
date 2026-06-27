@@ -1,9 +1,9 @@
 slug: bak-hong-geun
 name_ko: 박홍근
 name_en: null
-party: null
-role: 기획예산처 장관
-status: stub
+party: 더불어민주당
+role: 기획예산처 장관 후보자 / 국회의원
+status: curated
 aliases:
 - 박 장관
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 박홍근
   youtube_channels: []
+  official_urls:
+  - https://www.mt.co.kr/economy/2026/03/02/2026030214444447053

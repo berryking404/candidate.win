@@ -1,8 +1,9 @@
 ---
 title: 임병택
 slug: im-byeong-taek
-role: null
-status: stub
+role: 시흥시장
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

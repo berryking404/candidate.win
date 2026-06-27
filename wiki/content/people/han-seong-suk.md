@@ -1,7 +1,8 @@
 ---
 title: 한성숙
 slug: han-seong-suk
-status: stub
+role: 국무총리 후보자 / 전 중소벤처기업부 장관
+status: curated
 ---
 
 ## 행적

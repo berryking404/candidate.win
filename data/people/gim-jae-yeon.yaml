@@ -1,9 +1,9 @@
 slug: gim-jae-yeon
 name_ko: 김재연
 name_en: null
-party: null
+party: 진보당
 role: 진보당 상임대표
-status: stub
+status: curated
 aliases:
 - 김재연 진보당 상임대표
 discovered_via_issue: corporate-labor-dispute-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김재연
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20240614149800001

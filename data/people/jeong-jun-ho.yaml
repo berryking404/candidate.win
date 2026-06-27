@@ -1,9 +1,9 @@
 slug: jeong-jun-ho
 name_ko: 정준호
 name_en: null
-party: null
-role: null
-status: stub
+party: 더불어민주당
+role: 국회의원
+status: curated
 aliases:
 - 정준호
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 정준호
   youtube_channels: []
+  official_urls:
+  - https://www.lawissue.co.kr/view.php?ud=20260119002431885492eef753eb_12

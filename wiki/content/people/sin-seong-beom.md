@@ -1,8 +1,9 @@
 ---
 title: 신성범
 slug: sin-seong-beom
-role: 국민의힘 의원
-status: stub
+role: 국회의원
+party: 국민의힘
+status: curated
 ---
 
 ## 행적

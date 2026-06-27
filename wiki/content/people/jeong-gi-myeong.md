@@ -2,7 +2,8 @@
 title: 정기명
 slug: jeong-gi-myeong
 role: 여수시장
-status: stub
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

@@ -1,9 +1,7 @@
 ---
-title: 조용술
-slug: jo-yong-sul
-role: 국민의힘 대변인
-party: 국민의힘
-status: curated
+title: 최형호
+slug: choe-hyeong-ho
+status: stub
 ---
 
 ## 행적
@@ -14,5 +12,4 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
 <!-- /agent:stances -->

@@ -1,8 +1,9 @@
 ---
 title: 박영선
 slug: bak-yeong-seon
-role: 한국여성의정 대표
-status: stub
+role: 한국여성의정 상임대표 / 전 중소벤처기업부 장관
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

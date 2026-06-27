@@ -1,9 +1,9 @@
 slug: choe-won-yong
 name_ko: 최원용
 name_en: null
-party: null
+party: 더불어민주당
 role: 평택시장 당선인
-status: stub
+status: curated
 aliases:
 - 최원용
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최원용
   youtube_channels: []
+  official_urls:
+  - https://www.ajunews.com/view/20260614120047103

@@ -1,8 +1,8 @@
 ---
 title: 최종건
 slug: choe-jong-geon
-role: 前 외교차관
-status: stub
+role: 전 외교부 제1차관
+status: curated
 ---
 
 ## 행적

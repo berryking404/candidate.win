@@ -1,9 +1,9 @@
 slug: jo-yong-sul
 name_ko: 조용술
 name_en: null
-party: null
+party: 국민의힘
 role: 국민의힘 대변인
-status: stub
+status: curated
 aliases:
 - 조용술 대변인
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 조용술
   youtube_channels: []
+  official_urls:
+  - https://www.peoplepowerparty.kr/news/comment_view/BBSDD0001/112961?page=1

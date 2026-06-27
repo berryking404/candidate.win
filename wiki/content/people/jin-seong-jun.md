@@ -1,7 +1,9 @@
 ---
 title: 진성준
 slug: jin-seong-jun
-status: stub
+role: 국회의원
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

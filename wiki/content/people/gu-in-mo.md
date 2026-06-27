@@ -1,7 +1,7 @@
 ---
-title: 조용술
-slug: jo-yong-sul
-role: 국민의힘 대변인
+title: 구인모
+slug: gu-in-mo
+role: 거창군수
 party: 국민의힘
 status: curated
 ---
@@ -14,5 +14,4 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
 <!-- /agent:stances -->

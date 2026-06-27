@@ -2,7 +2,8 @@
 title: 최원용
 slug: choe-won-yong
 role: 평택시장 당선인
-status: stub
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

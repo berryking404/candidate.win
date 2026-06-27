@@ -1,9 +1,9 @@
 slug: bak-yeong-seon
 name_ko: 박영선
 name_en: null
-party: null
-role: 한국여성의정 대표
-status: stub
+party: 더불어민주당
+role: 한국여성의정 상임대표 / 전 중소벤처기업부 장관
+status: curated
 aliases:
 - 박영선
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 박영선
   youtube_channels: []
+  official_urls:
+  - https://www.mt.co.kr/politics/2026/05/25/2026052209273812698

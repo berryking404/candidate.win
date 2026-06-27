@@ -1,9 +1,9 @@
 slug: gu-in-mo
 name_ko: 구인모
 name_en: null
-party: null
-role: null
-status: stub
+party: 국민의힘
+role: 거창군수
+status: curated
 aliases:
 - 구인모
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 구인모
   youtube_channels: []
+  official_urls:
+  - https://v.daum.net/v/xcs3S8Ndce

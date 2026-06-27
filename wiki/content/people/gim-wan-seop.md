@@ -2,7 +2,7 @@
 title: 김완섭
 slug: gim-wan-seop
 role: 전 환경부 장관
-status: stub
+status: curated
 ---
 
 ## 행적

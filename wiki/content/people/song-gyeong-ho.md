@@ -2,7 +2,7 @@
 title: 송경호
 slug: song-gyeong-ho
 role: 전 서울중앙지검장
-status: stub
+status: curated
 ---
 
 ## 행적

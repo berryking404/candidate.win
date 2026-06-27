@@ -1,9 +1,9 @@
 slug: jeong-gi-myeong
 name_ko: 정기명
 name_en: null
-party: null
+party: 더불어민주당
 role: 여수시장
-status: stub
+status: curated
 aliases:
 - 정기명 시장
 - 정기명
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 정기명
   youtube_channels: []
+  official_urls:
+  - https://www.mdilbo.com/detail/d96BfY/753075

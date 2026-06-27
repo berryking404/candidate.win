@@ -1,8 +1,9 @@
 ---
 title: 송기헌
 slug: song-gi-heon
-role: 더불어민주당 선관위 개혁 TF 단장 / 국회의원
-status: stub
+role: 국회의원
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

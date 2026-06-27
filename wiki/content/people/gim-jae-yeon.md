@@ -2,7 +2,8 @@
 title: 김재연
 slug: gim-jae-yeon
 role: 진보당 상임대표
-status: stub
+party: 진보당
+status: curated
 ---
 
 ## 행적

@@ -1,8 +1,9 @@
 ---
 title: 이성권
 slug: i-seong-gwon
-role: 국민의힘 의원
-status: stub
+role: 국회의원
+party: 국민의힘
+status: curated
 ---
 
 ## 행적
