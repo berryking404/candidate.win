@@ -9,6 +9,7 @@ party: 국민의힘
 ## 행적
 
 <!-- agent:events -->
+- 2026-06-27: 세종시 개표 관련 문제를 이유로 중앙선거관리위원회에 선거무효 소청을 제기했다. [출처](https://www.joongang.co.kr/article/25439454)
 <!-- /agent:events -->
 
 ## 이슈별 입장

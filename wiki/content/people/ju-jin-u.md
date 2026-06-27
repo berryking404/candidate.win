@@ -15,4 +15,5 @@ role: 국민의힘 의원
 <!-- agent:stances -->
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 민생을 챙기는 선거운동이 뒷전이라는 비판을 통해 민생 우선의 선거 문화를 요구했다. [출처](https://news.jtbc.co.kr/article/NB12300758?influxDiv=NAVER)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 선관위의 수의계약·관리 부실 문제를 지적하며 특검을 통한 진상 규명을 주장했다. [출처](https://www.fnnews.com/news/202606211514273861)
+- [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **중립**: 선관위 수의계약 자료를 확보해 의혹 규명과 국정조사에 관여했다. [출처](https://www.kado.net/news/articleView.html?idxno=2057078)
 <!-- /agent:stances -->
