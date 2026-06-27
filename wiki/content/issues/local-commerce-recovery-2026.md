@@ -115,12 +115,5 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [최원용](/people/choe-won-yong) — **지지**: 지역경제 활성화 기금 조성과 지역화폐 확대를 통해 소상공인과 골목상권을 지원하겠다고 했다. [출처](https://news.ifm.kr/news/articleView.html?idxno=473861)
 - [김용일](/people/gim-yong-il) — **지지**: 경기 침체로 어려움을 겪는 자영업자와 골목상권을 위해 현장 중심 대책을 마련했다고 밝혔다. [출처](https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/06/26/20260626500257?wlog_tag3=naver)
 - [박지은](/people/bak-ji-eun) — **지지**: 소상공인들이 코로나 이후 회복을 잘 못하고 있다며 제도적 지원과 체감형 활성화 방안을 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595991&ref=A)
-- [정해권](/people/jeong-haegwon) — **지지**: 영세 소상공인 지원과 원도심 활성화를 강조하며 지역경제 회복에 우선순위를 두는 입장을 보였다. [출처](https://www.kyeonggi.com/article/20260625580391)
 - [이재영](/people/i-jae-yeong) — **지지**: 기업 활동 지원과 소상공인의 원활한 경제활동을 돕겠다고 밝혀 지역 상권의 영업 환경 개선을 뒷받침했다. [출처](https://www.nocutnews.co.kr/news/6539550?utm_source=naver&utm_medium=article&utm_campaign=20260627032157)
-- [김창순](/people/gim-chang-sun) — **지지**: 보증공급 확대를 통해 도내 소기업·소상공인 금융지원을 지속하겠다고 밝혔다. [출처](https://www.jbnews.com/news/articleView.html?idxno=1506588)
-- [이강일](/people/i-gang-il) — **지지**: 원도심 상권 회복과 지역 정체성·경제 활성화를 동시에 노리는 법안을 발의했다. [출처](https://www.newspim.com/news/view/20260627000021)
-- [서귀포시](/people/seo-gwipo-si) — **지지**: 중앙동 문화골목 골목형 상점가 지정으로 소상공인 성장 기반과 상권 활력을 키우려 했다. [출처](https://www.news1.kr/local/jeju/6210093)
-- [박용철](/people/bak-yong-cheol) — **지지**: 미디어아트 행사로 관광객을 유치해 지역 상권 활성화를 기대한다고 밝혔다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3619413)
-- [박균택](/people/bak-gyun-taek) — **지지**: 민생경제 회복과 지역 균형발전 추진 과정에서 소상공인·지역경제 회복 필요성을 주문했다. [출처](http://www.hansbiz.co.kr/news/articleView.html?idxno=846761)
-- [장성철](/people/jang-seong-cheol) — **지지**: 소상공인 지원과 지역경제 활성화를 주요 의정 활동으로 삼아왔다. [출처](http://www.newstown.co.kr/news/articleView.html?idxno=707426)
 <!-- /agent:stances -->
