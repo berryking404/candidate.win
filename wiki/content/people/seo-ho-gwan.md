@@ -8,6 +8,7 @@ status: curated
 ## 행적
 
 <!-- agent:events -->
+- 2026-06-26: 복지를 누구나 기대어 설 수 있는 사회의 기본 안전망으로 규정했다. [출처](https://www.gnnews.co.kr/news/articleView.html?idxno=639517)
 <!-- /agent:events -->
 
 ## 이슈별 입장
