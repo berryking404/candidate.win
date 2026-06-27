@@ -61,4 +61,8 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [추경호](/people/chu-gyeong-ho) — **지지**: AI 인재와 청년 일자리, 대학 혁신을 아우르는 성장전략을 검토하고 있다고 밝혔다. [출처](https://www.naeil.com/news/read/593331?ref=naver)
 - [박재모](/people/bak-jae-mo) — **지지**: 첨단과기단지 노후화 문제를 언급하며 산업육성과 인재 양성이 필요하다고 제기했다. [출처](http://www.jejunews.com/news/articleView.html?idxno=2226366)
 - [손훈모](/people/son-hun-mo) — **지지**: 청년 일자리 창출을 순천의 경제도시 전환 핵심 과제로 제시했다. [출처](http://www.bizwnews.com/news/articleView.html?idxno=139539)
+- [이재명](/people/lee-jaemyung) — **지지**: 첨단 핵심 산업의 대규모 투자를 호남 등으로 확대해야 한다며 지방 분산 투자 필요성을 강조했다. [출처](https://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5202423)
+- [이준석](/people/leejunsuk) — **반대**: 호남 반도체 클러스터 추진에 대해 "어떤 인재가 가겠나"라고 비판하며 투자 적절성에 부정적 입장을 보였다. [출처](https://www.segye.com/newsView/20260627504541?OutUrl=naver)
+- [한동훈](/people/handonghun) — **반대**: 호남 반도체 클러스터 투자 추진에 대해 "거부해야"라고 말하며 반대 입장을 드러냈다. [출처](https://www.segye.com/newsView/20260627504541?OutUrl=naver)
+- [전남도지사](/people/jeonnam-dojisa) — **지지**: 전남·광주를 반도체 클러스터 최적지로 제시하며 지역 투자 유치를 촉구했다. [출처](https://www.namdonews.com/news/articleView.html?idxno=914917)
 <!-- /agent:stances -->
