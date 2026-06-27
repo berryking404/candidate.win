@@ -15,4 +15,5 @@ role: 전 국방부 장관
 
 <!-- agent:stances -->
 - [종합특검](/issues/comprehensive-special-counsel-probes-2026) — **중립**: 계엄 정당화 메시지 의혹과 관련해 종합특검 소환 조사 및 관련 보도가 이어졌다. [출처](https://www.newsis.com/view/NISX20260609_0003662171)
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사](/issues/comprehensive-special-counsel-probes-2026) — **지지**: 종합특검의 수사·기소 과정에 대해 법원의 공소권 남용 판단을 강조하며 방어적 입장을 보였다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
 <!-- /agent:stances -->
