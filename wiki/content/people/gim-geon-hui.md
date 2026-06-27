@@ -9,8 +9,8 @@ party: 무소속
 ## 행적
 
 <!-- agent:events -->
-- 2023-07-00: 도이치모터스 주가조작 사건 수사 과정에서 검찰이 변호인을 통해 두 번째 서면 조사를 요구했다. [출처](https://imnews.imbc.com/replay/2026/nwdesk/article/6830950_37004.html)
-- 2026-06-00: 도이치모터스 주가조작 혐의 사건의 주임검사가 2차 종합특검에 출석하며 김건희 관련 봐주기 수사 의혹이 다시 제기됐다. [출처](https://imnews.imbc.com/replay/2026/nw2500/article/6830703_36989.html)
+- 2026-06-27: 도이치모터스 주가조작 등 혐의 관련 항소심과 상고심이 진행 중이라고 보도됐다. [출처](https://www.hani.co.kr/arti/society/society_general/1265612.html)
+- 2026-06-26: 도이치모터스 주가조작 등 혐의와 함께 금품수수 의혹으로도 유죄 판단과 징역형이 선고됐다고 보도됐다. [출처](https://www.hankyung.com/article/2026062608001)
 <!-- /agent:events -->
 
 ## 이슈별 입장

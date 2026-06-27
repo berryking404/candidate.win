@@ -9,8 +9,8 @@ party: 무소속
 ## 행적
 
 <!-- agent:events -->
-- 2026-05-12: 도이치모터스 주가조작 의혹 관련 보도에서 사건의 핵심 인물로 언급됐다. [출처](https://www.goodkyung.com/news/articleView.html?idxno=286887)
-- 2026-05-13: 도이치모터스 주가조작 사건 관련 인물로 기사에서 함께 언급됐다. [출처](https://www.newscj.com/news/articleView.html?idxno=3400588)
+- 2026-05-26: 도이치모터스 주가조작 사건 관련 징역형 집행유예가 확정됐다고 보도됐다. [출처](https://www.newsis.com/view/NISX20260526_0003643540)
+- 2026-06-26: 도이치모터스 주가조작 사건의 핵심 관련자로 다시 언급됐다. [출처](https://www.segye.com/newsView/20260626514289?OutUrl=naver)
 <!-- /agent:events -->
 
 ## 이슈별 입장
