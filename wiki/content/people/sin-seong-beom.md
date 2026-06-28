@@ -15,4 +15,5 @@ status: curated
 
 <!-- agent:stances -->
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 투표용지 부족 사태를 참정권 침해로 보고 선관위 개혁 3법을 발의했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8594977&ref=A)
+- [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **지지**: 투표용지 부족 사태를 계기로 선관위 개혁 3법을 대표발의했다. [출처](http://www.gndomin.com/news/articleView.html?idxno=480139)
 <!-- /agent:stances -->
