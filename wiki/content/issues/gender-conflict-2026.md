@@ -39,4 +39,6 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [허지원](/people/heo-ji-won) — **중립**: 젠더 갈등을 저성장과 기회 구조의 문제로 설명하며 복합 과제로 제시했다. [출처](https://www.insight.co.kr/news/558237)
 - [박영선](/people/bak-yeong-seon) — **지지**: 젠더 갈등을 해결해야 할 과제로 보고 남녀동수공천법 추진 의지를 밝혔다. [출처](https://www.womennews.co.kr/news/articleView.html?idxno=279085)
 - [이종학](/people/i-jong-hak) — **반대**: 동성애·동성결혼·젠더주의 반대 입장을 총회 결의에 따라 자필로 확인하도록 했다고 보도됐다. [출처](http://www.pckworld.com/article.php?aid=11135140694)
+- [김무열](/people/gim-mu-yeol) — **중립**: 웹툰 원작 논란이 있는 드라마 '참교육' 출연 사실만 확인되며, 젠더 갈등에 대한 개인 입장은 드러나지 않았다. [출처](http://www.breaknews.com/1212225)
+- [이성민](/people/i-seong-min) — **중립**: '참교육' 출연 관련 기사에서 작품 설명만 확인되며, 젠더 갈등에 대한 개인 입장은 드러나지 않았다. [출처](https://www.lecturernews.com/news/articleView.html?idxno=203068)
 <!-- /agent:stances -->
