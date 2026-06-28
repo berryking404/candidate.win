@@ -20,5 +20,5 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [김민석](/people/gim-min-seok) — **지지**: 호르무즈 해협을 운항 중인 우리 선박과 선원들의 안전한 귀환을 지원하겠다고 밝혔다. [출처](https://www.ktv.go.kr/content/view?content_id=756660)
 - [김정관](/people/gim-jeong-gwan) — **지지**: 호르무즈 해협 봉쇄 재발에 대비해 UAE 우회 송유관 건설과 한국 기업 참여를 당부했다. [출처](https://www.news1.kr/economy/idustry-trade/6199340)
 - [위성락](/people/wi-seong-rak) — **혼합**: 미국의 동맹 현대화와 전략적 유연성 논의에 대해 한국의 기여 가능성을 열어두면서도, 주한미군 감축 문제와는 분리해야 한다는 신중한 입장을 보였다. [출처](https://www.khan.co.kr/article/202606281116001)
-- [자주통일평화연대](/people/unknown) — **반대**: 한미일 군사동맹과 전략적 유연성 확대가 한국의 전쟁 부담 전가로 이어진다고 비판했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003246913&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
+
 <!-- /agent:stances -->
