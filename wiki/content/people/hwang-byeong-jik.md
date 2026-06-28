@@ -2,7 +2,7 @@
 title: 황병직
 slug: hwang-byeong-jik
 role: null
-status: stub
+status: curated
 ---
 
 ## 행적

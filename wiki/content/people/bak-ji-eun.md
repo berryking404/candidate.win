@@ -2,7 +2,7 @@
 title: 박지은
 slug: bak-ji-eun
 role: 더불어민주당 비례대표 당선인
-status: stub
+status: curated
 ---
 
 ## 행적

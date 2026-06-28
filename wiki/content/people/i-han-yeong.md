@@ -2,7 +2,7 @@
 title: 이한영
 slug: i-han-yeong
 role: 시의원
-status: stub
+status: curated
 ---
 
 ## 행적

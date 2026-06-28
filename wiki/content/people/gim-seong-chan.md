@@ -2,7 +2,7 @@
 title: 김성찬
 slug: gim-seong-chan
 role: 인하공전 총장
-status: stub
+status: curated
 ---
 
 ## 행적

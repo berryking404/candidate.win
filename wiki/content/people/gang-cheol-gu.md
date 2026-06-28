@@ -2,7 +2,7 @@
 title: 강철구
 slug: gang-cheol-gu
 role: 인천시 경제산업본부장
-status: stub
+status: curated
 ---
 
 ## 행적

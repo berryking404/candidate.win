@@ -2,7 +2,7 @@
 title: 박병규
 slug: bak-byeong-gyu
 role: null
-status: stub
+status: curated
 ---
 
 ## 행적

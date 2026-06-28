@@ -2,7 +2,7 @@
 title: 박상혁
 slug: bak-sang-hyeok
 role: 민주당 선관위 개혁 TF 부단장
-status: stub
+status: curated
 ---
 
 ## 행적

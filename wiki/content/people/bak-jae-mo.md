@@ -2,7 +2,7 @@
 title: 박재모
 slug: bak-jae-mo
 role: JDC 산업육성실장
-status: stub
+status: curated
 ---
 
 ## 행적

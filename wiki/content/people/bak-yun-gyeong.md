@@ -2,7 +2,7 @@
 title: 박윤경
 slug: bak-yun-gyeong
 role: null
-status: stub
+status: curated
 ---
 
 ## 행적

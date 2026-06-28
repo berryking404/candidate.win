@@ -2,7 +2,7 @@
 title: 김용일
 slug: gim-yong-il
 role: 서울시의원
-status: stub
+status: curated
 ---
 
 ## 행적

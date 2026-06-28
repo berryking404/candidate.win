@@ -2,7 +2,7 @@
 title: 김동구
 slug: gim-dong-gu
 role: 군산시장직 인수TF팀 관련
-status: stub
+status: curated
 ---
 
 ## 행적

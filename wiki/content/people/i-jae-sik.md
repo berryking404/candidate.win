@@ -2,7 +2,7 @@
 title: 이재식
 slug: i-jae-sik
 role: 시의회 의장
-status: stub
+status: curated
 ---
 
 ## 행적

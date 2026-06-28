@@ -2,7 +2,7 @@
 title: 안병욱
 slug: an-byeong-uk
 role: 전 환경부 차관
-status: stub
+status: curated
 ---
 
 ## 행적

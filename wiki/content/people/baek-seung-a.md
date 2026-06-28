@@ -2,7 +2,7 @@
 title: 백승아
 slug: baek-seung-a
 role: 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적

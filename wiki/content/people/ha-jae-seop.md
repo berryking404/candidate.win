@@ -2,7 +2,7 @@
 title: 하재섭
 slug: ha-jae-seop
 role: 전세사기 전문 변호사
-status: stub
+status: curated
 ---
 
 ## 행적

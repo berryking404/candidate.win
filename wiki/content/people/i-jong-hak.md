@@ -2,7 +2,7 @@
 title: 이종학
 slug: i-jong-hak
 role: 총회 고시위원회 위원장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 김원규
 slug: gim-won-gyu
 role: 경기도 이민사회국장
-status: stub
+status: curated
 ---
 
 ## 행적

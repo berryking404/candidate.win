@@ -2,7 +2,7 @@
 title: 고광선
 slug: go-gwang-seon
 role: 대한노인회 연합회장
-status: stub
+status: curated
 ---
 
 ## 행적

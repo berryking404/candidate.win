@@ -2,7 +2,7 @@
 title: 이은규
 slug: i-eun-gyu
 role: 경제산업연구실 박사
-status: stub
+status: curated
 ---
 
 ## 행적

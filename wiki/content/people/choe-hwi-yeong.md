@@ -2,7 +2,7 @@
 title: 최휘영
 slug: choe-hwi-yeong
 role: null
-status: stub
+status: curated
 ---
 
 ## 행적

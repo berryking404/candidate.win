@@ -2,7 +2,7 @@
 title: 허지원
 slug: heo-ji-won
 role: 젠더발전소 대표
-status: stub
+status: curated
 ---
 
 ## 행적

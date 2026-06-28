@@ -2,7 +2,7 @@
 title: 안수용
 slug: an-su-yong
 role: 마트노조 홈플러스지부장
-status: stub
+status: curated
 ---
 
 ## 행적

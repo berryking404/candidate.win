@@ -2,7 +2,7 @@
 title: 김재영
 slug: gim-jae-yeong
 role: 농협 축산물도매분사장
-status: stub
+status: curated
 ---
 
 ## 행적

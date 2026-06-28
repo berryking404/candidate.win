@@ -2,7 +2,7 @@
 title: 최현숙
 slug: choe-hyeon-suk
 role: 대전시 노인복지과장
-status: stub
+status: curated
 ---
 
 ## 행적
