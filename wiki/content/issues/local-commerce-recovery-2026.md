@@ -116,4 +116,8 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [김용일](/people/gim-yong-il) — **지지**: 경기 침체로 어려움을 겪는 자영업자와 골목상권을 위해 현장 중심 대책을 마련했다고 밝혔다. [출처](https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/06/26/20260626500257?wlog_tag3=naver)
 - [박지은](/people/bak-ji-eun) — **지지**: 소상공인들이 코로나 이후 회복을 잘 못하고 있다며 제도적 지원과 체감형 활성화 방안을 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595991&ref=A)
 - [이재영](/people/i-jae-yeong) — **지지**: 기업 활동 지원과 소상공인의 원활한 경제활동을 돕겠다고 밝혀 지역 상권의 영업 환경 개선을 뒷받침했다. [출처](https://www.nocutnews.co.kr/news/6539550?utm_source=naver&utm_medium=article&utm_campaign=20260627032157)
+- [이정희](/people/i-jeong-hui) — **지지**: 공공플랫폼 지원을 사회적플랫폼 방식으로 바꾸고 소상공인의 자생적 실천을 돕는 방향을 제안했다. [출처](http://www.fnnews.com/news/202606281843426477)
+- [이남오](/people/i-nam-o) — **지지**: 민간의 노력이 시민이 체감하는 실질적 소상공인 지원으로 이어지도록 적극 뒷받침하겠다고 밝혔다. [출처](https://view.asiae.co.kr/article/2026062816333087247)
+- [신용한](/people/sin-yong-han) — **지지**: 골목상권과 원도심, 로컬브랜드까지 창업 공간으로 보고 지역 상권 활성화를 강조했다. [출처](http://www.dynews.co.kr/news/articleView.html?idxno=855744)
+- [추미애](/people/unknown) — **지지**: 청년·소상공인과 직접 정책을 논의하는 취임식 구상을 통해 민생 소통을 앞세웠다. [출처](http://www.enewstoday.co.kr/news/articleView.html?idxno=2443140)
 <!-- /agent:stances -->
