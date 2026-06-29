@@ -73,4 +73,13 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [김성환](/people/gim-seong-hwan) — **지지**: 건강보험 사각지대에 놓인 외국인의 건강권을 지역사회 전체의 안전 문제로 보고, 공공·민간 의료협력으로 촘촘한 보건 안전망 구축을 강조했다. [출처](https://www.breaknews.com/1217148)
 - [추미애](/people/chu-mi-ae) — **지지**: 공공 산후조리 서비스 격차 완화, 노인돌봄과 사회참여 연계, 젠더폭력 피해자 통합지원체계 강화를 복지정책 과제로 제시했다. [출처](https://www.ajunews.com/view/20260626171854686)
 - [진성준](/people/jin-seong-jun) — **지지**: 고령화에 따른 소득 공백을 줄이기 위해 정년연장이 필수라고 보고, 청년고용 보완책과 함께 추진하자고 제안했다. [출처](https://www.fnnews.com/news/202606262042011084)
+- [이옥분](/people/i-ok-bun) — **지지**: 여성폭력 피해자의 권익증진과 지역사회 안전망 강화를 위해 협력하기로 했다. [출처](https://www.pressian.com/pages/articles/2026062921094508952?utm_source=naver&utm_medium=search)
+- [양길수](/people/yang-gil-su) — **지지**: 여성폭력 피해자의 권익증진과 지역사회 안전망 강화에 함께하기로 했다. [출처](https://www.pressian.com/pages/articles/2026062921094508952?utm_source=naver&utm_medium=search)
+- [최영환](/people/choe-yeong-hwan) — **지지**: 여성폭력 피해자 권익증진과 지역사회 안전망 강화에 동참했다. [출처](https://www.pressian.com/pages/articles/2026062921094508952?utm_source=naver&utm_medium=search)
+- [안윤정](/people/an-yun-jeong) — **지지**: 위기 청소년에게 적절한 보호·지원을 제공하고 촘촘한 지역사회 안전망을 구축하겠다고 밝혔다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3621141)
+- [정구한](/people/jeong-gu-han) — **지지**: 폭염 취약계층 지원을 통해 지역사회 복지 안전망 강화를 강조했다. [출처](https://www.ksmnews.co.kr/news/view.php?idx=611188)
+- [이억원](/people/i-eok-won) — **지지**: AI·초고령사회 변화에 대응하는 금융소비자보호 정책 평가를 추진하겠다고 밝혔다. [출처](https://www.businesspost.co.kr/BP?command=article_view&num=441092)
+- [박성민](/people/bak-seong-min) — **지지**: 복지 사각지대 위기가구를 당사자 동의 없이도 직권으로 지원할 수 있도록 하는 법안을 발의했다. [출처](https://www.newsis.com/view/NISX20260629_0003688499)
+- [조용호](/people/jo-yong-ho) — **지지**: 의료·요양·돌봄 연계와 어르신 통합돌봄 확대, 병원동행서비스 도입을 추진하겠다고 밝혔다. [출처](https://www.kyeongin.com/article/1766433)
+- [최원철](/people/choe-won-cheol) — **지지**: 어르신과 사회적 약자가 소외되지 않는 복지망과 보육 사각지대 해소를 내세웠다. [출처](https://www.joongdo.co.kr/web/view.php?key=20260629010008169)
 <!-- /agent:stances -->
