@@ -64,4 +64,7 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [이재명](/people/i-jae-myeong) — **지지**: 첨단 핵심 산업의 대규모 투자를 호남 등으로 확대해야 한다며 지방 분산 투자 필요성을 강조했다. [출처](https://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5202423)
 - [이준석](/people/i-jun-seok) — **반대**: 호남 반도체 클러스터 추진에 대해 "어떤 인재가 가겠나"라고 비판하며 투자 적절성에 부정적 입장을 보였다. [출처](https://www.segye.com/newsView/20260627504541?OutUrl=naver)
 - [한동훈](/people/han-dong-hun) — **반대**: 호남 반도체 클러스터 투자 추진에 대해 "거부해야"라고 말하며 반대 입장을 드러냈다. [출처](https://www.segye.com/newsView/20260627504541?OutUrl=naver)
+- [민형배](/people/min-hyeong-bae) — **중립**: 호남 반도체 클러스터와 인재양성 시스템, 정주여건 조성을 통해 첨단산업 확산을 지지했다. [출처](https://www.hani.co.kr/arti/area/honam/1265919.html)
+- [정장선](/people/jeong-jang-seon) — **중립**: 반도체·첨단산업 인재양성과 지역 정주여건 개선의 필요성을 언급했다. [출처](http://www.newstown.co.kr/news/articleView.html?idxno=706379)
+- [이재명](/people/i-jae-myeong) — **중립**: 반도체 산업 성과가 도민 삶으로 이어져야 한다고 강조했다. [출처](https://www.kyeongin.com/article/1766421)
 <!-- /agent:stances -->
