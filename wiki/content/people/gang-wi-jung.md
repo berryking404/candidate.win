@@ -2,7 +2,7 @@
 title: 강위중
 slug: gang-wi-jung
 role: 건협 사무총장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 박미정
 slug: bak-mi-jeong
 role: 광명시 사회적경제센터장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 이정희
 slug: i-jeong-hui
 role: 소상공인정책학회 초대 회장
-status: stub
+status: curated
 ---
 
 ## 행적

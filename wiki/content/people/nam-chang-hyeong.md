@@ -2,7 +2,7 @@
 title: 남창형
 slug: nam-chang-hyeong
 role: 법무부 청년보좌역
-status: stub
+status: curated
 ---
 
 ## 행적

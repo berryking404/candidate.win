@@ -2,7 +2,7 @@
 title: 김지현
 slug: gim-ji-hyeon
 role: 경남 청년유니온 전 위원장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 김효선
 slug: gim-hyo-seon
 role: KB국민은행 부동산 전문가
-status: stub
+status: curated
 ---
 
 ## 행적

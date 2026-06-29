@@ -2,7 +2,7 @@
 title: 서양열
 slug: seo-yang-yeol
 role: 전북특별자치도사회서비스원 원장
-status: stub
+status: curated
 ---
 
 ## 행적

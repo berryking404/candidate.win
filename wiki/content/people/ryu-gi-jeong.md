@@ -2,7 +2,7 @@
 title: 류기정
 slug: ryu-gi-jeong
 role: 한국경영자총협회 총괄전무
-status: stub
+status: curated
 ---
 
 ## 행적

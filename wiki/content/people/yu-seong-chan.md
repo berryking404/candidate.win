@@ -2,7 +2,7 @@
 title: 유성찬
 slug: yu-seong-chan
 role: 상임대표
-status: stub
+status: curated
 ---
 
 ## 행적

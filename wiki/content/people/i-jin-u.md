@@ -2,7 +2,7 @@
 title: 이진우
 slug: i-jin-u
 role: 수도방위사령관
-status: stub
+status: curated
 ---
 
 ## 행적

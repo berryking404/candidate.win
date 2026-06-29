@@ -2,7 +2,7 @@
 title: 양지영
 slug: yang-ji-yeong
 role: 신한 프리미어 패스파인더 전문위원
-status: stub
+status: curated
 ---
 
 ## 행적

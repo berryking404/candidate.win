@@ -2,7 +2,7 @@
 title: 이영복
 slug: i-yeong-bok
 role: 경제진흥과장
-status: stub
+status: curated
 ---
 
 ## 행적

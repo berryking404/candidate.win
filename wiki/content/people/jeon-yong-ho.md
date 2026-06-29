@@ -2,7 +2,7 @@
 title: 전용호
 slug: jeon-yong-ho
 role: 교수
-status: stub
+status: curated
 ---
 
 ## 행적

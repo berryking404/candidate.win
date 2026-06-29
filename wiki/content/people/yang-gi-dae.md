@@ -2,7 +2,7 @@
 title: 양기대
 slug: yang-gi-dae
 role: 전 의원
-status: stub
+status: curated
 ---
 
 ## 행적

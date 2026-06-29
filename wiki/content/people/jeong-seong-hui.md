@@ -2,7 +2,7 @@
 title: 정성희
 slug: jeong-seong-hui
 role: 자주연합 집행위원장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 장종복
 slug: jang-jong-bok
 role: 기초자치단체장
-status: stub
+status: curated
 ---
 
 ## 행적

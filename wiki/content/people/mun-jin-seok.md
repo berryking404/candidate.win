@@ -2,7 +2,7 @@
 title: 문진석
 slug: mun-jin-seok
 role: 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적

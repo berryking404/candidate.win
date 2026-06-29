@@ -2,7 +2,7 @@
 title: 정춘생
 slug: jeong-chun-saeng
 role: 조국혁신당 의원
-status: stub
+status: curated
 ---
 
 ## 행적

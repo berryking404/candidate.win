@@ -2,7 +2,7 @@
 title: 조정관
 slug: jo-jeong-gwan
 role: 전남대 정외과 교수
-status: stub
+status: curated
 ---
 
 ## 행적

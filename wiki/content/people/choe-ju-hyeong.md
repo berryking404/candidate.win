@@ -2,7 +2,7 @@
 title: 최주형
 slug: choe-ju-hyeong
 role: 군 방문보건팀장
-status: stub
+status: curated
 ---
 
 ## 행적

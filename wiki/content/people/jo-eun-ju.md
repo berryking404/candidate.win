@@ -2,7 +2,7 @@
 title: 조은주
 slug: jo-eun-ju
 role: 대표
-status: stub
+status: curated
 ---
 
 ## 행적

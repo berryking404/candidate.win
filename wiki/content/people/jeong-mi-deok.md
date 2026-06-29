@@ -2,7 +2,7 @@
 title: 정미덕
 slug: jeong-mi-deok
 role: 노인복지관 관장
-status: stub
+status: curated
 ---
 
 ## 행적

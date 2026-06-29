@@ -2,7 +2,7 @@
 title: 임규호
 slug: im-gyu-ho
 role: 서울시의회 도시계획균형위원회 부위원장
-status: stub
+status: curated
 ---
 
 ## 행적

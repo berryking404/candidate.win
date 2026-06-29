@@ -2,7 +2,7 @@
 title: 유현준
 slug: yu-hyeon-jun
 role: 홍익대 건축도시대학 건축학과 교수
-status: stub
+status: curated
 ---
 
 ## 행적

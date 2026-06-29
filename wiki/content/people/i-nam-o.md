@@ -2,7 +2,7 @@
 title: 이남오
 slug: i-nam-o
 role: 함평군수 당선인
-status: stub
+status: curated
 ---
 
 ## 행적

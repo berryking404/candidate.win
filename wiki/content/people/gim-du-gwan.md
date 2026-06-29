@@ -2,7 +2,7 @@
 title: 김두관
 slug: gim-du-gwan
 role: 전 의원
-status: stub
+status: curated
 ---
 
 ## 행적
