@@ -34,5 +34,4 @@ party: 더불어민주당
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **중립**: 선관위 논란에 대해 부정부패·채용비리·예산낭비까지 철저히 수사하라고 주문했다. [출처](https://www.donga.com/news/Politics/article/all/20260623/134165701/1)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **혼합**: 현실적 필요성은 인정하지만 국민정서와 과거사 문제를 이유로 지금은 어렵다고 했다. [출처](https://www.hani.co.kr/arti/politics/bluehouse/1262506.html)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **지지**: 한일 상호군수지원협정의 현실적 필요성을 인정하며 한일 군사협력의 속도를 강조했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003246239&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
-- [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **중립**: 기사에서 특검 추진의 주체로 언급됐지만, 이슈에 대한 직접 입장은 확인되지 않았다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8597573&ref=A)
 <!-- /agent:stances -->

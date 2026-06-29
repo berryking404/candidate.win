@@ -16,5 +16,4 @@ status: curated
 
 <!-- agent:stances -->
 - [종합특검](/issues/comprehensive-special-counsel-probes-2026) — **중립**: 2차 종합특검팀 특별검사로서 계엄사 지원 방안 논의 정황을 공개했다. [출처](https://www.news1.kr/society/court-prosecution/6199400)
-- [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **미확인**: 윤석열 전 대통령 체포 방해 혐의 수사를 지휘했다. [출처](https://www.khan.co.kr/article/202606292117005)
 <!-- /agent:stances -->
