@@ -40,4 +40,7 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [박상용](/people/bak-sang-yong) — **반대**: 대북송금 사건 수사와 관련한 ‘연어 술파티’ 의혹을 조작이라며 공개 사과를 요구했다. [출처](https://www.newscj.com/news/articleView.html?idxno=3411890)
 - [김완섭](/people/gim-wan-seop) — **중립**: 관저 이전 불법 예산 전용 의혹과 관련해 기재부 예산실장 시절 관여 여부로 특검 조사를 받았다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8595666&ref=A)
 - [홍장원](/people/hong-jang-won) — **반대**: 계엄 합수부 지원과 계엄 정당화 메시지 전달 의혹을 전면 부인하며 내란·계엄 관여가 없다는 입장을 밝혔다. [출처](https://www.hani.co.kr/arti/society/society_general/1265486.html)
+- [김기현](/people/gim-gi-hyeon) — **반대**: 국민의힘 의원 추가 입건에 대해 특검이 정치 보복이라고 반발하며 수사를 비판했다. [출처](https://www.news1.kr/politics/assembly/6211995)
+- [권영진](/people/gwon-yeong-jin) — **반대**: 윤석열 전 대통령 체포방해 의혹으로 입건된 뒤, 국민의힘이 특검의 추가 입건을 정치 보복이라고 비판했다. [출처](https://www.news1.kr/politics/assembly/6211995)
+- [윤상현](/people/yun-sang-hyeon) — **반대**: 윤석열 전 대통령 체포방해 의혹으로 입건된 뒤, 국민의힘이 특검의 추가 입건을 정치 보복이라고 비판했다. [출처](https://www.news1.kr/politics/assembly/6211995)
 <!-- /agent:stances -->
