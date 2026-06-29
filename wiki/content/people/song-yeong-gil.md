@@ -17,4 +17,5 @@ party: 소나무당
 - [전시작전통제권(전작권) 전환 추진과 안보 논쟁 (2026)](/issues/opcon-transfer-2026) — **지지**: 전시작전통제권 환수가 이재명정부 임기 내에 이뤄지도록 최선을 다하겠다고 말했다. [출처](http://www.newstomato.com/ReadNews.aspx?no=1300812&inflow=N)
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **지지**: 인천 연수을에서 전략 공천 대상으로 거론됐다. [출처](https://www.news1.kr/politics/assembly/6178175)
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **반대**: 박종진의 야권 단일화 제안을 ‘반칙’으로 규정하며 거부했다. [출처](https://www.kihoilbo.co.kr/news/articleView.html?idxno=3024401)
+- [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **반대**: 지역 현안보다 당권 다툼에 치중한다는 비판을 받으며 민생을 챙기지 않는다는 평가가 제기됐다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=309429)
 <!-- /agent:stances -->
