@@ -82,4 +82,8 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [박성민](/people/bak-seong-min) — **지지**: 복지 사각지대 위기가구를 당사자 동의 없이도 직권으로 지원할 수 있도록 하는 법안을 발의했다. [출처](https://www.newsis.com/view/NISX20260629_0003688499)
 - [조용호](/people/jo-yong-ho) — **지지**: 의료·요양·돌봄 연계와 어르신 통합돌봄 확대, 병원동행서비스 도입을 추진하겠다고 밝혔다. [출처](https://www.kyeongin.com/article/1766433)
 - [최원철](/people/choe-won-cheol) — **지지**: 어르신과 사회적 약자가 소외되지 않는 복지망과 보육 사각지대 해소를 내세웠다. [출처](https://www.joongdo.co.kr/web/view.php?key=20260629010008169)
+- [이병희](/people/i-byeong-hui) — **지지**: 고용보험 확대 필요성을 주장해 온 만큼 사회안전망 강화를 뒷받침하는 입장이다. [출처](https://www.sedaily.com/article/20062108?ref=naver)
+- [조혁진](/people/jo-hyeok-jin) — **지지**: 농촌 계절근로자와 건설현장 노동자 등 사각지대 노동자들을 위한 사회안전망 도입 필요성을 제안했다. [출처](https://www.ccdn.co.kr/news/articleView.html?idxno=1085946)
+- [김현아](/people/gim-hyeon-a) — **지지**: 중증발달장애인을 지키는 사회적 안전망으로서 24시간 안전 지원과 응급의료 체계가 필요하다고 강조했다. [출처](https://health.chosun.com/site/data/html_dir/2026/06/30/2026063002882.html)
+- [신용한](/people/sin-yong-han) — **지지**: 초고령사회에 대응하는 노인복지 정책이 핵심 과제라고 밝히며 현장 의견을 청취했다. [출처](https://www.ccdn.co.kr/news/articleView.html?idxno=1085963)
 <!-- /agent:stances -->
