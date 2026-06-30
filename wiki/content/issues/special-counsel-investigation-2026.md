@@ -9,7 +9,6 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 ## 인물별 입장
 
 <!-- agent:stances -->
-- [김건희](/people/gim-geon-hui) — **중립**: 도이치모터스 주가조작·명태균 공천 개입·관저 이전 의혹 등 특검 수사가 진행 중이라는 보도가 연달아 나왔다. [출처](https://www.news1.kr/society/court-prosecution/6163777)
 - [추미애](/people/chu-mi-ae) — **지지**: 조작기소 특검법을 사법 정의 회복 문제라고 규정하며 특검 추진을 옹호했다. [출처](https://www.mt.co.kr/politics/2026/05/13/2026051309111312845)
 - [윤재순](/people/yun-jae-sun) — **반대**: 윤석열 정부 관저 이전 과정 예산 불법 전용 의혹으로 구속됐다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008576273&plink=ORI&cooper=NAVER)
 - [정청래](/people/jeong-cheong-rae) — **지지**: 탄핵당한 대통령의 유세 지원을 강하게 비판하며 탄핵 정국에서의 책임 추궁 필요성을 강조했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008580778&plink=ORI&cooper=NAVER)
@@ -45,6 +44,4 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [박지원](/people/bak-ji-won) — **혼합**: 특검·탄핵 국면을 둘러싼 당내 갈등을 자제하자며 대통령의 당무 개입 논란을 함께 언급했다. [출처](https://www.newsis.com/view/NISX20260622_0003678298)
 - [김어준](/people/gim-eo-jun) — **중립**: 계엄·탄핵 인식과 관련한 여론조사에서 부정 인식이 높게 나타났다고 보도됐다. [출처](https://www.pressian.com/pages/articles/2026062217212925509?utm_source=naver&utm_medium=search)
 - [우원식](/people/u-won-sik) — **지지**: 비상계엄을 막아내고 탄핵 소추를 이뤄냈다고 언급하며 관련 개혁의 정당성을 강조했다. [출처](https://www.nocutnews.co.kr/news/6538536?utm_source=naver&utm_medium=article&utm_campaign=20260625013451)
-- [김건희](/people/gim-geon-hui) — **혼합**: 수사 무마 의혹과 조사 일정 개입 진술이 보도되는 동시에, 관련 특검 수사의 중심에 놓였다. [출처](https://www.khan.co.kr/article/202606302115001)
-- [명태균](/people/myeong-tae-gyun) — **반대**: 공천 개입 의혹 관련 경찰 송치 보도가 나왔고, 특검 인계 사건의 핵심 인물로 언급됐다. [출처](https://www.khan.co.kr/article/202606301559001)
 <!-- /agent:stances -->

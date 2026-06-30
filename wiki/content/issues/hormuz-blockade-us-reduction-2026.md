@@ -20,11 +20,4 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [김민석](/people/gim-min-seok) — **지지**: 호르무즈 해협을 운항 중인 우리 선박과 선원들의 안전한 귀환을 지원하겠다고 밝혔다. [출처](https://www.ktv.go.kr/content/view?content_id=756660)
 - [김정관](/people/gim-jeong-gwan) — **지지**: 호르무즈 해협 봉쇄 재발에 대비해 UAE 우회 송유관 건설과 한국 기업 참여를 당부했다. [출처](https://www.news1.kr/economy/idustry-trade/6199340)
 - [위성락](/people/wi-seong-rak) — **혼합**: 미국의 동맹 현대화와 전략적 유연성 논의에 대해 한국의 기여 가능성을 열어두면서도, 주한미군 감축 문제와는 분리해야 한다는 신중한 입장을 보였다. [출처](https://www.khan.co.kr/article/202606281116001)
-- [정부](/people/gov-kr) — **중립**: 호르무즈 해협 봉쇄와 중동 긴장에 따른 원유·가스 수급 악화를 경보 상향과 차량 2부제 등으로 대응하다가, 통항 재개와 수급 개선에 따라 경보를 하향했다. [출처](https://www.korea.kr/news/policyNewsView.do?newsId=148967368&call_from=naver_news)
-- [산업부](/people/motie-kr) — **중립**: 호르무즈 해협 봉쇄 우려와 수급 악화를 이유로 원유 위기경보를 단계적으로 올렸고, 공급 여건 개선 후 다시 낮췄다. [출처](https://www.korea.kr/news/policyNewsView.do?newsId=148967368&call_from=naver_news)
-- [기후에너지환경부](/people/moenv-kr) — **중립**: 호르무즈 해협이 다시 봉쇄될 경우 에너지 절약 조치를 즉시 재시행할 수 있도록 대비하겠다고 밝혔다. [출처](https://www.korea.kr/news/policyNewsView.do?newsId=148967368&call_from=naver_news)
-- [박덕열](/people/park-deok-yeol) — **중립**: 호르무즈 해협 재봉쇄 같은 특이 동향이 생기면 에너지 절약 조치를 즉시 시행할 수 있도록 대비하겠다고 말했다. [출처](http://www.e-platform.net/news/articleView.html?idxno=103441)
-- [황규영](/people/hwang-gyu-young) — **중립**: 호르무즈 봉쇄와 같은 사건이 발생했을 때의 시나리오 설계와 리스크 대응에 AI 예측을 활용해야 한다고 말했다. [출처](https://kidd.co.kr/news/246545)
-- [커트 캠벨](/people/curt-campbell) — **중립**: 미국-이란 충돌과 호르무즈 해협 봉쇄로 세계 경제가 흔들렸지만, 그 속에서 중국이 전략적 반사이익을 얻었다고 분석했다. [출처](https://www.imaeil.com/page/view/2026063015500415008)
-- [조 바이든](/people/joe-biden) — **중립**: 미국-이란 전쟁과 호르무즈 해협 봉쇄가 세계 경제에 미친 영향과 중국의 반사이익을 다룬 분석의 맥락에서 언급됐다. [출처](https://www.imaeil.com/page/view/2026063015500415008)
 <!-- /agent:stances -->

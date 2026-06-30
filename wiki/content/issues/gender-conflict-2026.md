@@ -39,10 +39,6 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [허지원](/people/heo-ji-won) — **중립**: 젠더 갈등을 저성장과 기회 구조의 문제로 설명하며 복합 과제로 제시했다. [출처](https://www.insight.co.kr/news/558237)
 - [박영선](/people/bak-yeong-seon) — **지지**: 젠더 갈등을 해결해야 할 과제로 보고 남녀동수공천법 추진 의지를 밝혔다. [출처](https://www.womennews.co.kr/news/articleView.html?idxno=279085)
 - [이종학](/people/i-jong-hak) — **반대**: 동성애·동성결혼·젠더주의 반대 입장을 총회 결의에 따라 자필로 확인하도록 했다고 보도됐다. [출처](http://www.pckworld.com/article.php?aid=11135140694)
-- [홍덕률](/people/hongdeokryul) — **반대**: 지나친 젠더 갈등과 사회적 약자에 대한 냉소를 해법이 될 수 없는 문제로 지적했다. [출처](https://www.cctoday.co.kr/news/articleView.html?idxno=2232374)
-- [배재고](/people/baejaego) — **미확인**: 여성과 지역을 교차하는 혐오가 문제의 본질이라고 다뤘다. [출처](https://www.mediatoday.co.kr/news/articleView.html?idxno=335480)
-- [충주시여성단체협의회](/people/chungju-women-association) — **지지**: 부엌의 성역할 고정관념을 깨는 요리교실을 운영했다. [출처](https://www.ccreview.co.kr/news/articleView.html?idxno=351570)
-- [엘리자베스 콰트](/people/elizabeth-kwat) — **지지**: 홍콩 성범죄 개정안이 성차별과 좁은 법적 테두리의 결함을 바로잡는다고 환영했다. [출처](https://www.khan.co.kr/article/202606301606001)
-- [김민석](/people/kimminseok) — **중립**: 여성 당선자 워크숍에서 갈등과 논란을 언급하며 같은 잘못의 반복을 경계했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=735493)
-- [고민정](/people/gominjeong) — **지지**: 혐오의 둑이 무너지는 것을 막아야 한다며 관련 문제의 심각성을 부각했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=735493)
+- [김민석](/people/gim-min-seok) — **중립**: 여성 당선자 워크숍에서 갈등과 논란을 언급하며 같은 잘못의 반복을 경계했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=735493)
+- [고민정](/people/go-min-jeong) — **지지**: 혐오의 둑이 무너지는 것을 막아야 한다며 관련 문제의 심각성을 부각했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=735493)
 <!-- /agent:stances -->
