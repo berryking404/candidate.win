@@ -14,4 +14,5 @@ status: curated
 
 <!-- agent:stances -->
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 투표용지 부족 사태를 단순 비난으로 끝낼 일이 아니며 민주주의 전반의 제도적 보완이 필요하다고 밝혔다. [출처](https://www.hani.co.kr/arti/opinion/editorial/1264571.html)
+- [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **중립**: 투표용지 부족 사태와 관련한 해외 출장 의혹 수사 착수가 보도됐다. [출처](https://www.yonhapnewstv.co.kr/news/MYH20260630205608su0)
 <!-- /agent:stances -->
