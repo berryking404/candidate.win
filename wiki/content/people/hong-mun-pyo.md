@@ -2,7 +2,7 @@
 title: 홍문표
 slug: hong-mun-pyo
 role: aT 사장
-status: stub
+status: curated
 ---
 
 ## 행적

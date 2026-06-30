@@ -1,7 +1,7 @@
 ---
-title: 진기주
-slug: jin-gi-ju
-role: 배우
+title: 서유석
+slug: seo-yu-seok
+role: 하나은행 기업그룹 부행장
 status: curated
 ---
 
@@ -13,5 +13,4 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
 <!-- /agent:stances -->

@@ -2,7 +2,7 @@
 title: 이진관
 slug: i-jin-gwan
 role: 부장판사
-status: stub
+status: curated
 ---
 
 ## 행적

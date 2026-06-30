@@ -2,7 +2,7 @@
 title: 최영환
 slug: choe-yeong-hwan
 role: 세종시자율방범연합회 회장
-status: stub
+status: curated
 ---
 
 ## 행적

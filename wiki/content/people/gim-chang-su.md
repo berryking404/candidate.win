@@ -1,7 +1,7 @@
 ---
-title: 진기주
-slug: jin-gi-ju
-role: 배우
+title: 김창수
+slug: gim-chang-su
+role: 한국외식업중앙회 대전지회장
 status: curated
 ---
 
@@ -13,5 +13,4 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
 <!-- /agent:stances -->

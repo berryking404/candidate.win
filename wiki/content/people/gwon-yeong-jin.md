@@ -2,7 +2,7 @@
 title: 권영진
 slug: gwon-yeong-jin
 role: 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적

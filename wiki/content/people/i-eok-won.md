@@ -2,7 +2,7 @@
 title: 이억원
 slug: i-eok-won
 role: 금융소비자보호 정책평가위원회 위원장
-status: stub
+status: curated
 ---
 
 ## 행적

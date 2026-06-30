@@ -2,7 +2,7 @@
 title: 홍준표
 slug: hong-jun-pyo
 role: 전 대구시장
-status: stub
+status: curated
 ---
 
 ## 행적

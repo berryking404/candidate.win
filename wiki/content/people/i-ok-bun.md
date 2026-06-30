@@ -2,7 +2,7 @@
 title: 이옥분
 slug: i-ok-bun
 role: 여성긴급전화 1366세종센터 센터장
-status: stub
+status: curated
 ---
 
 ## 행적

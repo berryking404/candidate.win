@@ -2,7 +2,7 @@
 title: 한준호
 slug: han-jun-ho
 role: 더불어민주당 최고위원
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 김용민
 slug: gim-yong-min
 role: 더불어민주당 의원
-status: stub
+status: curated
 ---
 
 ## 행적

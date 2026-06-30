@@ -2,7 +2,7 @@
 title: 최원철
 slug: choe-won-cheol
 role: 공주시장
-status: stub
+status: curated
 ---
 
 ## 행적

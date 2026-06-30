@@ -2,7 +2,7 @@
 title: 안윤정
 slug: an-yun-jeong
 role: 아이여성행복과장
-status: stub
+status: curated
 ---
 
 ## 행적

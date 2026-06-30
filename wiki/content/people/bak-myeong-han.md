@@ -1,8 +1,8 @@
 ---
-title: 진기주
-slug: jin-gi-ju
-role: 배우
-status: curated
+title: 박명한
+slug: bak-myeong-han
+role: 기자
+status: stub
 ---
 
 ## 행적
@@ -13,5 +13,4 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
 <!-- /agent:stances -->

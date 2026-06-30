@@ -2,7 +2,7 @@
 title: 강훈식
 slug: gang-hun-sik
 role: 대통령비서실장
-status: stub
+status: curated
 ---
 
 ## 행적

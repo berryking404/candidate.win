@@ -1,7 +1,7 @@
 ---
-title: 진기주
-slug: jin-gi-ju
-role: 배우
+title: 이병권
+slug: i-byeong-gwon
+role: 중기부 제2차관
 status: curated
 ---
 
@@ -13,5 +13,4 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
 <!-- /agent:stances -->

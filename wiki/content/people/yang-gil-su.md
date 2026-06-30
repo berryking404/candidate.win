@@ -2,7 +2,7 @@
 title: 양길수
 slug: yang-gil-su
 role: 세종시자율방재단연합회 회장
-status: stub
+status: curated
 ---
 
 ## 행적
