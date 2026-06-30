@@ -80,6 +80,12 @@ SUPPRESSED_CANDIDATE_TOPIC_TERMS = {
     "재선거": "election-commission-management-controversy-2026",
     "선거 소청": "election-commission-management-controversy-2026",
     "선거 과정 논란": "election-commission-management-controversy-2026",
+    "안규백 국방장관 탄핵": "defense-counterintelligence-reform-impeachment-petition-2026",
+    "안규백 국방부 장관 해임": "defense-counterintelligence-reform-impeachment-petition-2026",
+    "안규백 해임건의안": "defense-counterintelligence-reform-impeachment-petition-2026",
+    "국방장관 해임건의안": "defense-counterintelligence-reform-impeachment-petition-2026",
+    "방첩사 해체": "defense-counterintelligence-reform-impeachment-petition-2026",
+    "사관학교 통합": "defense-counterintelligence-reform-impeachment-petition-2026",
 }
 ISSUE_CUES = [
     "논란", "의혹", "사태", "갈등", "반발", "비판", "공방", "쟁점", "국정조사", "특검", "탄핵",
