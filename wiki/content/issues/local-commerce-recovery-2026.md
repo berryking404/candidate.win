@@ -119,4 +119,7 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이정희](/people/i-jeong-hui) — **지지**: 공공플랫폼 지원을 사회적플랫폼 방식으로 바꾸고 소상공인의 자생적 실천을 돕는 방향을 제안했다. [출처](http://www.fnnews.com/news/202606281843426477)
 - [이남오](/people/i-nam-o) — **지지**: 민간의 노력이 시민이 체감하는 실질적 소상공인 지원으로 이어지도록 적극 뒷받침하겠다고 밝혔다. [출처](https://view.asiae.co.kr/article/2026062816333087247)
 - [신용한](/people/sin-yong-han) — **지지**: 골목상권과 원도심, 로컬브랜드까지 창업 공간으로 보고 지역 상권 활성화를 강조했다. [출처](http://www.dynews.co.kr/news/articleView.html?idxno=855744)
+- [이재명](/people/lee-jaemyung) — **지지**: 미사용 카드·멤버십 포인트를 지역화폐로 전환해 전통시장과 골목상권 소비를 늘리자고 주문했다. [출처](https://www.hankyung.com/article/2026063075001)
+- [전재수](/people/jeon-jueosu) — **지지**: 경영위기 소상공인 저리대출, 대환대출, 영세 화물차주·택배 종사자 특별지원, 동백전 확대 등 민생 부양책을 제시했다. [출처](https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260701.22017009465)
+- [임현철](/people/im-hyeoncheol) — **지지**: 취임과 동시에 골목상권을 살릴 민생경제 119 기동단을 가동하겠다고 밝혔다. [출처](https://www.iusm.co.kr/news/articleView.html?idxno=1064771)
 <!-- /agent:stances -->
