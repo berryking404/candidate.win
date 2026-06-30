@@ -43,4 +43,5 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [김기현](/people/gim-gi-hyeon) — **반대**: 국민의힘 의원 추가 입건에 대해 특검이 정치 보복이라고 반발하며 수사를 비판했다. [출처](https://www.news1.kr/politics/assembly/6211995)
 - [권영진](/people/gwon-yeong-jin) — **반대**: 윤석열 전 대통령 체포방해 의혹으로 입건된 뒤, 국민의힘이 특검의 추가 입건을 정치 보복이라고 비판했다. [출처](https://www.news1.kr/politics/assembly/6211995)
 - [윤상현](/people/yun-sang-hyeon) — **반대**: 윤석열 전 대통령 체포방해 의혹으로 입건된 뒤, 국민의힘이 특검의 추가 입건을 정치 보복이라고 비판했다. [출처](https://www.news1.kr/politics/assembly/6211995)
+- [윤희근](/people/yun-hui-geun) — **중립**: 통일교 수사 무마 의혹 관련 피의자 조사에서 혐의를 전면 부인했다. [출처](https://www.khan.co.kr/article/202606231111011)
 <!-- /agent:stances -->
