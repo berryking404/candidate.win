@@ -18,4 +18,5 @@ status: curated
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **반대**: 반도체 산업의 특성을 들어 초과이익은 재투자해야 한다며 사회적 분배론에 선을 그었다. [출처](https://www.asiatime.co.kr/article/20260529500293)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **혼합**: 삼성전자 노조의 이익 연동 성과급 요구에는 동의하지 않지만, 노조의 합법적 권한 행사가 위협받는 상황은 문제라고 봤다. [출처](https://www.chosun.com/opinion/journalist_view/2026/06/24/BBH42VWILRDIHGFQMG6PJ5PEPQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
 - [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **지지**: 호르무즈 해협 봉쇄 재발에 대비해 UAE 우회 송유관 건설과 한국 기업 참여를 당부했다. [출처](https://www.news1.kr/economy/idustry-trade/6199340)
+- [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 반도체 팹을 일자리의 출발점으로 규정하며 지역 청년이 지역에서 공부하고 일할 수 있는 효과를 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598712&ref=A)
 <!-- /agent:stances -->

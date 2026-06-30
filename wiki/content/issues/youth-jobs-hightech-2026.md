@@ -67,4 +67,6 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [민형배](/people/min-hyeong-bae) — **중립**: 호남 반도체 클러스터와 인재양성 시스템, 정주여건 조성을 통해 첨단산업 확산을 지지했다. [출처](https://www.hani.co.kr/arti/area/honam/1265919.html)
 - [정장선](/people/jeong-jang-seon) — **중립**: 반도체·첨단산업 인재양성과 지역 정주여건 개선의 필요성을 언급했다. [출처](http://www.newstown.co.kr/news/articleView.html?idxno=706379)
 - [이재명](/people/i-jae-myeong) — **중립**: 반도체 산업 성과가 도민 삶으로 이어져야 한다고 강조했다. [출처](https://www.kyeongin.com/article/1766421)
+- [김정관](/people/gim-jeong-gwan) — **지지**: 반도체 팹을 일자리의 출발점으로 규정하며 지역 청년이 지역에서 공부하고 일할 수 있는 효과를 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598712&ref=A)
+- [송재봉](/people/song-jae-bong) — **지지**: 청년 고용률 하락과 실업률 상승에 대응해 정부의 적극적인 청년 일자리 정책을 촉구했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3621889)
 <!-- /agent:stances -->
