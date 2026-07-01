@@ -38,4 +38,5 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [민경권](/people/min-gyeong-gwon) — **반대**: 삼성전자 영업이익 연동 성과급 협약을 불법이라고 공개 비판하며 대통령의 시정을 촉구했다. [출처](http://www.4th.kr/news/articleView.html?idxno=2113765)
 - [김재연](/people/gim-jae-yeon) — **지지**: 홈플러스 사태에서 정부의 직접 중재를 촉구하며 삼성전자 사례처럼 노사 분쟁에 정부가 나서야 한다고 주장했다. [출처](https://www.m-economynews.com/news/article.html?no=68202)
 - [안수용](/people/an-su-yong) — **지지**: 홈플러스 문제 해결을 요구하며 삼성전자 성과급 분쟁 때처럼 정부가 직접 중재에 나서야 한다고 압박했다. [출처](https://www.mediatoday.co.kr/news/articleView.html?idxno=335413)
+- [삼성그룹 초기업노조 삼성전자지부](/people/samsung-electronics-superenterprise-union) — **지지**: 호남 반도체 메가 프로젝트에 대해 노사정 협의체 구성을 제안하며, 장기적 준비와 협의를 통해 추진해야 한다는 입장을 냈다. [출처](https://www.ytn.co.kr/_ln/0102_202607011731591157)
 <!-- /agent:stances -->
