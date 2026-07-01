@@ -9,9 +9,9 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
-- 2026-07-01: 전군 주요지휘관회의에서 사관학교 개혁의 시급성을 강조하며 각군 전문성이 칸막이가 돼선 안 된다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260701075051504?input=1195m)
-- 2026-07-01: 사관학교 개혁과 전시작전통제권 전환, 방첩 및 정보기관 개편을 국방개혁 과제로 재확인했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=04893766645510256)
-- 2026-06-29: 국민의힘이 방첩사 해체와 사관학교 통폐합 등을 문제 삼아 해임건의안 당론 추진에 나섰다. [출처](https://www.newsis.com/view/NISX20260629_0003687958)
+- 2026-07-01: 전군주요지휘관회의에서 전시작전통제권 회복의 중요성을 강조하며 "스스로 결심할 수 없는 군은 강군이 될 수 없다"고 밝혔다. [출처](https://www.hani.co.kr/arti/politics/defense/1266255.html)
+- 2026-07-01: 전작권 회복을 위해 올해 한미안보협의회(SCM)에서 FOC 검증을 마치고 목표 연도(X연도)를 보고하겠다고 밝혔다. [출처](https://www.news1.kr/diplomacy/defense-diplomacy/6214034)
+- 2026-07-01: 전작권 회복 후 연합구성군사령부 상설화를 추진하라고 지시했다. [출처](https://www.nocutnews.co.kr/news/6541417?utm_source=naver&utm_medium=article&utm_campaign=20260701022645)
 <!-- /agent:events -->
 
 ## 이슈별 입장
