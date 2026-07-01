@@ -14,5 +14,4 @@ status: curated
 
 <!-- agent:stances -->
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 윤석열 전 대통령 체포방해 의혹으로 입건된 뒤, 국민의힘이 특검의 추가 입건을 정치 보복이라고 비판했다. [출처](https://www.news1.kr/politics/assembly/6211995)
-- [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **중립**: 윤석열 전 대통령 체포방해 혐의로 입건돼 특검 수사 대상이 됐다는 보도가 있었다. [출처](http://www.00news.co.kr/news/articleView.html?idxno=104847)
 <!-- /agent:stances -->

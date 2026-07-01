@@ -41,8 +41,4 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [이종학](/people/i-jong-hak) — **반대**: 동성애·동성결혼·젠더주의 반대 입장을 총회 결의에 따라 자필로 확인하도록 했다고 보도됐다. [출처](http://www.pckworld.com/article.php?aid=11135140694)
 - [김민석](/people/gim-min-seok) — **중립**: 여성 당선자 워크숍에서 갈등과 논란을 언급하며 같은 잘못의 반복을 경계했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=735493)
 - [고민정](/people/go-min-jeong) — **지지**: 혐오의 둑이 무너지는 것을 막아야 한다며 관련 문제의 심각성을 부각했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=735493)
-- [정주진](/people/jeong-ju-jin) — **중립**: 젠더를 포함한 사회적 갈등을 평화 의제로 다루며 갈등 완화의 필요성을 설명했다. [출처](https://www.newsnjoy.or.kr/news/articleView.html?idxno=400589)
-- [서보건](/people/seo-bo-geon) — **중립**: 지역·세대·계층·젠더 갈등을 국민통합과 헌법 정신의 관점에서 언급했다. [출처](https://www.meconomynews.com/news/articleView.html?idxno=132430)
-- [전교조 서울지부](/people/jeon-gyo-jo-seoul-jibu) — **반대**: 교내에서 젠더·여성 혐오를 포함한 극우화된 혐오 표현이 심각하다고 문제를 제기했다. [출처](https://newsis.com/view/NISX20260701_0003691687)
-- [김지학](/people/gim-ji-hak) — **지지**: 남성의 고통이 소수자에 대한 분노로 전환되는 젠더 갈등의 구조를 비판하며 해방적 해석을 제안했다. [출처](https://vop.co.kr/A00001695566.html)
 <!-- /agent:stances -->

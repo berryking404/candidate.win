@@ -20,5 +20,4 @@ party: 국민의힘
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 선관위 실권자 규명과 출국금지, 수사 개시를 촉구하며 강한 책임 추궁에 나섰다. [출처](http://www.inews24.com/view/1976345)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 윤석열 전 대통령 체포 방해 관련 소환 통보를 '야당 죽이기'와 '언론 플레이'로 규정하며 수사에 반발했다. [출처](https://www.ytn.co.kr/_ln/0101_202606151742198862)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **지지**: 선관위 귀책 사유로 투표 중단이나 투표용지 부족이 발생하면 재선거가 가능하도록 공직선거법 개정이 필요하다고 주장했다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260701010010788)
-- [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **중립**: 윤석열 전 대통령 체포방해 혐의로 입건돼 특검 수사 대상이 됐다는 보도가 있었다. [출처](http://www.00news.co.kr/news/articleView.html?idxno=104847)
 <!-- /agent:stances -->

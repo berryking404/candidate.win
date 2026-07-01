@@ -121,8 +121,5 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [신용한](/people/sin-yong-han) — **지지**: 골목상권과 원도심, 로컬브랜드까지 창업 공간으로 보고 지역 상권 활성화를 강조했다. [출처](http://www.dynews.co.kr/news/articleView.html?idxno=855744)
 - [이재명](/people/i-jae-myeong) — **지지**: 미사용 카드·멤버십 포인트를 지역화폐로 전환해 전통시장과 골목상권 소비를 늘리자고 주문했다. [출처](https://www.hankyung.com/article/2026063075001)
 - [전재수](/people/jeon-jae-su) — **지지**: 경영위기 소상공인 저리대출, 대환대출, 영세 화물차주·택배 종사자 특별지원, 동백전 확대 등 민생 부양책을 제시했다. [출처](https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260701.22017009465)
-- [서태원](/people/surteawon) — **지지**: 소상공인과 자영업자 지원, 창업 기반 확대를 약속하며 지역경제 회복 의지를 밝혔다. [출처](https://www.inews24.com/view/1981655)
-- [임종룡](/people/limjongryong) — **지지**: 미소금융 거점 이전을 통해 소상공인과 서민 곁에서 금융 지원을 강화하겠다고 밝혔다. [출처](https://www.khan.co.kr/article/202607012032015)
-- [김원기](/people/kimwongi) — **지지**: 소상공인 매출 회복을 위해 지역화폐·공공배달앱 등 민생경제 회복 정책을 추진하겠다고 밝혔다. [출처](https://www.fntoday.co.kr/news/articleView.html?idxno=387389)
-- [추미애](/people/chumiae) — **지지**: 청년 주거 지원과 소상공인 지원 확대를 핵심 정책으로 제시했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=735720)
+- [김원기](/people/gim-won-gi) — **지지**: 소상공인 매출 회복을 위해 지역화폐·공공배달앱 등 민생경제 회복 정책을 추진하겠다고 밝혔다. [출처](https://www.fntoday.co.kr/news/articleView.html?idxno=387389)
 <!-- /agent:stances -->
