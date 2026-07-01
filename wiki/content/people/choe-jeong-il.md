@@ -1,8 +1,8 @@
 ---
 title: 최정일
 slug: choe-jeong-il
-role: 전북도 건설교통국장
-status: stub
+role: 전북특별자치도 건설교통국장
+status: curated
 ---
 
 ## 행적

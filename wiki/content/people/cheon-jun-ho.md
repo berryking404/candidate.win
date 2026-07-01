@@ -1,8 +1,9 @@
 ---
 title: 천준호
 slug: cheon-jun-ho
-role: 더불어민주당 원내운영수석부대표
-status: stub
+role: 국회의원
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

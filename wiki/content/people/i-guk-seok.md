@@ -1,8 +1,8 @@
 ---
 title: 이국석
 slug: i-guk-seok
-role: 동남지방통계청 경제조사과
-status: stub
+role: 동남지방데이터청 경제조사과 담당자
+status: curated
 ---
 
 ## 행적

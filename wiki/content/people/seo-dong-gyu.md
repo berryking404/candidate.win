@@ -2,7 +2,7 @@
 title: 서동규
 slug: seo-dong-gyu
 role: 민달팽이유니온 위원장
-status: stub
+status: curated
 ---
 
 ## 행적

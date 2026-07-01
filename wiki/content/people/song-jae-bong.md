@@ -2,7 +2,8 @@
 title: 송재봉
 slug: song-jae-bong
 role: 국회의원
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

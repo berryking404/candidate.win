@@ -1,8 +1,8 @@
 ---
 title: 임종백
 slug: im-jong-baek
-role: 포스코 바로살리기위원회 위원장
-status: stub
+role: 국민기업포스코바로세우기위원회 위원장
+status: curated
 ---
 
 ## 행적

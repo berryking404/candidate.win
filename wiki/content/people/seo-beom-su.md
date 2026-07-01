@@ -1,8 +1,9 @@
 ---
 title: 서범수
 slug: seo-beom-su
-role: 국정조사특위 간사
-status: stub
+role: 국회의원
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

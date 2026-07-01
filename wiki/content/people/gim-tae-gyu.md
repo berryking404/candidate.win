@@ -1,8 +1,9 @@
 ---
 title: 김태규
 slug: gim-tae-gyu
-role: 국민의힘 원내수석대변인
-status: stub
+role: 국회의원
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

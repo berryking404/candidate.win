@@ -2,7 +2,7 @@
 title: 조혁진
 slug: jo-hyeok-jin
 role: 한국노동연구원 연구위원
-status: stub
+status: curated
 ---
 
 ## 행적

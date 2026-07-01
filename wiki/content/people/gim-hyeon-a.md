@@ -1,8 +1,8 @@
 ---
 title: 김현아
 slug: gim-hyeon-a
-role: 장애인거주시설이용자부모회 회장
-status: stub
+role: 장애인거주시설이용자부모회 대표
+status: curated
 ---
 
 ## 행적
