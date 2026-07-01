@@ -69,4 +69,5 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [이재명](/people/i-jae-myeong) — **중립**: 반도체 산업 성과가 도민 삶으로 이어져야 한다고 강조했다. [출처](https://www.kyeongin.com/article/1766421)
 - [김정관](/people/gim-jeong-gwan) — **지지**: 반도체 팹을 일자리의 출발점으로 규정하며 지역 청년이 지역에서 공부하고 일할 수 있는 효과를 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598712&ref=A)
 - [송재봉](/people/song-jae-bong) — **지지**: 청년 고용률 하락과 실업률 상승에 대응해 정부의 적극적인 청년 일자리 정책을 촉구했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3621889)
+- [이재명](/people/unknown) — **지지**: 청년 일자리 대책과 반도체·배터리 등 첨단산업 투자 확대를 함께 추진하겠다고 밝혔다. [출처](https://www.imnews.imbc.com/replay/2026/nwdesk/article/6834312_37004.html)
 <!-- /agent:stances -->
