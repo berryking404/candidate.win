@@ -17,4 +17,5 @@ status: curated
 <!-- agent:stances -->
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **지지**: 재선거 요구를 무책임하다고 선을 그으며 선관위 입장을 방어했다. [출처](https://www.yna.co.kr/view/AKR20260623167000001?input=1195m)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **중립**: 투표용지 부족 사태 관련 국정조사·특검 논의의 대상이 된 인물로, 사태 대응 경과가 보도됐다. [출처](https://www.yna.co.kr/view/AKR20260630140451001?input=1195m)
+- [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **반대**: 선관위 질타 국면에서 ‘최초로 탄핵소추된 선관위원’이라는 비판을 받았다. [출처](https://www.newdaily.co.kr/site/data/html/2026/07/01/2026070100220.html)
 <!-- /agent:stances -->
