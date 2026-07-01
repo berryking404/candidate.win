@@ -86,4 +86,9 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [조혁진](/people/jo-hyeok-jin) — **지지**: 농촌 계절근로자와 건설현장 노동자 등 사각지대 노동자들을 위한 사회안전망 도입 필요성을 제안했다. [출처](https://www.ccdn.co.kr/news/articleView.html?idxno=1085946)
 - [김현아](/people/gim-hyeon-a) — **지지**: 중증발달장애인을 지키는 사회적 안전망으로서 24시간 안전 지원과 응급의료 체계가 필요하다고 강조했다. [출처](https://health.chosun.com/site/data/html_dir/2026/06/30/2026063002882.html)
 - [신용한](/people/sin-yong-han) — **지지**: 초고령사회에 대응하는 노인복지 정책이 핵심 과제라고 밝히며 현장 의견을 청취했다. [출처](https://www.ccdn.co.kr/news/articleView.html?idxno=1085963)
+- [김상훈](/people/gim-sang-hun) — **지지**: 학교공동체 회복을 위해 지방자치단체의 지역사회 안전망 구축이 필요하다고 제언했다. [출처](https://www.ngonews.kr/news/articleView.html?idxno=232046)
+- [이용우](/people/i-yong-u) — **지지**: 기후위기와 재난에 대응하는 촘촘한 사회안전망 구축을 약속했다. [출처](https://www.ccdn.co.kr/news/articleView.html?idxno=1086015)
+- [이상휘](/people/i-sang-hwi) — **지지**: 학폭 피해 학생과 가족의 회복을 위한 법안이 든든한 사회적 안전망이 되길 바란다고 밝혔다. [출처](https://www.eroun.net/news/articleView.html?idxno=84410)
+- [김찬진](/people/gim-chan-jin) — **지지**: 단단한 사회안전망 구축을 핵심 시책으로 제시했다. [출처](https://www.newsis.com/view/NISX20260701_0003692266)
+- [최현덕](/people/choe-hyeon-deok) — **지지**: 정신건강 위기대응 협의체를 통해 지역사회 안전망을 촘촘히 구축하겠다고 밝혔다. [출처](https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607011548576270571)
 <!-- /agent:stances -->
