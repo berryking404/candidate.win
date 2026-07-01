@@ -9,11 +9,9 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
-- 2026-05-12: 미국에 호르무즈 해협 정상화에 대한 단계적 기여 방안을 전달하고, 전작권 전환 및 한미 현안과의 분리를 설명했다. [출처](https://www.khan.co.kr/article/202605130742001)
-- 2026-05-12: 호르무즈 관련 단계별 대응 구상을 언급하며 인력·정보 지원부터 군사적 지원까지 검토 가능성을 시사했다. [출처](https://www.iminju.net/news/articleView.html?idxno=163732)
-- 2026-05-09: 미국을 방문해 전시작전통제권 전환 등 현안을 논의했다. [출처](https://news.jtbc.co.kr/article/NB12297567?influxDiv=NAVER)
-- 2026-05-09: 전작권 전환과 핵추진잠수함 등 안보 현안을 두고 한미 협의를 진행할 예정으로 보도됐다. [출처](https://www.news1.kr/diplomacy/defense-diplomacy/6161403)
-- 2026-05-10: 전작권 전환과 관련해 체계적·안정적·일관적 준비를 강조하며 조기 환수 의지를 밝혔다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1257965.html)
+- 2026-07-01: 전군 주요지휘관회의에서 사관학교 개혁의 시급성을 강조하며 각군 전문성이 칸막이가 돼선 안 된다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260701075051504?input=1195m)
+- 2026-07-01: 사관학교 개혁과 전시작전통제권 전환, 방첩 및 정보기관 개편을 국방개혁 과제로 재확인했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=04893766645510256)
+- 2026-06-29: 국민의힘이 방첩사 해체와 사관학교 통폐합 등을 문제 삼아 해임건의안 당론 추진에 나섰다. [출처](https://www.newsis.com/view/NISX20260629_0003687958)
 <!-- /agent:events -->
 
 ## 이슈별 입장
