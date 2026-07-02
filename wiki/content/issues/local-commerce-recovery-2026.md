@@ -122,8 +122,4 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이재명](/people/i-jae-myeong) — **지지**: 미사용 카드·멤버십 포인트를 지역화폐로 전환해 전통시장과 골목상권 소비를 늘리자고 주문했다. [출처](https://www.hankyung.com/article/2026063075001)
 - [전재수](/people/jeon-jae-su) — **지지**: 경영위기 소상공인 저리대출, 대환대출, 영세 화물차주·택배 종사자 특별지원, 동백전 확대 등 민생 부양책을 제시했다. [출처](https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260701.22017009465)
 - [김원기](/people/gim-won-gi) — **지지**: 소상공인 매출 회복을 위해 지역화폐·공공배달앱 등 민생경제 회복 정책을 추진하겠다고 밝혔다. [출처](https://www.fntoday.co.kr/news/articleView.html?idxno=387389)
-- [김승현](/people/kim-seunghyeon) — **지지**: 소상공인과 전통시장 상인에 대한 현장 밀착 지원 확대를 강조했다. [출처](https://www.news1.kr/industry/sb-founded/6216289)
-- [인태연](/people/intaeyeon) — **지지**: 서대문센터 개소를 계기로 소상공인과 전통시장 상인 대상 정책지원을 강화하겠다고 밝혔다. [출처](https://www.news1.kr/industry/sb-founded/6216289)
-- [김정중](/people/kim-jeongjung) — **지지**: 지역 상권 피해 회복과 민생 안정을 위해 군정 신뢰 회복과 소상공인·취약계층 지원을 약속했다. [출처](https://www.nspna.com/news/?mode=view&newsid=819153)
-- [강성휘](/people/gang-seonghwi) — **지지**: 지역화폐 확대와 목포사랑상품권 발행으로 골목상권과 소상공인 지원을 추진하겠다고 했다. [출처](https://www.newstnt.com/news/articleView.html?idxno=708738)
 <!-- /agent:stances -->

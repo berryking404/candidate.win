@@ -69,9 +69,8 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [이재명](/people/i-jae-myeong) — **중립**: 반도체 산업 성과가 도민 삶으로 이어져야 한다고 강조했다. [출처](https://www.kyeongin.com/article/1766421)
 - [김정관](/people/gim-jeong-gwan) — **지지**: 반도체 팹을 일자리의 출발점으로 규정하며 지역 청년이 지역에서 공부하고 일할 수 있는 효과를 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598712&ref=A)
 - [송재봉](/people/song-jae-bong) — **지지**: 청년 고용률 하락과 실업률 상승에 대응해 정부의 적극적인 청년 일자리 정책을 촉구했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3621889)
-- [김영훈](/people/kim-younghun) — **지지**: 청년일자리도약장려금 간담회에서 청년·기업 간 일자리 연결을 강조했다. [출처](http://www.dynews.co.kr/news/articleView.html?idxno=856613)
-- [이재명](/people/lee-jaemyung) — **지지**: 충청권 첨단산업 투자 보고회에서 대규모 투자와 메가특구 지원을 통해 청년 일자리와 첨단산업 생태계 확대 의지를 보였다. [출처](https://www.korea.kr/news/policyNewsView.do?newsId=148967515&call_from=naver_news)
-- [오세훈](/people/oh-sehoon) — **지지**: 청년 AI 이용권과 맞춤형 교육 지원으로 AI 시대의 학습·취업 격차를 줄이겠다고 밝혔다. [출처](https://www.seoul.co.kr/news/society/2026/07/02/20260702500247?wlog_tag3=naver)
-- [김대중](/people/kim-daejung) — **지지**: 반도체와 AI 등 첨단산업 인재를 지역에서 양성해 기업에 바로 취업시키겠다는 구상을 밝혔다. [출처](https://ysmbc.co.kr/NewsArticle/1525806)
-- [최정훈](/people/choi-junghun) — **지지**: 대규모 첨단산업 투자 성공의 핵심을 인재 양성 기반 구축이라고 강조했다. [출처](https://view.asiae.co.kr/article/2026070221023669583)
+- [김영훈](/people/gim-yeong-hun) — **지지**: 청년일자리도약장려금 간담회에서 청년·기업 간 일자리 연결을 강조했다. [출처](http://www.dynews.co.kr/news/articleView.html?idxno=856613)
+- [이재명](/people/i-jae-myeong) — **지지**: 충청권 첨단산업 투자 보고회에서 대규모 투자와 메가특구 지원을 통해 청년 일자리와 첨단산업 생태계 확대 의지를 보였다. [출처](https://www.korea.kr/news/policyNewsView.do?newsId=148967515&call_from=naver_news)
+- [오세훈](/people/o-se-hun) — **지지**: 청년 AI 이용권과 맞춤형 교육 지원으로 AI 시대의 학습·취업 격차를 줄이겠다고 밝혔다. [출처](https://www.seoul.co.kr/news/society/2026/07/02/20260702500247?wlog_tag3=naver)
+- [김대중](/people/gim-dae-jung) — **지지**: 반도체와 AI 등 첨단산업 인재를 지역에서 양성해 기업에 바로 취업시키겠다는 구상을 밝혔다. [출처](https://ysmbc.co.kr/NewsArticle/1525806)
 <!-- /agent:stances -->
