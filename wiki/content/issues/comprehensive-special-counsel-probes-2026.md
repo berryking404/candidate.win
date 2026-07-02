@@ -45,4 +45,8 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [윤상현](/people/yun-sang-hyeon) — **반대**: 윤석열 전 대통령 체포방해 의혹으로 입건된 뒤, 국민의힘이 특검의 추가 입건을 정치 보복이라고 비판했다. [출처](https://www.news1.kr/politics/assembly/6211995)
 - [윤희근](/people/yun-hui-geun) — **중립**: 통일교 수사 무마 의혹 관련 피의자 조사에서 혐의를 전면 부인했다. [출처](https://www.khan.co.kr/article/202606231111011)
 - [원희룡](/people/won-hui-ryong) — **반대**: 양평고속도로 노선 변경 의혹과 관련한 특검 소환에 반발하며 ‘억지 부리지 말고 죄 있다면 체포하라’고 했다. [출처](https://www.newsis.com/view/NISX20260701_0003692251)
+- [김대기](/people/gim-dae-gi) — **반대**: 관저 이전 과정의 행정안전부 예산 불법 전용 지시 혐의를 부인하며 보석을 요청했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=1782982185&code=11131900&cp=nv)
+- [윤영호](/people/yun-yeong-ho) — **중립**: 통일교 원정도박 수사 무마 의혹과 관련해 참고인 신분으로 소환돼 조사를 받았다. [출처](https://www.ytn.co.kr/_ln/0103_202607021429001880)
+- [김종욱](/people/gim-jong-uk) — **반대**: 해경의 계엄 가담 의혹과 관련해 내란 부화수행 혐의로 구속영장이 청구됐다. [출처](https://www.ytn.co.kr/_ln/0103_202607020037441717)
+- [신원식](/people/sin-won-sik) — **미확인**: 종합특검이 관저 이전·계엄 메시지 의혹과 관련해 신원식 전 국가안보실장에 대한 수사를 진행 중이다. [출처](https://www.ngonews.kr/news/articleView.html?idxno=232136)
 <!-- /agent:stances -->
