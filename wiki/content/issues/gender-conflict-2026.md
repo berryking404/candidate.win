@@ -41,4 +41,7 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [이종학](/people/i-jong-hak) — **반대**: 동성애·동성결혼·젠더주의 반대 입장을 총회 결의에 따라 자필로 확인하도록 했다고 보도됐다. [출처](http://www.pckworld.com/article.php?aid=11135140694)
 - [김민석](/people/gim-min-seok) — **중립**: 여성 당선자 워크숍에서 갈등과 논란을 언급하며 같은 잘못의 반복을 경계했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=735493)
 - [고민정](/people/go-min-jeong) — **지지**: 혐오의 둑이 무너지는 것을 막아야 한다며 관련 문제의 심각성을 부각했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=735493)
+- [강미애](/people/gang-mi-ae) — **반대**: 노동시장 전 과정의 성차별 점검 강화와 성별 임금 격차 개선 등 구조적 성차별 해소를 위한 제도적 대응을 강조했다. [출처](https://www.seoul.co.kr/news/society/2026/07/02/20260702500182?wlog_tag3=naver)
+- [구준희](/people/gu-jun-hui) — **반대**: 온라인 젠더 혐오표현 완화와 성별 인식격차 해소, 군복무 보상체계 논의를 통한 갈등 완화 방향을 제시했다. [출처](https://www.news1.kr/society/general-society/6215798)
+- [김종숙](/people/gim-jong-suk) — **반대**: 노동시장 전 과정의 성차별 점검 강화와 성별 임금 격차 개선, 성별 다양성 확보를 정책 과제로 제안했다. [출처](https://www.newspim.com/news/view/20260702000137)
 <!-- /agent:stances -->
