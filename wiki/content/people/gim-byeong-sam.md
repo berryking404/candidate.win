@@ -2,7 +2,7 @@
 title: 김병삼
 slug: gim-byeong-sam
 role: 영천시장
-status: stub
+status: curated
 ---
 
 ## 행적

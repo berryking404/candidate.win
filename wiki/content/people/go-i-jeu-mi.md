@@ -2,7 +2,7 @@
 title: 고이즈미
 slug: go-i-jeu-mi
 role: 일본 방위상
-status: stub
+status: curated
 ---
 
 ## 행적

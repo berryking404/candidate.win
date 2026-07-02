@@ -2,7 +2,7 @@
 title: 손배찬
 slug: son-bae-chan
 role: 파주시장
-status: stub
+status: curated
 ---
 
 ## 행적

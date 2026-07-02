@@ -2,7 +2,7 @@
 title: 박정훈
 slug: bak-jeong-hun
 role: 해병대 수사단장
-status: stub
+status: curated
 ---
 
 ## 행적

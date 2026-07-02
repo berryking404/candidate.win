@@ -2,7 +2,7 @@
 title: 이병희
 slug: i-byeong-hui
 role: 노동연구원장
-status: stub
+status: curated
 ---
 
 ## 행적

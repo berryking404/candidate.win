@@ -2,7 +2,7 @@
 title: 배낙호
 slug: bae-nak-ho
 role: 김천시장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 한정수
 slug: han-jeong-su
 role: 배우
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 신동화
 slug: sin-dong-hwa
 role: 구리시장
-status: stub
+status: curated
 ---
 
 ## 행적

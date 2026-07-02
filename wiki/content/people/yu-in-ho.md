@@ -2,7 +2,7 @@
 title: 유인호
 slug: yu-in-ho
 role: 세종시의회 제1부의장
-status: stub
+status: curated
 ---
 
 ## 행적

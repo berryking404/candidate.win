@@ -2,7 +2,7 @@
 title: 차석호
 slug: cha-seok-ho
 role: 함안군수
-status: stub
+status: curated
 ---
 
 ## 행적

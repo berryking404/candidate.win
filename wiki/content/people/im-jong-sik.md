@@ -2,7 +2,7 @@
 title: 임종식
 slug: im-jong-sik
 role: 경북교육감
-status: stub
+status: curated
 ---
 
 ## 행적

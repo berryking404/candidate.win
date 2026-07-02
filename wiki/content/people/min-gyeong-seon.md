@@ -2,7 +2,7 @@
 title: 민경선
 slug: min-gyeong-seon
 role: 고양시장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 박종원
 slug: bak-jong-won
 role: 담양군수
-status: stub
+status: curated
 ---
 
 ## 행적
