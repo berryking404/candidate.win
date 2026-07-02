@@ -20,4 +20,8 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [김민석](/people/gim-min-seok) — **지지**: 호르무즈 해협을 운항 중인 우리 선박과 선원들의 안전한 귀환을 지원하겠다고 밝혔다. [출처](https://www.ktv.go.kr/content/view?content_id=756660)
 - [김정관](/people/gim-jeong-gwan) — **지지**: 호르무즈 해협 봉쇄 재발에 대비해 UAE 우회 송유관 건설과 한국 기업 참여를 당부했다. [출처](https://www.news1.kr/economy/idustry-trade/6199340)
 - [위성락](/people/wi-seong-rak) — **혼합**: 미국의 동맹 현대화와 전략적 유연성 논의에 대해 한국의 기여 가능성을 열어두면서도, 주한미군 감축 문제와는 분리해야 한다는 신중한 입장을 보였다. [출처](https://www.khan.co.kr/article/202606281116001)
+- [사우디아라비아](/people/saudi-arabia) — **반대**: 이란 공격이 호르무즈 해협 봉쇄와 유가 불안으로 이어질 수 있다고 우려하며 미국의 군사행동을 경계했다. [출처](https://www.news1.kr/world/usa-canada/6215184)
+- [미국](/people/united-states) — **혼합**: 호르무즈 충격에 대응해 존스법 유예 등 에너지 공급망 안정 조치를 취하는 동시에 중동 전력 감축 가능성도 논의됐다. [출처](https://www.theguru.co.kr/news/article.html?no=103855)
+- [이란](/people/iran) — **지지**: 호르무즈 해협을 사실상 봉쇄하고 지정 항로 위반 선박에 군사적 대응을 경고했다. [출처](https://www.mt.co.kr/world/2026/07/02/2026070220310692410)
+- [해양수산부](/people/maritime-ministry) — **중립**: 호르무즈 봉쇄 이후 한국 유조선의 우회 수송을 안내하며 대체 항로를 관리했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8600794&ref=A)
 <!-- /agent:stances -->
