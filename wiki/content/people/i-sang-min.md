@@ -9,7 +9,7 @@ party: 국민의힘
 ## 행적
 
 <!-- agent:events -->
-
+- 2026-06-10: 관저 이전 예산 전용 의혹과 관련해 김대기 전 대통령비서실장 등과 함께 기소된 것으로 보도됐다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/06/10/2026061090001.html)
 <!-- /agent:events -->
 
 ## 이슈별 입장

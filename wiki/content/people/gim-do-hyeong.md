@@ -8,7 +8,7 @@ status: curated
 ## 행적
 
 <!-- agent:events -->
-
+- 2026-06-09: 통일교 수사 무마 의혹과 관련해 종합특검 조사를 받은 것으로 보도됐다. [출처](https://news.bbsi.co.kr/news/articleView.html?idxno=4088149)
 <!-- /agent:events -->
 
 ## 이슈별 입장

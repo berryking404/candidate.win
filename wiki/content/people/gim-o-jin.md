@@ -9,7 +9,7 @@ party: 국민의힘
 ## 행적
 
 <!-- agent:events -->
-
+- 2026-06-09: 관저 이전 의혹 수사에서 기소 대상에 포함된 것으로 보도됐다. [출처](https://www.yna.co.kr/view/AKR20260609115600004?input=1195m)
 <!-- /agent:events -->
 
 ## 이슈별 입장
