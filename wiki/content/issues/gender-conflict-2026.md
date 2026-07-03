@@ -43,7 +43,6 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [강미애](/people/gang-mi-ae) — **반대**: 노동시장 전 과정의 성차별 점검 강화와 성별 임금 격차 개선 등 구조적 성차별 해소를 위한 제도적 대응을 강조했다. [출처](https://www.seoul.co.kr/news/society/2026/07/02/20260702500182?wlog_tag3=naver)
 - [구준희](/people/gu-jun-hui) — **반대**: 온라인 젠더 혐오표현 완화와 성별 인식격차 해소, 군복무 보상체계 논의를 통한 갈등 완화 방향을 제시했다. [출처](https://www.news1.kr/society/general-society/6215798)
 - [김종숙](/people/gim-jong-suk) — **반대**: 노동시장 전 과정의 성차별 점검 강화와 성별 임금 격차 개선, 성별 다양성 확보를 정책 과제로 제안했다. [출처](https://www.newspim.com/news/view/20260702000137)
-- [한지아](/people/han-ji-a) — **중립**: 여성혐오와 온라인 매노스피어 연구를 소개한 기사로, 이 이슈에 대한 당사자의 찬반 입장 표명은 확인되지 않았다. [출처](https://www.nocutnews.co.kr/news/6542490?utm_source=naver&utm_medium=article&utm_campaign=20260703080106)
 - [김준혁](/people/gim-jun-hyeok) — **반대**: 혐오와 차별 발언을 자유라는 이름으로 허용하는 것은 방치이자 방조라고 비판했다. [출처](https://www.dt.co.kr/article/12070949?ref=naver)
 - [김재원](/people/gim-jae-won) — **반대**: 여성 접대부를 언급한 과거 인물들을 비판하며 관련 발언과 행태를 문제 삼았다. [출처](https://www.dt.co.kr/article/12070949?ref=naver)
 <!-- /agent:stances -->

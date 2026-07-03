@@ -73,11 +73,6 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [이재명](/people/i-jae-myeong) — **지지**: 충청권 첨단산업 투자 보고회에서 대규모 투자와 메가특구 지원을 통해 청년 일자리와 첨단산업 생태계 확대 의지를 보였다. [출처](https://www.korea.kr/news/policyNewsView.do?newsId=148967515&call_from=naver_news)
 - [오세훈](/people/o-se-hun) — **지지**: 청년 AI 이용권과 맞춤형 교육 지원으로 AI 시대의 학습·취업 격차를 줄이겠다고 밝혔다. [출처](https://www.seoul.co.kr/news/society/2026/07/02/20260702500247?wlog_tag3=naver)
 - [김대중](/people/gim-dae-jung) — **지지**: 반도체와 AI 등 첨단산업 인재를 지역에서 양성해 기업에 바로 취업시키겠다는 구상을 밝혔다. [출처](https://ysmbc.co.kr/NewsArticle/1525806)
-- [김동관](/people/gim-dong-gwan) — **지지**: 영남권 보고회에서 지역 인재가 지역에서 배우고 지역 기업이 세계 시장에 도전하는 생태계를 만들겠다고 밝혔다. [출처](https://www.idomin.com/news/articleView.html?idxno=2009321)
-- [정원주](/people/jeong-won-ju) — **지지**: 전남광주 AI 반도체 메가 프로젝트를 위해 발전기금을 기부하겠다고 밝히며 지역 청년의 일자리 창출 효과를 강조했다. [출처](https://www.hinews.co.kr/view.php?ud=202607031802224036cd8b879b3c_48)
 - [송기헌](/people/song-gi-heon) — **지지**: 의료와 관련된 첨단 산업을 지역에 뿌리내려 시민과 청년이 함께 성장하는 산업 기반을 만들겠다고 밝혔다. [출처](https://chmbc.co.kr/article/lYU_8T9B-1H)
 - [김남국](/people/gim-nam-guk) — **지지**: 안산경제자유구역을 첨단산업 전환과 청년 인재 집적의 성장 기반으로 만들어야 한다고 말했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3625902)
-- [남한권](/people/nam-han-gwon) — **지지**: 청년 창업과 일자리 지원, 정주지원금으로 인구소멸에 대응하겠다고 밝혔다. [출처](https://www.kbsm.net/news/view.php?idx=525461)
-- [박민원](/people/bak-min-won) — **지지**: 미래 원자력 전문인력 양성과 지역 인재 정착, 청년 일자리 창출을 견인하겠다고 밝혔다. [출처](http://www.enewstoday.co.kr/news/articleView.html?idxno=2445469)
-- [황병직](/people/hwang-byeong-jig) — **지지**: 기업 유치와 청년 정착, 일자리 확대를 영주 발전의 핵심으로 제시했다. [출처](https://www.kbsm.net/news/view.php?idx=525458)
 <!-- /agent:stances -->

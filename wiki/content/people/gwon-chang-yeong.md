@@ -16,5 +16,4 @@ status: curated
 
 <!-- agent:stances -->
 - [종합특검](/issues/comprehensive-special-counsel-probes-2026) — **중립**: 2차 종합특검팀 특별검사로서 계엄사 지원 방안 논의 정황을 공개했다. [출처](https://www.news1.kr/society/court-prosecution/6199400)
-- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 2차 종합특검 특별검사로서 내란·김건희 수사무마 등 관련 의혹을 수사하고 책임 규명을 추진하고 있다. [출처](https://imnews.imbc.com/replay/2026/nwdesk/article/6834899_37004.html)
 <!-- /agent:stances -->
