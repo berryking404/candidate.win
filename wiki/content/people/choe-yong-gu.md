@@ -2,7 +2,7 @@
 title: 최용구
 slug: choe-yong-gu
 role: 진접농협 조합장
-status: stub
+status: curated
 ---
 
 ## 행적

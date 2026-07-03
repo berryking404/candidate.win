@@ -1,8 +1,9 @@
 ---
 title: 임종득
 slug: im-jong-deuk
-role: 국민의힘 국회의원
-status: stub
+role: 국회의원
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

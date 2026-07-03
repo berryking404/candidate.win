@@ -1,9 +1,9 @@
 slug: im-jong-deuk
 name_ko: 임종득
 name_en: null
-party: null
-role: 국민의힘 국회의원
-status: stub
+party: 국민의힘
+role: 국회의원
+status: curated
 aliases:
 - 임종득 의원
 discovered_via_issue: defense-counterintelligence-reform-impeachment-petition-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 임종득
   youtube_channels: []
+  urls:
+  - https://www.assembly.go.kr/portal/assm/assmMemb/memberProfile.do?monaCd=RAJ1024Z&st=22&viewType=CONTBODY

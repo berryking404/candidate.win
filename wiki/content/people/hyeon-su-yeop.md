@@ -2,7 +2,7 @@
 title: 현수엽
 slug: hyeon-su-yeop
 role: 보건복지부 제1차관
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -1,9 +1,9 @@
 slug: go-dong-jin
 name_ko: 고동진
 name_en: null
-party: null
+party: 국민의힘
 role: 국회의원
-status: stub
+status: curated
 aliases:
 - 고동진
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 고동진
   youtube_channels: []
+  urls:
+  - https://www.assembly.go.kr/members/22nd/KOHDONGJIN

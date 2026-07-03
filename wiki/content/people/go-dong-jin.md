@@ -2,7 +2,8 @@
 title: 고동진
 slug: go-dong-jin
 role: 국회의원
-status: stub
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

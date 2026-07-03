@@ -1,9 +1,9 @@
 slug: an-pyeong-hwan
 name_ko: 안평환
 name_en: null
-party: null
-role: 전남광주특별시의원
-status: stub
+party: 더불어민주당
+role: 광주광역시의회 의원
+status: curated
 aliases:
 - 안평환
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 안평환
   youtube_channels: []
+  urls:
+  - https://council.gwangju.go.kr/index.do?PID=029

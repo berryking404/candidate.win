@@ -1,8 +1,8 @@
 ---
 title: 강미애
 slug: gang-mi-ae
-role: 교육감
-status: stub
+role: 세종특별자치시교육감
+status: curated
 ---
 
 ## 행적

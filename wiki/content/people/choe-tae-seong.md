@@ -2,7 +2,7 @@
 title: 최태성
 slug: choe-tae-seong
 role: 한국사 강사
-status: stub
+status: curated
 ---
 
 ## 행적

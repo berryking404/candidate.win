@@ -1,8 +1,9 @@
 ---
 title: 김희수
 slug: gim-hui-su
-role: 경북도의회 의장
-status: stub
+role: 경상북도의회 의원
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

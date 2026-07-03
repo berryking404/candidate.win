@@ -1,9 +1,9 @@
 slug: gim-hui-su
 name_ko: 김희수
 name_en: null
-party: null
-role: 경북도의회 의장
-status: stub
+party: 국민의힘
+role: 경상북도의회 의원
+status: curated
 aliases:
 - 김희수
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김희수
   youtube_channels: []
+  urls:
+  - https://council.gb.go.kr/kr/member/district?area=%ED%8F%AC%ED%95%AD%EC%8B%9C&num=1

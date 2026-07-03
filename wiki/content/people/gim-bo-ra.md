@@ -2,7 +2,7 @@
 title: 김보라
 slug: gim-bo-ra
 role: 안성시장
-status: stub
+status: curated
 ---
 
 ## 행적

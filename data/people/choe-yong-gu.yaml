@@ -3,7 +3,7 @@ name_ko: 최용구
 name_en: null
 party: null
 role: 진접농협 조합장
-status: stub
+status: curated
 aliases:
 - 최용구 조합장
 discovered_via_issue: energy-price-inflation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최용구
   youtube_channels: []
+  urls:
+  - https://www.nongmin.com/article/20231207500229

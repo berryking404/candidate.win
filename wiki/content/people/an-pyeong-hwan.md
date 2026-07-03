@@ -1,8 +1,9 @@
 ---
 title: 안평환
 slug: an-pyeong-hwan
-role: 전남광주특별시의원
-status: stub
+role: 광주광역시의회 의원
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

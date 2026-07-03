@@ -1,8 +1,8 @@
 ---
 title: 정세은
 slug: jeong-se-eun
-role: 공동위원장
-status: stub
+role: 충남대학교 경제학과 교수
+status: curated
 ---
 
 ## 행적

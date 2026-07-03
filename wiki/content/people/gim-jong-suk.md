@@ -1,8 +1,8 @@
 ---
 title: 김종숙
 slug: gim-jong-suk
-role: 여성정책 연구자
-status: stub
+role: 한국여성정책연구원장
+status: curated
 ---
 
 ## 행적

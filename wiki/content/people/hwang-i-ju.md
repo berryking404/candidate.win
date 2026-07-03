@@ -1,8 +1,9 @@
 ---
 title: 황이주
 slug: hwang-i-ju
-role: 울진군수
-status: stub
+role: 울진군수 당선인
+status: curated
+party: 무소속
 ---
 
 ## 행적

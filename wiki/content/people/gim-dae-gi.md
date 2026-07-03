@@ -2,7 +2,7 @@
 title: 김대기
 slug: gim-dae-gi
 role: 전 대통령비서실장
-status: stub
+status: curated
 ---
 
 ## 행적

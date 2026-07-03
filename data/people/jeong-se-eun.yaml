@@ -2,8 +2,8 @@ slug: jeong-se-eun
 name_ko: 정세은
 name_en: null
 party: null
-role: 공동위원장
-status: stub
+role: 충남대학교 경제학과 교수
+status: curated
 aliases:
 - 정세은
 discovered_via_issue: energy-price-inflation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 정세은
   youtube_channels: []
+  urls:
+  - https://economics.cnu.ac.kr/economic/professor/professor.do

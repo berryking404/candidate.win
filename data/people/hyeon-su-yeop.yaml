@@ -3,7 +3,7 @@ name_ko: 현수엽
 name_en: null
 party: null
 role: 보건복지부 제1차관
-status: stub
+status: curated
 aliases:
 - 현수엽 복지부 제1차관
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 현수엽
   youtube_channels: []
+  urls:
+  - https://www.yna.co.kr/view/AKR20260515113851530
