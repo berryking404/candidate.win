@@ -874,7 +874,7 @@ def create_issue_shell(cand: dict[str, Any]) -> str:
         "category": "politics",
         "status": "ongoing",
         "started_at": today,
-        "summary": f"{cand['title']} 관련 정치·공공 쟁점. Eric 승인 후 issue-radar가 생성한 초안이므로 stance 기준과 요약 보강 필요.",
+        "summary": f"{cand['title']} 관련 정치·공공 쟁점. 편집 승인 후 생성한 초안이므로 입장 분류 기준과 요약 보강이 필요합니다.",
         "keywords": sorted({cand.get("keyword", cand["title"]), cand["title"]}),
         "stances": {
             "support": "이 쟁점의 추진·찬성·책임 추궁 등 주요 요구를 지지하는 입장",
