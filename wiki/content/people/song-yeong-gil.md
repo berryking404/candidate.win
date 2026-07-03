@@ -18,4 +18,5 @@ party: 소나무당
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **지지**: 인천 연수을에서 전략 공천 대상으로 거론됐다. [출처](https://www.news1.kr/politics/assembly/6178175)
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **반대**: 박종진의 야권 단일화 제안을 ‘반칙’으로 규정하며 거부했다. [출처](https://www.kihoilbo.co.kr/news/articleView.html?idxno=3024401)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **반대**: 지역 현안보다 당권 다툼에 치중한다는 비판을 받으며 민생을 챙기지 않는다는 평가가 제기됐다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=309429)
+- [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **중립**: 보완수사권 문제를 정치적으로 정쟁화하지 말아야 한다고 하며, 논쟁을 제도 조정 차원에서 다뤄야 한다고 말했다. [출처](https://www.ytn.co.kr/_ln/0101_202607031755330525)
 <!-- /agent:stances -->
