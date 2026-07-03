@@ -20,4 +20,5 @@ party: 더불어민주당
 - [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **지지**: 해양수도 부산 완성과 수도권 집중 완화 필요성을 함께 강조했다. [출처](https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573895015325)
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **지지**: 부산시장 선거에서 보수 진영 단일화가 판세 변수로 작동하는 국면에 놓였다. [출처](https://www.naeil.com/news/read/589527?ref=naver)
 - [물가 안정과 에너지 요금 부담 (2026)](/issues/energy-price-inflation-2026) — **중립**: 원전 인근 지역 혜택과 기업 지원을 위해 지역 전기요금 차등제와 전력 인프라 개선을 추진하겠다고 밝혔다. [출처](https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260623.22002006440)
+- [지역 상권 회복과 소상공인 지원 (2026)](/issues/local-commerce-recovery-2026) — **지지**: 서민금융 복합지원센터 개소를 계기로 금융과 복지의 문턱을 낮추고 서민과 소상공인 현장 지원을 강화하겠다고 말했다. [출처](http://www.paxetv.com/news/articleView.html?idxno=276395)
 <!-- /agent:stances -->

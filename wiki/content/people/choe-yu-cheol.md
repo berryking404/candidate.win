@@ -15,4 +15,5 @@ role: 의성군수/공적 인물
 
 <!-- agent:stances -->
 - [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **지지**: 인구감소·지방소멸·고령화에 대응해 의성군 전략본부 체제로 중장기 생존전략을 추진하겠다고 밝혔다. [출처](https://www.viva100.com/article/20260525500051)
+- [지역 상권 회복과 소상공인 지원 (2026)](/issues/local-commerce-recovery-2026) — **지지**: 전통시장과 골목상권, 자영업자가 살아야 의성이 살아난다며 실질적인 금융지원과 경영 안정 대책 확대를 약속했다. [출처](https://www.m-i.kr/news/articleView.html?idxno=1388079)
 <!-- /agent:stances -->
