@@ -96,4 +96,9 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [김보라](/people/gim-bo-ra) — **지지**: 모두를 품는 사회안전망과 지속 가능한 도시를 만들겠다고 밝혔다. [출처](http://www.bizwnews.com/news/articleView.html?idxno=139940)
 - [손배찬](/people/son-bae-chan) — **지지**: 의료·요양·돌봄 서비스를 연계하는 통합돌봄팀 신설로 주민 맞춤형 지원체계를 구축하겠다고 했다. [출처](http://www.metroseoul.co.kr/article/20260702500484)
 - [황이주](/people/hwang-i-ju) — **지지**: 보훈가족이 의료·요양·휴양 서비스를 더 가까이에서 받을 수 있도록 국가 차원의 지원체계 구축을 건의했다. [출처](https://www.kbsm.net/news/view.php?idx=525394)
+- [조정식](/people/jo-jeongsik) — **지지**: 건강보험을 대표적 사회안전망으로 평가하며 국고지원 확대와 국민연금 사각지대 해소, 응급의료체계 개선을 강조했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8601683&ref=A)
+- [신동화](/people/shin-donghwa) — **지지**: 취임 첫 결재로 퇴원 환자 통합돌봄 연계 지원 업무협약을 승인하며 의료·요양·돌봄 연계체계 구축에 나섰다. [출처](https://news.tf.co.kr/read/national/2339641.htm)
+- [울주군 관계자](/people/uljugun-gwanggyeja) — **지지**: 응급키트와 복약달력 지원을 통해 통합돌봄 대상자의 의료·요양·돌봄 통합지원체계를 강화하겠다고 설명했다. [출처](https://view.asiae.co.kr/article/2026070314473609710)
+- [김보라](/people/gim-bora) — **지지**: 좋은 일자리와 사회안전망, 지속가능한 생태환경의 균형을 도시 비전으로 제시했다. [출처](https://news.ifm.kr/news/articleView.html?idxno=474346)
+- [김재욱](/people/gim-jaeuk) — **지지**: 평생직업교육과 지역 협력체계 구축을 통해 고령화와 인력 부족에 대응하는 지역 기반 인재양성을 강조했다. [출처](https://www.kukinews.com/article/view/kuk202607030098)
 <!-- /agent:stances -->
