@@ -26,4 +26,5 @@ party: 국민의힘
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **혼합**: 윤석열 전 대통령 및 여권 권력 구도와 거리를 두며 대통령 탄핵 가능성까지 거론하는 비판적 발언을 했다. [출처](https://www.joongang.co.kr/article/25437262)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 국가배상법 개정안을 최우선 민생법안으로 거론하며 민생 입법의 의미를 강조했다. [출처](https://www.sisajournal.com/news/articleView.html?idxno=377687)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **혼합**: 투표용지 부족 사태를 계기로 한 해체 수준 개혁은 언급했지만, 재선거 주장에는 신중하거나 부정적인 태도를 보였다. [출처](https://www.newsis.com/view/NISX20260628_0003686581)
+- [스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)](/issues/starbucks-tank-day-2026) — **혼합**: 배재고 징계가 과도하다고 비판하며 학생 처벌 수위에는 반대했지만, 논란 자체의 문제성은 별도로 부정하지 않았다. [출처](https://www.busan.com/view/busan/view.php?code=2026070121182209732)
 <!-- /agent:stances -->
