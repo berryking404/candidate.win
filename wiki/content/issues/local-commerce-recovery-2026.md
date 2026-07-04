@@ -129,4 +129,7 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [김남국](/people/gim-nam-guk) — **중립**: 안산 정책간담회에서 골목상권 활성화와 주차난 해소 등 지역 현안을 함께 논의했다. [출처](https://www.newsclaim.co.kr/news/articleView.html?idxno=3068460)
 - [박선원](/people/bak-seon-won) — **지지**: 부평 소상공인 간담회에서 상권 활성화와 소상공인 지원 방안을 함께 논의했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3625923)
 - [김보라](/people/gim-bo-ra) — **지지**: 전통시장 야간 활성화 사업을 확대하고 찾아가는 복지서비스로 시민 생활권 현장 지원을 강화했다. [출처](http://www.fieldnews.kr/news/articleView.html?idxno=29731)
+- [박관열](/people/bak-gwan-yeol) — **미확인**: 경안시장 상인회와 전통시장 활성화·소상공인 지원 방안을 논의했다. [출처](https://www.ajunews.com/view/20260704183847951)
+- [박선원](/people/bak-seon-won) — **미확인**: 부평 소상공인 간담회에서 상권 활성화와 전통시장·골목상권 지원 대책이 논의됐다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3625923)
+- [김명식](/people/gim-myeong-sik) — **미확인**: 디지털 참여 생태계 조성으로 전통시장과 소상공인 가맹점 소비를 촉진하는 방안을 추진했다. [출처](https://www.ccdailynews.com/news/articleView.html?idxno=2425953)
 <!-- /agent:stances -->
