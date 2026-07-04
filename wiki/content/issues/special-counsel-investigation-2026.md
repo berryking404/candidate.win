@@ -46,4 +46,5 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [우원식](/people/u-won-sik) — **지지**: 비상계엄을 막아내고 탄핵 소추를 이뤄냈다고 언급하며 관련 개혁의 정당성을 강조했다. [출처](https://www.nocutnews.co.kr/news/6538536?utm_source=naver&utm_medium=article&utm_campaign=20260625013451)
 - [김건희](/people/gim-geon-hui) — **중립**: 특검 수사 과정에서 찾지 못했던 바쉐론콘스탄틴 시계를 자택에 보관 중이라는 의견서를 법원에 제출했다. [출처](https://www.ytn.co.kr/_ln/0103_202607012106480963)
 - [박정훈](/people/bak-jeong-hun) — **지지**: 채상병 순직 사건의 초동 수사를 지휘하며 VIP 격노설 등 부당한 외압이 있었다고 폭로했다. [출처](https://www.hankyung.com/article/202607019305i)
+- [오세훈](/people/o-se-hoon) — **지지**: 윤석열 전 대통령의 잘못된 판단을 비판하면서도 특검 공세를 정치적 카드로 과도하게 쓰면 안 된다고 말했다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260704020151004?input=1195m)
 <!-- /agent:stances -->
