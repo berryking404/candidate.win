@@ -45,4 +45,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [김종숙](/people/gim-jong-suk) — **반대**: 노동시장 전 과정의 성차별 점검 강화와 성별 임금 격차 개선, 성별 다양성 확보를 정책 과제로 제안했다. [출처](https://www.newspim.com/news/view/20260702000137)
 - [김준혁](/people/gim-jun-hyeok) — **반대**: 혐오와 차별 발언을 자유라는 이름으로 허용하는 것은 방치이자 방조라고 비판했다. [출처](https://www.dt.co.kr/article/12070949?ref=naver)
 - [김재원](/people/gim-jae-won) — **반대**: 여성 접대부를 언급한 과거 인물들을 비판하며 관련 발언과 행태를 문제 삼았다. [출처](https://www.dt.co.kr/article/12070949?ref=naver)
+- [위근우](/people/wi-geun-u) — **중립**: 웹툰을 둘러싼 혐오, 젠더 갈등, 플랫폼 권력, 독자 소비자 운동을 함께 읽는 비평을 소개했다. [출처](https://www.asiae.co.kr/article/2026070213344605579)
 <!-- /agent:stances -->
