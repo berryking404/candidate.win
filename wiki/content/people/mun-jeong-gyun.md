@@ -1,8 +1,8 @@
 ---
 title: 문정균
 slug: mun-jeong-gyun
-role: 법무법인 YK 남양주 분사무소 변호사
-status: stub
+role: 법무법인 YK 남양주 분사무소장
+status: curated
 ---
 
 ## 행적

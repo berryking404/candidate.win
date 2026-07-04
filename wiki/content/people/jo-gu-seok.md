@@ -1,8 +1,8 @@
 ---
 title: 조구석
 slug: jo-gu-seok
-role: 달서구청장
-status: stub
+role: 대구 달서구청장
+status: curated
 ---
 
 ## 행적

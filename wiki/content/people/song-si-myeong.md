@@ -1,8 +1,8 @@
 ---
-title: 한명숙
-slug: han-myeong-suk
-role: 남원시의원
-status: curated
+title: 송시명
+slug: song-si-myeong
+role: 한국수자원공사 예방감사부장
+status: stub
 ---
 
 ## 행적

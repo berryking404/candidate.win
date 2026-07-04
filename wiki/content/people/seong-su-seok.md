@@ -1,8 +1,8 @@
 ---
 title: 성수석
 slug: seong-su-seok
-role: 이천시장
-status: stub
+role: 경기 이천시장
+status: curated
 ---
 
 ## 행적

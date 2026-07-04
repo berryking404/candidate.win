@@ -2,7 +2,8 @@
 title: 이정운
 slug: i-jeong-un
 role: 전남광주특별시의원
-status: stub
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

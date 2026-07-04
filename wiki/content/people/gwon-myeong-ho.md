@@ -1,8 +1,8 @@
 ---
-title: 한명숙
-slug: han-myeong-suk
-role: 남원시의원
-status: curated
+title: 권명호
+slug: gwon-myeong-ho
+role: 한국동서발전 사장
+status: stub
 ---
 
 ## 행적

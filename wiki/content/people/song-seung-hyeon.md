@@ -2,7 +2,7 @@
 title: 송승현
 slug: song-seung-hyeon
 role: 도시와경제 대표
-status: stub
+status: curated
 ---
 
 ## 행적

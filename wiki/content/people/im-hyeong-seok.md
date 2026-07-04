@@ -1,8 +1,9 @@
 ---
 title: 임형석
 slug: im-hyeong-seok
-role: 전남광주통합특별시의원
-status: stub
+role: 전남광주특별시의원
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

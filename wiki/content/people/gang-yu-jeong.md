@@ -1,8 +1,8 @@
 ---
-title: 한명숙
-slug: han-myeong-suk
-role: 남원시의원
-status: curated
+title: 강유정
+slug: gang-yu-jeong
+role: 청와대 수석대변인
+status: stub
 ---
 
 ## 행적

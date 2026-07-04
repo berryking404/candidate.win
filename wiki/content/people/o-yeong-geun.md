@@ -1,8 +1,8 @@
 ---
-title: 한명숙
-slug: han-myeong-suk
-role: 남원시의원
-status: curated
+title: 오영근
+slug: o-yeong-geun
+role: 국가인권위원회 상임위원
+status: stub
 ---
 
 ## 행적

@@ -1,8 +1,8 @@
 ---
-title: 한명숙
-slug: han-myeong-suk
-role: 남원시의원
-status: curated
+title: 신승진
+slug: sin-seung-jin
+role: 삼성증권 투자정보팀장
+status: stub
 ---
 
 ## 행적

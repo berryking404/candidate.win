@@ -1,8 +1,8 @@
 ---
-title: 한명숙
-slug: han-myeong-suk
-role: 남원시의원
-status: curated
+title: 이종탁
+slug: i-jong-tak
+role: 서울지방세무사회 회장
+status: stub
 ---
 
 ## 행적

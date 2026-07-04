@@ -1,8 +1,8 @@
 ---
-title: 한명숙
-slug: han-myeong-suk
-role: 남원시의원
-status: curated
+title: 백준호
+slug: baek-jun-ho
+role: 퓨리오사AI 대표
+status: stub
 ---
 
 ## 행적

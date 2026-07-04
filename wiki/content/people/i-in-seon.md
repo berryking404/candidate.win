@@ -1,8 +1,9 @@
 ---
 title: 이인선
 slug: i-in-seon
-role: 국민의힘 의원, 선관위 개혁 법안 발의
-status: stub
+role: 국회의원
+party: 국민의힘
+status: curated
 ---
 
 ## 행적

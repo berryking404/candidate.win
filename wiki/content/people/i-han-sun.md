@@ -1,8 +1,8 @@
 ---
-title: 한명숙
-slug: han-myeong-suk
-role: 남원시의원
-status: curated
+title: 이한순
+slug: i-han-sun
+role: 라이온하트 스튜디오 부사장
+status: stub
 ---
 
 ## 행적

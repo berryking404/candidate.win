@@ -1,8 +1,8 @@
 ---
-title: 한명숙
-slug: han-myeong-suk
-role: 남원시의원
-status: curated
+title: 김문근
+slug: gim-mun-geun
+role: 단양군수 후보
+status: stub
 ---
 
 ## 행적

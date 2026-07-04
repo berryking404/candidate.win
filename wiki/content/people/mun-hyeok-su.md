@@ -1,8 +1,8 @@
 ---
-title: 한명숙
-slug: han-myeong-suk
-role: 남원시의원
-status: curated
+title: 문혁수
+slug: mun-hyeok-su
+role: LG이노텍 경영진
+status: stub
 ---
 
 ## 행적

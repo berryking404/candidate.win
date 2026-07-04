@@ -1,8 +1,9 @@
 ---
 title: 류삼영
 slug: ryu-sam-yeong
-role: 동작구청장
-status: stub
+role: 서울 동작구청장
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

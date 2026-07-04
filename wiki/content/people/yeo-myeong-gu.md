@@ -2,7 +2,7 @@
 title: 여명구
 slug: yeo-myeong-gu
 role: 삼성전자 DS부문 피플팀장
-status: stub
+status: curated
 ---
 
 ## 행적

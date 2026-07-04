@@ -1,8 +1,8 @@
 ---
 title: 구준희
 slug: gu-jun-hui
-role: 청년위원
-status: stub
+role: 성평등가족부 청년 공존·공감 위원회 청년위원
+status: curated
 ---
 
 ## 행적

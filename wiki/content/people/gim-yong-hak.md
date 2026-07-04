@@ -1,8 +1,8 @@
 ---
-title: 한명숙
-slug: han-myeong-suk
-role: 남원시의원
-status: curated
+title: 김용학
+slug: gim-yong-hak
+role: 서울시 미래공간기획관
+status: stub
 ---
 
 ## 행적

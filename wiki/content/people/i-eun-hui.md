@@ -1,8 +1,8 @@
 ---
-title: 한명숙
-slug: han-myeong-suk
-role: 남원시의원
-status: curated
+title: 이은희
+slug: i-eun-hui
+role: 인하대 교수
+status: stub
 ---
 
 ## 행적

@@ -1,8 +1,9 @@
 ---
 title: 김용만
 slug: gim-yong-man
-role: 국회 투표용지 부족사태 국정조사특위 위원
-status: stub
+role: 국회의원
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

@@ -1,8 +1,8 @@
 ---
-title: 한명숙
-slug: han-myeong-suk
-role: 남원시의원
-status: curated
+title: 한지아
+slug: han-ji-a
+role: 국회의원
+status: stub
 ---
 
 ## 행적

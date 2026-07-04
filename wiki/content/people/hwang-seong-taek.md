@@ -1,8 +1,8 @@
 ---
-title: 한명숙
-slug: han-myeong-suk
-role: 남원시의원
-status: curated
+title: 황성택
+slug: hwang-seong-taek
+role: 경북농협본부 인사
+status: stub
 ---
 
 ## 행적
