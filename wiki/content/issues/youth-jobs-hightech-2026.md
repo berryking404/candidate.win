@@ -76,6 +76,5 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [송기헌](/people/song-gi-heon) — **지지**: 의료와 관련된 첨단 산업을 지역에 뿌리내려 시민과 청년이 함께 성장하는 산업 기반을 만들겠다고 밝혔다. [출처](https://chmbc.co.kr/article/lYU_8T9B-1H)
 - [김남국](/people/gim-nam-guk) — **지지**: 안산경제자유구역을 첨단산업 전환과 청년 인재 집적의 성장 기반으로 만들어야 한다고 말했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3625902)
 - [홍준표](/people/hong-jun-pyo) — **반대**: 대규모 첨단산업 투자 발표의 현실성에 의문을 제기하며 공수표 우려를 밝혔다. [출처](https://www.kwnews.co.kr/article/20260704500022)
-- [모경종](/people/mo-gyeong-jong) — **지지**: 청년 채용을 포함한 정년연장 제도 개혁이 필요하다고 주장했다. [출처](http://www.economytalk.kr/news/articleView.html?idxno=422441)
-- [이재명](/people/i-jae-myeong) — **반대**: 대규모 첨단산업 투자 발표가 정치적 수단이라는 비판에 선을 그으며 계획의 정당성을 방어했다. [출처](https://www.ytn.co.kr/_ln/0101_202607042300264807)
+- [이재명](/people/i-jae-myeong) — **지지**: 대규모 첨단산업 투자 발표가 정치적 수단이라는 비판에 선을 그으며 계획의 정당성을 방어했다. [출처](https://www.ytn.co.kr/_ln/0101_202607042300264807)
 <!-- /agent:stances -->

@@ -101,6 +101,6 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [김보라](/people/gim-bo-ra) — **지지**: 좋은 일자리와 사회안전망, 지속가능한 생태환경의 균형을 도시 비전으로 제시했다. [출처](https://news.ifm.kr/news/articleView.html?idxno=474346)
 - [강명구](/people/gang-myeong-gu) — **지지**: 경로당 운영비를 국가·지자체가 보조할 수 있도록 노인복지법 개정안을 발의해 노인복지 기반을 넓히려 했다. [출처](https://www.news1.kr/local/daegu-gyeongbuk/6217656)
 - [윤경희](/people/yun-gyeong-hui) — **지지**: 의료·요양 통합돌봄을 통해 빈틈없는 복지체계를 구축하겠다고 밝혔다. [출처](https://www.kbsm.net/news/view.php?idx=525465)
-- [박찬대](/people/park-chantae) — **지지**: 인천시의 통합돌봄국 신설과 복지·돌봄 통합 정책 추진을 주도했다. [출처](https://www.cstimes.com/news/articleView.html?idxno=712240)
-- [김찬진](/people/kim-chanjin) — **지지**: 치매 특화 구립요양원 건립과 24시간 아이돌봄 서비스 확대를 제시했다. [출처](https://www.viva100.com/article/20260704500209)
+- [박찬대](/people/bak-chan-dae) — **지지**: 인천시의 통합돌봄국 신설과 복지·돌봄 통합 정책 추진을 주도했다. [출처](https://www.cstimes.com/news/articleView.html?idxno=712240)
+- [김찬진](/people/gim-chan-jin) — **지지**: 치매 특화 구립요양원 건립과 24시간 아이돌봄 서비스 확대를 제시했다. [출처](https://www.viva100.com/article/20260704500209)
 <!-- /agent:stances -->
