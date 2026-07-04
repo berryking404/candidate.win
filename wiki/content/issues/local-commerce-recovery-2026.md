@@ -132,4 +132,6 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [박관열](/people/bak-gwan-yeol) — **미확인**: 경안시장 상인회와 전통시장 활성화·소상공인 지원 방안을 논의했다. [출처](https://www.ajunews.com/view/20260704183847951)
 - [박선원](/people/bak-seon-won) — **미확인**: 부평 소상공인 간담회에서 상권 활성화와 전통시장·골목상권 지원 대책이 논의됐다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3625923)
 - [김명식](/people/gim-myeong-sik) — **미확인**: 디지털 참여 생태계 조성으로 전통시장과 소상공인 가맹점 소비를 촉진하는 방안을 추진했다. [출처](https://www.ccdailynews.com/news/articleView.html?idxno=2425953)
+- [이광재](/people/i-gwang-jae) — **지지**: 덕풍시장을 찾아 포인트·마일리지의 지역화폐 전환과 재래시장·지역상권 활성화 필요성을 언급했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3626346)
+- [인태연](/people/in-tae-yeon) — **지지**: 경산센터 개소를 계기로 지역 소상공인에 대한 현장 중심 지원을 강화하겠다고 밝혔다. [출처](https://www.cstimes.com/news/articleView.html?idxno=712231)
 <!-- /agent:stances -->
