@@ -9,6 +9,7 @@ party: 무소속
 ## 행적
 
 <!-- agent:events -->
+- 2026-06-10: 관저 이전 의혹 수사에서 기소 대상에 포함된 것으로 보도됐다. [출처](https://www.news1.kr/society/court-prosecution/6192314)
 - 2026-06-09: 종합특검이 관저 이전 특혜 의혹 사건에서 윤재순 전 총무비서관을 기소했다. [출처](https://www.chosun.com/national/court_law/2026/06/09/77D3XBUGRVFRPJDCS4XFDKNSN4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
 - 2026-07-02: 김대기 전 비서실장 첫 재판과 함께 관저 이전 사건 재판이 시작됐다. [출처](https://www.ytn.co.kr/_ln/0103_202607022244038432)
 <!-- /agent:events -->

@@ -9,6 +9,7 @@ party: 국민의힘
 ## 행적
 
 <!-- agent:events -->
+- 2026-06-09: 관저 이전 의혹 수사에서 기소 대상에 포함된 것으로 보도됐다. [출처](https://www.yna.co.kr/view/AKR20260609115600004?input=1195m)
 - 2026-06-09: 종합특검이 관저 이전 특혜 의혹 사건에서 김오진 전 국토교통부 1차관을 기소했다. [출처](https://www.chosun.com/national/court_law/2026/06/09/77D3XBUGRVFRPJDCS4XFDKNSN4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
 - 2026-07-01: 관저 이전 특혜 관련 재판이 시작된다는 보도에서 김오진 전 차관이 이상민·김대기와 함께 언급됐다. [출처](https://www.news1.kr/society/court-prosecution/6214508)
 <!-- /agent:events -->

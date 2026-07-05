@@ -132,5 +132,5 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이광재](/people/i-gwang-jae) — **지지**: 덕풍시장을 찾아 포인트·마일리지의 지역화폐 전환과 재래시장·지역상권 활성화 필요성을 언급했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3626346)
 - [김병내](/people/gim-byeong-nae) — **지지**: 소상공인 특례보증 확대, 금융 지원 강화, 남구동행카드 발행 등 지역 상권 부양책을 제시했습니다. [출처](http://www.kjdaily.com/article.php?aid=1783245068681665003)
 - [조용익](/people/jo-yong-ik) — **지지**: 소상공인이 살아나는 경제 생태계를 만들겠다고 밝히며 지역 경제 회복을 강조했습니다. [출처](https://www.kyeongin.com/article/1766767)
-- [이민근](/people/auto) — **지지**: 골목형상점가 지정을 소상공인의 실질적 성장 기회로 보고, 지역 상권 회복과 경제 회복 체감 효과를 강조했다. [출처](http://www.newstown.co.kr/news/articleView.html?idxno=708208)
+- [이민근](/people/i-min-geun) — **지지**: 골목형상점가 지정을 소상공인의 실질적 성장 기회로 보고, 지역 상권 회복과 경제 회복 체감 효과를 강조했다. [출처](http://www.newstown.co.kr/news/articleView.html?idxno=708208)
 <!-- /agent:stances -->
