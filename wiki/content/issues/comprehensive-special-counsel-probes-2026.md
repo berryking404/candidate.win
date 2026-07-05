@@ -46,4 +46,10 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [윤희근](/people/yun-hui-geun) — **중립**: 통일교 수사 무마 의혹 관련 피의자 조사에서 혐의를 전면 부인했다. [출처](https://www.khan.co.kr/article/202606231111011)
 - [원희룡](/people/won-hui-ryong) — **반대**: 양평고속도로 노선 변경 의혹과 관련한 특검 소환에 반발하며 ‘억지 부리지 말고 죄 있다면 체포하라’고 했다. [출처](https://www.newsis.com/view/NISX20260701_0003692251)
 - [김대기](/people/gim-dae-gi) — **지지**: 관저 이전 과정의 행정안전부 예산 불법 전용 지시 혐의를 부인하며 보석을 요청했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=1782982185&code=11131900&cp=nv)
+- [신원식](/people/sin-won-sik) — **미확인**: 계엄 정당화 메시지 의혹과 관련해 특검 소환조사를 받았다. [출처](https://www.segye.com/newsView/20260610511750?OutUrl=naver)
+- [이상민](/people/i-sang-min) — **미확인**: 관저 이전 특혜 의혹 사건에서 기소됐다. [출처](https://www.chosun.com/national/court_law/2026/06/09/77D3XBUGRVFRPJDCS4XFDKNSN4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
+- [김도형](/people/gim-do-hyeong) — **미확인**: 통일교 해외 원정도박 수사 무마 의혹으로 특검 조사를 받았다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8581612&ref=A)
+- [김대기](/people/gim-dae-gi) — **반대**: 관저 이전 예산 전용 의혹을 부인하며 혐의를 방어했다. [출처](https://news.tf.co.kr/read/life/2339070.htm)
+- [김오진](/people/gim-o-jin) — **미확인**: 관저 이전 특혜 의혹 사건에서 함께 기소됐다. [출처](https://www.chosun.com/national/court_law/2026/06/09/77D3XBUGRVFRPJDCS4XFDKNSN4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
+- [윤재순](/people/yun-jae-sun) — **미확인**: 관저 이전 특혜 의혹 사건에서 함께 기소됐다. [출처](https://www.chosun.com/national/court_law/2026/06/09/77D3XBUGRVFRPJDCS4XFDKNSN4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
 <!-- /agent:stances -->
