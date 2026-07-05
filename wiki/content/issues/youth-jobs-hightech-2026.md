@@ -77,4 +77,9 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [김남국](/people/gim-nam-guk) — **지지**: 안산경제자유구역을 첨단산업 전환과 청년 인재 집적의 성장 기반으로 만들어야 한다고 말했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3625902)
 - [홍준표](/people/hong-jun-pyo) — **반대**: 대규모 첨단산업 투자 발표의 현실성에 의문을 제기하며 공수표 우려를 밝혔다. [출처](https://www.kwnews.co.kr/article/20260704500022)
 - [이재명](/people/i-jae-myeong) — **지지**: 대규모 첨단산업 투자 발표가 정치적 수단이라는 비판에 선을 그으며 계획의 정당성을 방어했다. [출처](https://www.ytn.co.kr/_ln/0101_202607042300264807)
+- [강훈식](/people/gang-hun-sik) — **지지**: 반도체 추가 세수를 미래 성장 동력, AI·첨단산업 경쟁력 확보, 청년 주거·창업·일자리 지원에 투입하겠다고 밝혔다. [출처](https://www.jibs.co.kr/news/articles/articlesDetail/63160?feed=na)
+- [강준현](/people/gang-jun-hyeon) — **지지**: 추가 세수를 미래 세대와 성장 동력, 양극화 대응에 쓰겠다고 설명했다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1266819.html)
+- [오태석](/people/o-tae-seok) — **지지**: 영남권 우주항공·첨단산업 발전 비전에서 지역 첨단산업 육성과 청년 인재 양성을 제시했다. [출처](https://www.gnnews.co.kr/news/articleView.html?idxno=640430)
+- [윤백진](/people/yun-baek-jin) — **지지**: 경제자유구역을 글로벌 투자유치와 첨단산업 육성의 핵심 거점으로 보고 인허가·제도 개선을 요구했다. [출처](https://www.cstimes.com/news/articleView.html?idxno=712242)
+- [이수연](/people/i-su-yeon) — **지지**: 홍릉 강소특구의 바이오 혁신 창업과 기술사업화 생태계 고도화를 추진하겠다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260704022300004?input=1195m)
 <!-- /agent:stances -->
