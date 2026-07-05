@@ -30,4 +30,5 @@ party: 국민의힘
 - [사회안전망 강화와 고령화 대응 (2026)](/issues/social-safety-net-aging-2026) — **지지**: 고령층 교통복지 확대를 위해 지하철 무임승차 연령 상향과 버스비 지원 검토를 추진했다. [출처](https://www.hani.co.kr/arti/area/area_general/1264773.html)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **중립**: 보훈과 공공사업이 정쟁의 대상이 돼선 안 되며, 민생보다 정치적 폄훼가 앞서선 안 된다고 말했다. [출처](https://www.segye.com/newsView/20260623513803?OutUrl=naver)
 - [전세·주거 불안과 지역 민생 (2026)](/issues/housing-jeonse-crisis-2026) — **반대**: 보유세·거래세 인상과 대출 제한이 전세보증금과 월세 상승을 초래할 수 있다며 정부의 부동산 정책 부작용을 우려했다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1266700.html)
+- [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원·해임건의안 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **반대**: 육·해·공군 사관학교 통합이 국가안보의 백년대계인 장교 양성체계를 흔들고 각 군의 전문성과 정체성을 훼손할 수 있다고 비판했다. [출처](https://www.newsis.com/view/NISX20260705_0003696275)
 <!-- /agent:stances -->
