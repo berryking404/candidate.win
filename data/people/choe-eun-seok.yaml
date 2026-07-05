@@ -3,7 +3,7 @@ name_ko: 최은석
 name_en: null
 party: null
 role: 국민의힘 수석대변인
-status: stub
+status: curated
 aliases:
 - 최은석 대변인
 discovered_via_issue: election-commission-management-controversy-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최은석
   youtube_channels: []
+  source_urls:
+  - https://www.peoplepowerparty.kr/about/people_partisan

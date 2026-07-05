@@ -3,7 +3,7 @@ name_ko: 김지미
 name_en: null
 party: null
 role: 특별감찰관보
-status: stub
+status: curated
 aliases:
 - 김지미 특별감찰관보
 discovered_via_issue: election-commission-management-controversy-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김지미
   youtube_channels: []
+  source_urls:
+  - https://www.yna.co.kr/view/AKR20260410109500004

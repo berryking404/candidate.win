@@ -2,7 +2,7 @@
 title: 손화정
 slug: son-hwa-jeong
 role: 영종구청장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -3,7 +3,7 @@ name_ko: 이한순
 name_en: null
 party: null
 role: 라이온하트 스튜디오 부사장
-status: stub
+status: curated
 aliases:
 - 이한순 부사장
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이한순
   youtube_channels: []
+  source_urls:
+  - https://www.etoday.co.kr/news/view/2599970

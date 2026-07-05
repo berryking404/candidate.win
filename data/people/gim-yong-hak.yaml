@@ -3,7 +3,7 @@ name_ko: 김용학
 name_en: null
 party: null
 role: 서울시 미래공간기획관
-status: stub
+status: curated
 aliases:
 - 서울시 미래공간기획관 김용학
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김용학
   youtube_channels: []
+  source_urls:
+  - https://www.seoul.go.kr/news/news_report.do?nttNo=455520

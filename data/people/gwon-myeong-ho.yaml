@@ -3,7 +3,7 @@ name_ko: 권명호
 name_en: null
 party: null
 role: 한국동서발전 사장
-status: stub
+status: curated
 aliases:
 - 권명호 사장
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 권명호
   youtube_channels: []
+  source_urls:
+  - https://www.businesspost.co.kr/BP?command=article_view&num=377435

@@ -2,7 +2,7 @@
 title: 이종탁
 slug: i-jong-tak
 role: 서울지방세무사회 회장
-status: stub
+status: curated
 ---
 
 ## 행적

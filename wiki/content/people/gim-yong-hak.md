@@ -2,7 +2,7 @@
 title: 김용학
 slug: gim-yong-hak
 role: 서울시 미래공간기획관
-status: stub
+status: curated
 ---
 
 ## 행적

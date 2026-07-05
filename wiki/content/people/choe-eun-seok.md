@@ -2,7 +2,7 @@
 title: 최은석
 slug: choe-eun-seok
 role: 국민의힘 수석대변인
-status: stub
+status: curated
 ---
 
 ## 행적

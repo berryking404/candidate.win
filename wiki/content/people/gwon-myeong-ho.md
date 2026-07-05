@@ -2,7 +2,7 @@
 title: 권명호
 slug: gwon-myeong-ho
 role: 한국동서발전 사장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 이한순
 slug: i-han-sun
 role: 라이온하트 스튜디오 부사장
-status: stub
+status: curated
 ---
 
 ## 행적

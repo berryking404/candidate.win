@@ -2,7 +2,7 @@
 title: 신승진
 slug: sin-seung-jin
 role: 삼성증권 투자정보팀장
-status: stub
+status: curated
 ---
 
 ## 행적

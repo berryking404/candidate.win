@@ -3,7 +3,7 @@ name_ko: 백준호
 name_en: null
 party: null
 role: 퓨리오사AI 대표
-status: stub
+status: curated
 aliases:
 - 백준호 대표
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 백준호
   youtube_channels: []
+  source_urls:
+  - https://furiosa.ai/careers

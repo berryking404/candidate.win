@@ -2,7 +2,7 @@
 title: 김장호
 slug: gim-jang-ho
 role: 구미시장
-status: stub
+status: curated
 ---
 
 ## 행적

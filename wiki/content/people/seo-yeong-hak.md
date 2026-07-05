@@ -2,7 +2,7 @@
 title: 서영학
 slug: seo-yeong-hak
 role: 여수시장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 김지미
 slug: gim-ji-mi
 role: 특별감찰관보
-status: stub
+status: curated
 ---
 
 ## 행적

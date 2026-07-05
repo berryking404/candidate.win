@@ -2,7 +2,7 @@
 title: 위근우
 slug: wi-geun-u
 role: 웹툰/문화 비평가
-status: stub
+status: curated
 ---
 
 ## 행적

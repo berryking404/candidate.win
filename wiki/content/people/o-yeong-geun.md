@@ -2,7 +2,7 @@
 title: 오영근
 slug: o-yeong-geun
 role: 국가인권위원회 상임위원
-status: stub
+status: curated
 ---
 
 ## 행적

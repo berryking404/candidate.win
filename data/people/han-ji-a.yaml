@@ -3,7 +3,7 @@ name_ko: 한지아
 name_en: null
 party: null
 role: 국회의원
-status: stub
+status: curated
 aliases:
 - 한지아 의원
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 한지아
   youtube_channels: []
+  source_urls:
+  - https://ampos.nanet.go.kr/activityCongressDetail.do?congress_no=G1900009

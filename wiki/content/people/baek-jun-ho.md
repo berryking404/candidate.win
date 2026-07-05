@@ -2,7 +2,7 @@
 title: 백준호
 slug: baek-jun-ho
 role: 퓨리오사AI 대표
-status: stub
+status: curated
 ---
 
 ## 행적

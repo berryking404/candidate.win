@@ -3,7 +3,7 @@ name_ko: 차규근
 name_en: null
 party: null
 role: 조국혁신당 국회의원
-status: stub
+status: curated
 aliases:
 - 차규근
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 차규근
   youtube_channels: []
+  source_urls:
+  - https://www.assembly.go.kr/portal/assm/assmMemb/memberProfile.do?monaCd=KNP22261&st=22&tabId=sns&viewType=CONTBODY

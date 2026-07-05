@@ -3,7 +3,7 @@ name_ko: 이종탁
 name_en: null
 party: null
 role: 서울지방세무사회 회장
-status: stub
+status: curated
 aliases:
 - 서울지방세무사회 회장 이종탁
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이종탁
   youtube_channels: []
+  source_urls:
+  - https://webzine.kacta.or.kr/news/articleView.html?idxno=20582

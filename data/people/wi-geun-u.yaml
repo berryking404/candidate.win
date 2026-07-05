@@ -3,7 +3,7 @@ name_ko: 위근우
 name_en: null
 party: null
 role: 웹툰/문화 비평가
-status: stub
+status: curated
 aliases:
 - 위근우
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 위근우
   youtube_channels: []
+  source_urls:
+  - https://ch.yes24.com/Article/Details/27673

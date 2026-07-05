@@ -2,7 +2,7 @@
 title: 차규근
 slug: cha-gyu-geun
 role: 조국혁신당 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적

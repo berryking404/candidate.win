@@ -2,7 +2,7 @@
 title: 이병태
 slug: i-byeong-tae
 role: 대통령 직속 규제합리화위원회 부위원장
-status: stub
+status: curated
 ---
 
 ## 행적

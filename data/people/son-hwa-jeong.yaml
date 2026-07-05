@@ -3,7 +3,7 @@ name_ko: 손화정
 name_en: null
 party: null
 role: 영종구청장
-status: stub
+status: curated
 aliases:
 - 손화정
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 손화정
   youtube_channels: []
+  source_urls:
+  - https://www.yeongjong.go.kr/headman/content/view.do?sn=735

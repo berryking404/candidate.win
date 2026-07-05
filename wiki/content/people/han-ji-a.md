@@ -2,7 +2,7 @@
 title: 한지아
 slug: han-ji-a
 role: 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적

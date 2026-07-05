@@ -3,7 +3,7 @@ name_ko: 신승진
 name_en: null
 party: null
 role: 삼성증권 투자정보팀장
-status: stub
+status: curated
 aliases:
 - 신승진 팀장
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 신승진
   youtube_channels: []
+  source_urls:
+  - https://www.samsungpop.com/common.do?cmd=down&contentType=application/pdf&inlineYn=Y&saveKey=research.pdf&fileName=4030/2025070116503515K_02_01.pdf
