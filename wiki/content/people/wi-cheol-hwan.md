@@ -8,8 +8,7 @@ status: curated
 ## 행적
 
 <!-- agent:events -->
-- 2026-06-24: 투표용지 부족 사태 국정조사 과정에서 재선거 관련 발언을 두고 과도한 표현이었다고 사과했다. [출처](https://www.news1.kr/politics/assembly/6207438)
-- 2026-06-24: 국정조사에서 선관위 증인들의 대거 불참과 관련한 논란 속에 선관위 입장을 설명했다. [출처](https://www.idaegu.co.kr/news/articleView.html?idxno=551974)
+- 2026-07-05: 투표용지 부족 사태와 관련해 중앙선관위 조사가 진행되며 지휘부 조사 가능성이 거론됐다. [출처](https://www.newsis.com/view/NISX20260705_0003696400)
 <!-- /agent:events -->
 
 ## 이슈별 입장
