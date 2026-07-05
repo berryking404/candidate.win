@@ -130,4 +130,6 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [박선원](/people/bak-seon-won) — **지지**: 부평 소상공인 간담회에서 상권 활성화와 소상공인 지원 방안을 함께 논의했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3625923)
 - [김보라](/people/gim-bo-ra) — **지지**: 전통시장 야간 활성화 사업을 확대하고 찾아가는 복지서비스로 시민 생활권 현장 지원을 강화했다. [출처](http://www.fieldnews.kr/news/articleView.html?idxno=29731)
 - [이광재](/people/i-gwang-jae) — **지지**: 덕풍시장을 찾아 포인트·마일리지의 지역화폐 전환과 재래시장·지역상권 활성화 필요성을 언급했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3626346)
+- [김병내](/people/gim-byeong-nae) — **지지**: 소상공인 특례보증 확대, 금융 지원 강화, 남구동행카드 발행 등 지역 상권 부양책을 제시했습니다. [출처](http://www.kjdaily.com/article.php?aid=1783245068681665003)
+- [조용익](/people/jo-yong-ik) — **지지**: 소상공인이 살아나는 경제 생태계를 만들겠다고 밝히며 지역 경제 회복을 강조했습니다. [출처](https://www.kyeongin.com/article/1766767)
 <!-- /agent:stances -->
