@@ -103,5 +103,5 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [윤경희](/people/yun-gyeong-hui) — **지지**: 의료·요양 통합돌봄을 통해 빈틈없는 복지체계를 구축하겠다고 밝혔다. [출처](https://www.kbsm.net/news/view.php?idx=525465)
 - [박찬대](/people/bak-chan-dae) — **지지**: 인천시의 통합돌봄국 신설과 복지·돌봄 통합 정책 추진을 주도했다. [출처](https://www.cstimes.com/news/articleView.html?idxno=712240)
 - [김찬진](/people/gim-chan-jin) — **지지**: 치매 특화 구립요양원 건립과 24시간 아이돌봄 서비스 확대를 제시했다. [출처](https://www.viva100.com/article/20260704500209)
-
+- [백충기](/people/baek-chung-gi) — **지지**: 사회안전망 강화, 취약계층 지원, 보건·복지체계 구축을 통해 복지 확대와 대응 필요성을 강조했다. [출처](https://www.redian.org/news/articleView.html?idxno=256928)
 <!-- /agent:stances -->
