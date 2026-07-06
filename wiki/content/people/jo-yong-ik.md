@@ -2,7 +2,7 @@
 title: 조용익
 slug: jo-yong-ik
 role: 부천시장
-status: stub
+status: curated
 ---
 
 ## 행적

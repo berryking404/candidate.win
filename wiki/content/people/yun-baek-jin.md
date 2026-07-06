@@ -1,8 +1,8 @@
 ---
 title: 윤백진
 slug: yun-baek-jin
-role: 인천경제자유구역청 청장대행
-status: stub
+role: 인천경제자유구역청 차장 겸 청장대행
+status: curated
 ---
 
 ## 행적

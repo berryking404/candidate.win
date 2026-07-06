@@ -2,7 +2,7 @@
 title: 이원모
 slug: i-won-mo
 role: 전 대통령실 인사비서관
-status: stub
+status: curated
 ---
 
 ## 행적

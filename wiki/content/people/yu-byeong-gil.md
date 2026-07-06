@@ -1,8 +1,8 @@
 ---
 title: 유병길
 slug: yu-byeong-gil
-role: 산단공 강원지역본부장
-status: stub
+role: 한국산업단지공단 강원지역본부장
+status: curated
 ---
 
 ## 행적

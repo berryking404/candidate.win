@@ -1,8 +1,8 @@
 ---
 title: 김병내
 slug: gim-byeong-nae
-role: 남구청장
-status: stub
+role: 광주 남구청장
+status: curated
 ---
 
 ## 행적

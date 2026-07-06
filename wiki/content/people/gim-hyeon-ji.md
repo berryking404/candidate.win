@@ -2,7 +2,7 @@
 title: 김현지
 slug: gim-hyeon-ji
 role: MBC경남 PD
-status: stub
+status: curated
 ---
 
 ## 행적

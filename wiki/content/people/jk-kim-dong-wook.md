@@ -2,7 +2,7 @@
 title: JK김동욱
 slug: jk-kim-dong-wook
 role: 가수
-status: stub
+status: curated
 ---
 
 ## 행적

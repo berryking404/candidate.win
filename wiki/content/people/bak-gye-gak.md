@@ -2,7 +2,7 @@
 title: 박계각
 slug: bak-gye-gak
 role: 영도구 민선9기 인수위원장
-status: stub
+status: curated
 ---
 
 ## 행적

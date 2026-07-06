@@ -2,7 +2,7 @@
 title: 이수연
 slug: i-su-yeon
 role: 서울시 경제실장
-status: stub
+status: curated
 ---
 
 ## 행적

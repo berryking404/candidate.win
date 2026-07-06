@@ -1,8 +1,8 @@
 ---
 title: 김문근
 slug: gim-mun-geun
-role: 단양군수 후보
-status: stub
+role: 단양군수
+status: curated
 ---
 
 ## 행적

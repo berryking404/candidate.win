@@ -1,8 +1,8 @@
 ---
 title: 박선영
 slug: bak-seon-yeong
-role: 전 진화위원장
-status: stub
+role: 전 진실·화해를위한과거사정리위원회 위원장
+status: curated
 ---
 
 ## 행적

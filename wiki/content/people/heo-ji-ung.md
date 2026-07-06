@@ -2,7 +2,7 @@
 title: 허지웅
 slug: heo-ji-ung
 role: 작가 겸 방송인
-status: stub
+status: curated
 ---
 
 ## 행적

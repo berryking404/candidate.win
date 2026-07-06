@@ -2,7 +2,7 @@
 title: 오태석
 slug: o-tae-seok
 role: 우주항공청장
-status: stub
+status: curated
 ---
 
 ## 행적

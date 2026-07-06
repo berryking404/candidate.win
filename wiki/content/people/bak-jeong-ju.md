@@ -2,7 +2,7 @@
 title: 박정주
 slug: bak-jeong-ju
 role: 홍성군수
-status: stub
+status: curated
 ---
 
 ## 행적

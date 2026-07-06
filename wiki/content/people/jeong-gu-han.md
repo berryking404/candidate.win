@@ -1,8 +1,8 @@
 ---
 title: 정구한
 slug: jeong-gu-han
-role: 위원장
-status: stub
+role: 지역 복지단체 위원장
+status: curated
 ---
 
 ## 행적
