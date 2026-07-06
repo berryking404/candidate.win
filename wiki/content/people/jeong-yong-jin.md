@@ -9,8 +9,8 @@ party: 무소속
 ## 행적
 
 <!-- agent:events -->
-- 2026-05-18: 스타벅스 코리아의 '탱크데이' 마케팅 논란 이후 대국민 사과를 했다. [출처](https://www.hankyung.com/article/2026070193757)
-- 2026-05-18: 스타벅스 코리아 텀블러 마케팅의 역사 왜곡 논란이 커지자 공개 사과에 나섰다. [출처](https://www.press9.kr/news/articleView.html?idxno=78751)
+- 2026-05-26: 스타벅스 '탱크데이' 논란에 대해 대국민 사과문을 발표하고 재발 방지를 약속했다. [출처](https://www.yna.co.kr/view/AKR20260530046400030?input=1195m)
+- 2026-05-26: 탱크데이 논란과 관련해 상처를 끼친 점을 사과하며 수습에 나섰다. [출처](https://www.segye.com/newsView/20260608502157?OutUrl=naver)
 <!-- /agent:events -->
 
 ## 이슈별 입장
