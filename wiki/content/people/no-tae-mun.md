@@ -8,6 +8,8 @@ status: curated
 ## 행적
 
 <!-- agent:events -->
+- 2026-07-06: DX 부문 노조 관계자들과 만나 구성원들의 상대적 박탈감과 어려움에 공감하며 사기 진작과 조직 안정화 방안을 마련하겠다고 밝혔다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=310280)
+- 2026-07-06: 삼성전자 사내 주택대출의 85㎡ 이하 제한 방안을 노조와 협의해 이달 중 시행할 계획으로 전해졌다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603307&ref=A)
 <!-- /agent:events -->
 
 ## 이슈별 입장
@@ -15,4 +17,5 @@ status: curated
 <!-- agent:stances -->
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **반대**: 임직원들에게 미래 경쟁력 훼손을 막기 위해 임금협상을 신중히 해달라고 당부했다. [출처](https://woman.chosun.com/news/articleView.html?idxno=125788)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **중립**: DX부문 노조와 직접 면담하며 성과급 격차와 보상 체계를 논의했다. [출처](https://www.econovill.com/news/articleView.html?idxno=743217)
+- [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **지지**: DX 부문 직원들의 상대적 박탈감에 공감하며 사기 진작과 조직 안정화 방안을 마련하겠다고 밝혔다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=310280)
 <!-- /agent:stances -->
