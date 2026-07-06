@@ -46,6 +46,4 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [윤희근](/people/yun-hui-geun) — **중립**: 통일교 수사 무마 의혹 관련 피의자 조사에서 혐의를 전면 부인했다. [출처](https://www.khan.co.kr/article/202606231111011)
 - [원희룡](/people/won-hui-ryong) — **반대**: 양평고속도로 노선 변경 의혹과 관련한 특검 소환에 반발하며 ‘억지 부리지 말고 죄 있다면 체포하라’고 했다. [출처](https://www.newsis.com/view/NISX20260701_0003692251)
 - [김대기](/people/gim-dae-gi) — **지지**: 관저 이전 과정의 행정안전부 예산 불법 전용 지시 혐의를 부인하며 보석을 요청했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=1782982185&code=11131900&cp=nv)
-- [유경옥](/people/yu-gyeong-ok) — **미확인**: 관저 이전 의혹 관련 소환에 불출석하고 재소환 통보를 받았다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=03545686645511896)
-- [김종욱](/people/gim-jong-uk) — **미확인**: 비상계엄 가담 의혹으로 구속영장 재청구 방침이 알려졌다. [출처](https://www.news1.kr/society/court-prosecution/6218967)
 <!-- /agent:stances -->
