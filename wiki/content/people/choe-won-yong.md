@@ -9,6 +9,7 @@ status: curated
 ## 행적
 
 <!-- agent:events -->
+- 2026-07-07: 골목상권과 소상공인 지원을 주요 시정 방향으로 제시했다. [출처](https://www.kyeongin.com/article/1766915)
 <!-- /agent:events -->
 
 ## 이슈별 입장
