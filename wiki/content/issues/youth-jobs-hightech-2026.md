@@ -82,4 +82,7 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [오태석](/people/o-tae-seok) — **지지**: 영남권 우주항공·첨단산업 발전 비전에서 지역 첨단산업 육성과 청년 인재 양성을 제시했다. [출처](https://www.gnnews.co.kr/news/articleView.html?idxno=640430)
 - [윤백진](/people/yun-baek-jin) — **지지**: 경제자유구역을 글로벌 투자유치와 첨단산업 육성의 핵심 거점으로 보고 인허가·제도 개선을 요구했다. [출처](https://www.cstimes.com/news/articleView.html?idxno=712242)
 - [이수연](/people/i-su-yeon) — **지지**: 홍릉 강소특구의 바이오 혁신 창업과 기술사업화 생태계 고도화를 추진하겠다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260704022300004?input=1195m)
+- [우재준](/people/woo-jae-jun) — **반대**: 청년 실업률과 주거비 부담이 최고 수준이라고 지적하며 정부의 청년정책에 더 강한 책임 있는 대응을 요구했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=04332886645512224)
+- [박홍근](/people/bak-hong-geun) — **지지**: 청년에 공정한 기회와 회복 사다리를 만드는 것이 국가 책무라고 강조하며 청년 고용 해법을 주문했다. [출처](https://biz.heraldcorp.com/article/10801083?ref=naver)
+- [박윤희](/people/bak-yun-hui) — **지지**: AI를 행정혁신과 취업교육에 연결해 시민 일자리와 직업교육 성과를 높이고 있다고 밝혔다. [출처](https://www.bzeronews.com/news/articleView.html?idxno=819733)
 <!-- /agent:stances -->
