@@ -3,7 +3,7 @@ name_ko: 강철아
 name_en: null
 party: null
 role: 국가인권위원회 제주출장소장
-status: stub
+status: curated
 aliases:
 - 강철아 소장
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 강철아
   youtube_channels: []
+  source_urls:
+  - https://www.humanrights.go.kr/base/board/read?boardManagementNo=24&boardNo=7612041&searchCategory=&page=1&searchType=&searchWord=&menuLevel=3&menuNo=

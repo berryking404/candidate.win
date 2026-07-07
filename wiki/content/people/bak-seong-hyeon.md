@@ -1,8 +1,8 @@
 ---
 title: 박성현
 slug: bak-seong-hyeon
-role: 시장
-status: stub
+role: 광양시장
+status: curated
 ---
 
 ## 행적

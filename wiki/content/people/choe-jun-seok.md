@@ -1,8 +1,8 @@
 ---
 title: 최준석
 slug: choe-jun-seok
-role: 국가인권위원회 성차별시정과 조사관
-status: stub
+role: 국가인권위원회 성차별시정과 사무관
+status: curated
 ---
 
 ## 행적

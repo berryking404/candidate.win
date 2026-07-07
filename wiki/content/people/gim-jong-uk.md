@@ -2,7 +2,7 @@
 title: 김종욱
 slug: gim-jong-uk
 role: 전 해양경찰청장
-status: stub
+status: curated
 ---
 
 ## 행적

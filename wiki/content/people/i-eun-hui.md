@@ -1,8 +1,8 @@
 ---
 title: 이은희
 slug: i-eun-hui
-role: 인하대 교수
-status: stub
+role: 인하대 소비자학과 명예교수
+status: curated
 ---
 
 ## 행적

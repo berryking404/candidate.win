@@ -1,8 +1,8 @@
 ---
 title: 송영훈
 slug: song-yeong-hun
-role: 제주자치도의회 의장
-status: stub
+role: 제주특별자치도의회 의장
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 임지락
 slug: im-ji-rak
 role: 화순군수
-status: stub
+status: curated
 ---
 
 ## 행적

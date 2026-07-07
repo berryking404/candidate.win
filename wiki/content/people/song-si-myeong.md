@@ -2,7 +2,7 @@
 title: 송시명
 slug: song-si-myeong
 role: 한국수자원공사 예방감사부장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -3,7 +3,7 @@ name_ko: 백충기
 name_en: null
 party: null
 role: BNK경영연구원 선임연구위원
-status: stub
+status: curated
 aliases:
 - 백충기 선임연구위원
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 백충기
   youtube_channels: []
+  source_urls:
+  - https://www.ziksir.com/news/articleView.html?idxno=139229

@@ -3,7 +3,7 @@ name_ko: 임지락
 name_en: null
 party: null
 role: 화순군수
-status: stub
+status: curated
 aliases:
 - 임지락 화순군수
 discovered_via_issue: energy-price-inflation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 임지락
   youtube_channels: []
+  source_urls:
+  - https://honammaeil.com/news/view.php?idx=852190

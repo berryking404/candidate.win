@@ -2,7 +2,7 @@
 title: 강철아
 slug: gang-cheol-a
 role: 국가인권위원회 제주출장소장
-status: stub
+status: curated
 ---
 
 ## 행적

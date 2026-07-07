@@ -2,8 +2,8 @@ slug: song-yeong-hun
 name_ko: 송영훈
 name_en: null
 party: null
-role: 제주자치도의회 의장
-status: stub
+role: 제주특별자치도의회 의장
+status: curated
 aliases:
 - 송영훈 의장
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 송영훈
   youtube_channels: []
+  source_urls:
+  - https://www.council.jeju.kr/member/11d_syh/introduce.do

@@ -2,7 +2,7 @@
 title: 백충기
 slug: baek-chung-gi
 role: BNK경영연구원 선임연구위원
-status: stub
+status: curated
 ---
 
 ## 행적
