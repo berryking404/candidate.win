@@ -9,7 +9,7 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
-- 2026-07-07: 지역화폐 1조 원 발행을 지속 추진해 골목상권과 소상공인을 지원하겠다고 밝혔다. [출처](https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028224)
+- 2026-05-08: 치매전문 종합병원과 요양시설 설립을 추진해 화성형 치매 돌봄 서비스를 강화하겠다고 밝혔다. [출처](http://www.paxetv.com/news/articleView.html?idxno=271584)
 <!-- /agent:events -->
 
 ## 이슈별 입장

@@ -14,4 +14,5 @@ status: stub
 ## 이슈별 입장
 
 <!-- agent:stances -->
+- [지역 상권 회복과 소상공인 지원 (2026)](/issues/local-commerce-recovery-2026) — **지지**: 소상공인들의 어려움을 언급하며 지역경제 활성화와 다양한 지원 정책을 추진하겠다고 밝혔다. [출처](https://www.ksmnews.co.kr/news/view.php?idx=612455)
 <!-- /agent:stances -->

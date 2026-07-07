@@ -14,4 +14,5 @@ status: stub
 ## 이슈별 입장
 
 <!-- agent:stances -->
+- [지역 상권 회복과 소상공인 지원 (2026)](/issues/local-commerce-recovery-2026) — **지지**: 소상공인 지원 조례를 통해 지역 내 소비 촉진을 뒷받침하겠다고 밝혔다. [출처](https://view.asiae.co.kr/article/2026070719064297285)
 <!-- /agent:stances -->

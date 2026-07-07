@@ -48,8 +48,4 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [위근우](/people/wi-geun-u) — **중립**: 웹툰을 둘러싼 혐오, 젠더 갈등, 플랫폼 권력, 독자 소비자 운동을 함께 읽는 비평을 소개했다. [출처](https://www.asiae.co.kr/article/2026070213344605579)
 - [김현지](/people/gim-hyeon-ji) — **반대**: 여성 리더를 서포터로만 보는 성차별 인식과 온라인 성차별 표현이 여전히 심각하다는 문제의식을 드러냈다. [출처](https://www.kyeongin.com/article/1766796)
 - [김현지](/people/gim-hyeon-ji) — **지지**: 혐오 표현의 뿌리를 인식했을 때 사용을 멈추는 선택이 중요하다고 밝혔다. [출처](https://www.newsis.com/view/NISX20260706_0003697789)
-- [이한](/people/i-han) — **중립**: 청년 남성과 젠더를 주제로 대화를 기획하며 조롱보다 너그러움과 소통의 필요성을 강조했다. [출처](https://www.khan.co.kr/article/202607072109005)
-- [무수](/people/mu-su) — **중립**: 청년 남성과 젠더를 주제로 대화를 기획하며 조롱보다 너그러움과 소통의 필요성을 강조했다. [출처](https://www.khan.co.kr/article/202607072109005)
-- [김계연](/people/gim-gye-yeon) — **중립**: 독일 네오나치의 성별 변경 사례를 전하며 성별·혐오·수감 이슈를 사실 위주로 보도했다. [출처](https://www.yna.co.kr/view/AKR20260707172500082?input=1195m)
-- [이진영](/people/i-jin-yeong) — **중립**: 혐오 표현 처벌 법안과 온라인 혐오 확산 문제를 다루는 칼럼을 썼다. [출처](https://www.donga.com/news/Opinion/article/all/20260707/134254858/2)
 <!-- /agent:stances -->
