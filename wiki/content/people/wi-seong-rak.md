@@ -19,4 +19,5 @@ party: 더불어민주당
 - [한미 정보공유 중단 및 정동영 통일부 장관 해임 결의안 논란 (2026)](/issues/us-intel-sharing-crisis-2026) — **중립**: 미국의 대북 정보 공유 제한을 완화하려 노력 중이라고 밝혔고, 전반적 정보 교류에는 큰 문제가 없다는 취지로 말했다. [출처](https://www.yna.co.kr/view/AKR20260513156400001?input=1195m)
 - [전시작전통제권(전작권) 전환 추진과 안보 논쟁 (2026)](/issues/opcon-transfer-2026) — **중립**: 전작권 전환은 군사기술 검증만이 아니라 최고 지도부가 판단할 정치·안보 의제라는 취지로, 2026년 하반기 로드맵 수립과 FOC 검증의 연계를 언급했다. [출처](https://www.pennmike.com/news/articleView.html?idxno=120561)
 - [전시작전통제권(전작권) 전환 추진과 안보 논쟁 (2026)](/issues/opcon-transfer-2026) — **지지**: 올해 전작권 회복 로드맵 완성과 FOC 검증 완료를 추진하고 있다고 밝혔다. [출처](https://www.etnews.com/20260513000387)
+- [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **지지**: 한일 ACSA가 군수·방산 협력과 조달 절차를 제도화해 한국 군수품의 안정적 조달 여건을 높일 수 있다고 밝혔다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=1783501278&code=11121600&cp=nv)
 <!-- /agent:stances -->
