@@ -47,4 +47,9 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [김건희](/people/gim-geon-hui) — **중립**: 특검 수사 과정에서 찾지 못했던 바쉐론콘스탄틴 시계를 자택에 보관 중이라는 의견서를 법원에 제출했다. [출처](https://www.ytn.co.kr/_ln/0103_202607012106480963)
 - [박정훈](/people/bak-jeong-hun) — **지지**: 채상병 순직 사건의 초동 수사를 지휘하며 VIP 격노설 등 부당한 외압이 있었다고 폭로했다. [출처](https://www.hankyung.com/article/202607019305i)
 - [오세훈](/people/o-se-hun) — **지지**: 윤석열 전 대통령의 잘못된 판단을 비판하면서도 특검 공세를 정치적 카드로 과도하게 쓰면 안 된다고 말했다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260704020151004?input=1195m)
+- [추경호](/people/chu-gyeong-ho) — **반대**: 계엄 해제 표결을 방해했다는 특검 수사 대상이며, 윤석열 전 대통령 측 협조 요청 뒤 의총 장소를 여러 차례 바꿨다는 의혹이 제기됐다. [출처](https://www.mk.co.kr/article/12093814)
+- [안철수](/people/an-cheol-su) — **중립**: 추경호 재판에서 계엄 해제 방해의 주체를 당이 아닌 경찰로 설명하며, 계엄 당시 대응 과정을 증언했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605442&ref=A)
+- [장동혁](/people/jang-dong-hyeok) — **반대**: 특검 임명·사전투표 제도 폐지 등을 주장하는 등 윤석열식 국정 운영을 닮았다는 비판을 받았다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1267343.html)
+- [김태효](/people/gim-tae-hyo) — **반대**: 우방국에 윤석열 정부의 계엄을 정당화하는 메시지를 보낸 혐의로 특검 수사와 구속영장 청구 대상이 됐다. [출처](https://www.hankyung.com/article/2026070831597)
+- [조경태](/people/jo-gyeong-tae) — **지지**: 윤석열 전 대통령과 장동혁 대표를 강하게 비판하며 특검·사법 판단을 존중하는 쪽으로 기울었다. [출처](https://www.newsis.com/view/NISX20260708_0003701258)
 <!-- /agent:stances -->
