@@ -110,4 +110,6 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [박승원](/people/bak-seung-won) — **지지**: 저출생·고독사 대응을 위해 주거·돌봄·교육·일자리와 복지 사각지대 해소를 아우르는 생애주기별 안전망 강화를 강조했다. [출처](https://www.newspim.com/news/view/20260708000337)
 - [박완수](/people/bak-wan-su) — **중립**: 도정 청사진에서 체감형 복지와 행정혁신을 제시했지만, 사회안전망·고령화 대응에 대한 직접 입장은 기사에서 확인되지 않았다. [출처](https://www.sidae.com/article/2026070815472894473)
 - [윤호중](/people/yun-ho-jung) — **중립**: 사회연대경제 활성화 협약과 재난·디지털 행정 점검을 수행했지만, 이슈에 대한 직접적인 찬반 발언은 드러나지 않았다. [출처](https://www.kbmaeil.com/article/20260708500660)
+- [최교진](/people/pending) — **반대**: 교육 재정 연동 폐지에 반대하며 사회가 합의한 안전망의 유지 필요성을 강조했다. [출처](https://www.hankyung.com/article/2026070835891)
+- [정은경](/people/pending) — **지지**: 복지 사각지대 취약계층 보호를 위해 사회보장 전산관리번호 제도 개편의 필요성을 밝혔다. [출처](https://www.jnilbo.com/news/articleView.html?idxno=90000048707)
 <!-- /agent:stances -->
