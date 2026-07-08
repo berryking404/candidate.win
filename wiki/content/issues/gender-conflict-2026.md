@@ -48,4 +48,9 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [위근우](/people/wi-geun-u) — **중립**: 웹툰을 둘러싼 혐오, 젠더 갈등, 플랫폼 권력, 독자 소비자 운동을 함께 읽는 비평을 소개했다. [출처](https://www.asiae.co.kr/article/2026070213344605579)
 - [김현지](/people/gim-hyeon-ji) — **반대**: 여성 리더를 서포터로만 보는 성차별 인식과 온라인 성차별 표현이 여전히 심각하다는 문제의식을 드러냈다. [출처](https://www.kyeongin.com/article/1766796)
 - [김현지](/people/gim-hyeon-ji) — **지지**: 혐오 표현의 뿌리를 인식했을 때 사용을 멈추는 선택이 중요하다고 밝혔다. [출처](https://www.newsis.com/view/NISX20260706_0003697789)
+- [전국공무원노동조합](/people/jeongongno) — **지지**: 선관위의 여성 점수 감점·남성 합격 채용을 구조적 성차별로 규정하고 엄벌을 촉구했다. [출처](https://vop.co.kr/A00001695739.html)
+- [앤서니 앨버니지](/people/anthony-albanese) — **중립**: 코미디 팟캐스트 발언이 성차별 논란을 낳자 공개 사과했다. [출처](https://www.donga.com/news/Inter/article/all/20260708/134257187/2)
+- [타냐 플리버섹](/people/tanya-plibersek) — **지지**: 총리가 성차별적이라는 점을 지적하는 모범을 보였어야 한다고 비판했다. [출처](https://www.donga.com/news/Inter/article/all/20260708/134257187/2)
+- [민주당 전국여성위원회](/people/minjudang-jeongukyeoseongwiwonhoe) — **지지**: 합성음란물 사건을 심각한 여성혐오 폭력으로 규정하며 당 차원의 제명·고발 조치를 요구했다. [출처](https://www.khan.co.kr/article/202607081551001)
+- [김현지](/people/kim-hyeonji) — **미확인**: 여성 아이돌과 PD가 주고받은 표현을 두고 혐오 표현의 뿌리를 짚으며 문제의식을 제기했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008647935&plink=ORI&cooper=NAVER)
 <!-- /agent:stances -->
