@@ -88,9 +88,6 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [이진선](/people/i-jin-seon) — **지지**: 청년 창업가와 지역 자원을 연결해 새로운 창업 기회를 만들자고 밝혔다. [출처](https://www.mhns.co.kr/news/articleView.html?idxno=752792)
 - [이정학](/people/i-jeong-hak) — **지지**: 청년층 이탈을 막기 위해 양질의 일자리를 제공할 기업 유치를 최우선 과제로 제시했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605569&ref=A)
 - [이봉수](/people/i-bong-su) — **지지**: 산업단지의 인재 유입을 위해 정주여건 개선이 필요하다고 강조했다. [출처](http://www.kwangju.co.kr/article.php?aid=1783512000801061277)
-- [최정호](/people/choe-jeong-ho) — **지지**: 반도체·AI 산업 육성과 광역교통망 구축을 통해 일자리를 늘리겠다고 밝혔다. [출처](https://jtv.co.kr/news/article.php?id=70010)
-- [스태츠칩팩코리아](/people/__) — **지지**: 반도체 인재 양성 협약으로 청년에게 양질의 일자리와 글로벌 진출 기회를 넓히겠다고 밝혔다. [출처](http://www.metroseoul.co.kr/article/20260708500517)
-- [김윤덕](/people/__) — **지지**: 전북 KB금융타운을 통한 청년·혁신기업 지원과 지역 일자리 창출 계획을 소개했다. [출처](http://www.newsian.co.kr/news/articleView.html?idxno=91981)
-- [대전시·대전교육청](/people/__) — **지지**: 반도체·로봇 등 전략산업 맞춤형 인재를 키워 지역 취업으로 연결하는 직업교육 혁신지구를 추진한다. [출처](https://tjmbc.co.kr/NewsArticle/849950)
+- [김윤덕](/people/gim-yun-deok) — **지지**: 전북 KB금융타운을 통한 청년·혁신기업 지원과 지역 일자리 창출 계획을 소개했다. [출처](http://www.newsian.co.kr/news/articleView.html?idxno=91981)
 - [우상호](/people/u-sang-ho) — **지지**: 청년 일자리 확대와 지역 정착을 선순환 구조의 핵심으로 언급했다. [출처](https://www.kado.net/news/articleView.html?idxno=2060289)
 <!-- /agent:stances -->

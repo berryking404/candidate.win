@@ -104,12 +104,7 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [박찬대](/people/bak-chan-dae) — **지지**: 인천시의 통합돌봄국 신설과 복지·돌봄 통합 정책 추진을 주도했다. [출처](https://www.cstimes.com/news/articleView.html?idxno=712240)
 - [김찬진](/people/gim-chan-jin) — **지지**: 치매 특화 구립요양원 건립과 24시간 아이돌봄 서비스 확대를 제시했다. [출처](https://www.viva100.com/article/20260704500209)
 - [백충기](/people/baek-chung-gi) — **지지**: 사회안전망 강화, 취약계층 지원, 보건·복지체계 구축을 통해 복지 확대와 대응 필요성을 강조했다. [출처](https://www.redian.org/news/articleView.html?idxno=256928)
-- [정은경](/people/jeong-eun-gyeong) — **중립**: 사회보장 전산관리번호 개편과 일차의료 혁신 시범사업을 추진했지만, 기사에서 이 이슈 전반에 대한 명시적 찬반 입장은 확인되지 않았다. [출처](https://www.tvchosun.com/site/data/html_dir/2026/07/08/2026070890252.html)
 - [김진오](/people/gim-jin-o) — **혼합**: 저출산·고령화 대응과 구조개혁형 인구전략을 강조했지만, 노인 무임승차와 혼외출산 논의처럼 복지·세대 쟁점에서 논쟁적 입장도 드러냈다. [출처](https://www.hani.co.kr/arti/society/health/1267357.html)
 - [오세현](/people/o-se-hyeon) — **지지**: 통합돌봄 사업의 핵심 협력자로 이·통장의 참여를 요청하며 지역 돌봄 안전망 강화에 적극적이었다. [출처](https://www.ccdn.co.kr/news/articleView.html?idxno=1087333)
 - [박승원](/people/bak-seung-won) — **지지**: 저출생·고독사 대응을 위해 주거·돌봄·교육·일자리와 복지 사각지대 해소를 아우르는 생애주기별 안전망 강화를 강조했다. [출처](https://www.newspim.com/news/view/20260708000337)
-- [박완수](/people/bak-wan-su) — **중립**: 도정 청사진에서 체감형 복지와 행정혁신을 제시했지만, 사회안전망·고령화 대응에 대한 직접 입장은 기사에서 확인되지 않았다. [출처](https://www.sidae.com/article/2026070815472894473)
-- [윤호중](/people/yun-ho-jung) — **중립**: 사회연대경제 활성화 협약과 재난·디지털 행정 점검을 수행했지만, 이슈에 대한 직접적인 찬반 발언은 드러나지 않았다. [출처](https://www.kbmaeil.com/article/20260708500660)
-- [최교진](/people/pending) — **반대**: 교육 재정 연동 폐지에 반대하며 사회가 합의한 안전망의 유지 필요성을 강조했다. [출처](https://www.hankyung.com/article/2026070835891)
-- [정은경](/people/pending) — **지지**: 복지 사각지대 취약계층 보호를 위해 사회보장 전산관리번호 제도 개편의 필요성을 밝혔다. [출처](https://www.jnilbo.com/news/articleView.html?idxno=90000048707)
 <!-- /agent:stances -->

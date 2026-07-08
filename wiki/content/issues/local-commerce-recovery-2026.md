@@ -142,6 +142,4 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [김태욱](/people/gim-tae-uk) — **지지**: 전통시장 상권 회복과 재개발 사업의 성공 추진에 힘쓰겠다고 밝혔다. [출처](https://www.news1.kr/local/ulsan/6220633)
 - [박호석](/people/bak-ho-seok) — **지지**: 지역경제와 소상공인 등 민생 분야에서 실효성 있는 정책 대안을 마련하겠다고 말했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=736338)
 - [김장호](/people/gim-jang-ho) — **지지**: 골목경제 활성화와 소상공인 지원에 기여한 시민들을 표창하며 지역경제 회복을 강조했다. [출처](http://www.hansbiz.co.kr/news/articleView.html?idxno=848849)
-- [박주언](/people/park-unknown) — **중립**: 유동인구가 늘었지만 매출 회복이 더디다는 취지로 골목상권 회복의 한계를 짚었다. [출처](https://news.ifm.kr/news/articleView.html?idxno=474599)
-- [박혜원](/people/park-unknown) — **지지**: 지역상권 육성과 민생소비 지원을 포함한 지역경제 회복 공약을 제시했다. [출처](http://www.cctimes.kr/news/articleView.html?idxno=915720)
 <!-- /agent:stances -->
