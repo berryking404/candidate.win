@@ -84,4 +84,8 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [이수연](/people/i-su-yeon) — **지지**: 홍릉 강소특구의 바이오 혁신 창업과 기술사업화 생태계 고도화를 추진하겠다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260704022300004?input=1195m)
 - [우재준](/people/u-jae-jun) — **반대**: 청년 실업률과 주거비 부담이 최고 수준이라고 지적하며 정부의 청년정책에 더 강한 책임 있는 대응을 요구했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=04332886645512224)
 - [박홍근](/people/bak-hong-geun) — **지지**: 청년에 공정한 기회와 회복 사다리를 만드는 것이 국가 책무라고 강조하며 청년 고용 해법을 주문했다. [출처](https://biz.heraldcorp.com/article/10801083?ref=naver)
+- [백성현](/people/baek-seong-hyeon) — **지지**: 기업·연구기관 유치와 지역인재 우선 채용을 통해 양질의 일자리 창출과 청년 정착을 강조했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1168328)
+- [이진선](/people/i-jin-seon) — **지지**: 청년 창업가와 지역 자원을 연결해 새로운 창업 기회를 만들자고 밝혔다. [출처](https://www.mhns.co.kr/news/articleView.html?idxno=752792)
+- [이정학](/people/i-jeong-hak) — **지지**: 청년층 이탈을 막기 위해 양질의 일자리를 제공할 기업 유치를 최우선 과제로 제시했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605569&ref=A)
+- [이봉수](/people/i-bong-su) — **지지**: 산업단지의 인재 유입을 위해 정주여건 개선이 필요하다고 강조했다. [출처](http://www.kwangju.co.kr/article.php?aid=1783512000801061277)
 <!-- /agent:stances -->
