@@ -3,7 +3,7 @@ name_ko: 김정중
 name_en: null
 party: null
 role: 양양군수
-status: stub
+status: curated
 aliases:
 - 김정중
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,6 @@ sources:
   news_keywords:
   - 김정중
   youtube_channels: []
+  source_urls:
+  - https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604450&ref=A
+  - https://www.yna.co.kr/view/AKR20260702114000062

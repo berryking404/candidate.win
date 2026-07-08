@@ -2,7 +2,7 @@
 title: 김재겸
 slug: gim-jae-gyeom
 role: 대구 남구의회 의장
-status: stub
+status: curated
 ---
 
 ## 행적

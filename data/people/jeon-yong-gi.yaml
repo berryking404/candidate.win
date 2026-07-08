@@ -3,7 +3,7 @@ name_ko: 전용기
 name_en: null
 party: null
 role: 더불어민주당 의원
-status: stub
+status: curated
 aliases:
 - 전용기 의원
 discovered_via_issue: election-commission-management-controversy-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 전용기
   youtube_channels: []
+  source_urls:
+  - https://www.newsis.com/view/NISX20260707_0003699745

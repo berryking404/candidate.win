@@ -2,7 +2,7 @@
 title: 최정욱
 slug: choe-jeong-uk
 role: 완도군의회 의장
-status: stub
+status: curated
 ---
 
 ## 행적

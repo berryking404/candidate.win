@@ -2,7 +2,7 @@
 title: 전용기
 slug: jeon-yong-gi
 role: 더불어민주당 의원
-status: stub
+status: curated
 ---
 
 ## 행적

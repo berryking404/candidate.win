@@ -2,7 +2,7 @@
 title: 박호석
 slug: bak-ho-seok
 role: 청도군의회 산업경제위원장
-status: stub
+status: curated
 ---
 
 ## 행적

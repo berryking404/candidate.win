@@ -2,7 +2,7 @@
 title: 김정중
 slug: gim-jeong-jung
 role: 양양군수
-status: stub
+status: curated
 ---
 
 ## 행적

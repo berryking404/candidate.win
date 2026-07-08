@@ -2,7 +2,7 @@
 title: 유경옥
 slug: yu-gyeong-ok
 role: 전 대통령실 행정관
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 김경호
 slug: gim-gyeong-ho
 role: 광진구청장
-status: stub
+status: curated
 ---
 
 ## 행적

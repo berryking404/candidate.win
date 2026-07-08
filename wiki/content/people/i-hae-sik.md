@@ -2,7 +2,7 @@
 title: 이해식
 slug: i-hae-sik
 role: 더불어민주당 의원
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -3,7 +3,7 @@ name_ko: 김재겸
 name_en: null
 party: null
 role: 대구 남구의회 의장
-status: stub
+status: curated
 aliases:
 - 김재겸
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김재겸
   youtube_channels: []
+  source_urls:
+  - https://www.ksmnews.co.kr/news/view.php?idx=612455

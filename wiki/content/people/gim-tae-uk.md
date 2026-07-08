@@ -2,7 +2,7 @@
 title: 김태욱
 slug: gim-tae-uk
 role: 울산 중구의회 의장
-status: stub
+status: curated
 ---
 
 ## 행적
