@@ -1,0 +1,14 @@
+slug: i-ran
+name_ko: 이란
+name_en: null
+party: null
+role: 국가
+status: stub
+aliases:
+- 이란
+discovered_via_issue: hormuz-blockade-us-reduction-2026
+discovered_at: '2026-07-09'
+sources:
+  news_keywords:
+  - 이란
+  youtube_channels: []
