@@ -18,4 +18,5 @@ party: 더불어민주당
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **반대**: 보수 진영 단일화는 정치적 싸움만 키운다며 단일화에 부정적 입장을 밝혔다. [출처](https://www.newsis.com/view/NISX20260522_0003641698)
 - [지역 상권 회복과 소상공인 지원 (2026)](/issues/local-commerce-recovery-2026) — **지지**: 구포시장에 AI를 접목해 전통시장과 지역 상권의 활력을 되찾겠다고 말했다. [출처](https://www.yna.co.kr/view/AKR20260513045700051?input=1195m)
 - [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **지지**: 노무현의 꿈을 부산에서 이어가겠다며 지역주의 타파와 균형발전 실현 의지를 밝혔다. [출처](https://www.munhwa.com/article/11590924?ref=naver)
+- [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 울산을 AI 실증 허브로 키우고 중소기업 AX와 지역 대학 연계를 통해 청년의 지역 취업을 확산하자고 밝혔다. [출처](https://www.iusm.co.kr/news/articleView.html?idxno=1065202)
 <!-- /agent:stances -->

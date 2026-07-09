@@ -90,4 +90,8 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [이봉수](/people/i-bong-su) — **지지**: 산업단지의 인재 유입을 위해 정주여건 개선이 필요하다고 강조했다. [출처](http://www.kwangju.co.kr/article.php?aid=1783512000801061277)
 - [김윤덕](/people/gim-yun-deok) — **지지**: 전북 KB금융타운을 통한 청년·혁신기업 지원과 지역 일자리 창출 계획을 소개했다. [출처](http://www.newsian.co.kr/news/articleView.html?idxno=91981)
 - [우상호](/people/u-sang-ho) — **지지**: 청년 일자리 확대와 지역 정착을 선순환 구조의 핵심으로 언급했다. [출처](https://www.kado.net/news/articleView.html?idxno=2060289)
+- [하정우](/people/ha-jeong-u) — **지지**: 울산을 AI 실증 허브로 키우고 중소기업 AX와 지역 대학 연계를 통해 청년의 지역 취업을 확산하자고 밝혔다. [출처](https://www.iusm.co.kr/news/articleView.html?idxno=1065202)
+- [김장호](/people/gim-jang-ho) — **지지**: 구미 첫 일반산업단지 조성을 첨단산업 거점과 지역 산업 경쟁력 강화의 전환점으로 평가했다. [출처](https://www.hankyung.com/article/202607096555h)
+- [한덕재](/people/han-deok-jae) — **지지**: 청년들이 일자리와 주거 걱정 없이 정착할 수 있는 기반을 만들어야 한다고 밝혔다. [출처](https://www.incheonilbo.com/news/articleView.html?idxno=1327004)
+- [민복기](/people/min-bok-gi) — **지지**: 체류형 의료관광 확대와 글로벌 의료 인재 유치가 지역 산업과 일자리 기반에 도움이 된다고 언급했다. [출처](https://www.dynews.co.kr/news/articleView.html?idxno=857499)
 <!-- /agent:stances -->
