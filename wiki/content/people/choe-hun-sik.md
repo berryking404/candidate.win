@@ -14,4 +14,5 @@ status: stub
 ## 이슈별 입장
 
 <!-- agent:stances -->
+- [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **지지**: 인구감소와 고령화, 청년 유출을 지방소멸 위기의 현실로 진단하고 정주·생활 기반 확충을 통한 대응을 강조했다. [출처](https://view.asiae.co.kr/article/2026070918132817165)
 <!-- /agent:stances -->

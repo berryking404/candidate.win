@@ -23,4 +23,5 @@ party: 국민의힘
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **중립**: 대구시장 선거에서 공천 갈등이 선거 판세를 좌우하는 변수로 거론됐다. [출처](https://www.hankyung.com/article/202605296714i)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 정치 싸움보다 경제와 민생을 우선해야 한다며 대구 경제와 시민 삶을 살리는 데 집중하겠다고 말했다. [출처](https://www.cnbnews.com/news/articleView.html?idxno=1003422)
 - [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: AI 인재와 청년 일자리, 대학 혁신을 아우르는 성장전략을 검토하고 있다고 밝혔다. [출처](https://www.naeil.com/news/read/593331?ref=naver)
+- [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **지지**: 지역경제 회복을 위해 산업구조 전환과 구조 개혁, 지역균형발전 재정 확대가 병행돼야 한다는 입장을 밝혔다. [출처](https://www.seoul.co.kr/news/politics/2026/07/09/20260709500290?wlog_tag3=naver)
 <!-- /agent:stances -->
