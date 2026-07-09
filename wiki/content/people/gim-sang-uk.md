@@ -9,7 +9,7 @@ party: 국민의힘
 ## 행적
 
 <!-- agent:events -->
-- 2026-06-13: 다른 지역의 소상공인 지원 조례를 참고해 상권 공실 문제 해결책을 시의회와 모색하겠다고 했다. [출처](https://www.news1.kr/local/ulsan/6196322)
+- 2026-07-09: 울산형 보육 모델과 통합 돌봄 시행, 공공의료 인프라 확충을 복지·안전망 과제로 제시했다. [출처](https://www.iusm.co.kr/news/articleView.html?idxno=1065199)
 <!-- /agent:events -->
 
 ## 이슈별 입장

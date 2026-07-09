@@ -107,4 +107,10 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [김진오](/people/gim-jin-o) — **혼합**: 저출산·고령화 대응과 구조개혁형 인구전략을 강조했지만, 노인 무임승차와 혼외출산 논의처럼 복지·세대 쟁점에서 논쟁적 입장도 드러냈다. [출처](https://www.hani.co.kr/arti/society/health/1267357.html)
 - [오세현](/people/o-se-hyeon) — **지지**: 통합돌봄 사업의 핵심 협력자로 이·통장의 참여를 요청하며 지역 돌봄 안전망 강화에 적극적이었다. [출처](https://www.ccdn.co.kr/news/articleView.html?idxno=1087333)
 - [박승원](/people/bak-seung-won) — **지지**: 저출생·고독사 대응을 위해 주거·돌봄·교육·일자리와 복지 사각지대 해소를 아우르는 생애주기별 안전망 강화를 강조했다. [출처](https://www.newspim.com/news/view/20260708000337)
+- [양옥석](/people/yang-ok-seok) — **지지**: 최저임금 논의에서 근로장려금과 생활안정 지원 등 정부 사회안전망의 뒷받침을 요구했다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260709010003733)
+- [주영은](/people/ju-yeong-eun) — **지지**: 청소년이 도움을 요청할 수 있는 기관과 사회적 안전망의 의미를 강조했다. [출처](https://www.safetynews.co.kr/news/articleView.html?idxno=249479)
+- [김혜순](/people/gim-hye-sun) — **지지**: 저출생과 고령화 등 인구구조 변화에 대응하는 정책 방향을 제시하겠다고 밝혔다. [출처](https://www.kyeonggi.com/article/20260709580529)
+- [김상욱](/people/gim-sang-uk) — **지지**: 울산형 보육 모델과 통합 돌봄 시행, 공공의료 인프라 확충을 복지·안전망 과제로 제시했다. [출처](https://www.iusm.co.kr/news/articleView.html?idxno=1065199)
+- [전재수](/people/jeon-jae-su) — **지지**: 통합돌봄을 위한 조직 개편과 공공병원화, 재난·행정 분야 AI 도입을 주문했다. [출처](https://www.yna.co.kr/view/AKR20260709187800051?input=1195m)
+- [성남시 관계자](/people/) — **지지**: 돌봄 공백을 줄이기 위해 지역사회 통합돌봄 체계를 지속 강화하겠다고 밝혔다. [출처](https://www.mt.co.kr/policy/2026/07/09/2026070916544378134)
 <!-- /agent:stances -->

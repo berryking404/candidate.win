@@ -9,6 +9,7 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
+- 2026-07-09: 통합돌봄을 위한 조직 개편과 공공병원화, 재난·행정 분야 AI 도입을 주문했다. [출처](https://www.yna.co.kr/view/AKR20260709187800051?input=1195m)
 <!-- /agent:events -->
 
 ## 이슈별 입장
@@ -21,4 +22,5 @@ party: 더불어민주당
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **지지**: 부산시장 선거에서 보수 진영 단일화가 판세 변수로 작동하는 국면에 놓였다. [출처](https://www.naeil.com/news/read/589527?ref=naver)
 - [물가 안정과 에너지 요금 부담 (2026)](/issues/energy-price-inflation-2026) — **중립**: 원전 인근 지역 혜택과 기업 지원을 위해 지역 전기요금 차등제와 전력 인프라 개선을 추진하겠다고 밝혔다. [출처](https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260623.22002006440)
 - [지역 상권 회복과 소상공인 지원 (2026)](/issues/local-commerce-recovery-2026) — **지지**: 서민금융 복합지원센터 개소를 계기로 금융과 복지의 문턱을 낮추고 서민과 소상공인 현장 지원을 강화하겠다고 말했다. [출처](http://www.paxetv.com/news/articleView.html?idxno=276395)
+- [사회안전망 강화와 고령화 대응 (2026)](/issues/social-safety-net-aging-2026) — **지지**: 통합돌봄을 위한 조직 개편과 공공병원화, 재난·행정 분야 AI 도입을 주문했다. [출처](https://www.yna.co.kr/view/AKR20260709187800051?input=1195m)
 <!-- /agent:stances -->
