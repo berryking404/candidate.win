@@ -112,5 +112,4 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [김혜순](/people/gim-hye-sun) — **지지**: 저출생과 고령화 등 인구구조 변화에 대응하는 정책 방향을 제시하겠다고 밝혔다. [출처](https://www.kyeonggi.com/article/20260709580529)
 - [김상욱](/people/gim-sang-uk) — **지지**: 울산형 보육 모델과 통합 돌봄 시행, 공공의료 인프라 확충을 복지·안전망 과제로 제시했다. [출처](https://www.iusm.co.kr/news/articleView.html?idxno=1065199)
 - [전재수](/people/jeon-jae-su) — **지지**: 통합돌봄을 위한 조직 개편과 공공병원화, 재난·행정 분야 AI 도입을 주문했다. [출처](https://www.yna.co.kr/view/AKR20260709187800051?input=1195m)
-- [성남시 관계자](/people/) — **지지**: 돌봄 공백을 줄이기 위해 지역사회 통합돌봄 체계를 지속 강화하겠다고 밝혔다. [출처](https://www.mt.co.kr/policy/2026/07/09/2026070916544378134)
 <!-- /agent:stances -->
