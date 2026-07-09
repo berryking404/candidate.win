@@ -9,6 +9,7 @@ party: 무소속
 ## 행적
 
 <!-- agent:events -->
+- 2026-07-09: 교육예산을 미래 투자로 보고 인구 감소 시대의 지방소멸 대응 핵심을 교육 투자로 제시했다. [출처](https://www.iusm.co.kr/news/articleView.html?idxno=1065201)
 <!-- /agent:events -->
 
 ## 이슈별 입장

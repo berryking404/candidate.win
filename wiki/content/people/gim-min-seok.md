@@ -8,6 +8,7 @@ status: curated
 ## 행적
 
 <!-- agent:events -->
+- 2026-07-09: 지방소멸 대응을 위해 호남·충청·영남에 새로운 산업축을 형성해야 한다고 밝혔다. [출처](https://www.newsfreezone.co.kr/news/articleView.html?idxno=698799)
 <!-- /agent:events -->
 
 ## 이슈별 입장
