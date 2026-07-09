@@ -18,4 +18,5 @@ party: 무소속
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 국회가 갈등과 정쟁에 막히면 민생이 더 어려워진다며 민생법안 처리를 강조했다. [출처](https://www.fnnews.com/news/202605291607400362)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **중립**: 민주주의는 국민의 삶으로 입증돼야 한다며, 대통령의 민생 언급과 당의 의제 설정 간 간극을 짚었다. [출처](https://n.news.naver.com/mnews/article/214/0001507309?sid=100)
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **지지**: 비상계엄을 막아내고 탄핵 소추를 이뤄냈다고 언급하며 관련 개혁의 정당성을 강조했다. [출처](https://www.nocutnews.co.kr/news/6538536?utm_source=naver&utm_medium=article&utm_campaign=20260625013451)
+- [물가 안정과 에너지 요금 부담](/issues/energy-price-inflation-2026) — **반대**: 산업용 전기요금 부담 완화와 기업 지원을 강조하며 에너지 가격 인상에 따른 기업 부담을 줄여야 한다고 말했다. [출처](https://www.idaegu.com/news/articleView.html?idxno=664239)
 <!-- /agent:stances -->
