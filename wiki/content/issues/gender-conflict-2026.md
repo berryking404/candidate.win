@@ -48,4 +48,7 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [위근우](/people/wi-geun-u) — **중립**: 웹툰을 둘러싼 혐오, 젠더 갈등, 플랫폼 권력, 독자 소비자 운동을 함께 읽는 비평을 소개했다. [출처](https://www.asiae.co.kr/article/2026070213344605579)
 - [김현지](/people/gim-hyeon-ji) — **반대**: 여성 리더를 서포터로만 보는 성차별 인식과 온라인 성차별 표현이 여전히 심각하다는 문제의식을 드러냈다. [출처](https://www.kyeongin.com/article/1766796)
 - [김현지](/people/gim-hyeon-ji) — **지지**: 혐오 표현의 뿌리를 인식했을 때 사용을 멈추는 선택이 중요하다고 밝혔다. [출처](https://www.newsis.com/view/NISX20260706_0003697789)
+- [서미화](/people/seo-mi-hwa) — **반대**: 성희롱과 성차별을 권력 불균형에서 비롯된 구조적 문제로 보고, 피해자 보호와 노동권 보장을 위한 대응을 강조했다. [출처](https://www.womennews.co.kr/news/articleView.html?idxno=279749)
+- [하림](/people/ha-rim) — **반대**: 혐오 표현과 성차별을 비판하고, 피해자와 약자를 향한 조롱을 경계하는 입장을 보였다. [출처](https://www.wikitree.co.kr/articles/1145544)
+- [신지영](/people/sin-ji-yeong) — **반대**: ‘무섭노’ 논란을 혐오 표현으로 단정하기 어렵다고 보면서도, 혐오 논쟁이 과잉 해석될 수 있음을 지적했다. [출처](https://www.seoul.co.kr/news/society/2026/07/09/20260709500110?wlog_tag3=naver)
 <!-- /agent:stances -->
