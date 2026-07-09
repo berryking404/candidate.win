@@ -3,7 +3,7 @@ name_ko: 백성현
 name_en: null
 party: null
 role: 논산시장
-status: stub
+status: curated
 aliases:
 - 백성현 논산시장
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 백성현
   youtube_channels: []
+  source_urls:
+  - https://www.ggilbo.com/news/articleView.html?idxno=1168328

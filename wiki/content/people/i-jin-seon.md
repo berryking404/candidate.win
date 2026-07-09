@@ -2,7 +2,7 @@
 title: 이진선
 slug: i-jin-seon
 role: 전주시 청년일자리과장
-status: stub
+status: curated
 ---
 
 ## 행적

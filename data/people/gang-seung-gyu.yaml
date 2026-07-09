@@ -3,7 +3,7 @@ name_ko: 강승규
 name_en: null
 party: null
 role: 국회의원
-status: stub
+status: curated
 aliases:
 - 강 의원
 - 강승규 의원
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 강승규
   youtube_channels: []
+  source_urls:
+  - http://www.areyou.co.kr/news/articleView.html?idxno=94419

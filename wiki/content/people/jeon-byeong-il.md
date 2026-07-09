@@ -2,7 +2,7 @@
 title: 전병일
 slug: jeon-byeong-il
 role: 통영시의회 의장
-status: stub
+status: curated
 ---
 
 ## 행적

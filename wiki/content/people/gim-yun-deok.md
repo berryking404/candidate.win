@@ -2,7 +2,7 @@
 title: 김윤덕
 slug: gim-yun-deok
 role: 국토부 장관
-status: stub
+status: curated
 ---
 
 ## 행적

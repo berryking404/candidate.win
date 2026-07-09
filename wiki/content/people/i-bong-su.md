@@ -2,7 +2,7 @@
 title: 이봉수
 slug: i-bong-su
 role: 광주도시공사 도시주택연구소장
-status: stub
+status: curated
 ---
 
 ## 행적

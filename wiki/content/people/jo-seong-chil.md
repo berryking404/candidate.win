@@ -2,7 +2,7 @@
 title: 조성칠
 slug: jo-seong-chil
 role: 대전시의회 의장
-status: stub
+status: curated
 ---
 
 ## 행적

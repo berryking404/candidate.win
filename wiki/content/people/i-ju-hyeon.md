@@ -2,7 +2,7 @@
 title: 이주현
 slug: i-ju-hyeon
 role: 경실련 경제정책팀 간사
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 백성현
 slug: baek-seong-hyeon
 role: 논산시장
-status: stub
+status: curated
 ---
 
 ## 행적

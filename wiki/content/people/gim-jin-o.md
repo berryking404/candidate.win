@@ -2,7 +2,7 @@
 title: 김진오
 slug: gim-jin-o
 role: 저출산고령사회위원회 부위원장
-status: stub
+status: curated
 ---
 
 ## 행적

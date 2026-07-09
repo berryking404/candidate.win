@@ -2,7 +2,7 @@
 title: 유명현
 slug: yu-myeong-hyeon
 role: 산청군수 / 지방소멸 대응·국비확보 추진
-status: stub
+status: curated
 ---
 
 ## 행적

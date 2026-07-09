@@ -2,7 +2,7 @@
 title: 강승규
 slug: gang-seung-gyu
 role: 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적

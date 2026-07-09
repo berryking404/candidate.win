@@ -2,7 +2,7 @@
 title: 정은숙
 slug: jeong-eun-suk
 role: 제주여민회 대표
-status: stub
+status: curated
 ---
 
 ## 행적

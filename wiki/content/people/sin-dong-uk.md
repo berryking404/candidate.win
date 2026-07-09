@@ -2,7 +2,7 @@
 title: 신동욱
 slug: sin-dong-uk
 role: 국민의힘 최고위원
-status: stub
+status: curated
 ---
 
 ## 행적

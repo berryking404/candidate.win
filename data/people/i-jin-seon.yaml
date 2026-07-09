@@ -3,7 +3,7 @@ name_ko: 이진선
 name_en: null
 party: null
 role: 전주시 청년일자리과장
-status: stub
+status: curated
 aliases:
 - 이진선 전주시 청년일자리과장
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이진선
   youtube_channels: []
+  source_urls:
+  - https://www.mhns.co.kr/news/articleView.html?idxno=752792

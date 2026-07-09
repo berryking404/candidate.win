@@ -2,7 +2,7 @@
 title: 이정학
 slug: i-jeong-hak
 role: 동해시장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -3,7 +3,7 @@ name_ko: 정은숙
 name_en: null
 party: null
 role: 제주여민회 대표
-status: stub
+status: curated
 aliases:
 - 정은숙 대표
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 정은숙
   youtube_channels: []
+  source_urls:
+  - https://www.jejuwomen.kr/president.html

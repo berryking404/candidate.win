@@ -3,7 +3,7 @@ name_ko: 전병일
 name_en: null
 party: null
 role: 통영시의회 의장
-status: stub
+status: curated
 aliases:
 - 전 의장
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 전병일
   youtube_channels: []
+  source_urls:
+  - http://www.gndomin.com/news/articleView.html?idxno=481449

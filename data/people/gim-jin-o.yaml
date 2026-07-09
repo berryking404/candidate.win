@@ -3,7 +3,7 @@ name_ko: 김진오
 name_en: null
 party: null
 role: 저출산고령사회위원회 부위원장
-status: stub
+status: curated
 aliases:
 - 김진오 부위원장
 - 저고위 부위원장 김진오
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 김진오
   youtube_channels: []
+  source_urls:
+  - https://www.hani.co.kr/arti/society/health/1267357.html

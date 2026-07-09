@@ -2,7 +2,7 @@
 title: 이춘무
 slug: i-chun-mu
 role: 지식재산전략기획단장
-status: stub
+status: curated
 ---
 
 ## 행적

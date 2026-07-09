@@ -3,7 +3,7 @@ name_ko: 이춘무
 name_en: null
 party: null
 role: 지식재산전략기획단장
-status: stub
+status: curated
 aliases:
 - 이춘무 지식재산전략기획단장
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이춘무
   youtube_channels: []
+  source_urls:
+  - https://www.dt.co.kr/article/12071943?ref=naver

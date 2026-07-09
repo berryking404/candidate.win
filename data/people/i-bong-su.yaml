@@ -3,7 +3,7 @@ name_ko: 이봉수
 name_en: null
 party: null
 role: 광주도시공사 도시주택연구소장
-status: stub
+status: curated
 aliases:
 - 이봉수 광주도시공사 도시주택연구소장
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이봉수
   youtube_channels: []
+  source_urls:
+  - http://www.kwangju.co.kr/article.php?aid=1783512000801061277

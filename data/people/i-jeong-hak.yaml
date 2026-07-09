@@ -3,7 +3,7 @@ name_ko: 이정학
 name_en: null
 party: null
 role: 동해시장
-status: stub
+status: curated
 aliases:
 - 이정학 동해시장
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이정학
   youtube_channels: []
+  source_urls:
+  - https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605569&ref=A
