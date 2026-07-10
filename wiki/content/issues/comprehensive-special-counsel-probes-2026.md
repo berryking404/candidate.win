@@ -47,4 +47,8 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [원희룡](/people/won-hui-ryong) — **반대**: 양평고속도로 노선 변경 의혹과 관련한 특검 소환에 반발하며 ‘억지 부리지 말고 죄 있다면 체포하라’고 했다. [출처](https://www.newsis.com/view/NISX20260701_0003692251)
 - [김대기](/people/gim-dae-gi) — **지지**: 관저 이전 과정의 행정안전부 예산 불법 전용 지시 혐의를 부인하며 보석을 요청했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=1782982185&code=11131900&cp=nv)
 - [장동혁](/people/jang-dong-hyeok) — **반대**: 장동혁 대표는 재검표보다 특검 마무리가 더 중요하다고 말하며 특검 추진보다 다른 쟁점 처리에 우선순위를 뒀다. [출처](https://www.news1.kr/politics/assembly/6222186)
+- [심우정](/people/sim-u-jeong) — **중립**: 김건희 여사 도이치모터스 수사 무마 의혹과 관련해 종합특검의 피의자 소환 조사를 받았으나, 제공된 기사에는 직접 입장이 없었다. [출처](https://www.mt.co.kr/society/2026/07/10/2026071012183140629)
+- [조성현](/people/cho-seong-hyeon) — **중립**: 12·3 비상계엄 관련 내란 피의자로 종합특검 조사를 받았으나, 제공된 기사에는 직접 입장이 없었다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607795&ref=A)
+- [유병호](/people/yu-byeong-ho) — **중립**: 관저 이전 부실 감사 의혹으로 종합특검 소환 조사를 받았으나, 제공된 기사에는 직접 입장이 없었다. [출처](https://www.ytn.co.kr/_ln/0103_202607101737256428)
+- [김태효](/people/gim-tae-hyo) — **중립**: 계엄 정당화 메시지 전달 의혹으로 구속 심사를 받았으나, 제공된 기사에는 직접 입장이 없었다. [출처](https://www.hani.co.kr/arti/society/society_general/1267674.html)
 <!-- /agent:stances -->
