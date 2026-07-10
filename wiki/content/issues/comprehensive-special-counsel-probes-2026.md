@@ -10,10 +10,8 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 
 <!-- agent:stances -->
 - [신원식](/people/sin-won-sik) — **중립**: 전 국가안보실장으로서 ‘계엄 정당화 메시지’ 의혹과 관련해 종합특검 조사를 받은 것으로 보도됐다. [출처](https://www.newsis.com/view/NISX20260609_0003662171)
-- [이상민](/people/i-sang-min) — **중립**: 관저 이전 예산 전용 의혹과 관련해 김대기 전 대통령비서실장 등과 함께 기소된 것으로 보도됐다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/06/10/2026061090001.html)
 - [윤재순](/people/yun-jae-sun) — **중립**: 관저 이전 의혹 수사에서 김대기 전 대통령비서실장 등과 함께 기소 대상에 포함된 것으로 보도됐다. [출처](https://www.news1.kr/society/court-prosecution/6192314)
 - [김오진](/people/gim-o-jin) — **중립**: 관저 이전 의혹 수사에서 김대기 전 대통령비서실장 등과 함께 기소 대상에 포함된 것으로 보도됐다. [출처](https://www.yna.co.kr/view/AKR20260609115600004?input=1195m)
-- [김도형](/people/gim-do-hyeong) — **중립**: 전 강원경찰청장으로서 통일교 수사 무마 의혹과 관련해 종합특검 조사를 받은 것으로 보도됐다. [출처](https://news.bbsi.co.kr/news/articleView.html?idxno=4088149)
 - [윤석열](/people/yun-seok-yeol) — **중립**: 종합특검 조사에서 계엄을 ‘경고용’이라고 주장하며 혐의를 부인했다. [출처](https://news.jtbc.co.kr/article/NB12303173?influxDiv=NAVER)
 - [한동훈](/people/han-dong-hun) — **반대**: 자신에 대한 출국금지 연장을 두고 종합특검을 강하게 비판했다. [출처](https://www.hankyung.com/article/2026061235157)
 - [김건희](/people/gim-geon-hui) — **중립**: 종합특검의 참고인 조사 통보에 응하지 않았고, 수사 무마 의혹 관련 조사를 거부했다. [출처](https://www.yna.co.kr/view/AKR20260615110951004?input=1195m)
@@ -32,8 +30,6 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [신원식](/people/sin-won-sik) — **지지**: 종합특검의 수사·기소 과정에 대해 법원의 공소권 남용 판단을 강조하며 방어적 입장을 보였다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
 - [윤재선](/people/yun-jae-sun) — **지지**: 종합특검 관련 수사에서 검찰의 공소권 남용 판단을 언급하며 수사 정당성에 비판적인 입장을 보였다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
 - [김오진](/people/gim-o-jin) — **지지**: 종합특검팀의 수사를 통해 실체적 진실을 따져봐야 한다며, 공소권 남용 판단을 강조했다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
-- [이상민](/people/i-sang-min) — **지지**: 종합특검과 관련한 검찰의 공소권 남용 판단을 강조하며 수사 정당성에 비판적 태도를 보였다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
-- [김도형](/people/gim-do-hyeong) — **지지**: 종합특검팀의 수사와 법원 판단을 거론하며 검찰 수사 정당성에 문제를 제기하는 취지의 입장을 보였다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
 - [홍장원](/people/hong-jang-won) — **지지**: 비상계엄 직후 우방국에 계엄 정당화 메시지를 전달하려 했다는 의혹과 계엄사 합수부 지원 논의 의혹을 전면 부인했다. [출처](https://www.kgnews.co.kr/news/article.html?no=900991)
 - [윤희근](/people/yun-hui-geun) — **지지**: 통일교 수사 무마 의혹과 관련한 피의자 조사에서 관련 내용을 전혀 들은 적이 없다며 혐의를 전면 부인했다. [출처](https://www.khan.co.kr/article/202606231111011)
 - [홍장원](/people/hong-jang-won) — **지지**: 계엄 정당화 메시지 전달 의혹과 관련해 특검 조사에 출석했지만, 관련 행위를 부인했다. [출처](https://www.g-enews.com/view.php?ud=20260622214114687995c8fcfb13_1)
@@ -47,10 +43,4 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [원희룡](/people/won-hui-ryong) — **반대**: 양평고속도로 노선 변경 의혹과 관련한 특검 소환에 반발하며 ‘억지 부리지 말고 죄 있다면 체포하라’고 했다. [출처](https://www.newsis.com/view/NISX20260701_0003692251)
 - [김대기](/people/gim-dae-gi) — **지지**: 관저 이전 과정의 행정안전부 예산 불법 전용 지시 혐의를 부인하며 보석을 요청했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=1782982185&code=11131900&cp=nv)
 - [장동혁](/people/jang-dong-hyeok) — **반대**: 장동혁 대표는 재검표보다 특검 마무리가 더 중요하다고 말하며 특검 추진보다 다른 쟁점 처리에 우선순위를 뒀다. [출처](https://www.news1.kr/politics/assembly/6222186)
-- [심우정](/people/sim-u-jeong) — **중립**: 김건희 여사 도이치모터스 수사 무마 의혹과 관련해 종합특검의 피의자 소환 조사를 받았으나, 제공된 기사에는 직접 입장이 없었다. [출처](https://www.mt.co.kr/society/2026/07/10/2026071012183140629)
-- [조성현](/people/cho-seong-hyeon) — **중립**: 12·3 비상계엄 관련 내란 피의자로 종합특검 조사를 받았으나, 제공된 기사에는 직접 입장이 없었다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607795&ref=A)
-- [유병호](/people/yu-byeong-ho) — **중립**: 관저 이전 부실 감사 의혹으로 종합특검 소환 조사를 받았으나, 제공된 기사에는 직접 입장이 없었다. [출처](https://www.ytn.co.kr/_ln/0103_202607101737256428)
-- [김태효](/people/gim-tae-hyo) — **중립**: 계엄 정당화 메시지 전달 의혹으로 구속 심사를 받았으나, 제공된 기사에는 직접 입장이 없었다. [출처](https://www.hani.co.kr/arti/society/society_general/1267674.html)
-- [이상민](/people/i-sang-min) — **반대**: 기사들은 특검이 계엄 관련 메시지·내란중요임무종사 혐의로 수사와 구속영장 청구를 진행 중이라고 전해, 특검 수사를 뒷받침하는 맥락이다. [출처](https://www.slist.kr/news/articleView.html?idxno=750999)
-- [김도형](/people/gim-do-hyeong) — **반대**: 기사들은 종합특검이 계엄 관련 의혹들에 대한 책임 규명 차원에서 수사 확대와 피의자 소환을 이어가고 있음을 보여준다. [출처](https://www.khan.co.kr/article/202607102301001)
 <!-- /agent:stances -->

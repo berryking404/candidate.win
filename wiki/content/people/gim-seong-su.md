@@ -1,7 +1,7 @@
 ---
-title: 전성배
-slug: jeon-seong-bae
-role: 건진법사
+title: 김성수
+slug: gim-seong-su
+role: 연구원
 status: stub
 ---
 

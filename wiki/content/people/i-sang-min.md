@@ -19,5 +19,4 @@ party: 국민의힘
 <!-- agent:stances -->
 - [종합특검](/issues/comprehensive-special-counsel-probes-2026) — **중립**: 관저 이전 예산 전용 의혹으로 종합특검 기소 대상에 포함됐다는 보도가 나왔다. [출처](https://www.khan.co.kr/article/202606092104015)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사](/issues/comprehensive-special-counsel-probes-2026) — **지지**: 종합특검과 관련한 검찰의 공소권 남용 판단을 강조하며 수사 정당성에 비판적 태도를 보였다. [출처](https://www.hani.co.kr/arti/area/capital/1264590.html)
-- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 기사들은 특검이 계엄 관련 메시지·내란중요임무종사 혐의로 수사와 구속영장 청구를 진행 중이라고 전해, 특검 수사를 뒷받침하는 맥락이다. [출처](https://www.slist.kr/news/articleView.html?idxno=750999)
 <!-- /agent:stances -->
