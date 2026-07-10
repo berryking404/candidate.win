@@ -1,0 +1,39 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<div class="content">{{ .Content }}</div>
+
+{{- $today := .Site.Data.today -}}
+{{- $items := $today.items -}}
+{{- if $items }}
+<p class="meta">
+  최근 {{ default 72 $today.window_hours }}시간 기준 · {{ len $items }}건
+</p>
+<div class="section-grid today-grid">
+  {{- range $items }}
+  <article class="card today-card">
+    <h3>{{ .rank }}. {{ .title }}</h3>
+    <p><span class="badge badge-active">{{ .status }}</span></p>
+    <p>{{ .summary }}</p>
+    <ul class="today-signals">
+      <li>보도량: {{ .signals.news_count }}건</li>
+      <li>매체: {{ .signals.outlet_count }}곳</li>
+      <li>공적 주체 신호: {{ .signals.public_actor }}</li>
+      {{- with .related_issue }}<li>관련 기존 이슈: <a href="{{ printf "/issues/%s/" . | relURL }}">{{ . }}</a></li>{{ end }}
+    </ul>
+    {{- with .sources }}
+    <details>
+      <summary>대표 근거</summary>
+      <ul>
+        {{- range . }}
+        <li><a href="{{ .url }}" rel="nofollow noopener">{{ .title }}</a></li>
+        {{- end }}
+      </ul>
+    </details>
+    {{- end }}
+  </article>
+  {{- end }}
+</div>
+{{- else }}
+<p>현재 공개할 화제가 없습니다.</p>
+{{- end }}
+{{ end }}
