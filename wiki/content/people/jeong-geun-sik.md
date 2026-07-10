@@ -16,4 +16,5 @@ status: curated
 
 <!-- agent:stances -->
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **지지**: 서울시교육감 선거에서 진보 단일 후보로 선출돼 단일화 구도를 대표했다. [출처](https://www.yna.co.kr/view/AKR20260529034900530?input=1195m)
+- [젠더 갈등 심화 (2026)](/issues/gender-conflict-2026) — **지지**: 교육 현장의 혐오와 갈등을 줄이는 방향의 공존·성평등 기조를 강조했다. [출처](http://www.babytimes.co.kr/news/articleView.html?idxno=73161)
 <!-- /agent:stances -->

@@ -51,4 +51,11 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [서미화](/people/seo-mi-hwa) — **반대**: 성희롱과 성차별을 권력 불균형에서 비롯된 구조적 문제로 보고, 피해자 보호와 노동권 보장을 위한 대응을 강조했다. [출처](https://www.womennews.co.kr/news/articleView.html?idxno=279749)
 - [하림](/people/ha-rim) — **반대**: 혐오 표현과 성차별을 비판하고, 피해자와 약자를 향한 조롱을 경계하는 입장을 보였다. [출처](https://www.wikitree.co.kr/articles/1145544)
 - [신지영](/people/sin-ji-yeong) — **반대**: ‘무섭노’ 논란을 혐오 표현으로 단정하기 어렵다고 보면서도, 혐오 논쟁이 과잉 해석될 수 있음을 지적했다. [출처](https://www.seoul.co.kr/news/society/2026/07/09/20260709500110?wlog_tag3=naver)
+- [김현지](/people/gim-hyeon-ji) — **중립**: 여성 아이돌 관련 표현 논란에서 혐오 표현의 맥락과 태도를 둘러싼 해석 차이를 드러냈다. [출처](https://www.newsis.com/view/NISX20260706_0003697789)
+- [조수진](/people/jo-su-jin) — **중립**: ‘무섭노’ 표현 논란에 대해 혐오표현으로 단정하기 어렵다는 취지로 공개 사과했다. [출처](https://www.ize.co.kr/news/articleView.html?idxno=78714)
+- [원이](/people/won-i) — **중립**: 여성 아이돌과의 대화 표현이 혐오 표현으로 규정된 데 대해 당사자 논란의 중심에 섰다. [출처](https://www.sisajournal.com/news/articleView.html?idxno=379403)
+- [정회옥](/people/jeong-hoe-ok) — **지지**: 젠더를 3대 차별 축으로 보고 세대 갈등만으로 환원하지 말아야 한다고 강조했다. [출처](https://www.sisaon.co.kr/news/articleView.html?idxno=202547)
+- [함규진](/people/ham-gyu-jin) — **지지**: 세대·젠더 갈등 속 혐오 표현을 분석하며 차별 표현의 구조를 해설했다. [출처](https://www.newsis.com/view/NISX20260709_0003703334)
+- [박정숙](/people/bak-jeong-suk) — **지지**: 배제와 차별, 혐오가 만연한 사회 속에서 살아남은 장애 여성 생존자로서 차별 문제를 증언했다. [출처](https://www.ablenews.co.kr/news/articleView.html?idxno=231900)
+- [이재명](/people/i-jae-myeong) — **지지**: 여성·장애인 혐오와 지역 차별을 지적하며 혐오 문화의 확산을 문제 삼았다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8568848&ref=A)
 <!-- /agent:stances -->
