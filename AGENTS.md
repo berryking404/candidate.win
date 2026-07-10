@@ -10,7 +10,7 @@ This file provides guidance to coding agents when working with code in this repo
 - `agent/` — Python 전용. 외부 API 키는 환경변수로만 주입, 코드에 하드코딩 금지.
 - `wiki/` — Hugo 설정과 테마만 포함. 빌드 산출물(`public/`) 은 Git에 커밋하지 않는다.
 - web 사용자는 GitHub에 대한 내용을 모르게 처리한다.
-- 공개 wiki 산출물(`wiki/content/**`, `data/issues.*`의 conclusion 등 렌더링되는 텍스트)에는 내부 운영자/업무도구 이름을 쓰지 않는다. 예: Eric, Linear, GitHub/Github, issue-radar 같은 내부 출처·승인 경로 대신 공개 독자에게 보이는 중립 문장만 남긴다.
+- 공개 wiki 산출물(`wiki/content/**`, `data/issues.*`의 conclusion 등 렌더링되는 텍스트)에는 내부 운영자/업무도구 이름을 쓰지 않는다. 내부 출처·승인 경로 대신 공개 독자에게 보이는 중립 문장만 남긴다.
 
 ## Naming Conventions
 

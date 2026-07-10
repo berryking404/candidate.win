@@ -5,15 +5,12 @@
   2. Naver News API 로 기사 확장
   3. 기존 data/issues 와 중복 검사
   4. 점수화 및 Markdown/JSON 리포트 생성
-  5. 선택적으로 Linear 이슈 생성
-  6. Eric 댓글 승인("승인: 1,3" 또는 "approve: 1")을 SSoT YAML/wiki shell 로 반영
+  5. 선택적으로 Leantime 승인 티켓 생성
+  6. Leantime 댓글 승인("승인: 1,3" 또는 "approve: 1")은 LLM-managed cron이 의미를 읽어 SSoT YAML/wiki shell 로 반영
 
 환경변수:
   NAVER_CLIENT_ID, NAVER_CLIENT_SECRET       Naver News API
-  LINEAR_API_KEY                            Linear GraphQL API token
-  ISSUE_RADAR_LINEAR_TEAM_ID                기본값: Berryking team id
-  ISSUE_RADAR_LINEAR_PROJECT_ID             기본값: candidate.win project id
-  ISSUE_RADAR_LINEAR_STATE_ID               선택: 생성될 승인대기 이슈 상태
+  LEANTIME_CONFIG_PATH                      기본값: /opt/data/config.yaml
   ISSUE_RADAR_OFFICIAL_FEEDS                JSON list 또는 newline/comma separated RSS URLs
 """
 
@@ -53,12 +50,11 @@ DATA_PEOPLE = ROOT / "data" / "people"
 WIKI_ISSUES = ROOT / "wiki" / "content" / "issues"
 CACHE_DIR = ROOT / "agent" / ".cache" / "issue_candidates"
 REPORT_DIR = ROOT / "agent" / "reports" / "issue_candidates"
-LINEAR_API = "https://api.linear.app/graphql"
-DEFAULT_TEAM_ID = "8e27f9c8-aaa3-47f4-8d58-81dc753bd453"
-DEFAULT_PROJECT_ID = "05950f61-d9b6-4ded-a0a5-65a9c104bc69"
-DEFAULT_DONE_STATE_ID = "5f24409a-ee6c-4e85-b39d-ebf89e5e1505"
-DEFAULT_CANCELED_STATE_ID = "b338b1fc-1fa5-425c-9f58-5c5ff656decf"
-DEFAULT_REPORT_ASSIGNEE_ID = "22e0929d-a34a-40e0-8b58-f64600c74064"
+LEANTIME_CONFIG_PATH = Path(os.getenv("LEANTIME_CONFIG_PATH", "/opt/data/config.yaml"))
+LEANTIME_PROJECT_ID = 20  # candidate.win
+LEANTIME_USER_ID = 4
+LEANTIME_ASSIGNED_TO = "1"
+LEANTIME_WAITING_FOR_APPROVAL_STATUS = 2
 
 BROAD_QUERIES = [
     "국회 논란", "정부 대응 논란", "정책 논쟁", "특검 의혹", "해임건의안", "탄핵소추안",
@@ -358,7 +354,7 @@ def is_suppressed_candidate_topic(candidate: Candidate) -> bool:
     """Hide candidate suggestions Eric directed us to merge into existing topic radars.
 
     The terms remain useful as search keywords on the existing issues, but should not
-    keep appearing in Linear approval reports as new/merge candidates.
+    keep appearing in Leantime approval reports as new/merge candidates.
     """
     text = f"{candidate.keyword} {candidate.title} {candidate.merge_target or ''}"
     return any(term in text or target == candidate.merge_target for term, target in SUPPRESSED_CANDIDATE_TOPIC_TERMS.items())
@@ -577,7 +573,7 @@ def render_report(candidates: list[Candidate], closure_candidates: list[ClosureC
         f"수집 범위: 최근 {window_days}일",
         f"생성 시각: {now}",
         "",
-        "Eric 승인 방법: 신규는 `승인: 1,3` / `반려: 2`, 종료는 `종료 승인: 1` / `종료 반려: 2`처럼 Linear 댓글로 남기면 다음 적용 작업에서 반영합니다. 병합/monitoring/mature 권고는 수동 검토 대상으로 보고합니다.",
+        "Eric 승인 방법: 신규는 `승인: 1,3` / `반려: 2`, 종료는 `종료 승인: 1` / `종료 반려: 2`처럼 이 Leantime 티켓 댓글로 남기면 다음 LLM-managed 적용 작업에서 반영합니다. 병합/monitoring/mature 권고는 수동 검토 대상으로 보고합니다.",
         "",
         "## A. 신규 이슈 후보",
         "",
@@ -626,8 +622,7 @@ def save_outputs(candidates: list[Candidate], closure_candidates: list[ClosureCa
     md_path = REPORT_DIR / f"{date_key}.md"
     payload = {
         "date": date_key,
-        "linear_issue_id": None,
-        "linear_issue_identifier": None,
+        "leantime_ticket_id": None,
         "candidates": [dataclasses.asdict(c) for c in candidates],
         "closure_candidates": [dataclasses.asdict(c) for c in closure_candidates],
     }
@@ -636,47 +631,47 @@ def save_outputs(candidates: list[Candidate], closure_candidates: list[ClosureCa
     return json_path, md_path
 
 
-def linear_headers() -> dict[str, str]:
-    key = os.getenv("LINEAR_API_KEY", "")
-    if not key:
-        raise RuntimeError("LINEAR_API_KEY 미설정")
-    return {"Authorization": key, "Content-Type": "application/json"}
+def leantime_env() -> dict[str, str]:
+    cfg = yaml.safe_load(LEANTIME_CONFIG_PATH.read_text(encoding="utf-8")) or {}
+    env = ((cfg.get("mcp_servers") or {}).get("leantime") or {}).get("env") or {}
+    if not env.get("LEANTIME_URL") or not env.get("LEANTIME_API_KEY"):
+        raise RuntimeError("Leantime MCP env missing in config")
+    return env
 
 
-def linear_graphql(query: str, variables: dict[str, Any] | None = None) -> dict[str, Any]:
+def leantime_rpc(method: str, params: dict[str, Any] | None = None) -> Any:
+    env = leantime_env()
+    url = env["LEANTIME_URL"].rstrip("/") + "/api/jsonrpc"
+    payload = {"jsonrpc": "2.0", "method": method, "params": params or {}, "id": 1}
+    headers = {"Content-Type": "application/json", "X-API-KEY": env["LEANTIME_API_KEY"]}
     with httpx.Client(timeout=30) as client:
-        r = client.post(LINEAR_API, headers=linear_headers(), json={"query": query, "variables": variables or {}})
+        r = client.post(url, headers=headers, json=payload)
         r.raise_for_status()
         data = r.json()
-        if data.get("errors"):
-            raise RuntimeError(data["errors"])
-        return data["data"]
+    if data.get("error"):
+        raise RuntimeError(data["error"])
+    return data.get("result")
 
 
-def create_linear_report(report: str, json_path: Path) -> dict[str, Any]:
-    team_id = os.getenv("ISSUE_RADAR_LINEAR_TEAM_ID", DEFAULT_TEAM_ID)
-    project_id = os.getenv("ISSUE_RADAR_LINEAR_PROJECT_ID", DEFAULT_PROJECT_ID)
-    state_id = os.getenv("ISSUE_RADAR_LINEAR_STATE_ID")
-    assignee_id = os.getenv("ISSUE_RADAR_LINEAR_ASSIGNEE_ID", DEFAULT_REPORT_ASSIGNEE_ID)
+def create_leantime_report(report: str, json_path: Path) -> dict[str, Any]:
     title = f"[candidate.win] 이슈 후보 발굴 리포트 {datetime.now(timezone.utc).date().isoformat()}"
-    mutation = """
-    mutation CreateIssue($input: IssueCreateInput!) {
-      issueCreate(input: $input) { success issue { id identifier url title } }
-    }
-    """
-    input_obj: dict[str, Any] = {"teamId": team_id, "projectId": project_id, "title": title, "description": report}
-    if state_id:
-        input_obj["stateId"] = state_id
-    if assignee_id:
-        input_obj["assigneeId"] = assignee_id
-    data = linear_graphql(mutation, {"input": input_obj})["issueCreate"]
-    issue = data["issue"]
+    result = leantime_rpc("leantime.rpc.Tickets.Tickets.addTicket", {
+        "values": {
+            "headline": title,
+            "projectId": LEANTIME_PROJECT_ID,
+            "userId": LEANTIME_USER_ID,
+            "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+            "description": report,
+            "status": LEANTIME_WAITING_FOR_APPROVAL_STATUS,
+            "assignedTo": LEANTIME_ASSIGNED_TO,
+            "tags": "issue-radar,candidate.win,approval",
+        }
+    })
+    ticket_id = result.get("id") if isinstance(result, dict) else result
     payload = json.loads(json_path.read_text(encoding="utf-8"))
-    payload["linear_issue_id"] = issue["id"]
-    payload["linear_issue_identifier"] = issue["identifier"]
-    payload["linear_issue_url"] = issue["url"]
+    payload["leantime_ticket_id"] = ticket_id
     json_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    return issue
+    return {"id": ticket_id, "title": title}
 
 
 def run_radar(args: argparse.Namespace) -> int:
@@ -687,13 +682,13 @@ def run_radar(args: argparse.Namespace) -> int:
     closure_candidates = [] if args.no_closure_audit else audit_closure_candidates(existing, window_days=args.closure_window_days, max_per_issue=args.closure_max_per_issue, no_naver=args.no_naver)[: args.max_closure_candidates]
     report = render_report(candidates, closure_candidates, window_days=args.window_days)
     json_path, md_path = save_outputs(candidates, closure_candidates, report)
-    issue = None
-    if args.linear:
-        issue = create_linear_report(report, json_path)
+    ticket = None
+    if args.leantime:
+        ticket = create_leantime_report(report, json_path)
     print(report)
     print(f"\n저장: {json_path}\n리포트: {md_path}")
-    if issue:
-        print(f"Linear: {issue['identifier']} {issue['url']}")
+    if ticket:
+        print(f"Leantime ticket: {ticket['id']}")
     return 0
 
 
@@ -766,79 +761,15 @@ def parse_closure_approvals(text: str, closure_count: int | None = None) -> dict
     return approvals
 
 
-def fetch_linear_comments(issue_id: str) -> list[dict[str, Any]]:
-    query = """
-    query IssueComments($id: String!) {
-      issue(id: $id) { comments(first: 50) { nodes { id body createdAt user { name email } } } }
-    }
-    """
-    data = linear_graphql(query, {"id": issue_id})
-    issue = data.get("issue") or {}
-    return issue.get("comments", {}).get("nodes", [])
-
-
-def update_linear_issue_state(issue_id: str, state_id: str) -> None:
-    mutation = """
-    mutation UpdateIssueState($id: String!, $input: IssueUpdateInput!) {
-      issueUpdate(id: $id, input: $input) { success issue { identifier state { name type } } }
-    }
-    """
-    linear_graphql(mutation, {"id": issue_id, "input": {"stateId": state_id}})
-
 
 def apply_approvals_for_path(path: Path) -> bool:
     payload = json.loads(path.read_text(encoding="utf-8"))
-    issue_id = payload.get("linear_issue_id")
-    if not issue_id:
-        print(f"{path.name}: Linear issue 없음")
+    ticket_id = payload.get("leantime_ticket_id")
+    if not ticket_id:
+        print(f"{path.name}: Leantime ticket 없음")
         return False
-    comments = fetch_linear_comments(issue_id)
-    approvals: dict[int, str] = {}
-    closure_approvals: dict[int, str] = {}
-    candidate_count = len(payload.get("candidates", []))
-    closure_count = len(payload.get("closure_candidates", []))
-    for c in comments:
-        body = c.get("body", "")
-        approvals.update(parse_approvals(body, candidate_count))
-        closure_approvals.update(parse_closure_approvals(body, closure_count))
-    if not approvals and not closure_approvals:
-        print(f"{path.name}: 승인/반려 댓글 없음")
-        return False
-    created = []
-    rejected = []
-    for idx, action in approvals.items():
-        if idx < 1 or idx > len(payload.get("candidates", [])):
-            continue
-        cand = payload["candidates"][idx - 1]
-        if action == "approve":
-            if cand.get("recommendation") == "독립 이슈":
-                created.append(create_issue_shell(cand))
-            else:
-                created.append(f"병합/보류 권고 후보 승인 확인: {idx} {cand['title']} (수동 병합 필요)")
-        else:
-            rejected.append(f"신규 {idx} {cand['title']}")
-    closed = []
-    closure_rejected = []
-    for idx, action in closure_approvals.items():
-        closure_items = payload.get("closure_candidates", [])
-        if idx < 1 or idx > len(closure_items):
-            continue
-        cand = closure_items[idx - 1]
-        if action == "close":
-            if cand.get("recommendation") == "closed 후보":
-                closed.append(close_issue(cand))
-            else:
-                closed.append(f"전환 권고 후보 승인 확인: {idx} {cand['title']} ({cand['recommendation']}, 수동 검토 필요)")
-        else:
-            closure_rejected.append(f"종료 {idx} {cand['title']}")
-    print(f"{path.name}: " + ("생성/처리:\n" + "\n".join(map(str, created + closed)) if created or closed else "생성/처리 없음"))
-    if rejected or closure_rejected:
-        print("반려:\n" + "\n".join(rejected + closure_rejected))
-    if created or closed:
-        update_linear_issue_state(issue_id, os.getenv("ISSUE_RADAR_LINEAR_DONE_STATE_ID", DEFAULT_DONE_STATE_ID))
-    elif rejected or closure_rejected:
-        update_linear_issue_state(issue_id, os.getenv("ISSUE_RADAR_LINEAR_CANCELED_STATE_ID", DEFAULT_CANCELED_STATE_ID))
-    return True
+    print(f"{path.name}: Leantime 승인 처리는 LLM-managed cron에서 티켓 #{ticket_id}의 본문/댓글을 의미 기반으로 읽어 수행합니다.")
+    return False
 
 
 def apply_approvals(args: argparse.Namespace) -> int:
@@ -946,11 +877,11 @@ def build_parser() -> argparse.ArgumentParser:
     r.add_argument("--closure-window-days", type=int, default=30)
     r.add_argument("--closure-max-per-issue", type=int, default=8)
     r.add_argument("--max-closure-candidates", type=int, default=8)
-    r.add_argument("--linear", action="store_true", help="Linear 승인 요청 이슈 생성")
+    r.add_argument("--leantime", action="store_true", help="Leantime 승인 요청 티켓 생성")
     r.set_defaults(func=run_radar)
     a = sub.add_parser("apply-approvals")
     a.add_argument("--cache-json")
-    a.add_argument("--all", action="store_true", help="저장된 모든 Linear 후보 리포트 cache의 댓글을 반영")
+    a.add_argument("--all", action="store_true", help="저장된 모든 Leantime 후보 리포트 cache 처리 상태를 확인")
     a.set_defaults(func=apply_approvals)
     return p
 
