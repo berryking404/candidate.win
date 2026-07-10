@@ -2,8 +2,8 @@ slug: gim-hye-sun
 name_ko: 김혜순
 name_en: null
 party: null
-role: 재단 대표이사
-status: stub
+role: 경기도여성가족재단 대표이사
+status: curated
 aliases:
 - 김혜순 재단 대표이사
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,6 @@ sources:
   news_keywords:
   - 김혜순
   youtube_channels: []
+  source_urls:
+  - https://www.gwff.kr/base/contents/view?contentsNo=32&menuLevel=2&menuNo=1
+  - https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&number=58111&subject_Code=BO01&page=1

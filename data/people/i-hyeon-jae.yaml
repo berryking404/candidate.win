@@ -3,7 +3,7 @@ name_ko: 이현재
 name_en: null
 party: null
 role: 하남시장
-status: stub
+status: curated
 aliases:
 - 하남시장
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,6 @@ sources:
   news_keywords:
   - 이현재
   youtube_channels: []
+  source_urls:
+  - https://www.hanam.go.kr/mayor/contents.do?key=776
+  - https://mobile.newsis.com/view_amp.html?ar_id=NISX20260303_0003531778

@@ -2,7 +2,7 @@
 title: 안호영
 slug: an-ho-yeong
 role: 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적

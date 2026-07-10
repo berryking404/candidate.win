@@ -1,8 +1,8 @@
 ---
 title: 김혜순
 slug: gim-hye-sun
-role: 재단 대표이사
-status: stub
+role: 경기도여성가족재단 대표이사
+status: curated
 ---
 
 ## 행적

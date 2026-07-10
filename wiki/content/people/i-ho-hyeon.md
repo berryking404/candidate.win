@@ -1,7 +1,7 @@
 ---
-title: 전은수
-slug: jeon-eun-su
-role: 국회의원
+title: 이호현
+slug: i-ho-hyeon
+role: 기후에너지환경부 제2차관
 status: curated
 ---
 

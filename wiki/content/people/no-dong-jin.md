@@ -1,8 +1,8 @@
 ---
-title: 전은수
-slug: jeon-eun-su
-role: 국회의원
-status: curated
+title: 노동진
+slug: no-dong-jin
+role: 수협 회장
+status: stub
 ---
 
 ## 행적

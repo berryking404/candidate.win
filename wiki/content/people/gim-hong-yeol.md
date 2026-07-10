@@ -1,8 +1,8 @@
 ---
 title: 김홍열
 slug: gim-hong-yeol
-role: 군수
-status: stub
+role: 충남 청양군수
+status: curated
 ---
 
 ## 행적

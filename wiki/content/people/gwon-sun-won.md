@@ -1,7 +1,7 @@
 ---
-title: 전은수
-slug: jeon-eun-su
-role: 국회의원
+title: 권순원
+slug: gwon-sun-won
+role: 최저임금위원장
 status: curated
 ---
 

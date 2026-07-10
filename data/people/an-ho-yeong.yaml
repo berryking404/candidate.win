@@ -3,7 +3,7 @@ name_ko: 안호영
 name_en: null
 party: null
 role: 국회의원
-status: stub
+status: curated
 aliases:
 - 의원
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 안호영
   youtube_channels: []
+  source_urls:
+  - https://ampos.nanet.go.kr:7443/activityCongressDetail.do?congress_no=G1899564

@@ -1,8 +1,8 @@
 ---
-title: 전은수
-slug: jeon-eun-su
-role: 국회의원
-status: curated
+title: 김향미
+slug: gim-hyang-mi
+role: 부천시 복지정책과장
+status: stub
 ---
 
 ## 행적

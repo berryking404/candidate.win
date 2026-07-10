@@ -2,8 +2,8 @@ slug: jeong-seong-jang
 name_ko: 정성장
 name_en: null
 party: null
-role: 세종연 부소장
-status: stub
+role: 세종연구소 부소장
+status: curated
 aliases:
 - 정성장
 discovered_via_issue: opcon-transfer-2026
@@ -12,3 +12,6 @@ sources:
   news_keywords:
   - 정성장
   youtube_channels: []
+  source_urls:
+  - https://sejong.org/web/intro/org_list.php?mode=research
+  - https://www.sejong.org/web/boad/1/egoread.php?bd=3&itm&pg=1&seq=12820&txt

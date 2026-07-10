@@ -1,8 +1,8 @@
 ---
-title: 전은수
-slug: jeon-eun-su
-role: 국회의원
-status: curated
+title: 표영희
+slug: pyo-yeong-hui
+role: SGC에너지 부사장
+status: stub
 ---
 
 ## 행적

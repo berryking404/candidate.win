@@ -1,8 +1,8 @@
 ---
-title: 전은수
-slug: jeon-eun-su
-role: 국회의원
-status: curated
+title: 류기섭
+slug: ryu-gi-seop
+role: 한국노총 사무총장
+status: stub
 ---
 
 ## 행적

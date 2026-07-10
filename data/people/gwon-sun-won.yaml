@@ -3,7 +3,7 @@ name_ko: 권순원
 name_en: null
 party: null
 role: 최저임금위원장
-status: stub
+status: curated
 aliases:
 - 권순원 위원장
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,6 @@ sources:
   news_keywords:
   - 권순원
   youtube_channels: []
+  source_urls:
+  - https://www.minimumwage.go.kr/committee/introduce/member.do
+  - https://www.news1.kr/economy/employment-labor/6144047

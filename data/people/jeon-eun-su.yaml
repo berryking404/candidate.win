@@ -2,8 +2,8 @@ slug: jeon-eun-su
 name_ko: 전은수
 name_en: null
 party: null
-role: 민주당 의원
-status: stub
+role: 국회의원
+status: curated
 aliases:
 - 전 의원
 - 전은수 민주당 의원
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 전은수
   youtube_channels: []
+  source_urls:
+  - https://www.assembly.go.kr/portal/assm/assmMemb/member.do?monaCd=FYG6302V&st=22&viewType=CONTBODY

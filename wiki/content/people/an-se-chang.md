@@ -1,7 +1,7 @@
 ---
-title: 전은수
-slug: jeon-eun-su
-role: 국회의원
+title: 안세창
+slug: an-se-chang
+role: 기후에너지환경부 기획조정실장
 status: curated
 ---
 

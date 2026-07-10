@@ -1,8 +1,8 @@
 ---
-title: 전은수
-slug: jeon-eun-su
-role: 국회의원
-status: curated
+title: 김준원
+slug: gim-jun-won
+role: 기자
+status: stub
 ---
 
 ## 행적

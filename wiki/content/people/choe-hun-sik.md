@@ -1,8 +1,8 @@
 ---
 title: 최훈식
 slug: choe-hun-sik
-role: 장수군수
-status: stub
+role: 전북 장수군수
+status: curated
 ---
 
 ## 행적

@@ -2,8 +2,8 @@ slug: gim-hong-yeol
 name_ko: 김홍열
 name_en: null
 party: null
-role: 군수
-status: stub
+role: 충남 청양군수
+status: curated
 aliases:
 - 청양군수
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,6 @@ sources:
   news_keywords:
   - 김홍열
   youtube_channels: []
+  source_urls:
+  - https://www.cheongyang.go.kr/mayor.do
+  - https://www.ajunews.com/view/20260604024239180

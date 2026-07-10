@@ -2,9 +2,8 @@ slug: choe-eun-sun
 name_ko: 최은순
 name_en: null
 party: null
-role: Kim Keon Hee's mother; mentioned in related coverage but not central to stock-manipulation
-  doctrine
-status: stub
+role: 김건희 모친
+status: curated
 aliases:
 - Choe Eun-sun
 - Choe Eun Sun
@@ -14,3 +13,6 @@ sources:
   news_keywords:
   - 최은순
   youtube_channels: []
+  source_urls:
+  - https://news.kbs.co.kr/news/pc/view/view.do?ncd=8411800
+  - https://www.news1.kr/society/court-prosecution/5965139

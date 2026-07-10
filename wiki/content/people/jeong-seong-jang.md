@@ -1,8 +1,8 @@
 ---
 title: 정성장
 slug: jeong-seong-jang
-role: 세종연 부소장
-status: stub
+role: 세종연구소 부소장
+status: curated
 ---
 
 ## 행적

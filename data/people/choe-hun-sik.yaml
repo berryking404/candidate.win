@@ -2,8 +2,8 @@ slug: choe-hun-sik
 name_ko: 최훈식
 name_en: null
 party: null
-role: 장수군수
-status: stub
+role: 전북 장수군수
+status: curated
 aliases:
 - 최훈식 장수군수
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,6 @@ sources:
   news_keywords:
   - 최훈식
   youtube_channels: []
+  source_urls:
+  - https://www.jangsu.go.kr/index.jangsu?menuCd=DOM_000000302001000000
+  - https://www.yna.co.kr/view/AKR20250701140800055

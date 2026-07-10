@@ -1,8 +1,8 @@
 ---
 title: 최은순
 slug: choe-eun-sun
-role: "Kim Keon Hee's mother; mentioned in related coverage but not central to stock-manipulation doctrine"
-status: stub
+role: 김건희 모친
+status: curated
 ---
 
 ## 행적

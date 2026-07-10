@@ -1,8 +1,8 @@
 ---
-title: 전은수
-slug: jeon-eun-su
-role: 국회의원
-status: curated
+title: 문영표
+slug: mun-yeong-pyo
+role: 서울시농수산식품공사 사장
+status: stub
 ---
 
 ## 행적

@@ -2,13 +2,17 @@ slug: i-ho-hyeon
 name_ko: 이호현
 name_en: null
 party: null
-role: 기후에너지환경부 2차관
-status: stub
+role: 기후에너지환경부 제2차관
+status: curated
 aliases:
 - 이호현 차관
+- 이호현 2차관
 discovered_via_issue: energy-price-inflation-2026
 discovered_at: '2026-07-09'
 sources:
   news_keywords:
   - 이호현
   youtube_channels: []
+  source_urls:
+  - https://www.me.go.kr/minister/web/index.do?menuId=401
+  - http://mcee.go.kr/home/web/board/read.do?boardId=1869970&boardMasterId=939&menuId=10598

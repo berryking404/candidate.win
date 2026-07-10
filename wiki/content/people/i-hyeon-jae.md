@@ -2,7 +2,7 @@
 title: 이현재
 slug: i-hyeon-jae
 role: 하남시장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,13 +2,15 @@ slug: an-se-chang
 name_ko: 안세창
 name_en: null
 party: null
-role: 기후에너지환경부 차관
-status: stub
+role: 기후에너지환경부 기획조정실장
+status: curated
 aliases:
-- 안세창 차관
+- 안세창 기획조정실장
 discovered_via_issue: energy-price-inflation-2026
 discovered_at: '2026-07-09'
 sources:
   news_keywords:
   - 안세창
   youtube_channels: []
+  source_urls:
+  - https://me.go.kr/m/mob/board/read.do?boardId=1855220&boardMasterId=939&menuId=156
