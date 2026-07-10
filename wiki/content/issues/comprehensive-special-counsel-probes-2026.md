@@ -51,4 +51,6 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [조성현](/people/cho-seong-hyeon) — **중립**: 12·3 비상계엄 관련 내란 피의자로 종합특검 조사를 받았으나, 제공된 기사에는 직접 입장이 없었다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8607795&ref=A)
 - [유병호](/people/yu-byeong-ho) — **중립**: 관저 이전 부실 감사 의혹으로 종합특검 소환 조사를 받았으나, 제공된 기사에는 직접 입장이 없었다. [출처](https://www.ytn.co.kr/_ln/0103_202607101737256428)
 - [김태효](/people/gim-tae-hyo) — **중립**: 계엄 정당화 메시지 전달 의혹으로 구속 심사를 받았으나, 제공된 기사에는 직접 입장이 없었다. [출처](https://www.hani.co.kr/arti/society/society_general/1267674.html)
+- [이상민](/people/i-sang-min) — **반대**: 기사들은 특검이 계엄 관련 메시지·내란중요임무종사 혐의로 수사와 구속영장 청구를 진행 중이라고 전해, 특검 수사를 뒷받침하는 맥락이다. [출처](https://www.slist.kr/news/articleView.html?idxno=750999)
+- [김도형](/people/gim-do-hyeong) — **반대**: 기사들은 종합특검이 계엄 관련 의혹들에 대한 책임 규명 차원에서 수사 확대와 피의자 소환을 이어가고 있음을 보여준다. [출처](https://www.khan.co.kr/article/202607102301001)
 <!-- /agent:stances -->
