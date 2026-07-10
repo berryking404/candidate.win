@@ -653,6 +653,11 @@ def leantime_rpc(method: str, params: dict[str, Any] | None = None) -> Any:
     return data.get("result")
 
 
+def leantime_html_description(text: str) -> str:
+    """Leantime ticket descriptions are HTML-rendered; preserve report line breaks."""
+    return html.escape(text).replace("\n", "<br>\n")
+
+
 def create_leantime_report(report: str, json_path: Path) -> dict[str, Any]:
     title = f"[candidate.win] 이슈 후보 발굴 리포트 {datetime.now(timezone.utc).date().isoformat()}"
     result = leantime_rpc("leantime.rpc.Tickets.Tickets.addTicket", {
@@ -661,7 +666,7 @@ def create_leantime_report(report: str, json_path: Path) -> dict[str, Any]:
             "projectId": LEANTIME_PROJECT_ID,
             "userId": LEANTIME_USER_ID,
             "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-            "description": report,
+            "description": leantime_html_description(report),
             "status": LEANTIME_WAITING_FOR_APPROVAL_STATUS,
             "assignedTo": LEANTIME_ASSIGNED_TO,
             "tags": "issue-radar,candidate.win,approval",
