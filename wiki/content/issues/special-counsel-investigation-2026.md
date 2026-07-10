@@ -48,4 +48,6 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [박정훈](/people/bak-jeong-hun) — **지지**: 채상병 순직 사건의 초동 수사를 지휘하며 VIP 격노설 등 부당한 외압이 있었다고 폭로했다. [출처](https://www.hankyung.com/article/202607019305i)
 - [오세훈](/people/o-se-hun) — **지지**: 윤석열 전 대통령의 잘못된 판단을 비판하면서도 특검 공세를 정치적 카드로 과도하게 쓰면 안 된다고 말했다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260704020151004?input=1195m)
 - [조경태](/people/jo-gyeong-tae) — **지지**: 윤석열 전 대통령과 장동혁 대표를 강하게 비판하며 특검·사법 판단을 존중하는 쪽으로 기울었다. [출처](https://www.newsis.com/view/NISX20260708_0003701258)
+- [윤석열](/people/yun-seok-yeol) — **혼합**: 계엄·탄핵심판 국면에서 ‘하이브리드전’과 선거개입설을 거론하며 정당성을 주장했지만, 수사·재판 대응에 집중하는 모습도 보였다. [출처](https://www.hani.co.kr/arti/society/society_general/1267726.html)
+- [박찬대](/people/bak-chan-dae) — **중립**: 이번 수집 기사들에서 특검 수사나 탄핵 소추에 대한 직접 발언이 확인되지 않았다. [출처](https://www.newscj.com/news/articleView.html?idxno=3416098)
 <!-- /agent:stances -->
