@@ -94,4 +94,5 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [김장호](/people/gim-jang-ho) — **지지**: 구미 첫 일반산업단지 조성을 첨단산업 거점과 지역 산업 경쟁력 강화의 전환점으로 평가했다. [출처](https://www.hankyung.com/article/202607096555h)
 - [한덕재](/people/han-deok-jae) — **지지**: 청년들이 일자리와 주거 걱정 없이 정착할 수 있는 기반을 만들어야 한다고 밝혔다. [출처](https://www.incheonilbo.com/news/articleView.html?idxno=1327004)
 - [민복기](/people/min-bok-gi) — **지지**: 체류형 의료관광 확대와 글로벌 의료 인재 유치가 지역 산업과 일자리 기반에 도움이 된다고 언급했다. [출처](https://www.dynews.co.kr/news/articleView.html?idxno=857499)
+- [박상준](/people/bak-sang-jun) — **지지**: 기업이 체감할 수 있는 신속한 행정과 적극행정을 통해 청년 일자리와 지역경제 활성화를 추진하겠다고 밝혔다. [출처](https://www.thepowernews.co.kr/view.php?ud=2026071114513511461d72a7352_7)
 <!-- /agent:stances -->

@@ -14,4 +14,5 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
+- [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 기업이 체감할 수 있는 신속한 행정과 적극행정을 통해 청년 일자리와 지역경제 활성화를 추진하겠다고 밝혔다. [출처](https://www.thepowernews.co.kr/view.php?ud=2026071114513511461d72a7352_7)
 <!-- /agent:stances -->
