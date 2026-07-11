@@ -15,5 +15,5 @@ status: stub
 ## 이슈별 입장
 
 <!-- agent:stances -->
-- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 내란중요임무종사 혐의를 부인하며 계엄을 사전에 알지 못했고 실행에도 관여하지 않았다고 밝혔다. [출처](https://www.nocutnews.co.kr/news/6546742?utm_source=naver&utm_medium=article&utm_campaign=20260711082949)
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **지지**: 내란중요임무종사 혐의를 부인하며 계엄을 사전에 알지 못했고 실행에도 관여하지 않았다고 밝혔다. [출처](https://www.nocutnews.co.kr/news/6546742?utm_source=naver&utm_medium=article&utm_campaign=20260711082949)
 <!-- /agent:stances -->

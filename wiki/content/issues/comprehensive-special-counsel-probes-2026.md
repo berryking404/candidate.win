@@ -43,6 +43,6 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [원희룡](/people/won-hui-ryong) — **반대**: 양평고속도로 노선 변경 의혹과 관련한 특검 소환에 반발하며 ‘억지 부리지 말고 죄 있다면 체포하라’고 했다. [출처](https://www.newsis.com/view/NISX20260701_0003692251)
 - [김대기](/people/gim-dae-gi) — **지지**: 관저 이전 과정의 행정안전부 예산 불법 전용 지시 혐의를 부인하며 보석을 요청했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=1782982185&code=11131900&cp=nv)
 - [장동혁](/people/jang-dong-hyeok) — **반대**: 장동혁 대표는 재검표보다 특검 마무리가 더 중요하다고 말하며 특검 추진보다 다른 쟁점 처리에 우선순위를 뒀다. [출처](https://www.news1.kr/politics/assembly/6222186)
-- [강호필](/people/gang-ho-pil) — **반대**: 내란중요임무종사 혐의를 부인하며 계엄을 사전에 알지 못했고 실행에도 관여하지 않았다고 밝혔다. [출처](https://www.nocutnews.co.kr/news/6546742?utm_source=naver&utm_medium=article&utm_campaign=20260711082949)
-- [김태효](/people/gim-tae-hyo) — **혼합**: 계엄 정당화 메시지 전달 의혹으로 구속됐지만, 본인은 비상계엄 관여 의혹을 부인해 왔다. [출처](https://www.news.kbs.co.kr/news/pc/view/view.do?ncd=8608241&ref=A)
+- [강호필](/people/gang-ho-pil) — **지지**: 내란중요임무종사 혐의를 부인하며 계엄을 사전에 알지 못했고 실행에도 관여하지 않았다고 밝혔다. [출처](https://www.nocutnews.co.kr/news/6546742?utm_source=naver&utm_medium=article&utm_campaign=20260711082949)
+- [김태효](/people/gim-tae-hyo) — **지지**: 비상계엄 관여 의혹을 부인해 왔다. [출처](https://www.news.kbs.co.kr/news/pc/view/view.do?ncd=8608241&ref=A)
 <!-- /agent:stances -->

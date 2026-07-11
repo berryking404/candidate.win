@@ -146,13 +146,4 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [유찬종](/people/yu-chan-jong) — **지지**: 주차 행정 개선을 통해 골목상권에 활력을 불어넣겠다고 밝혔다. [출처](https://www.mt.co.kr/policy/2026/07/09/2026070914141880367)
 - [오세훈](/people/o-se-hun) — **지지**: 서울시 야간경제·야장 상권 확대와 골목상권 활성화를 추진했다. [출처](https://www.yna.co.kr/view/AKR20260710057451004?input=1195m)
 - [박성현](/people/bak-seong-hyeon) — **지지**: 소상공인 지원정책과 지역경제 선순환을 강조하며 실효성 있는 지원 확대를 약속했다. [출처](http://www.weeklytoday.com/news/articleView.html?idxno=784694)
-- [오세훈](/people/oh-sehoon) — **지지**: 상봉먹자골목 방문에서 골목상권과 야장 활성화를 강조하며 로컬브랜드 상권을 관광객이 찾는 골목경제 비밀병기로 키우겠다고 밝혔다. [출처](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539179)
-- [박관열](/people/park-gwan-yeol) — **지지**: 경기광주터미널이프라자상인회 출범 행사에서 지역 상권 활성화를 위한 새 도약을 축하했다. [출처](https://www.incheonilbo.com/news/articleView.html?idxno=1327064)
-- [김보라](/people/kim-bo-ra) — **지지**: 안성시 사회연대경제 기념행사에서 전통시장 활성화와 상인·교육·농촌 협동조합 지원 확대 의지를 밝혔다. [출처](http://www.fieldnews.kr/news/articleView.html?idxno=29897)
-- [김병삼](/people/kim-byeong-sam) — **지지**: 영천시 당정협의회에서 민생경제와 지역상권 활성화 등 생활밀착형 정책을 함께 추진하기로 했다. [출처](https://www.imaeil.com/page/view/2026071111503443904)
-- [최재구](/people/choi-jae-gu) — **지지**: 예산시장이 누적 방문객 확대와 지역 상권 활성화를 견인했다고 평가받는 성과를 공유했다. [출처](http://www.newsprime.co.kr/news/article.html?no=739955)
-- [송영길](/people/song-young-gil) — **지지**: 전통시장연합회 간담회에서 민생경제 회복과 국회 차원의 지원 의지를 밝혔다. [출처](https://www.ytn.co.kr/_ln/0101_202607111522468943)
-- [김윤기](/people/kim-yun-gi) — **지지**: 지역 상품권 사용 활성화를 통해 위축된 골목상권을 살리겠다고 밝혔다. [출처](https://www.jeonmae.co.kr/news/articleView.html?idxno=1273593)
-- [김원학](/people/kim-won-hak) — **지지**: 새벽 어판장·번개시장 점검에서 어업인과 소상공인 목소리를 반영한 지원책으로 지역경제 활성화를 추진하겠다고 했다. [출처](https://www.ajunews.com/view/20260711132140995)
-- [박창훈](/people/park-chang-hoon) — **지지**: 신한카드 디지털 온누리상품권 이벤트를 통해 전통시장과 소상공인 지원을 강화했다. [출처](https://www.webeconomy.co.kr/news/articleView.html?idxno=2229692)
 <!-- /agent:stances -->

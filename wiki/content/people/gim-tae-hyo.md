@@ -15,5 +15,5 @@ status: stub
 ## 이슈별 입장
 
 <!-- agent:stances -->
-- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **혼합**: 계엄 정당화 메시지 전달 의혹으로 구속됐지만, 본인은 비상계엄 관여 의혹을 부인해 왔다. [출처](https://www.news.kbs.co.kr/news/pc/view/view.do?ncd=8608241&ref=A)
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **지지**: 비상계엄 관여 의혹을 부인해 왔다. [출처](https://www.news.kbs.co.kr/news/pc/view/view.do?ncd=8608241&ref=A)
 <!-- /agent:stances -->

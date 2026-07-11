@@ -35,5 +35,4 @@ party: 더불어민주당
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **혼합**: 현실적 필요성은 인정하지만 국민정서와 과거사 문제를 이유로 지금은 어렵다고 했다. [출처](https://www.hani.co.kr/arti/politics/bluehouse/1262506.html)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **지지**: 한일 상호군수지원협정의 현실적 필요성을 인정하며 한일 군사협력의 속도를 강조했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003246239&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 서남권 첨단산업을 새 성장 거점으로 육성하고 대규모 AI·반도체 투자를 통해 지역 청년 일자리와 균형발전을 함께 추진하겠다는 입장을 밝혔다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=06825686645486968)
-- [전세·주거 불안과 지역 민생 (2026)](/issues/housing-jeonse-crisis-2026) — **중립**: 주거 불안에 대한 현장 목소리를 듣고 정책을 점검하겠다는 취지의 언급만 확인됐습니다. [출처](https://www.hankookilbo.com/news/article/A2026071016090004674?did=NA)
 <!-- /agent:stances -->

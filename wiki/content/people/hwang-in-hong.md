@@ -15,4 +15,5 @@ status: stub
 ## 이슈별 입장
 
 <!-- agent:stances -->
+- [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **지지**: 지방소멸 대응, 생활인구 확대, 재정 분권, 특별자치도 권한 강화를 강조했다. [출처](https://view.asiae.co.kr/article/2026071119210875203)
 <!-- /agent:stances -->

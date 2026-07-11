@@ -114,9 +114,4 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [전재수](/people/jeon-jae-su) — **지지**: 통합돌봄을 위한 조직 개편과 공공병원화, 재난·행정 분야 AI 도입을 주문했다. [출처](https://www.yna.co.kr/view/AKR20260709187800051?input=1195m)
 - [이병래](/people/i-byeong-rae) — **지지**: 타 지역 병원 퇴원 구민까지 세심하게 지원하고 초고령사회에 대응하는 남동구형 노인 통합돌봄 체계 강화를 추진했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3632628)
 - [김문수](/people/gim-mun-su) — **지지**: 저소득·단시간 노동자와 노무제공자의 고용보험 적용 범위를 넓혀 사각지대를 해소하겠다고 밝혔다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=03266886645513208)
-- [박영선](/people/parkyoungsun) — **지지**: 기술 혁명으로 인한 사회적 갈등에 대비해 정부가 사회적 안전망을 마련하고 국회와 균형을 찾아야 한다고 말했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=0030095661&code=61121111&cp=nv)
-- [진교훈](/people/jingyohun) — **지지**: 지역치안협의회 회의에서 경찰·소방 등과 함께 지역사회 안전망 구축 방안을 논의했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3632879)
-- [이찬진](/people/ichanjin) — **지지**: 금융시장 간담회 맥락에서 사회적 안전망을 정비하는 투트랙 행보를 언급했다. [출처](https://www.ebn.co.kr/news/articleView.html?idxno=1715988)
-- [김성주](/people/gimseongju) — **지지**: 국민연금공단이 고령화 대응 공로 표창을 받은 자리에서 인구구조 변화 대응의 성과가 확인됐다. [출처](http://www.jeonmin.co.kr/news/articleView.html?idxno=443143)
-- [김영인](/people/gimyeongin) — **지지**: 포항시의회 현장 방문에서 노인복지회관과 대한노인회를 찾아 초고령사회 대비 복지정책을 청취했다. [출처](https://www.news1.kr/local/daejeon-chungnam/6224992)
 <!-- /agent:stances -->

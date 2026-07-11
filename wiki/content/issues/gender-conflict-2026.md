@@ -55,5 +55,4 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [정회옥](/people/jeong-hoe-ok) — **지지**: 젠더를 3대 차별 축으로 보고 세대 갈등만으로 환원하지 말아야 한다고 강조했다. [출처](https://www.sisaon.co.kr/news/articleView.html?idxno=202547)
 - [함규진](/people/ham-gyu-jin) — **지지**: 세대·젠더 갈등 속 혐오 표현을 분석하며 차별 표현의 구조를 해설했다. [출처](https://www.newsis.com/view/NISX20260709_0003703334)
 - [박정숙](/people/bak-jeong-suk) — **지지**: 배제와 차별, 혐오가 만연한 사회 속에서 살아남은 장애 여성 생존자로서 차별 문제를 증언했다. [출처](https://www.ablenews.co.kr/news/articleView.html?idxno=231900)
-- [김다은](/people/gim-da-eun) — **반대**: 성차별적 구조가 전세계적으로 존재한다고 짚으며 구조적 성차별의 문제의식을 드러냈다. [출처](https://www.pressian.com/pages/articles/2026071017365745482?utm_source=naver&utm_medium=search)
 <!-- /agent:stances -->
