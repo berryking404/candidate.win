@@ -689,7 +689,7 @@ def run_radar(args: argparse.Namespace) -> int:
     json_path, md_path = save_outputs(candidates, closure_candidates, report)
     ticket = None
     if args.leantime:
-        ticket = create_leantime_report(report, json_path)
+        print("경고: --leantime 플래그는 비활성화되었습니다. 이슈 후보 리포트는 /today/ 공개 페이지로만 게시합니다.")
     print(report)
     print(f"\n저장: {json_path}\n리포트: {md_path}")
     if ticket:
