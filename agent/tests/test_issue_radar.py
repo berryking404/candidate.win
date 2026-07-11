@@ -91,7 +91,7 @@ def test_suppresses_directed_merge_topics_from_candidate_reports():
     assert not issue_radar.is_suppressed_candidate_topic(other)
 
 
-def test_render_report_contains_approval_instructions():
+def test_render_report_contains_public_today_instructions():
     cand = issue_radar.Candidate(
         title="국회 특검법 논란",
         keyword="특검법",
@@ -113,8 +113,10 @@ def test_render_report_contains_approval_instructions():
         signals={"window_days": 30, "recent_news_count": 0, "stance_count": 3, "issue_type": "event", "latest_source_date": "2026-01-01"},
     )
     report = issue_radar.render_report([cand], [closure], window_days=1)
-    assert "승인: 1,3" in report
-    assert "종료 승인: 1" in report
+    assert "공개 today 페이지" in report
+    assert "Leantime 승인/보고 티켓을 만들지 않" in report
+    assert "승인: 1,3" not in report
+    assert "종료 승인: 1" not in report
     assert "## B. 종료/전환 후보" in report
     assert "국회 특검법 논란" in report
     assert "오래된 사건형 이슈" in report

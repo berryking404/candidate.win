@@ -573,7 +573,7 @@ def render_report(candidates: list[Candidate], closure_candidates: list[ClosureC
         f"수집 범위: 최근 {window_days}일",
         f"생성 시각: {now}",
         "",
-        "Eric 승인 방법: 신규는 `승인: 1,3` / `반려: 2`, 종료는 `종료 승인: 1` / `종료 반려: 2`처럼 이 Leantime 티켓 댓글로 남기면 다음 LLM-managed 적용 작업에서 반영합니다. 병합/monitoring/mature 권고는 수동 검토 대상으로 보고합니다.",
+        "확인 방법: 이 후보 목록은 공개 today 페이지(`/today/`) 표시용입니다. Leantime 승인/보고 티켓을 만들지 않으며, 정식 이슈 등록·종료는 별도 편집 지시가 있을 때만 처리합니다.",
         "",
         "## A. 신규 이슈 후보",
         "",
