@@ -2,6 +2,21 @@
 <h1>캔디데이트</h1>
 <p>{{ .Site.Params.description }}</p>
 
+{{- $todayItems := first 3 (default slice .Site.Data.today.items) }}
+{{- if $todayItems }}
+<h2>오늘의 화제</h2>
+<div class="section-grid today-grid">
+  {{- range $todayItems }}
+  <a class="card today-card" href="{{ "/today/" | relURL }}">
+    <h3>{{ .rank }}. {{ .title }}</h3>
+    <p><span class="badge badge-active">{{ .status }}</span></p>
+    <p>{{ .summary | truncate 70 }}</p>
+  </a>
+  {{- end }}
+</div>
+<p><a href="{{ "/today/" | relURL }}">오늘의 화제 전체 보기 →</a></p>
+{{- end }}
+
 <h2>최근 업데이트된 인물</h2>
 {{- $people := where .Site.RegularPages "Section" "people" }}
 <div class="section-grid">
