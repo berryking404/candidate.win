@@ -1,0 +1,14 @@
+slug: i-ho-seon
+name_ko: 이호선
+name_en: null
+party: null
+role: 상담 전문가, 방송인
+status: stub
+aliases:
+- 이호선의 사이다
+discovered_via_issue: gender-conflict-2026
+discovered_at: '2026-07-11'
+sources:
+  news_keywords:
+  - 이호선
+  youtube_channels: []
