@@ -1,5 +1,5 @@
-generated_at: '2026-07-11T10:43:10+00:00'
-source_date: 2026-07-11T104310Z
+generated_at: '2026-07-11T23:01:41+00:00'
+source_date: 2026-07-11T230137Z
 window_hours: 72
 items:
 - rank: 1
@@ -36,39 +36,23 @@ items:
     url: https://www.ekn.kr/web/view.php?key=20260710020521319
   related_issue: martial-law-incident-2025
 - rank: 3
-  title: 나경원 "대법원이 노란봉투법 근거 뒤집어… 재개정안 발의"
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 5건, 매체 5곳에서 확인된 공적 쟁점입니다.
+  title: 철거 인력단가 급등의 현실과 대책
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 15건, 매체 12곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 5
-    outlet_count: 5
-    public_actor: 확인 중
+    news_count: 15
+    outlet_count: 12
+    public_actor: 정부
   sources:
-  - title: 나경원 “대법원이 노란봉투법 뿌리 잘라…즉각 폐지해야”
-    url: https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260711502&PRO_CODE=99
-  - title: 나경원 "대법원이 노란봉투법 근거 뒤집어… 재개정안 발의"
-    url: https://www.daejonilbo.com/news/articleView.html?idxno=2287245
-  - title: 나경원, 노란봉투법 재개정 발의... "사용자 범위·경영권 보호 강화"
-    url: https://www.tournews21.com/news/articleView.html?idxno=138383
+  - title: 英 데이터센터 건립 두고 환경 파괴 우려 '갈등' 수면위로
+    url: https://www.dongascience.com/news/view/78883
+  - title: 수도권 내 규제지역 확대, 분양시장서 비규제지역으로 수요 이동
+    url: https://www.dailian.co.kr/news/view/1665742/?sc=Naver
+  - title: 돌아온 李대통령, 3대 메가프로젝트, 부동산 정책 등 등 현안 대응
+    url: https://www.kyeonggi.com/article/20260712580003
 - rank: 4
-  title: 나경원 "대법원이 노란봉투법 근거 뒤집어… 재개정안 발의"
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 5건, 매체 5곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 5
-    outlet_count: 5
-    public_actor: 확인 중
-  sources:
-  - title: 나경원 “대법원이 노란봉투법 뿌리 잘라…즉각 폐지해야”
-    url: https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260711502&PRO_CODE=99
-  - title: 나경원 "대법원이 노란봉투법 근거 뒤집어… 재개정안 발의"
-    url: https://www.daejonilbo.com/news/articleView.html?idxno=2287245
-  - title: 나경원, 노란봉투법 재개정 발의... "사용자 범위·경영권 보호 강화"
-    url: https://www.tournews21.com/news/articleView.html?idxno=138383
-- rank: 5
-  title: 민주당, 전대 '선호투표제' 도입 두고 친명 vs 친청 갈등…심야 최고위 불발 [이런정치]
+  title: 임이자 "노란봉투법, 불법파업 조장 우려"…민주당 입법 폭주 비판
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -77,5 +61,5 @@ items:
     outlet_count: 1
     public_actor: 민주당
   sources:
-  - title: 민주당, 전대 ‘선호투표제’ 도입 두고 친명 vs 친청 갈등…심야 최고...
-    url: https://biz.heraldcorp.com/article/10805483?ref=naver
+  - title: 임이자 "노란봉투법, 불법파업 조장 우려"…민주당 입법 폭주 비판
+    url: https://www.gukjenews.com/news/articleView.html?idxno=3633103
