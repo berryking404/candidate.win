@@ -1,9 +1,9 @@
 slug: im-o-gyeong
 name_ko: 임오경
 name_en: null
-party: null
-role: 더불어민주당 의원
-status: stub
+party: 더불어민주당
+role: 국회의원
+status: curated
 aliases:
 - 임오경
 discovered_via_issue: election-commission-management-controversy-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 임오경
   youtube_channels: []
+  source_urls:
+  - https://www.assembly.go.kr/portal/assm/assmMemb/memberProfile.do?monaCd=4T026790&st=22&viewType=CONTBODY

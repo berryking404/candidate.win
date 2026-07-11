@@ -2,7 +2,7 @@
 title: 변금선
 slug: byeon-geum-seon
 role: 서울연구원 인구변화대응센터장
-status: stub
+status: curated
 ---
 
 ## 행적

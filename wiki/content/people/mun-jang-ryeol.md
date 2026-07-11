@@ -2,7 +2,7 @@
 title: 문장렬
 slug: mun-jang-ryeol
 role: 전 국방대학교 교수
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 한문도
 slug: han-mun-do
 role: 명지대 대학원 겸임교수
-status: stub
+status: curated
 ---
 
 ## 행적

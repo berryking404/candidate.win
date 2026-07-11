@@ -2,7 +2,7 @@
 title: 노동진
 slug: no-dong-jin
 role: 수협 회장
-status: stub
+status: curated
 ---
 
 ## 행적

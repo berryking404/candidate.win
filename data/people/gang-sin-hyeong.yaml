@@ -3,7 +3,7 @@ name_ko: 강신형
 name_en: null
 party: null
 role: 세무사
-status: stub
+status: curated
 aliases:
 - 세무사 강신형
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 강신형
   youtube_channels: []
+  source_urls:
+  - https://www.kacpta.or.kr/seoul/intro/introduce.asp?pos_key=84

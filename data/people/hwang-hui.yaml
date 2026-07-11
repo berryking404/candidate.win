@@ -1,9 +1,9 @@
 slug: hwang-hui
 name_ko: 황희
 name_en: null
-party: null
-role: 더불어민주당 의원, 양천갑 3선 의원
-status: stub
+party: 더불어민주당
+role: 국회의원
+status: curated
 aliases:
 - 황희
 discovered_via_issue: housing-jeonse-crisis-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 황희
   youtube_channels: []
+  source_urls:
+  - https://mbiz.heraldcorp.com/article/10695360

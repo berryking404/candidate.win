@@ -2,8 +2,8 @@ slug: yu-chan-jong
 name_ko: 유찬종
 name_en: null
 party: null
-role: 종로구청장
-status: stub
+role: 서울 종로구청장
+status: curated
 aliases:
 - 유찬종 종로구청장
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 유찬종
   youtube_channels: []
+  source_urls:
+  - https://www.mt.co.kr/policy/2026/05/11/2026051110291887259

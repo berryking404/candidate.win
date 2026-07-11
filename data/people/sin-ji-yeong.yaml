@@ -3,7 +3,7 @@ name_ko: 신지영
 name_en: null
 party: null
 role: 고려대 교수
-status: stub
+status: curated
 aliases:
 - 신지영 교수
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 신지영
   youtube_channels: []
+  source_urls:
+  - https://www.seoul.co.kr/news/editOpinion/world-stories/2022/03/15/20220315029010

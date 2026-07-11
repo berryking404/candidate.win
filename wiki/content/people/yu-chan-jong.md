@@ -1,8 +1,8 @@
 ---
 title: 유찬종
 slug: yu-chan-jong
-role: 종로구청장
-status: stub
+role: 서울 종로구청장
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 최황수
 slug: choe-hwang-su
 role: 건국대 부동산대학원 교수
-status: stub
+status: curated
 ---
 
 ## 행적

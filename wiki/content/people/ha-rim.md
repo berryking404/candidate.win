@@ -2,7 +2,7 @@
 title: 하림
 slug: ha-rim
 role: 가수
-status: stub
+status: curated
 ---
 
 ## 행적

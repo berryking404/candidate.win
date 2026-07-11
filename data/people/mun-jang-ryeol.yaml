@@ -3,7 +3,7 @@ name_ko: 문장렬
 name_en: null
 party: null
 role: 전 국방대학교 교수
-status: stub
+status: curated
 aliases:
 - 문장렬
 discovered_via_issue: opcon-transfer-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 문장렬
   youtube_channels: []
+  source_urls:
+  - https://www.koreadiplomacyplaza.com/%EC%9E%84%EC%9B%90-%EB%B0%8F-%EC%9A%B4%EC%98%81%EC%9C%84%EC%9B%90/view/3660761

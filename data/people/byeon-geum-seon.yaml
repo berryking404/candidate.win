@@ -3,7 +3,7 @@ name_ko: 변금선
 name_en: null
 party: null
 role: 서울연구원 인구변화대응센터장
-status: stub
+status: curated
 aliases:
 - 변금선
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 변금선
   youtube_channels: []
+  source_urls:
+  - https://www.si.re.kr/bbs/view.do?key=2024100039&pstSn=2601260007

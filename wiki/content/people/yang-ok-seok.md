@@ -2,7 +2,7 @@
 title: 양옥석
 slug: yang-ok-seok
 role: 중기중앙회 인력정책본부장
-status: stub
+status: curated
 ---
 
 ## 행적

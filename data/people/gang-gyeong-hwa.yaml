@@ -3,7 +3,7 @@ name_ko: 강경화
 name_en: null
 party: null
 role: 주미대사
-status: stub
+status: curated
 aliases:
 - 강경화
 discovered_via_issue: opcon-transfer-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 강경화
   youtube_channels: []
+  source_urls:
+  - https://www.newsis.com/view/NISX20251007_0003356285

@@ -2,7 +2,7 @@
 title: 함규진
 slug: ham-gyu-jin
 role: 서울교대 윤리학과 교수
-status: stub
+status: curated
 ---
 
 ## 행적

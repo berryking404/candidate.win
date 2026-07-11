@@ -3,7 +3,7 @@ name_ko: 최황수
 name_en: null
 party: null
 role: 건국대 부동산대학원 교수
-status: stub
+status: curated
 aliases:
 - 최황수 교수
 discovered_via_issue: housing-jeonse-crisis-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최황수
   youtube_channels: []
+  source_urls:
+  - https://www.mk.co.kr/news/special-edition/11217607

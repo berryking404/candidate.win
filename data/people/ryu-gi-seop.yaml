@@ -3,7 +3,7 @@ name_ko: 류기섭
 name_en: null
 party: null
 role: 한국노총 사무총장
-status: stub
+status: curated
 aliases:
 - 류기섭 한국노총 위원
 - 류기섭 한국노총 사무총장
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 류기섭
   youtube_channels: []
+  source_urls:
+  - http://inochong.org/report/422384

@@ -2,7 +2,7 @@
 title: 강경화
 slug: gang-gyeong-hwa
 role: 주미대사
-status: stub
+status: curated
 ---
 
 ## 행적

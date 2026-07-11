@@ -2,7 +2,7 @@
 title: 서미화
 slug: seo-mi-hwa
 role: 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적

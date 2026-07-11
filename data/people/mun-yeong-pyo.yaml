@@ -3,7 +3,7 @@ name_ko: 문영표
 name_en: null
 party: null
 role: 서울시농수산식품공사 사장
-status: stub
+status: curated
 aliases:
 - 문영표 사장
 discovered_via_issue: energy-price-inflation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 문영표
   youtube_channels: []
+  source_urls:
+  - https://www.garak.co.kr/homepage/M0000147/content/view.do

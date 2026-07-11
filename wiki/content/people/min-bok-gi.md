@@ -2,7 +2,7 @@
 title: 민복기
 slug: min-bok-gi
 role: 메디시티협의회장
-status: stub
+status: curated
 ---
 
 ## 행적

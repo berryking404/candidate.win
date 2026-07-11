@@ -2,7 +2,7 @@
 title: 박정숙
 slug: bak-jeong-suk
 role: 장애인 인권운동 활동가·시인
-status: stub
+status: curated
 ---
 
 ## 행적

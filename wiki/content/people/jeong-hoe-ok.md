@@ -2,7 +2,7 @@
 title: 정회옥
 slug: jeong-hoe-ok
 role: 교수
-status: stub
+status: curated
 ---
 
 ## 행적

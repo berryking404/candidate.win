@@ -3,7 +3,7 @@ name_ko: 한덕재
 name_en: null
 party: null
 role: 인구보건복지협회 인천지회 본부장
-status: stub
+status: curated
 aliases:
 - 한덕재
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 한덕재
   youtube_channels: []
+  source_urls:
+  - https://www.ppfk.or.kr/promotion/interview-detail/362

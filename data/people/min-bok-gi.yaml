@@ -3,7 +3,7 @@ name_ko: 민복기
 name_en: null
 party: null
 role: 메디시티협의회장
-status: stub
+status: curated
 aliases:
 - 민복기
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 민복기
   youtube_channels: []
+  source_urls:
+  - https://kormedi.com/2806573/

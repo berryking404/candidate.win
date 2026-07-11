@@ -2,7 +2,7 @@
 title: 신지영
 slug: sin-ji-yeong
 role: 고려대 교수
-status: stub
+status: curated
 ---
 
 ## 행적

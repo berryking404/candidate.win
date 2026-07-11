@@ -2,7 +2,7 @@
 title: 성재민
 slug: seong-jae-min
 role: 공익위원 간사
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -1,8 +1,9 @@
 ---
 title: 임오경
 slug: im-o-gyeong
-role: 더불어민주당 의원
-status: stub
+role: 국회의원
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

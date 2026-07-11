@@ -2,7 +2,7 @@
 title: 배종호
 slug: bae-jong-ho
 role: 국방홍보원장
-status: stub
+status: curated
 ---
 
 ## 행적

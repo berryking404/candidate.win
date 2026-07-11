@@ -1,9 +1,9 @@
 slug: mun-jeong-u
 name_ko: 문정우
 name_en: null
-party: null
-role: 군수
-status: stub
+party: 더불어민주당
+role: 충남 금산군수
+status: curated
 aliases:
 - 금산군수
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 문정우
   youtube_channels: []
+  source_urls:
+  - https://www.jbnews.com/news/articleView.html?idxno=1505369

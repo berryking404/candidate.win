@@ -2,7 +2,7 @@
 title: 류기섭
 slug: ryu-gi-seop
 role: 한국노총 사무총장
-status: stub
+status: curated
 ---
 
 ## 행적

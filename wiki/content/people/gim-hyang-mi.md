@@ -2,7 +2,7 @@
 title: 김향미
 slug: gim-hyang-mi
 role: 부천시 복지정책과장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -3,7 +3,7 @@ name_ko: 박정숙
 name_en: null
 party: null
 role: 장애인 인권운동 활동가·시인
-status: stub
+status: curated
 aliases:
 - 박정숙
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 박정숙
   youtube_channels: []
+  source_urls:
+  - https://www.ablenews.co.kr/news/articleView.html?idxno=231900

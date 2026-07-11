@@ -1,9 +1,9 @@
 slug: gim-jeong-jae
 name_ko: 김정재
 name_en: null
-party: null
-role: 국민의힘 의원
-status: stub
+party: 국민의힘
+role: 국회의원
+status: curated
 aliases:
 - 김정재 의원
 discovered_via_issue: election-commission-management-controversy-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김정재
   youtube_channels: []
+  source_urls:
+  - https://www.assembly.go.kr/members/22nd/KIMJUNGJAE

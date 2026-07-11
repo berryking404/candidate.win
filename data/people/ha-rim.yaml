@@ -3,7 +3,7 @@ name_ko: 하림
 name_en: null
 party: null
 role: 가수
-status: stub
+status: curated
 aliases:
 - 하림 씨
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 하림
   youtube_channels: []
+  source_urls:
+  - https://v.daum.net/v/GVMjslloeS

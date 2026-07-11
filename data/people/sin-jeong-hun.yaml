@@ -1,9 +1,9 @@
 slug: sin-jeong-hun
 name_ko: 신정훈
 name_en: null
-party: null
+party: 더불어민주당
 role: 국회의원
-status: stub
+status: curated
 aliases:
 - 신 의원
 - 신정훈 의원
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 신정훈
   youtube_channels: []
+  source_urls:
+  - https://www.nocutnews.co.kr/news/6081774

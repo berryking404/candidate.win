@@ -2,7 +2,7 @@
 title: 한덕재
 slug: han-deok-jae
 role: 인구보건복지협회 인천지회 본부장
-status: stub
+status: curated
 ---
 
 ## 행적

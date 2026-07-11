@@ -2,7 +2,7 @@
 title: 강신형
 slug: gang-sin-hyeong
 role: 세무사
-status: stub
+status: curated
 ---
 
 ## 행적

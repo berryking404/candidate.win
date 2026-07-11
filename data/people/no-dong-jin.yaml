@@ -3,7 +3,7 @@ name_ko: 노동진
 name_en: null
 party: null
 role: 수협 회장
-status: stub
+status: curated
 aliases:
 - 노동진 회장
 discovered_via_issue: energy-price-inflation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 노동진
   youtube_channels: []
+  source_urls:
+  - https://www.businesspost.co.kr/BP?command=article_view&num=373157

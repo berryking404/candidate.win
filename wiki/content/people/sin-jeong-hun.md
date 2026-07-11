@@ -2,7 +2,8 @@
 title: 신정훈
 slug: sin-jeong-hun
 role: 국회의원
-status: stub
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적
