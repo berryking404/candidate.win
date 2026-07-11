@@ -1,0 +1,15 @@
+slug: ha-me-ne-i
+name_ko: 하메네이
+name_en: null
+party: null
+role: 이란 최고지도자
+status: stub
+aliases:
+- 아야톨라 하메네이
+- 알리 하메네이
+discovered_via_issue: hormuz-blockade-us-reduction-2026
+discovered_at: '2026-07-11'
+sources:
+  news_keywords:
+  - 하메네이
+  youtube_channels: []
