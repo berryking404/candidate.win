@@ -45,4 +45,7 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [장동혁](/people/jang-dong-hyeok) — **반대**: 장동혁 대표는 재검표보다 특검 마무리가 더 중요하다고 말하며 특검 추진보다 다른 쟁점 처리에 우선순위를 뒀다. [출처](https://www.news1.kr/politics/assembly/6222186)
 - [강호필](/people/gang-ho-pil) — **지지**: 내란중요임무종사 혐의를 부인하며 계엄을 사전에 알지 못했고 실행에도 관여하지 않았다고 밝혔다. [출처](https://www.nocutnews.co.kr/news/6546742?utm_source=naver&utm_medium=article&utm_campaign=20260711082949)
 - [김태효](/people/gim-tae-hyo) — **지지**: 비상계엄 관여 의혹을 부인해 왔다. [출처](https://www.news.kbs.co.kr/news/pc/view/view.do?ncd=8608241&ref=A)
+- [신원식](/people/sin-won-sik) — **반대**: 종합특검의 수사 기간 연장과 수사 전략을 비판하며, 특검의 후반기 집중 수사를 '궁색한 변명'으로 평가했다. [출처](https://www.khan.co.kr/article/202607121721001)
+- [강호필](/people/gang-ho-pil) — **중립**: 종합특검이 내란 가담 의혹으로 구속영장을 청구하며 수사 대상으로 올랐다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260712083401lf9)
+- [김태효](/people/gim-tae-hyo) — **중립**: 종합특검 조사에서 계엄 정당화 메시지 관련 진술이 인용되며 구속된 것으로 보도됐다. [출처](https://news.jtbc.co.kr/article/NB12307857?influxDiv=NAVER)
 <!-- /agent:stances -->
