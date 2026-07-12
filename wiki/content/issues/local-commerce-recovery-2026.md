@@ -146,4 +146,8 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [유찬종](/people/yu-chan-jong) — **지지**: 주차 행정 개선을 통해 골목상권에 활력을 불어넣겠다고 밝혔다. [출처](https://www.mt.co.kr/policy/2026/07/09/2026070914141880367)
 - [오세훈](/people/o-se-hun) — **지지**: 서울시 야간경제·야장 상권 확대와 골목상권 활성화를 추진했다. [출처](https://www.yna.co.kr/view/AKR20260710057451004?input=1195m)
 - [박성현](/people/bak-seong-hyeon) — **지지**: 소상공인 지원정책과 지역경제 선순환을 강조하며 실효성 있는 지원 확대를 약속했다. [출처](http://www.weeklytoday.com/news/articleView.html?idxno=784694)
+- [박경환](/people/bak-gyeong-hwan) — **지지**: 공공배달 경쟁력 강화와 금융·생애주기별 맞춤 지원 등 소상공인 지원 정책을 속도감 있게 추진하겠다고 밝혔다. [출처](https://www.khan.co.kr/article/202607122045025)
+- [박준희](/people/pak-jun-hui) — **지지**: 관악산 방문객을 하산 후 골목상권과 맛집 소비로 연결해 상권을 살리겠다는 구상을 밝혔다. [출처](https://www.khan.co.kr/article/202607122045035)
+- [최은석](/people/choe-eun-seok) — **지지**: 폐업 소상공인에게 재기용 금융지원과 채무조정이 필요하다는 취지의 법안을 대표발의했다. [출처](https://www.imaeil.com/page/view/2026071217450150880)
+- [한성숙](/people/han-seong-suk) — **중립**: 열린 브런치를 통해 소상공인 등 현장의 목소리를 듣고 정책으로 연결하겠다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260712042400001?input=1195m)
 <!-- /agent:stances -->
