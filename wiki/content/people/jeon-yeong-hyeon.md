@@ -16,4 +16,5 @@ party: 무소속
 <!-- agent:stances -->
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **중립**: 삼성전자 부회장으로 노사 협의에 참여했지만 이슈 텍스트에서 직접적인 찬반 입장은 확인되지 않았다. [출처](https://www.hankyung.com/article/202605106723g)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **반대**: 파업 국면 속에서도 임원들에게 흔들림 없는 경영과 경쟁력 유지를 당부하며 쟁의 강행에 우려를 드러냈다. [출처](https://imnews.imbc.com/news/2026/econo/article/6822673_36932.html)
+- [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 서남권 반도체 투자 확대와 함께 지역 인재 육성 생태계를 구축하는 흐름을 설명했다. [출처](https://www.topstarnews.net/news/articleView.html?idxno=16132108)
 <!-- /agent:stances -->

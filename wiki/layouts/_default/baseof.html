@@ -133,9 +133,6 @@
   </div>
 
   <script>
-    const _REPO = "berryking404/candidate.win";
-    const _TOKEN = "{{ os.Getenv `CANDYDATE_ISSUES_TOKEN` }}";
-
     function openReportModal(type, pageUrl) {
       document.getElementById("report-type").value = type;
       document.getElementById("report-page").value = pageUrl || window.location.href;
@@ -156,46 +153,10 @@
       el.style.color = color;
       el.style.display = text ? "block" : "none";
     }
-    async function submitReport() {
-      const type = document.getElementById("report-type").value;
-      const page = document.getElementById("report-page").value;
+    function submitReport() {
       const desc = document.getElementById("report-desc").value.trim();
-      const src  = document.getElementById("report-source").value.trim();
       if (!desc) { _setMsg("오류 내용을 입력해 주세요.", "#c00"); return; }
-
-      const btn = document.getElementById("report-submit");
-      btn.disabled = true;
-      btn.textContent = "제출 중…";
-      _setMsg("", "");
-
-      const label = type === "correction" ? "correction" : "takedown";
-      const title = (type === "correction" ? "[정정] " : "[삭제] ") + page;
-      const body  = `**페이지**: ${page}\n\n**내용**\n${desc}` + (src ? `\n\n**출처**\n${src}` : "");
-
-      try {
-        const res = await fetch(
-          `https://api.github.com/repos/${_REPO}/issues`,
-          {
-            method: "POST",
-            headers: {
-              "Authorization": `Bearer ${_TOKEN}`,
-              "Accept": "application/vnd.github+json",
-              "Content-Type": "application/json",
-            },
-            body: JSON.stringify({ title, body, labels: [label] }),
-          }
-        );
-        if (res.ok) {
-          closeReportModal();
-          alert("요청이 성공적으로 접수되었습니다.");
-        } else {
-          throw new Error(res.status);
-        }
-      } catch (e) {
-        _setMsg("제출 중 오류가 발생했습니다. 잠시 후 다시 시도해 주세요.", "#c00");
-        btn.disabled = false;
-        btn.textContent = "제출";
-      }
+      _setMsg("현재 사이트 내 접수 기능을 점검 중입니다. 요청 페이지, 내용, 출처를 복사해 운영자에게 전달해 주세요.", "#444");
     }
     document.getElementById("report-overlay").addEventListener("click", function(e) {
       if (e.target === this) closeReportModal();
