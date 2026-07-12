@@ -1,42 +1,9 @@
-generated_at: '2026-07-11T23:01:41+00:00'
-source_date: 2026-07-11T230137Z
+generated_at: '2026-07-12T23:01:19+00:00'
+source_date: 2026-07-12T230119Z
 window_hours: 72
 items:
 - rank: 1
-  title: 정이한 피습 사건 '자작극' 논란…국민의힘·한동훈 "경찰 인지 시점 밝...
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 15건, 매체 15곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 15
-    outlet_count: 15
-    public_actor: 개혁신당, 국민의힘, 민주당, 의원
-  sources:
-  - title: 정이한 피습 사건 '자작극' 논란…국민의힘·한동훈 "경찰 인지 시점 밝...
-    url: https://www.ppss.kr/news/articleView.html?idxno=301816
-  - title: '[토요와이드] ''보완수사권 폐지'' 충돌…민주당 ''룰의 전쟁'' 격화'
-    url: http://www.yonhapnewstv.co.kr/news/MYH20260711130109aCA
-  - title: 국민의힘 장동혁·정점식, “여정권 선거카르텔·꼼수특검 정면 저격”
-    url: http://www.breaknews.com/1221023
-- rank: 2
-  title: '[속보] “李 대통령 탄핵하라”... 청원 50만 돌파'
-  status: 기존 이슈와 함께 검토
-  score: 7
-  summary: 최근 보도 6건, 매체 4곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 6
-    outlet_count: 4
-    public_actor: 국민의힘, 대변인, 의원, 장관
-  sources:
-  - title: '[정국인터뷰] 서영석 의원 "정권재창출이 최대의 개혁"…경기도당위원...'
-    url: https://www.polinews.co.kr/news/articleView.html?idxno=736722
-  - title: 국민의힘 장동혁·정점식, “여정권 선거카르텔·꼼수특검 정면 저격”
-    url: http://www.breaknews.com/1221023
-  - title: 안규백 탈영·檢 보완수사권 폐지…野, ‘투트랙 공세’ 나선 이유
-    url: https://www.ekn.kr/web/view.php?key=20260710020521319
-  related_issue: martial-law-incident-2025
-- rank: 3
-  title: 철거 인력단가 급등의 현실과 대책
+  title: 정부 '야외작업 중단' 폭염 대응 강화
   status: 정식 검토
   score: 7
   summary: 최근 보도 15건, 매체 12곳에서 확인된 공적 쟁점입니다.
@@ -45,14 +12,80 @@ items:
     outlet_count: 12
     public_actor: 정부
   sources:
-  - title: 英 데이터센터 건립 두고 환경 파괴 우려 '갈등' 수면위로
-    url: https://www.dongascience.com/news/view/78883
-  - title: 수도권 내 규제지역 확대, 분양시장서 비규제지역으로 수요 이동
-    url: https://www.dailian.co.kr/news/view/1665742/?sc=Naver
-  - title: 돌아온 李대통령, 3대 메가프로젝트, 부동산 정책 등 등 현안 대응
-    url: https://www.kyeonggi.com/article/20260712580003
+  - title: SK하이닉스, 美 나스닥 상장…하루 만에 13% 뛰어[간추린 주말 뉴스]
+    url: https://www.newsis.com/view/NISX20260712_0003705907
+  - title: “심각한 인명 피해 가능성”…극한 폭염 언제까지?
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608661&ref=A
+  - title: “심각한 인명 피해 가능성”…극한 폭염 언제까지?
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8608553&ref=A
+- rank: 2
+  title: 포항·경산 ‘폭염중대경보’에 범정부 대응 강화…현장상황관리관 파견
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 15건, 매체 14곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 15
+    outlet_count: 14
+    public_actor: 정부
+  sources:
+  - title: 체감 40℃…포항·경산 '살인더위'
+    url: https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078114
+  - title: 18년 만의 첫 ‘폭염중대경보’ 포항·경산 덮쳐
+    url: https://www.ksmnews.co.kr/news/view.php?idx=613170
+  - title: 쪽방촌 예찰 강화…폭염시간대 작업 중단
+    url: https://www.sedaily.com/article/20066731?ref=naver
+- rank: 3
+  title: 폭염중대경보 첫 발령에 범정부 총력대응…포항·경산 현장점검
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 6건, 매체 6곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 6
+    outlet_count: 6
+    public_actor: 정부
+  sources:
+  - title: 하양읍 최고 39.9도…경산·포항 첫 ‘폭염중대경보’ 발령
+    url: https://www.khan.co.kr/article/202607122059005
+  - title: 사상 첫 '폭염 중대경보'…정부, 취약계층 보호·야외작업 점검 총력
+    url: https://www.news1.kr/society/environment/6225453
+  - title: 포항·경산에 첫 '폭염중대경보'…정부, 야외작업 중지 등 총력 대응
+    url: https://www.sjsori.com/news/articleView.html?idxno=87548
 - rank: 4
-  title: 임이자 "노란봉투법, 불법파업 조장 우려"…민주당 입법 폭주 비판
+  title: “국민의힘 김성원 의원, 지방선거 단체장 공천 의혹 급증(急增)!”
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 0
+    outlet_count: 0
+    public_actor: 국민의힘, 의원
+  sources: []
+- rank: 5
+  title: 포항·경산 첫 '폭염중대경보'…행정안전부 "범정부 대응"
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 포항·경산 첫 ‘폭염중대경보’…행정안전부 "범정부 대응"
+    url: https://www.news1.kr/local/daegu-gyeongbuk/6225397
+- rank: 6
+  title: 전시 허위 정보 위협 대응…한미 軍·정부 첫 연합 도상훈련 실시
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 현대전 무기 된 SNS 허위정보…한미 軍·정부 첫 연합 도상훈련
+    url: https://www.donga.com/news/Politics/article/all/20260712/134280663/1
+- rank: 7
+  title: 민주당 군산, 선거 끝나도 계파갈등 ‘현재진행형’
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -61,5 +94,5 @@ items:
     outlet_count: 1
     public_actor: 민주당
   sources:
-  - title: 임이자 "노란봉투법, 불법파업 조장 우려"…민주당 입법 폭주 비판
-    url: https://www.gukjenews.com/news/articleView.html?idxno=3633103
+  - title: 민주당 군산, 선거 끝나도 계파갈등 ‘현재진행형’
+    url: https://www.jjan.kr/article/20260712500177
