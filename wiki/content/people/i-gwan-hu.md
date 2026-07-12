@@ -2,7 +2,7 @@
 title: 이관후
 slug: i-gwan-hu
 role: 국회입법조사처장
-status: stub
+status: curated
 ---
 
 ## 행적

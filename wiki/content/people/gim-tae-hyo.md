@@ -2,7 +2,7 @@
 title: 김태효
 slug: gim-tae-hyo
 role: 전 국가안보실 1차장
-status: stub
+status: curated
 ---
 
 ## 행적

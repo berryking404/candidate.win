@@ -2,7 +2,7 @@
 title: 강호필
 slug: gang-ho-pil
 role: 전 육군 지상작전사령관
-status: stub
+status: curated
 ---
 
 ## 행적

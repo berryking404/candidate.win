@@ -3,7 +3,7 @@ name_ko: 조수진
 name_en: null
 party: null
 role: 노무현재단 이사·변호사
-status: stub
+status: curated
 aliases:
 - 조수진
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 조수진
   youtube_channels: []
+  source_urls:
+  - https://www.ize.co.kr/news/articleView.html?idxno=78714

@@ -3,7 +3,7 @@ name_ko: 이동진
 name_en: null
 party: null
 role: 청와대 비서관
-status: stub
+status: curated
 aliases:
 - 이 비서관
 discovered_via_issue: energy-price-inflation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이동진
   youtube_channels: []
+  source_urls:
+  - https://www.mt.co.kr/politics/2026/07/10/2026071018314280844

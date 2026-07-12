@@ -2,7 +2,7 @@
 title: 조수진
 slug: jo-su-jin
 role: 노무현재단 이사·변호사
-status: stub
+status: curated
 ---
 
 ## 행적

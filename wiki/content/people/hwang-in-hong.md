@@ -2,7 +2,7 @@
 title: 황인홍
 slug: hwang-in-hong
 role: 전북 시장·군수협의회장
-status: stub
+status: curated
 ---
 
 ## 행적

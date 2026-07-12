@@ -2,7 +2,7 @@
 title: 이동진
 slug: i-dong-jin
 role: 청와대 비서관
-status: stub
+status: curated
 ---
 
 ## 행적
