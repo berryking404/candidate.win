@@ -49,4 +49,9 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [오세훈](/people/o-se-hun) — **지지**: 윤석열 전 대통령의 잘못된 판단을 비판하면서도 특검 공세를 정치적 카드로 과도하게 쓰면 안 된다고 말했다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260704020151004?input=1195m)
 - [조경태](/people/jo-gyeong-tae) — **지지**: 윤석열 전 대통령과 장동혁 대표를 강하게 비판하며 특검·사법 판단을 존중하는 쪽으로 기울었다. [출처](https://www.newsis.com/view/NISX20260708_0003701258)
 - [윤석열](/people/yun-seok-yeol) — **혼합**: 계엄·탄핵심판 국면에서 ‘하이브리드전’과 선거개입설을 거론하며 정당성을 주장했지만, 수사·재판 대응에 집중하는 모습도 보였다. [출처](https://www.hani.co.kr/arti/society/society_general/1267726.html)
+- [김건희](/people/gim-geon-hui) — **반대**: 도이치모터스 주가조작 관련 대법 선고가 임박했고, 특검과 당사자 측이 상고심 판단을 기다리는 상황이다. [출처](https://www.yonhapnewstv.co.kr/news/MYH20260712143212h8s)
+- [명태균](/people/myeong-tae-gyun) — **반대**: 명태균 여론조사 수수 혐의와 연관된 윤석열 전 대통령 재판 흐름 속에서 핵심 연루 인물로 거론된다. [출처](https://www.yonhapnewstv.co.kr/news/MYH20260712143212h8s)
+- [장동혁](/people/jang-dong-hyeok) — **혼합**: 탄핵 정국의 반탄 핵심으로 부상했지만, 특검·탄핵 사태에 대한 직접 입장은 기사에서 구체화되지 않았다. [출처](https://www.viva100.com/article/20260712500248)
+- [손수조](/people/son-su-jo) — **반대**: 윤석열 전 대통령의 장기 구금 가능성을 언급하며 강성 친윤·반탄 정서를 드러냈다. [출처](https://www.ikbc.co.kr/article/view/kbc202607120024)
+- [김민석](/people/gim-min-seok) — **중립**: 기사에서는 신천지 전대 개입과 이중당적 청산을 강조했을 뿐, 이번 이슈의 특검·탄핵 사태에 대한 직접 입장은 확인되지 않았다. [출처](https://www.ajunews.com/view/20260712163209605)
 <!-- /agent:stances -->
