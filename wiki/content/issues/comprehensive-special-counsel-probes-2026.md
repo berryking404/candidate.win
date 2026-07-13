@@ -46,4 +46,5 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [강호필](/people/gang-ho-pil) — **지지**: 내란중요임무종사 혐의를 부인하며 계엄을 사전에 알지 못했고 실행에도 관여하지 않았다고 밝혔다. [출처](https://www.nocutnews.co.kr/news/6546742?utm_source=naver&utm_medium=article&utm_campaign=20260711082949)
 - [김태효](/people/gim-tae-hyo) — **지지**: 비상계엄 관여 의혹을 부인해 왔다. [출처](https://www.news.kbs.co.kr/news/pc/view/view.do?ncd=8608241&ref=A)
 - [신원식](/people/sin-won-sik) — **지지**: 종합특검의 수사 기간 연장과 수사 전략을 비판하며, 특검의 후반기 집중 수사를 '궁색한 변명'으로 평가했다. [출처](https://www.khan.co.kr/article/202607121721001)
+- [김건희](/people/gim-geon-hui) — **미확인**: 특검이 관저 이전 의혹과 관련해 19일 피의자 조사를 통보했으나, 이번 수집 기사들에는 김건희 본인의 찬반 입장이나 해명이 직접 담기지 않았다. [출처](https://www.hani.co.kr/arti/society/society_general/1268017.html)
 <!-- /agent:stances -->
