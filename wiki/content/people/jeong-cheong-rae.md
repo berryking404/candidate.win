@@ -9,8 +9,7 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
-- 2026-05-12: 윤석열 정부를 강하게 비판하며 민주주의 회복을 강조했다. [출처](https://www.news1.kr/politics/assembly/6163895)
-- 2026-05-12: 비상계엄과 윤석열 정부 시기를 '검찰독재'와 연결해 강도 높게 비판했다. [출처](https://www.news1.kr/politics/assembly/6163895)
+- 2026-07-13: 개혁이 민생이고 민생이 개혁이라며 민주당이 민생 개혁으로 나아가야 한다고 말했다. [출처](https://www.pressian.com/pages/articles/2026071316285929592?utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 <!-- /agent:events -->
 
 ## 이슈별 입장

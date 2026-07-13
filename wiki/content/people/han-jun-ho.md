@@ -8,6 +8,7 @@ status: curated
 ## 행적
 
 <!-- agent:events -->
+- 2026-07-13: 국민의힘에 민생보다 정쟁을 앞세우지 말고 국회로 복귀하라고 촉구했다. [출처](http://www.mygoyang.com/news/articleView.html?idxno=89504)
 <!-- /agent:events -->
 
 ## 이슈별 입장

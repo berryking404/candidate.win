@@ -9,6 +9,7 @@ party: null
 ## 행적
 
 <!-- agent:events -->
+- 2026-07-13: 민주당이 개혁 과제를 완수하고 민생 개혁으로 나아가야 한다고 말했다. [출처](https://www.newsis.com/view/NISX20260713_0003707626)
 <!-- /agent:events -->
 
 ## 이슈별 입장

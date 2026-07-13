@@ -9,6 +9,7 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
+- 2026-07-13: 형사소송법 개정과 함께 민생법안도 논의하겠다고 밝혔다. [출처](https://www.inews24.com/view/1984945)
 <!-- /agent:events -->
 
 ## 이슈별 입장

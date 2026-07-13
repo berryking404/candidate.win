@@ -9,6 +9,7 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
+- 2026-07-13: 상임위에 멈춘 민생 법안과 예산이 조속히 처리돼야 한다며 국민의힘 복귀를 촉구했다. [출처](https://www.mediaus.co.kr/news/articleView.html?idxno=317567)
 <!-- /agent:events -->
 
 ## 이슈별 입장

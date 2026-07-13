@@ -9,7 +9,7 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
-- 2026-06-12: 국회가 민생법안 신속 처리를 우선해야 한다고 강조했다. [출처](https://www.kukinews.com/article/view/kuk202606120052)
+- 2026-07-09: 국민의힘이 태업을 지속하면 민주당은 일하는 국회를 만들겠다고 밝혔다. [출처](http://www.yonhapnewstv.co.kr/news/MYH2026071305340840I)
 <!-- /agent:events -->
 
 ## 이슈별 입장

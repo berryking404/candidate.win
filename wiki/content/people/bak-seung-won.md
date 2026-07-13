@@ -9,6 +9,7 @@ party: null
 ## 행적
 
 <!-- agent:events -->
+- 2026-07-13: 광명시의 민생 중심 정책과 제도 확립을 위해 '현장 정치'를 바탕으로 상대를 인정하고 합의를 실천하겠다고 밝혔다. [출처](https://www.incheonilbo.com/news/articleView.html?idxno=1327220)
 <!-- /agent:events -->
 
 ## 이슈별 입장
