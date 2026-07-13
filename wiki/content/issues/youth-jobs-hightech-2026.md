@@ -100,4 +100,9 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [이철우](/people/i-cheol-u) — **지지**: 구미·포항 AX 실증산단 선정과 함께 반도체·전자 중심의 첨단 제조거점 육성 의지를 밝혔다. [출처](https://www.news2day.co.kr/article/20260712500048)
 - [안도걸](/people/an-do-geol) — **지지**: 광반도체와 광인터커넥트 산업을 광주의 미래 성장동력으로 육성해야 한다고 말했다. [출처](http://www.kjdaily.com/article.php?aid=1783853015682232002)
 - [최태원](/people/choe-tae-won) — **지지**: 반도체·AI 투자와 인재 유치 전략을 통해 첨단산업 경쟁력을 키우겠다는 방향을 제시했다. [출처](https://www.hankyung.com/article/2026071202661)
+- [우상호](/people/woosangho) — **지지**: 대기업 중심의 투자유치와 청년 일자리 창출로 선순환 구조를 만들고, 청년 정주 여건을 함께 강화하겠다고 밝혔다. [출처](https://www.kukinews.com/article/view/kuk202607130195)
+- [전진선](/people/jeonjinseon) — **지지**: 청년이 머물면 일자리가 생긴다는 철학 아래 청년 친화적 도시·산업 환경 조성을 강조했다. [출처](http://www.beyondpost.co.kr/view.php?ud=2026071320061064714c878f8fa1_30)
+- [김문근](/people/kimmunkun) — **지지**: 청년의 일자리·주거·창업·보육을 종합적으로 확충해 지역 정착을 지원하겠다고 밝혔다. [출처](https://www.m-i.kr/news/articleView.html?idxno=1391067)
+- [민형배](/people/minhyungbae) — **지지**: 반도체 등 첨단산업과 함께 전력·용수·교통·인재양성을 묶은 성장 전략을 제시하며 지역 일자리 기반을 넓히겠다고 밝혔다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=736870)
+- [김대중](/people/kimdaejung) — **지지**: 지역에 반도체와 AI의 좋은 일자리가 늘어날 것으로 보고 학생들의 선취업을 뒷받침해야 한다는 취지로 언급했다. [출처](http://www.jndn.com/article.php?aid=1783936109436004011)
 <!-- /agent:stances -->
