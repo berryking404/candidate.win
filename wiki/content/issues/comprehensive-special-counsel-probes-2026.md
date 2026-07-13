@@ -47,4 +47,6 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [김태효](/people/gim-tae-hyo) — **지지**: 비상계엄 관여 의혹을 부인해 왔다. [출처](https://www.news.kbs.co.kr/news/pc/view/view.do?ncd=8608241&ref=A)
 - [신원식](/people/sin-won-sik) — **지지**: 종합특검의 수사 기간 연장과 수사 전략을 비판하며, 특검의 후반기 집중 수사를 '궁색한 변명'으로 평가했다. [출처](https://www.khan.co.kr/article/202607121721001)
 - [김건희](/people/gim-geon-hui) — **미확인**: 특검이 관저 이전 의혹과 관련해 19일 피의자 조사를 통보했으나, 이번 수집 기사들에는 김건희 본인의 찬반 입장이나 해명이 직접 담기지 않았다. [출처](https://www.hani.co.kr/arti/society/society_general/1268017.html)
+- [이상민](/people/i-sang-min) — **중립**: 관저 이전 예산 전용 의혹과 관련해 종합특검 기소 대상에 포함됐다는 보도가 나왔다. [출처](https://www.khan.co.kr/article/202606092104015)
+- [김도형](/people/gim-do-hyeong) — **중립**: 통일교 수사 무마 의혹과 관련해 종합특검 조사 대상이 됐다는 보도가 나왔다. [출처](https://news.bbsi.co.kr/news/articleView.html?idxno=4088149)
 <!-- /agent:stances -->
