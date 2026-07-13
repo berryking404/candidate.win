@@ -114,4 +114,6 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [전재수](/people/jeon-jae-su) — **지지**: 통합돌봄을 위한 조직 개편과 공공병원화, 재난·행정 분야 AI 도입을 주문했다. [출처](https://www.yna.co.kr/view/AKR20260709187800051?input=1195m)
 - [이병래](/people/i-byeong-rae) — **지지**: 타 지역 병원 퇴원 구민까지 세심하게 지원하고 초고령사회에 대응하는 남동구형 노인 통합돌봄 체계 강화를 추진했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3632628)
 - [김문수](/people/gim-mun-su) — **지지**: 저소득·단시간 노동자와 노무제공자의 고용보험 적용 범위를 넓혀 사각지대를 해소하겠다고 밝혔다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=03266886645513208)
+- [김영훈](/people/gim-yeong-hun) — **지지**: 플랫폼·프리랜서 등 사회보험 사각지대 해소를 위해 'K-노동회의소'와 사회안전매트 구축을 제안했다. [출처](https://www.hankookilbo.com/news/article/A2026071316380002875?did=NA)
+- [민경선](/people/min-gyeong-seon) — **지지**: 빈틈없는 통합돌봄체계 구축을 주요 시정 과제로 제시했다. [출처](https://www.ppss.kr/news/articleView.html?idxno=301979)
 <!-- /agent:stances -->
