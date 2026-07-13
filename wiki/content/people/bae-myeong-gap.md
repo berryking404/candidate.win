@@ -2,7 +2,7 @@
 title: 배명갑
 slug: bae-myeong-gap
 role: 창원시의원
-status: stub
+status: curated
 ---
 
 ## 행적

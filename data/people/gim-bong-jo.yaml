@@ -2,8 +2,8 @@ slug: gim-bong-jo
 name_ko: 김봉조
 name_en: null
 party: null
-role: 대학교 교학부총장
-status: stub
+role: 경상국립대학교 교학부총장
+status: curated
 aliases:
 - 김봉조
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김봉조
   youtube_channels: []
+  source_urls:
+  - https://www.gnnews.co.kr/news/articleView.html?idxno=640908

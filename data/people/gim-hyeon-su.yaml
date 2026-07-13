@@ -2,8 +2,8 @@ slug: gim-hyeon-su
 name_ko: 김현수
 name_en: null
 party: null
-role: 군수
-status: stub
+role: 하동군수
+status: curated
 aliases:
 - 김 군수
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김현수
   youtube_channels: []
+  source_urls:
+  - https://www.gnnews.co.kr/news/articleView.html?idxno=640889

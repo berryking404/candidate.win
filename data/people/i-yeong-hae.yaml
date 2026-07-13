@@ -3,7 +3,7 @@ name_ko: 이영해
 name_en: null
 party: null
 role: 울산시의회 의장
-status: stub
+status: curated
 aliases:
 - 이영해
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이영해
   youtube_channels: []
+  source_urls:
+  - http://www.ujeil.com/news/articleView.html?idxno=388699

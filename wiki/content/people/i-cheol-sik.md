@@ -2,7 +2,7 @@
 title: 이철식
 slug: i-cheol-sik
 role: 경북도의회 농수산위원장
-status: stub
+status: curated
 ---
 
 ## 행적

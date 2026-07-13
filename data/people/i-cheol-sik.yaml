@@ -3,7 +3,7 @@ name_ko: 이철식
 name_en: null
 party: null
 role: 경북도의회 농수산위원장
-status: stub
+status: curated
 aliases:
 - 이철식
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이철식
   youtube_channels: []
+  source_urls:
+  - https://www.eroun.net/news/articleView.html?idxno=85202

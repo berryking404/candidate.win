@@ -2,7 +2,7 @@
 title: 손수조
 slug: son-su-jo
 role: 정치인
-status: stub
+status: curated
 ---
 
 ## 행적

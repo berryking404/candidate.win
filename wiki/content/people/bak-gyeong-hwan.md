@@ -2,7 +2,7 @@
 title: 박경환
 slug: bak-gyeong-hwan
 role: 서울시 민생노동국장
-status: stub
+status: curated
 ---
 
 ## 행적

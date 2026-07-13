@@ -2,7 +2,7 @@
 title: 백영현
 slug: baek-yeong-hyeon
 role: 포천시장
-status: stub
+status: curated
 ---
 
 ## 행적

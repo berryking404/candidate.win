@@ -1,8 +1,8 @@
 ---
 title: 김현수
 slug: gim-hyeon-su
-role: 군수
-status: stub
+role: 하동군수
+status: curated
 ---
 
 ## 행적

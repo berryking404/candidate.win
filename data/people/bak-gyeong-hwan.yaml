@@ -3,7 +3,7 @@ name_ko: 박경환
 name_en: null
 party: null
 role: 서울시 민생노동국장
-status: stub
+status: curated
 aliases:
 - 박경환
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 박경환
   youtube_channels: []
+  source_urls:
+  - https://www.khan.co.kr/article/202607122045025

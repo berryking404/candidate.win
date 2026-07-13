@@ -3,7 +3,7 @@ name_ko: 손수조
 name_en: null
 party: null
 role: 정치인
-status: stub
+status: curated
 aliases:
 - 손 전 후보
 discovered_via_issue: special-counsel-investigation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 손수조
   youtube_channels: []
+  source_urls:
+  - https://www.ikbc.co.kr/article/view/kbc202607120024

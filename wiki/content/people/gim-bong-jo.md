@@ -1,8 +1,8 @@
 ---
 title: 김봉조
 slug: gim-bong-jo
-role: 대학교 교학부총장
-status: stub
+role: 경상국립대학교 교학부총장
+status: curated
 ---
 
 ## 행적

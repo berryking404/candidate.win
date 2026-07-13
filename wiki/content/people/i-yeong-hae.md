@@ -2,7 +2,7 @@
 title: 이영해
 slug: i-yeong-hae
 role: 울산시의회 의장
-status: stub
+status: curated
 ---
 
 ## 행적
