@@ -55,4 +55,9 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [정회옥](/people/jeong-hoe-ok) — **지지**: 젠더를 3대 차별 축으로 보고 세대 갈등만으로 환원하지 말아야 한다고 강조했다. [출처](https://www.sisaon.co.kr/news/articleView.html?idxno=202547)
 - [함규진](/people/ham-gyu-jin) — **지지**: 세대·젠더 갈등 속 혐오 표현을 분석하며 차별 표현의 구조를 해설했다. [출처](https://www.newsis.com/view/NISX20260709_0003703334)
 - [박정숙](/people/bak-jeong-suk) — **지지**: 배제와 차별, 혐오가 만연한 사회 속에서 살아남은 장애 여성 생존자로서 차별 문제를 증언했다. [출처](https://www.ablenews.co.kr/news/articleView.html?idxno=231900)
+- [고민정](/people/gominjeong) — **중립**: 젠더 갈등을 정치적 대립으로 고정하기보다 갈등을 토론과 비전의 문제로 전환하자고 말했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250180&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
+- [주경민](/people/jugyeongmin) — **혼합**: 청년 보수화와 함께 반페미니즘 정서를 현상으로 설명하면서도 정치적 갈등의 한 축으로 언급했다. [출처](https://www.nocutnews.co.kr/news/6532067?utm_source=naver&utm_medium=article&utm_campaign=20260612102415)
+- [신진욱](/people/sinjinwook) — **반대**: 반페미니즘 정서는 비판받아야 한다고 분명히 말했다. [출처](https://www.nocutnews.co.kr/news/6538532?utm_source=naver&utm_medium=article&utm_campaign=20260701065041)
+- [원민경](/people/wonminkyeong) — **지지**: 성평등 관련 국제행사에 참여하며 성평등 의제를 지지하는 맥락이 확인된다. [출처](https://www.news1.kr/photos/8001019)
+- [임정규](/people/imjeonggyu) — **지지**: 청소년 성평등 교육과 온라인 혐오·반페미니즘 대응을 강조했다. [출처](https://www.ccdailynews.com/news/articleView.html?idxno=2420249)
 <!-- /agent:stances -->
