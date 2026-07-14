@@ -116,4 +116,8 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [김문수](/people/gim-mun-su) — **지지**: 저소득·단시간 노동자와 노무제공자의 고용보험 적용 범위를 넓혀 사각지대를 해소하겠다고 밝혔다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=03266886645513208)
 - [김영훈](/people/gim-yeong-hun) — **지지**: 플랫폼·프리랜서 등 사회보험 사각지대 해소를 위해 'K-노동회의소'와 사회안전매트 구축을 제안했다. [출처](https://www.hankookilbo.com/news/article/A2026071316380002875?did=NA)
 - [민경선](/people/min-gyeong-seon) — **지지**: 빈틈없는 통합돌봄체계 구축을 주요 시정 과제로 제시했다. [출처](https://www.ppss.kr/news/articleView.html?idxno=301979)
+- [최주만](/people/choe-ju-man) — **지지**: 지역 사회안전망 강화를 위한 협력 방안을 논의했다. [출처](https://www.jjn.co.kr/article/20260714500396)
+- [김정명](/people/gim-jeong-myeong) — **지지**: 지역 사회안전망 강화를 위한 협력 방안을 논의했다. [출처](https://www.jjn.co.kr/article/20260714500396)
+- [정상용](/people/jeong-sang-yong) — **지지**: 지역 사회안전망 강화를 위한 협력 방안을 논의했다. [출처](https://www.jjn.co.kr/article/20260714500396)
+- [류성숙](/people/ryu-seong-suk) — **지지**: 지역 사회안전망 강화를 위한 협력 방안을 논의했다. [출처](https://www.jjn.co.kr/article/20260714500396)
 <!-- /agent:stances -->
