@@ -22,4 +22,5 @@ party: 국민의힘
 - [젠더 갈등 심화 (2026)](/issues/gender-conflict-2026) — **반대**: 대선 과정에서 여성가족부 폐지와 성폭력 무고죄 강화를 내세운 흐름이 젠더 이슈 갈등 심화의 배경으로 거론됐다. [출처](https://www.ntoday.co.kr/news/articleView.html?idxno=127359)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **중립**: 종합특검 조사에서 계엄을 ‘경고용’이라고 주장하며 혐의를 부인했다. [출처](https://news.jtbc.co.kr/article/NB12303173?influxDiv=NAVER)
 - [윤석열](/issues/special-counsel-investigation-2026) — **혼합**: 탄핵심판과 특검 국면에서 ‘하이브리드전’과 선거개입설을 주장하며 방어 논리를 폈다. [출처](https://www.hani.co.kr/arti/society/society_general/1267726.html)
+- [도이치모터스 주가 조작 의혹 및 김건희 여사 연루 논란 (2023)](/issues/deutsch-motors-stock-2023) — **중립**: 명태균 관련 사건의 윤 전 대통령 1심 결과가 김건희 여사 사건의 대법 선고와 연동돼 언급됐습니다. [출처](https://www.ytn.co.kr/_ln/0103_202607141924474005)
 <!-- /agent:stances -->
