@@ -3,12 +3,14 @@ name_ko: 홍기원
 name_en: null
 party: null
 role: 더불어민주당 의원
-status: stub
+status: curated
 aliases:
 - 홍기원
 discovered_via_issue: politics-livelihood-focus-2026
 discovered_at: '2026-07-13'
 sources:
+  source_urls:
+  - https://www.idaegu.co.kr/news/articleView.html?idxno=553689
   news_keywords:
   - 홍기원
   youtube_channels: []

@@ -2,7 +2,7 @@
 title: 김성회
 slug: gim-seong-hoe
 role: 민주당 원내대변인
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 하상응
 slug: ha-sang-eung
 role: 교수 / 정치학자
-status: stub
+status: curated
 ---
 
 ## 행적

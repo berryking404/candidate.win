@@ -2,7 +2,7 @@
 title: 정태호
 slug: jeong-tae-ho
 role: 교수 / 정치·제도 논평자
-status: stub
+status: curated
 ---
 
 ## 행적

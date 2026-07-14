@@ -2,7 +2,7 @@
 title: 박충권
 slug: bak-chung-gwon
 role: 국회의원 / 여당 발언자
-status: stub
+status: curated
 ---
 
 ## 행적

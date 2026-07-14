@@ -3,12 +3,14 @@ name_ko: 문상부
 name_en: null
 party: null
 role: 전 중앙선관위 상임위원 / 관련 전문가
-status: stub
+status: curated
 aliases:
 - 문상부 전 중앙선관위 상임위원
 discovered_via_issue: election-commission-management-controversy-2026
 discovered_at: '2026-07-13'
 sources:
+  source_urls:
+  - https://www.hankyung.com/article/2026071325751
   news_keywords:
   - 문상부
   youtube_channels: []

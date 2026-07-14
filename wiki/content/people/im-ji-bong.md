@@ -2,7 +2,7 @@
 title: 임지봉
 slug: im-ji-bong
 role: 교수 / 헌법·법학자
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -3,12 +3,14 @@ name_ko: 하상응
 name_en: null
 party: null
 role: 교수 / 정치학자
-status: stub
+status: curated
 aliases:
 - 하상응 서강대 교수
 discovered_via_issue: election-commission-management-controversy-2026
 discovered_at: '2026-07-13'
 sources:
+  source_urls:
+  - https://www.news1.kr/politics/assembly/6226372
   news_keywords:
   - 하상응
   youtube_channels: []

@@ -3,12 +3,14 @@ name_ko: 김성회
 name_en: null
 party: null
 role: 민주당 원내대변인
-status: stub
+status: curated
 aliases:
 - 김성회 민주당 원내대변인
 discovered_via_issue: defense-counterintelligence-reform-impeachment-petition-2026
 discovered_at: '2026-07-13'
 sources:
+  source_urls:
+  - http://www.breaknews.com/1221105
   news_keywords:
   - 김성회
   youtube_channels: []

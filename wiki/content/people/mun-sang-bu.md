@@ -2,7 +2,7 @@
 title: 문상부
 slug: mun-sang-bu
 role: 전 중앙선관위 상임위원 / 관련 전문가
-status: stub
+status: curated
 ---
 
 ## 행적
