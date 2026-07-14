@@ -50,8 +50,6 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [조경태](/people/jo-gyeong-tae) — **지지**: 윤석열 전 대통령과 장동혁 대표를 강하게 비판하며 특검·사법 판단을 존중하는 쪽으로 기울었다. [출처](https://www.newsis.com/view/NISX20260708_0003701258)
 - [윤석열](/people/yun-seok-yeol) — **혼합**: 계엄·탄핵심판 국면에서 ‘하이브리드전’과 선거개입설을 거론하며 정당성을 주장했지만, 수사·재판 대응에 집중하는 모습도 보였다. [출처](https://www.hani.co.kr/arti/society/society_general/1267726.html)
 - [손수조](/people/son-su-jo) — **반대**: 윤석열 전 대통령의 장기 구금 가능성을 언급하며 강성 친윤·반탄 정서를 드러냈다. [출처](https://www.ikbc.co.kr/article/view/kbc202607120024)
-- [윤석열](/people/yun-seok-yeol) — **지지**: 명태균 관련 여론조사 무상수수와 공천 개입 혐의에 대해 1심 유죄가 선고돼 특검 수사의 정당성이 강화됐다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8610012&ref=A)
-- [명태균](/people/myeong-tae-gyun) — **중립**: 명태균 게이트 관련 사건에서 여론조사 제공과 공천 개입 의혹이 재판과 특검 수사의 대상이 됐다. [출처](https://www.idomin.com/news/articleView.html?idxno=2010125)
 - [염태영](/people/yeom-tae-yeong) — **지지**: 명태균 게이트 진상조사단 기자회견에 참여해 윤석열 여론조사 무상수수 판결 이후 오세훈 책임론을 제기했다. [출처](https://www.news1.kr/photos/8007368)
 - [송재봉](/people/song-jae-bong) — **지지**: 명태균 게이트 진상조사단의 일원으로 윤석열 1심 판결을 계기로 오세훈 처벌 촉구에 나섰다. [출처](https://www.news1.kr/photos/8007368)
 <!-- /agent:stances -->
