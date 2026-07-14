@@ -1,137 +1,25 @@
-generated_at: '2026-07-13T23:01:32+00:00'
-source_date: 2026-07-13T230126Z
+generated_at: '2026-07-14T23:01:56+00:00'
+source_date: 2026-07-14T230156Z
 window_hours: 72
 items:
 - rank: 1
-  title: 병적증명서 공개 안 하는 안규백…국힘 “탄핵소추 검토” 압박
+  title: 스토킹 피해자 민간경호·CCTV 확대…정부, 교제폭력 대응 강화
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 12건, 매체 12곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 15건, 매체 14곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 12
-    outlet_count: 12
-    public_actor: 국민의힘, 대변인, 장관
+    news_count: 15
+    outlet_count: 14
+    public_actor: 정부
   sources:
-  - title: '[Who Is ?] 우상호 강원특별자치도지사'
-    url: https://www.businesspost.co.kr/BP?command=article_view&num=441358
-  - title: '[시사천국] 정이한 사건 후폭풍…진실공방 어디까지?'
-    url: https://news.cpbc.co.kr/article/1174311?division=NAVER
-  - title: “안규백 병적기록 공개시 오해” 국방부에…국힘 “탄핵소추 검토할 수...
-    url: https://www.dt.co.kr/article/12072725?ref=naver
+  - title: 스토킹 피해자 민간경호 제공한다
+    url: https://www.naeil.com/news/read/595285?ref=naver
+  - title: 정부, '스토킹·교제폭력' 대응책 발표…실효성은 과제
+    url: https://www.ntoday.co.kr/news/articleView.html?idxno=128176
+  - title: 스토킹 가해자 '실시간 위치' 한눈에
+    url: https://www.mt.co.kr/society/2026/07/14/2026071320040314162
 - rank: 2
-  title: 정점식 "안규백 병적기록부 끝내 공개 거부하면 탄핵 검토"
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 15건, 매체 14곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 15
-    outlet_count: 14
-    public_actor: 국민의힘, 대변인, 장관
-  sources:
-  - title: '[김종석의 리포트]병적 기록 공개 않고 “정상 복무”'
-    url: https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539514
-  - title: 국힘, 주중 '검찰 보완수사권 유지' 형사소송법 개정안 당론 발의키로
-    url: https://www.ulsanpress.net/news/articleView.html?idxno=579093
-  - title: “안규백 병적기록 공개시 오해” 국방부에…국힘 “탄핵소추 검토할 수...
-    url: https://www.dt.co.kr/article/12072725?ref=naver
-- rank: 3
-  title: 정점식 "안규백 장관, 병적기록부 공개 거부 시 탄핵소추안 검토"
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 10건, 매체 10곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 10
-    outlet_count: 10
-    public_actor: 국민의힘, 장관
-  sources:
-  - title: “안규백 병적기록 공개시 오해” 국방부에…국힘 “탄핵소추 검토할 수...
-    url: https://www.dt.co.kr/article/12072725?ref=naver
-  - title: '[오늘 여의도] 與 ‘선호투표제’ 또 불발…계파 대립 격화'
-    url: https://www.kyeongin.com/article/1767222
-  - title: 국방부 "'탈영 의혹' 안 장관, 복무기록 모두 존재"...국힘 "병적 공개 ...
-    url: https://news.jtbc.co.kr/article/NB12307998?influxDiv=NAVER
-- rank: 4
-  title: 정점식 "안규백, 병적기록부 공개 거부시 탄핵소추안 제출 검토"
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 10건, 매체 10곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 10
-    outlet_count: 10
-    public_actor: 국민의힘, 장관
-  sources:
-  - title: “안규백 병적기록 공개시 오해” 국방부에…국힘 “탄핵소추 검토할 수...
-    url: https://www.dt.co.kr/article/12072725?ref=naver
-  - title: '[오늘 여의도] 與 ‘선호투표제’ 또 불발…계파 대립 격화'
-    url: https://www.kyeongin.com/article/1767222
-  - title: 국방부 "'탈영 의혹' 안 장관, 복무기록 모두 존재"...국힘 "병적 공개 ...
-    url: https://news.jtbc.co.kr/article/NB12307998?influxDiv=NAVER
-- rank: 5
-  title: 정보통신망법과 표현의 자유 논란
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 15건, 매체 14곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 15
-    outlet_count: 14
-    public_actor: 정부
-  sources:
-  - title: '[전국 주요 신문 사설](14일 조간)'
-    url: https://www.yna.co.kr/view/AKR20260714015900011?input=1195m
-  - title: 단일종목 레버리지 논란에 반도체 피크아웃 우려까지···'삼전닉스' 향...
-    url: http://www.enewstoday.co.kr/news/articleView.html?idxno=2448374
-  - title: '세수 대박? 800조+알파, 확실하게 돈 쓰는 정부로 간다: 슬로우레터 7월...'
-    url: https://slownews.kr/163158
-- rank: 6
-  title: 스토킹 고위험 피해자 밀착 경호…정부 대응 강화
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 15건, 매체 13곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 15
-    outlet_count: 13
-    public_actor: 정부
-  sources:
-  - title: 정부 “고위험 스토커에 전자발찌, 피해자엔 경호원 지원”
-    url: https://www.donga.com/news/Society/article/all/20260713/134292369/2
-  - title: 스토킹 피해자 민간경호…교제폭력 대응 강화
-    url: https://www.ksilbo.co.kr/news/articleView.html?idxno=1062057
-  - title: 스토킹 피해자 '밀착 경호'한다…정부 대응 강화
-    url: https://www.obsnews.co.kr/news/articleView.html?idxno=1530537
-- rank: 7
-  title: 정점식 "안규백 병적기록부 공개 안 하면 탄핵소추안 검토"
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 13건, 매체 13곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 13
-    outlet_count: 13
-    public_actor: 민주당
-  sources:
-  - title: '[시사천국] 정이한 사건 후폭풍…진실공방 어디까지?'
-    url: https://news.cpbc.co.kr/article/1174311?division=NAVER
-  - title: 국방부 “안규백 복무기록 모두 존재”…국힘 “공개 거부 땐 탄핵 검토...
-    url: http://www.joseilbo.com/news/news_read.php?uid=571826&class=32&grp=
-  - title: “안규백, 병적기록 공개 안 하면 탄핵”…국방부 “복무기록 존재”
-    url: https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539485
-- rank: 8
-  title: 국민의힘, ‘안규백 탄핵’ 공식화?…“검토할 수밖에 없어” [현장영상]
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 4건, 매체 3곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 4
-    outlet_count: 3
-    public_actor: 국민의힘
-  sources:
-  - title: '[오늘 여의도] 與 ‘선호투표제’ 또 불발…계파 대립 격화'
-    url: https://www.kyeongin.com/article/1767222
-  - title: '[퇴근길 정치톡] 與전대 대진표 확정, 李대통령 해군 실종 당시 ''골프 의...'
-    url: https://www.dailian.co.kr/news/view/1666654/?sc=Naver
-  - title: 국민의힘, ‘안규백 탄핵’ 공식화?…“검토할 수밖에 없어” [현장영상...
-    url: https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539416
-- rank: 9
-  title: '"안규백, 병적기록부 공개 안 하면 탄핵소추 검토"… 국힘, 탈영 의혹 압...'
+  title: 안규백, 병적기록 공개 안 하면 탄핵…국방부 복무기록 존재
   status: 추가 확인
   score: 6
   summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
@@ -140,25 +28,69 @@ items:
     outlet_count: 3
     public_actor: 확인 중
   sources:
-  - title: '[시사천국] 정이한 사건 후폭풍…진실공방 어디까지?'
-    url: https://news.cpbc.co.kr/article/1174311?division=NAVER
+  - title: 국방부 “안규백 복무기록 모두 존재”…국힘 “공개 거부 땐 탄핵 검토...
+    url: http://www.joseilbo.com/news/news_read.php?uid=571826&class=32&grp=
+  - title: “안규백, 병적기록 공개 안 하면 탄핵”…국방부 “복무기록 존재”
+    url: https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539485
   - title: '[이슈] ''안규백 탈영 의혹'' 일파만파, ''청문회 위증'' 경찰 수사 착수…野...'
     url: https://www.polinews.co.kr/news/articleView.html?idxno=736847
-  - title: '"안규백, 병적기록부 공개 안 하면 탄핵소추 검토"… 국힘, 탈영 의혹 압...'
-    url: https://www.hankookilbo.com/news/article/A2026071315450005919?did=NA
-- rank: 10
-  title: 정점식 "안규백, 병적공개 거부하면 탄핵안 제출 검토"
+- rank: 3
+  title: 8·17 전당대회 화두 개혁공천 23대 국회의원 총선 쓰나미 몰아치나
   status: 추가 확인
   score: 6
-  summary: 최근 보도 5건, 매체 5곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 5
-    outlet_count: 5
-    public_actor: 확인 중
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회, 의원
   sources:
-  - title: '[오늘 여의도] 與 ‘선호투표제’ 또 불발…계파 대립 격화'
-    url: https://www.kyeongin.com/article/1767222
-  - title: '''탈영 의혹'' 재점화에 십자 포화 맞는 안규백…''본인 등판'' 해명 나설까'
-    url: https://www.sisajournal.com/news/articleView.html?idxno=379678
-  - title: 국힘 "안규백, 끝내 병적기록 거부 시 탄핵 추진"
-    url: https://www.ytn.co.kr/_ln/0101_202607131518276958
+  - title: 8·17 전당대회 화두 개혁공천 23대 국회의원 총선 쓰나미 몰아치나
+    url: http://www.jeollailbo.com/news/articleView.html?idxno=805409
+- rank: 4
+  title: '''국토부 정비사업 권한 확대'' 논란 국회로…청원 5만명 동의'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회
+  sources:
+  - title: '''국토부 정비사업 권한 확대'' 논란 국회로…청원 5만명 동의'
+    url: https://www.newsis.com/view/NISX20260713_0003707359
+- rank: 5
+  title: 정부, '스토킹·교제폭력' 대응책 발표…실효성은 과제
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 정부, '스토킹·교제폭력' 대응책 발표…실효성은 과제
+    url: https://www.ntoday.co.kr/news/articleView.html?idxno=128176
+- rank: 6
+  title: 정부·한은·금융당국 ‘4자 회의체’ 만든다…환율·부동산 공동대응
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 정부·한은·금융당국 ‘4자 회의체’ 만든다…환율·부동산 공동대응
+    url: https://www.ddaily.co.kr/page/view/2026071415511646736
+- rank: 7
+  title: '[사설] 정이한 사태 적반하장 대응 개혁신당 책임 못 느끼나'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 개혁신당
+  sources:
+  - title: '[사설] 정이한 사태 적반하장 대응 개혁신당 책임 못 느끼나'
+    url: http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260715.22019004339
