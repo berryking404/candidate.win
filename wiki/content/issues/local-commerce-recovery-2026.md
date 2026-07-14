@@ -158,4 +158,5 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [오세훈](/people/o-se-hun) — **지지**: 달빛야장 25곳 지정을 통해 소상공인과 골목상권을 살리겠다고 밝혔다. [출처](http://www.fnnews.com/news/202607131821000987)
 - [김보라](/people/gim-bo-ra) — **지지**: 지역 상권에 활력을 높이고 체류형 관광도시 조성을 통해 상권 회복을 추진하겠다고 했다. [출처](https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028777)
 - [김원기](/people/gim-won-gi) — **지지**: 지역 문화·관광과 생활문화가 지역상권에 연계돼야 한다고 강조했다. [출처](https://www.kyeongin.com/article/1767236)
+- [이남식](/people/i-nam-sik) — **지지**: 대학과 소상공인 지원기관, 전통시장이 협력하는 원도심 활성화 해법을 강조했다. [출처](https://www.cstimes.com/news/articleView.html?idxno=713447)
 <!-- /agent:stances -->
