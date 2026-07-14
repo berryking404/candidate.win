@@ -20,4 +20,5 @@ party: 더불어민주당
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **반대**: 3고를 성공 비용으로 표현한 발언이 국민 삶과 동떨어진 망언이라는 비판을 받았다. [출처](https://www.joongang.co.kr/article/25431255)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **중립**: 성과급 논란을 계기로 새로운 룰이 필요하다고 언급했다. [출처](https://economist.co.kr/article/view/ecn202606250006)
 - [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 반도체 클러스터 조성을 통한 청년 일자리 해결과 첨단산업 육성을 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596611&ref=A)
+- [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **지지**: 삼성전자 노조의 성과급 논란과 관련해 법정 이익 참여제 같은 제도적 대안을 제시했다. [출처](https://www.danbinews.com/news/articleView.html?idxno=33314)
 <!-- /agent:stances -->

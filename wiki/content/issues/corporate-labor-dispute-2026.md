@@ -42,4 +42,5 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [최승호](/people/choe-seung-ho) — **반대**: 성과급을 지역사랑상품권으로 지급하는 개정안이 임금 직접 지급 원칙을 훼손하고 노동자 선택권을 침해한다고 비판하며 철회를 촉구했다. [출처](https://www.ddaily.co.kr/page/view/2026071016134869976)
 - [조정식](/people/jo-jeong-sik) — **중립**: 삼성전자 노사 협상 타결과 관련해 국회를 대표해 중재에 감사한다고 언급하며 노사 갈등의 원만한 해결을 평가했다. [출처](http://www.hansbiz.co.kr/news/articleView.html?idxno=849630)
 - [박민규](/people/bak-min-gyu) — **지지**: 성과급의 지역화폐 지급안이 노동계 반발에 부딪히자 개정안을 철회해 노조 측 우려를 수용했다. [출처](https://www.joongang.co.kr/article/25444226)
+- [박지순](/people/bak-ji-sun) — **중립**: 호남 반도체 투자와 단체교섭 범위에 대해 근로조건 영향이 큰 경우로 제한해야 한다는 법적 설명을 내놨다. [출처](https://news.jtbc.co.kr/article/NB12308258?influxDiv=NAVER)
 <!-- /agent:stances -->
