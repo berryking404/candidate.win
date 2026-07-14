@@ -105,4 +105,9 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [김문근](/people/gim-mun-geun) — **지지**: 청년의 일자리·주거·창업·보육을 종합적으로 확충해 지역 정착을 지원하겠다고 밝혔다. [출처](https://www.m-i.kr/news/articleView.html?idxno=1391067)
 - [민형배](/people/min-hyeong-bae) — **지지**: 반도체 등 첨단산업과 함께 전력·용수·교통·인재양성을 묶은 성장 전략을 제시하며 지역 일자리 기반을 넓히겠다고 밝혔다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=736870)
 - [김대중](/people/gim-dae-jung) — **지지**: 지역에 반도체와 AI의 좋은 일자리가 늘어날 것으로 보고 학생들의 선취업을 뒷받침해야 한다는 취지로 언급했다. [출처](http://www.jndn.com/article.php?aid=1783936109436004011)
+- [이재명](/people/lee-jaemyung) — **지지**: 2030년까지 청년 전문 일자리 20만 개 이상을 만들고 청년형 ISA, 주거·자산 지원을 통해 청년의 도약을 돕겠다고 밝혔다. [출처](https://imnews.imbc.com/replay/2026/nwdesk/article/6837418_37004.html)
+- [이철우](/people/lee-chul-woo) — **지지**: 첨단산업 투자의 핵심 조건으로 전력·산업용수·우수 인재·빠른 행정을 제시하며 지역의 첨단산업 인재 양성을 강조했다. [출처](https://www.idaegu.co.kr/news/articleView.html?idxno=553820)
+- [김대중](/people/kim-dae-jung) — **지지**: 전남광주교육청이 반도체 클러스터와 연계한 산업인재 양성과 초광역 교육통합을 속도감 있게 추진하겠다고 밝혔다. [출처](https://www.getnews.co.kr/news/articleView.html?idxno=875099)
+- [민형배](/people/min-hyung-bae) — **지지**: 반도체 클러스터에 대해 인허가·기반시설·인재·정주 여건까지 빈틈없이 뒷받침하겠다고 약속했다. [출처](http://www.kjdaily.com/article.php?aid=1784027201682405002)
+- [구윤철](/people/koo-yoon-chul) — **지지**: 반도체 호황의 추가 세수를 미래대응기금으로 적립해 청년·지방·인재 양성에 집중 투자하겠다고 설명했다. [출처](https://www.idaegu.co.kr/news/articleView.html?idxno=553819)
 <!-- /agent:stances -->
