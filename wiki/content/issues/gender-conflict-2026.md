@@ -58,4 +58,8 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [고민정](/people/go-min-jeong) — **중립**: 젠더 갈등을 정치적 대립으로 고정하기보다 갈등을 토론과 비전의 문제로 전환하자고 말했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250180&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [신진욱](/people/sin-jin-uk) — **반대**: 반페미니즘 정서는 비판받아야 한다고 분명히 말했다. [출처](https://www.nocutnews.co.kr/news/6538532?utm_source=naver&utm_medium=article&utm_campaign=20260701065041)
 - [원민경](/people/won-min-gyeong) — **지지**: 성평등 관련 국제행사에 참여하며 성평등 의제를 지지하는 맥락이 확인된다. [출처](https://www.news1.kr/photos/8001019)
+- [김용](/people/gim-yong) — **중립**: 젠더 갈등이 한국 사회의 분열을 심화시키는 구조적 문제라고 언급했으나, 이 이슈에 대한 직접적 찬반 입장은 드러나지 않았다. [출처](https://www.news1.kr/local/gyeonggi/6227391)
+- [이준석](/people/i-jun-seok) — **지지**: 젠더 갈등을 정치의 기반으로 삼는 정치를 해왔다는 평가가 기사에서 제시됐다. [출처](https://weekly.khan.co.kr/article/202607140600001)
+- [오카와 마코토](/people/o-kawa-ma-ko-to) — **지지**: 여성의 일왕 즉위를 막는 논리를 여성혐오로 규정하며 성별 배제를 비판했다. [출처](https://www.newsworks.co.kr/news/articleView.html?idxno=847182)
+- [국승민](/people/guk-seung-min) — **지지**: 20대 남성이 페미니즘 논쟁 이후 민주당이 자신들을 원하지 않는다고 느끼게 됐다고 해석하며 갈등의 정치적 효과를 분석했다. [출처](https://www.sisain.co.kr/news/articleView.html?idxno=58162)
 <!-- /agent:stances -->
