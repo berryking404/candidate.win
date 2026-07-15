@@ -110,4 +110,6 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [김대중](/people/gim-dae-jung) — **지지**: 전남광주교육청이 반도체 클러스터와 연계한 산업인재 양성과 초광역 교육통합을 속도감 있게 추진하겠다고 밝혔다. [출처](https://www.getnews.co.kr/news/articleView.html?idxno=875099)
 - [민형배](/people/min-hyeong-bae) — **지지**: 반도체 클러스터에 대해 인허가·기반시설·인재·정주 여건까지 빈틈없이 뒷받침하겠다고 약속했다. [출처](http://www.kjdaily.com/article.php?aid=1784027201682405002)
 - [구윤철](/people/gu-yun-cheol) — **지지**: 반도체 호황의 추가 세수를 미래대응기금으로 적립해 청년·지방·인재 양성에 집중 투자하겠다고 설명했다. [출처](https://www.idaegu.co.kr/news/articleView.html?idxno=553819)
+- [최태원](/people/choe-tae-won) — **중립**: AI·인재양성·청년 기회 확대를 언급하며 첨단산업 성장의 필요성을 강조했다. [출처](https://www.dailian.co.kr/news/view/1667640/?sc=Naver)
+- [박 지사](/people/bak-ji-sa) — **중립**: 양질의 일자리와 의료서비스 확충을 통한 지역 균형을 언급했다. [출처](http://www.segyebiz.com/newsView/20260715523903?OutUrl=naver)
 <!-- /agent:stances -->

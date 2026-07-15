@@ -14,4 +14,5 @@ status: curated
 
 <!-- agent:stances -->
 - [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 반도체·AI 투자와 인재 유치 전략을 통해 첨단산업 경쟁력을 키우겠다는 방향을 제시했다. [출처](https://www.hankyung.com/article/2026071202661)
+- [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **중립**: AI와 인재 양성, 청년에게 기회를 여는 성장 전략의 필요성을 강조했다. [출처](https://www.dailian.co.kr/news/view/1667640/?sc=Naver)
 <!-- /agent:stances -->
