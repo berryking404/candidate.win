@@ -1,96 +1,70 @@
-generated_at: '2026-07-14T23:01:56+00:00'
-source_date: 2026-07-14T230156Z
+generated_at: '2026-07-15T23:01:10+00:00'
+source_date: 2026-07-15T230107Z
 window_hours: 72
 items:
 - rank: 1
-  title: 스토킹 피해자 민간경호·CCTV 확대…정부, 교제폭력 대응 강화
+  title: 송영길 “정청래, 평택을 공천 후회? 어느 당 대표였나”
   status: 정식 검토
-  score: 7
-  summary: 최근 보도 15건, 매체 14곳에서 확인된 공적 쟁점입니다.
+  score: 9
+  summary: 최근 보도 15건, 매체 13곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 15
-    outlet_count: 14
-    public_actor: 정부
+    outlet_count: 13
+    public_actor: 대표, 의원, 조국혁신당
   sources:
-  - title: 스토킹 피해자 민간경호 제공한다
-    url: https://www.naeil.com/news/read/595285?ref=naver
-  - title: 정부, '스토킹·교제폭력' 대응책 발표…실효성은 과제
-    url: https://www.ntoday.co.kr/news/articleView.html?idxno=128176
-  - title: 스토킹 가해자 '실시간 위치' 한눈에
-    url: https://www.mt.co.kr/society/2026/07/14/2026071320040314162
+  - title: 서용주 "김용남 눈 부릅뜨고 있는데 공천후회? 정청래, 해당행위"[한판...
+    url: https://www.nocutnews.co.kr/news/6548874?utm_source=naver&utm_medium=article&utm_campaign=20260716073044
+  - title: 유시민 “李, 실패로 끝날 것”… 송영길은 ‘鄭 공천 후회’ 낙태 비유
+    url: https://www.seoul.co.kr/news/politics/2026/07/16/20260716008006?wlog_tag3=naver
+  - title: 송영길 “먼저 의원된 정청래, 대통령 깔봐” 2007년 명청관계까지 ‘파...
+    url: https://www.donga.com/news/Politics/article/all/20260716/134308371/2
 - rank: 2
-  title: 안규백, 병적기록 공개 안 하면 탄핵…국방부 복무기록 존재
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  title: 박지원, 정청래 '평택 공천 후회' 발언에 "당 후보에게 할 말 아니었다"
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 15건, 매체 11곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 확인 중
+    news_count: 15
+    outlet_count: 11
+    public_actor: 대표, 민주당, 의원
   sources:
-  - title: 국방부 “안규백 복무기록 모두 존재”…국힘 “공개 거부 땐 탄핵 검토...
-    url: http://www.joseilbo.com/news/news_read.php?uid=571826&class=32&grp=
-  - title: “안규백, 병적기록 공개 안 하면 탄핵”…국방부 “복무기록 존재”
-    url: https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539485
-  - title: '[이슈] ''안규백 탈영 의혹'' 일파만파, ''청문회 위증'' 경찰 수사 착수…野...'
-    url: https://www.polinews.co.kr/news/articleView.html?idxno=736847
+  - title: 서용주 "김용남 눈 부릅뜨고 있는데 공천후회? 정청래, 해당행위"[한판...
+    url: https://www.nocutnews.co.kr/news/6548874?utm_source=naver&utm_medium=article&utm_campaign=20260716073044
+  - title: 유시민 “李, 실패로 끝날 것”… 송영길은 ‘鄭 공천 후회’ 낙태 비유
+    url: https://www.seoul.co.kr/news/politics/2026/07/16/20260716008006?wlog_tag3=naver
+  - title: 송영길 “먼저 의원된 정청래, 대통령 깔봐” 2007년 명청관계까지 ‘파...
+    url: https://www.donga.com/news/Politics/article/all/20260716/134308371/2
 - rank: 3
-  title: 8·17 전당대회 화두 개혁공천 23대 국회의원 총선 쓰나미 몰아치나
+  title: 김은혜 의원, 6·3 선거관리 논란 규명 앞장…경기도 대표 의원의 역할을 묻다
   status: 추가 확인
-  score: 6
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  score: 5
+  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회, 의원
-  sources:
-  - title: 8·17 전당대회 화두 개혁공천 23대 국회의원 총선 쓰나미 몰아치나
-    url: http://www.jeollailbo.com/news/articleView.html?idxno=805409
+    news_count: 0
+    outlet_count: 0
+    public_actor: 대표, 의원
+  sources: []
 - rank: 4
-  title: '''국토부 정비사업 권한 확대'' 논란 국회로…청원 5만명 동의'
+  title: 연일 한동훈 때리는 안철수…민주당은 ‘청년 정치’ 논란 [황현희의 불편한 여의도]
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 국회
+    public_actor: 민주당
   sources:
-  - title: '''국토부 정비사업 권한 확대'' 논란 국회로…청원 5만명 동의'
-    url: https://www.newsis.com/view/NISX20260713_0003707359
+  - title: 연일 한동훈 때리는 안철수…민주당은 ‘청년 정치’ 논란 [황현희의 불...
+    url: https://www.joongang.co.kr/article/25445339
 - rank: 5
-  title: 정부, '스토킹·교제폭력' 대응책 발표…실효성은 과제
+  title: 윤재옥 의원, 투표관리 강화 공직선거법 개정안 발의
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 정부
+    public_actor: 의원
   sources:
-  - title: 정부, '스토킹·교제폭력' 대응책 발표…실효성은 과제
-    url: https://www.ntoday.co.kr/news/articleView.html?idxno=128176
-- rank: 6
-  title: 정부·한은·금융당국 ‘4자 회의체’ 만든다…환율·부동산 공동대응
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: 정부·한은·금융당국 ‘4자 회의체’ 만든다…환율·부동산 공동대응
-    url: https://www.ddaily.co.kr/page/view/2026071415511646736
-- rank: 7
-  title: '[사설] 정이한 사태 적반하장 대응 개혁신당 책임 못 느끼나'
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 개혁신당
-  sources:
-  - title: '[사설] 정이한 사태 적반하장 대응 개혁신당 책임 못 느끼나'
-    url: http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260715.22019004339
+  - title: 윤재옥 의원, 투표관리 강화 공직선거법 개정안 발의
+    url: https://www.womennews.co.kr/news/articleView.html?idxno=279942
