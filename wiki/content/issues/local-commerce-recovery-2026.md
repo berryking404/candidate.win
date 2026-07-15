@@ -159,4 +159,7 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [김보라](/people/gim-bo-ra) — **지지**: 지역 상권에 활력을 높이고 체류형 관광도시 조성을 통해 상권 회복을 추진하겠다고 했다. [출처](https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028777)
 - [김원기](/people/gim-won-gi) — **지지**: 지역 문화·관광과 생활문화가 지역상권에 연계돼야 한다고 강조했다. [출처](https://www.kyeongin.com/article/1767236)
 - [이남식](/people/i-nam-sik) — **지지**: 대학과 소상공인 지원기관, 전통시장이 협력하는 원도심 활성화 해법을 강조했다. [출처](https://www.cstimes.com/news/articleView.html?idxno=713447)
+- [박관열](/people/bak-gwan-yeol) — **지지**: 경안시장 시설 개선과 상인 지원 방안을 현장에서 논의하며 전통시장 환경 개선을 추진했다. [출처](https://www.kukinews.com/article/view/kuk202607150158)
+- [이은경](/people/i-eun-gyeong) — **지지**: 골목경제 회복과 상권 활성화를 위한 중장기 마스터플랜 등 원도심 회복 5대 과제를 제안했다. [출처](https://www.kyeonggi.com/article/20260715580431)
+- [인태연](/people/in-tae-yeon) — **지지**: 중소슈퍼 경쟁력 확보와 골목상권 활성화를 적극 지원하겠다고 밝혔다. [출처](http://www.cctimes.kr/news/articleView.html?idxno=916892)
 <!-- /agent:stances -->
