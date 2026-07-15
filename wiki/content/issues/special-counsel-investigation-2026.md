@@ -52,4 +52,9 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [손수조](/people/son-su-jo) — **반대**: 윤석열 전 대통령의 장기 구금 가능성을 언급하며 강성 친윤·반탄 정서를 드러냈다. [출처](https://www.ikbc.co.kr/article/view/kbc202607120024)
 - [염태영](/people/yeom-tae-yeong) — **지지**: 명태균 게이트 진상조사단 기자회견에 참여해 윤석열 여론조사 무상수수 판결 이후 오세훈 책임론을 제기했다. [출처](https://www.news1.kr/photos/8007368)
 - [송재봉](/people/song-jae-bong) — **지지**: 명태균 게이트 진상조사단의 일원으로 윤석열 1심 판결을 계기로 오세훈 처벌 촉구에 나섰다. [출처](https://www.news1.kr/photos/8007368)
+- [조성현](/people/jo-seong-hyeon) — **중립**: 12·3 비상계엄 당시 지시와 국회 진입 관련 진술이 종합특검에서 다뤄졌다. [출처](https://www.tf.co.kr/read/life/2343539.htm)
+- [이시원](/people/i-si-won) — **중립**: 채상병 수사 비밀 유출 의혹으로 구속심사를 받으며 종합특검의 신병 확보 대상이 됐다. [출처](https://www.ytn.co.kr/_ln/0103_202607151856068324)
+- [유시민](/people/yu-si-min) — **반대**: 이재명식 국정 운영과 공천 개입 논란을 비판하며 대통령·여권의 특검 및 당무 개입 문제를 제기했다. [출처](https://www.segye.com/newsView/20260715523555?OutUrl=naver)
+- [송영길](/people/song-yeong-gil) — **지지**: 채상병 사건과 관련해 국정감사 점검 및 끝까지 수사를 촉구했다. [출처](https://www.news1.kr/politics/assembly/6228961)
+- [원희룡](/people/won-hui-ryong) — **중립**: 양평고속도로 노선 변경 의혹과 관련해 종합특검의 강제수사 대상이 됐다. [출처](https://www.m-i.kr/news/articleView.html?idxno=1392101)
 <!-- /agent:stances -->

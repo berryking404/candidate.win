@@ -1,0 +1,15 @@
+slug: i-si-won
+name_ko: 이시원
+name_en: null
+party: null
+role: 전 대통령실 공직기강비서관
+status: stub
+aliases:
+- 이시원 전 비서관
+- 이시원 전 대통령실 비서관
+discovered_via_issue: special-counsel-investigation-2026
+discovered_at: '2026-07-15'
+sources:
+  news_keywords:
+  - 이시원
+  youtube_channels: []

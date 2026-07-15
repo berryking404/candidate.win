@@ -9,8 +9,8 @@ party: 국민의힘
 ## 행적
 
 <!-- agent:events -->
-- 2026-06-13: 종합특검이 반란 혐의 피의자로 2차 소환 조사해 약 9시간 동안 조사했다. [출처](https://www.yonhapnewstv.co.kr/news/MYH202606131516024CC)
-- 2026-06-06: 계엄 정당화 메시지 전달 의혹과 관련해 종합특검의 직권남용 혐의 피의자로 조사받았다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8585490&ref=A)
+- 2026-07-15: 명태균 무상 여론조사 제공과 공천 개입 혐의 1심 징역 2년 판결에 불복해 항소했다. [출처](https://www.dailian.co.kr/news/view/1667449/?sc=Naver)
+- 2026-07-15: 특검 수사와 탄핵 국면의 중심 당사자로 계속 거론됐다. [출처](https://www.dailian.co.kr/news/view/1667449/?sc=Naver)
 <!-- /agent:events -->
 
 ## 이슈별 입장
