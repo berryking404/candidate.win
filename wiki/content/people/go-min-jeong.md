@@ -16,4 +16,5 @@ party: 더불어민주당
 <!-- agent:stances -->
 - [젠더 갈등 심화 (2026)](/issues/gender-conflict-2026) — **반대**: 젠더 갈등과 성차별을 구조적 문제로 보고 성평등 가치와 공론장 확대를 강조했다. [출처](https://view.asiae.co.kr/article/2026062211101163628)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 청년들이 체감하는 민생 문제를 외면한 정치에 대한 성찰을 촉구했다. [출처](https://www.kyeonggi.com/article/20260623580502)
+- [스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)](/issues/starbucks-tank-day-2026) — **반대**: 스타벅스 반입금지령과 권위주의적 대응을 비판하며 스타벅스 논란을 당권 출마 계기로 언급했다. [출처](https://www.ppss.kr/news/articleView.html?idxno=302190)
 <!-- /agent:stances -->

@@ -18,4 +18,5 @@ party: 조국혁신당
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **중립**: 범여권 단일화는 시간이 지나 유권자 검증을 거친 뒤 논의할 문제라고 말해 즉각적인 단일화 압박을 유보했다. [출처](https://www.news1.kr/politics/assembly/6164839)
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **지지**: 평택을에서 범여권 결집과 단일화 압박에 우호적인 발언을 이어갔다. [출처](https://www.yna.co.kr/view/AKR20260523032352001?input=1195m)
 - **청년 일자리와 첨단산업 육성 (2026)** — **지지**: 평택을 글로벌 AI 허브로 육성하고 AI 인재 사이클을 완성하겠다는 청년 인재·첨단산업 육성 공약을 제시했다. [출처](https://www.newsis.com/view/NISX20260506_0003618304)
+- [스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)](/issues/starbucks-tank-day-2026) — **반대**: 탱크데이 논란을 5·18과 세월호 참사 연상 문제와 함께 비판적으로 공유하며 역사 조롱을 문제 삼았다. [출처](https://www.jibs.co.kr/news/articles/articlesDetail/63482?feed=na)
 <!-- /agent:stances -->
