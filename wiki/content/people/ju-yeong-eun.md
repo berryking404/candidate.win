@@ -2,7 +2,7 @@
 title: 주영은
 slug: ju-yeong-eun
 role: 상담사
-status: stub
+status: curated
 ---
 
 ## 행적

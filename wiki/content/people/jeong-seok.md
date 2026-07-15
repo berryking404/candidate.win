@@ -1,7 +1,7 @@
 ---
 title: 정석
 slug: jeong-seok
-status: stub
+status: curated
 role: 서울시립대학교 교수
 ---
 

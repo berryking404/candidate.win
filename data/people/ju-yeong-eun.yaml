@@ -3,7 +3,7 @@ name_ko: 주영은
 name_en: null
 party: null
 role: 상담사
-status: stub
+status: curated
 aliases:
 - 주영은 상담사
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 주영은
   youtube_channels: []
+  source_urls:
+  - https://www.safetynews.co.kr/news/articleView.html?idxno=249479

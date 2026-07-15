@@ -3,7 +3,7 @@ name_ko: 이남식
 name_en: null
 party: null
 role: 재능대학교 총장
-status: stub
+status: curated
 aliases:
 - 이남식 총장
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이남식
   youtube_channels: []
+  source_urls:
+  - https://www.cstimes.com/news/articleView.html?idxno=713447

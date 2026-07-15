@@ -3,7 +3,7 @@ name_ko: 박규용
 name_en: null
 party: null
 role: 상임공동대표
-status: stub
+status: curated
 aliases:
 - 박규용
 discovered_via_issue: korea-japan-acsa-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 박규용
   youtube_channels: []
+  source_urls:
+  - http://www.tongilnews.com/news/articleView.html?idxno=216978

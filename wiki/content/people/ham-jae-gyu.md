@@ -2,7 +2,7 @@
 title: 함재규
 slug: ham-jae-gyu
 role: 민주노총 통일위원장
-status: stub
+status: curated
 ---
 
 ## 행적

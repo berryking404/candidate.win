@@ -3,7 +3,7 @@ name_ko: 최홍찬
 name_en: null
 party: null
 role: 시의회 예결위원장
-status: stub
+status: curated
 aliases:
 - 최홍찬 위원장
 - 최홍찬 시의회 예결위원장
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 최홍찬
   youtube_channels: []
+  source_urls:
+  - https://news.tf.co.kr/read/national/2343343.htm

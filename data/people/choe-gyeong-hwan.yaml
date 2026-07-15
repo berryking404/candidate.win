@@ -3,7 +3,7 @@ name_ko: 최경환
 name_en: null
 party: null
 role: 충남도의원
-status: stub
+status: curated
 aliases:
 - 최경환 의원
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최경환
   youtube_channels: []
+  source_urls:
+  - https://www.newstnt.com/news/articleView.html?idxno=710204

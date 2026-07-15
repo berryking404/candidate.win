@@ -3,7 +3,7 @@ name_ko: 박지순
 name_en: null
 party: null
 role: 고려대 법학전문대학원 교수
-status: stub
+status: curated
 aliases:
 - 박지순 교수
 discovered_via_issue: corporate-labor-dispute-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 박지순
   youtube_channels: []
+  source_urls:
+  - https://news.jtbc.co.kr/article/NB12308258?influxDiv=NAVER

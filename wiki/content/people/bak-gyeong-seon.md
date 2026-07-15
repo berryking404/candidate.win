@@ -2,7 +2,7 @@
 title: 박경선
 slug: bak-gyeong-seon
 role: 자주연합 노동위원회 집행위원장
-status: stub
+status: curated
 ---
 
 ## 행적

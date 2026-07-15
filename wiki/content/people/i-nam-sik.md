@@ -2,7 +2,7 @@
 title: 이남식
 slug: i-nam-sik
 role: 재능대학교 총장
-status: stub
+status: curated
 ---
 
 ## 행적

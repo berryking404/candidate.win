@@ -3,7 +3,7 @@ name_ko: 염태영
 name_en: null
 party: null
 role: 더불어민주당 의원
-status: stub
+status: curated
 aliases:
 - 염태영 의원
 discovered_via_issue: special-counsel-investigation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 염태영
   youtube_channels: []
+  source_urls:
+  - https://www.news1.kr/photos/8007368

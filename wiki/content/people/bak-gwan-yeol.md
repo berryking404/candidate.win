@@ -1,7 +1,7 @@
 ---
 title: 박관열
 slug: bak-gwan-yeol
-status: stub
+status: curated
 role: 광주시장
 ---
 

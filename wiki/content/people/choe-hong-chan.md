@@ -2,7 +2,7 @@
 title: 최홍찬
 slug: choe-hong-chan
 role: 시의회 예결위원장
-status: stub
+status: curated
 ---
 
 ## 행적

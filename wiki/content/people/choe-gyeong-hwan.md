@@ -1,7 +1,7 @@
 ---
 title: 최경환
 slug: choe-gyeong-hwan
-status: stub
+status: curated
 role: 충남도의원
 ---
 

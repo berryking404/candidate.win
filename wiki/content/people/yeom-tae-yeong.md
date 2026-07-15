@@ -2,7 +2,7 @@
 title: 염태영
 slug: yeom-tae-yeong
 role: 더불어민주당 의원
-status: stub
+status: curated
 ---
 
 ## 행적

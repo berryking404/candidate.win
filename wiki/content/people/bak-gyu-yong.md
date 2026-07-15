@@ -2,7 +2,7 @@
 title: 박규용
 slug: bak-gyu-yong
 role: 상임공동대표
-status: stub
+status: curated
 ---
 
 ## 행적

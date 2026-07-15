@@ -3,7 +3,7 @@ name_ko: 박경선
 name_en: null
 party: null
 role: 자주연합 노동위원회 집행위원장
-status: stub
+status: curated
 aliases:
 - 박경선
 discovered_via_issue: korea-japan-acsa-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 박경선
   youtube_channels: []
+  source_urls:
+  - http://news.inochong.org/detail.php?number=6526&thread=22r14

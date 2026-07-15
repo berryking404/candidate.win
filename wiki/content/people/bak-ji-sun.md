@@ -2,7 +2,7 @@
 title: 박지순
 slug: bak-ji-sun
 role: 고려대 법학전문대학원 교수
-status: stub
+status: curated
 ---
 
 ## 행적
