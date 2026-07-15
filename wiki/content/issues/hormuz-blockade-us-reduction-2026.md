@@ -21,5 +21,4 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [김정관](/people/gim-jeong-gwan) — **지지**: 호르무즈 해협 봉쇄 재발에 대비해 UAE 우회 송유관 건설과 한국 기업 참여를 당부했다. [출처](https://www.news1.kr/economy/idustry-trade/6199340)
 - [위성락](/people/wi-seong-rak) — **혼합**: 미국의 동맹 현대화와 전략적 유연성 논의에 대해 한국의 기여 가능성을 열어두면서도, 주한미군 감축 문제와는 분리해야 한다는 신중한 입장을 보였다. [출처](https://www.khan.co.kr/article/202606281116001)
 - [도널드 트럼프](/people/donald-trump) — **지지**: 호르무즈 해협 봉쇄를 다시 시행할 수 있다고 경고하며 이란만을 겨냥한 압박 수단으로 삼겠다는 뜻을 밝혔다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8606528&ref=A)
-- [이란 이슬람혁명수비대](/people/irgc) — **반대**: 미국과 동맹국의 에너지 수송을 봉쇄하겠다고 위협하며 호르무즈 해협과 홍해 등 무역로를 압박했다. [출처](http://www.kjdaily.com/article.php?aid=1784115763682523227)
 <!-- /agent:stances -->

@@ -121,9 +121,6 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [정상용](/people/jeong-sang-yong) — **지지**: 지역 사회안전망 강화를 위한 협력 방안을 논의했다. [출처](https://www.jjn.co.kr/article/20260714500396)
 - [류성숙](/people/ryu-seong-suk) — **지지**: 지역 사회안전망 강화를 위한 협력 방안을 논의했다. [출처](https://www.jjn.co.kr/article/20260714500396)
 - [김정관](/people/gim-jeong-gwan) — **지지**: 취약근로자 보호를 위해 재교육과 사회안전망을 강화하는 유연안정성 모델이 필요하다고 강조했다. [출처](https://www.aitimes.kr/news/articleView.html?idxno=41003)
-- [안은영](/people/an-eun-yeong) — **지지**: 치매 노인 성추행 사건 이후 지역사회의 사회안전망을 바로 세워야 한다고 촉구했다. [출처](https://www.idomin.com/news/articleView.html?idxno=2010234)
-- [김동욱](/people/gim-dong-uk) — **지지**: AI·반도체 경쟁에 대응하려면 재교육과 사회안전망을 강화하는 노동법제 전환이 필요하다고 말했다. [출처](https://www.donga.com/news/Economy/article/all/20260715/134307640/1)
 - [이현재](/people/i-hyeon-jae) — **지지**: 여름철 야간 합동 모니터링을 통해 시민들이 안심하고 걸을 수 있는 사회적 안전망을 다지겠다고 밝혔다. [출처](http://www.enewstoday.co.kr/news/articleView.html?idxno=2449355)
 - [이승로](/people/i-seung-ro) — **지지**: 돌봄이 필요한 주민을 위한 지역 돌봄 안전망 구축 협력을 약속했다. [출처](https://www.cnbizm.com/news/articleView.html?idxno=308745)
-- [최기찬](/people/choe-gi-chan) — **지지**: 민간의 나눔이 복지 사각지대를 살피는 힘이 된다며 민관 협력을 통한 취약계층 지원을 강조했다. [출처](https://www.ibabynews.com/news/articleView.html?idxno=152886)
 <!-- /agent:stances -->

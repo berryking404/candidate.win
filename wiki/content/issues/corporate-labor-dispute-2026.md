@@ -43,5 +43,4 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [조정식](/people/jo-jeong-sik) — **중립**: 삼성전자 노사 협상 타결과 관련해 국회를 대표해 중재에 감사한다고 언급하며 노사 갈등의 원만한 해결을 평가했다. [출처](http://www.hansbiz.co.kr/news/articleView.html?idxno=849630)
 - [박민규](/people/bak-min-gyu) — **지지**: 성과급의 지역화폐 지급안이 노동계 반발에 부딪히자 개정안을 철회해 노조 측 우려를 수용했다. [출처](https://www.joongang.co.kr/article/25444226)
 - [박지순](/people/bak-ji-sun) — **중립**: 호남 반도체 투자와 단체교섭 범위에 대해 근로조건 영향이 큰 경우로 제한해야 한다는 법적 설명을 내놨다. [출처](https://news.jtbc.co.kr/article/NB12308258?influxDiv=NAVER)
-- [삼성전자서비스 광전지회](/people/samsung-electronics-service-gwangju-jeonnam-branch) — **지지**: 금속노조 총파업 현장에서 고용 불안 해소와 원청 교섭을 요구하며 집단행동에 동참했다. [출처](https://www.newsis.com/view/NISX20260715_0003710963)
 <!-- /agent:stances -->
