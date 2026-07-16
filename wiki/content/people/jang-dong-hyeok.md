@@ -31,4 +31,5 @@ party: 국민의힘
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **지지**: 투표용지 부족 사태를 계기로 선거 소청 확대와 전국 재선거를 촉구하며 특검·국정조사 필요성을 강조했다. [출처](http://www.breaknews.com/1214704)
 - [전시작전통제권(전작권) 전환 추진과 안보 논쟁 (2026)](/issues/opcon-transfer-2026) — **반대**: 전작권 조기 환수가 주한미군 철수의 트리거이자 한미동맹 해체로 이어질 수 있다고 비판했다. [출처](https://www.newdaily.co.kr/site/data/html/2026/06/02/2026060200060.html)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 장동혁 대표는 재검표보다 특검 마무리가 더 중요하다고 말하며 특검 추진보다 다른 쟁점 처리에 우선순위를 뒀다. [출처](https://www.news1.kr/politics/assembly/6222186)
+- [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원·해임건의안 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **반대**: 안규백 장관 관련 의혹과 대통령 행보를 함께 거론하며 탄핵 사유가 명백하다고 주장했다. [출처](https://news.tf.co.kr/read/ptoday/2343974.htm)
 <!-- /agent:stances -->
