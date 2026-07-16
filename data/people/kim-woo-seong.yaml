@@ -2,8 +2,8 @@ slug: kim-woo-seong
 name_ko: 김우성
 name_en: null
 party: null
-role: null
-status: stub
+role: 정치인
+status: curated
 aliases:
 - 김우성
 discovered_via_issue: orphan-wiki-curation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김우성
   youtube_channels: []
+  source_urls:
+  - https://www.incheontoday.com/news/articleView.html?idxno=315783

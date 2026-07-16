@@ -3,7 +3,7 @@ name_ko: 유시민
 name_en: null
 party: null
 role: 작가
-status: stub
+status: curated
 aliases:
 - 유 작가
 - 범여권 논객 유시민
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 유시민
   youtube_channels: []
+  source_urls:
+  - https://www.segye.com/newsView/20260715523555?OutUrl=naver

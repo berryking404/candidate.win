@@ -2,7 +2,7 @@
 title: 유시민
 slug: yu-si-min
 role: 작가
-status: stub
+status: curated
 ---
 
 ## 행적

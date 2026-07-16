@@ -3,7 +3,7 @@ name_ko: 손솔
 name_en: null
 party: null
 role: 진보당 의원
-status: stub
+status: curated
 aliases:
 - 손솔 의원
 - 진보당 손솔 의원
@@ -13,3 +13,6 @@ sources:
   news_keywords:
   - 손솔
   youtube_channels: []
+  source_urls:
+  - https://www.assembly.go.kr/members/22nd/SONSOL
+  - https://www.m-economynews.com/news/article.html?no=68776

@@ -2,7 +2,7 @@
 title: 임광현
 slug: im-gwang-hyeon
 role: 국세청장
-status: stub
+status: curated
 ---
 
 ## 행적

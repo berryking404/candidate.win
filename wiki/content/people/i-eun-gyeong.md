@@ -2,7 +2,7 @@
 title: 이은경
 slug: i-eun-gyeong
 role: 동두천시의원
-status: stub
+status: curated
 ---
 
 ## 행적

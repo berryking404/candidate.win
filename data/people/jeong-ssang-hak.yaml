@@ -3,7 +3,7 @@ name_ko: 정쌍학
 name_en: null
 party: null
 role: 경남도의원
-status: stub
+status: curated
 aliases:
 - 정쌍학 의원
 - 경남도의회 정쌍학 의원
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 정쌍학
   youtube_channels: []
+  source_urls:
+  - http://www.gndomin.com/news/articleView.html?idxno=482272

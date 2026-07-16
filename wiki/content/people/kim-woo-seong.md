@@ -1,7 +1,8 @@
 ---
 title: 김우성
 slug: kim-woo-seong
-status: stub
+role: 정치인
+status: curated
 ---
 
 ## 행적

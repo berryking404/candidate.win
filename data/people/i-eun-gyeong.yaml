@@ -3,7 +3,7 @@ name_ko: 이은경
 name_en: null
 party: null
 role: 동두천시의원
-status: stub
+status: curated
 aliases:
 - 이은경 동두천시의원
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이은경
   youtube_channels: []
+  source_urls:
+  - https://www.kyeonggi.com/article/20260715580431

@@ -2,7 +2,7 @@
 title: 손솔
 slug: son-sol
 role: 진보당 의원
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 정쌍학
 slug: jeong-ssang-hak
 role: 경남도의원
-status: stub
+status: curated
 ---
 
 ## 행적
