@@ -123,4 +123,10 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [김정관](/people/gim-jeong-gwan) — **지지**: 취약근로자 보호를 위해 재교육과 사회안전망을 강화하는 유연안정성 모델이 필요하다고 강조했다. [출처](https://www.aitimes.kr/news/articleView.html?idxno=41003)
 - [이현재](/people/i-hyeon-jae) — **지지**: 여름철 야간 합동 모니터링을 통해 시민들이 안심하고 걸을 수 있는 사회적 안전망을 다지겠다고 밝혔다. [출처](http://www.enewstoday.co.kr/news/articleView.html?idxno=2449355)
 - [이승로](/people/i-seung-ro) — **지지**: 돌봄이 필요한 주민을 위한 지역 돌봄 안전망 구축 협력을 약속했다. [출처](https://www.cnbizm.com/news/articleView.html?idxno=308745)
+- [윤석열](/people/yun-seok-yeol) — **지지**: 국가책임 통합돌봄 확대, 기초연금 하후상박 개편, 사회안전망 재정비를 핵심 과제로 제시했다. [출처](https://www.korea.kr/news/policyNewsView.do?newsId=148968291&call_from=naver_news)
+- [조재구](/people/jo-jae-gu) — **지지**: 생활밀착형 안전망과 복지위기가구 발굴을 위해 편의점과 협력하는 복지 사각지대 해소 정책을 추진했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=737293)
+- [최유철](/people/choe-yu-cheol) — **지지**: 초고령화 인구소멸 위기에 대응해 청년·신혼부부 유입과 일자리·주거 지원을 중심으로 정책을 추진하겠다고 밝혔다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3638389)
+- [조상호](/people/jo-sang-ho) — **지지**: 취약계층 어르신 가구를 직접 방문해 보양식과 안부 확인을 하며 돌봄 안전망을 실천했다. [출처](https://www.breaknews.com/1222339)
+- [김회천](/people/gim-hoe-cheon) — **지지**: 안심가로등 플러스 사업으로 야간 보행 안전과 범죄 예방 등 사회 안전망 구축을 추진했다. [출처](http://www.e-platform.net/news/articleView.html?idxno=103914)
+- [박운기](/people/bag-un-gi) — **지지**: 의료·건강·일상생활·주거를 아우르는 통합돌봄 우선발굴필요군 집중 발굴을 추진했다. [출처](https://www.siminilbo.co.kr/news/newsview.php?ncode=1160280445766789)
 <!-- /agent:stances -->
