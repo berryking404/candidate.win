@@ -43,4 +43,6 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [조정식](/people/jo-jeong-sik) — **중립**: 삼성전자 노사 협상 타결과 관련해 국회를 대표해 중재에 감사한다고 언급하며 노사 갈등의 원만한 해결을 평가했다. [출처](http://www.hansbiz.co.kr/news/articleView.html?idxno=849630)
 - [박민규](/people/bak-min-gyu) — **지지**: 성과급의 지역화폐 지급안이 노동계 반발에 부딪히자 개정안을 철회해 노조 측 우려를 수용했다. [출처](https://www.joongang.co.kr/article/25444226)
 - [박지순](/people/bak-ji-sun) — **중립**: 호남 반도체 투자와 단체교섭 범위에 대해 근로조건 영향이 큰 경우로 제한해야 한다는 법적 설명을 내놨다. [출처](https://news.jtbc.co.kr/article/NB12308258?influxDiv=NAVER)
+- [동행노조](/people/donghaeng-nojo) — **지지**: DX 부문 성과급 차별 해소와 자사주 1000주 수준의 보상을 요구하며 임금협상 백지화를 주장했다. [출처](https://www.dailian.co.kr/news/view/1668166/?sc=Naver)
+- [삼성전자노동조합](/people/samsung-electronics-labor-union) — **지지**: 성과급 격차를 규탄하며 2026년 임금협상에서 보상 차별 해소를 요구했다. [출처](https://www.news1.kr/industry/general-industry/6231047)
 <!-- /agent:stances -->
