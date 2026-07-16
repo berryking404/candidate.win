@@ -9,8 +9,7 @@ party: 무소속
 ## 행적
 
 <!-- agent:events -->
-- 2026-06-27: 도이치모터스 주가조작 등 혐의 관련 항소심과 상고심이 진행 중이라고 보도됐다. [출처](https://www.hani.co.kr/arti/society/society_general/1265612.html)
-- 2026-06-26: 도이치모터스 주가조작 등 혐의와 함께 금품수수 의혹으로도 유죄 판단과 징역형이 선고됐다고 보도됐다. [출처](https://www.hankyung.com/article/2026062608001)
+- 2026-07-15: 도이치모터스 주가조작 사건과 관련해 권오수 전 회장 등과 공모해 고가·허수·통정매매로 부당이득을 취득한 혐의로 재판에 넘겨졌다는 보도가 나왔다. [출처](https://news1.kr/society/court-prosecution/6229612)
 <!-- /agent:events -->
 
 ## 이슈별 입장
