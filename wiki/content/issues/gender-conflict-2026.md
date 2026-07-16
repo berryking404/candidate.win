@@ -58,4 +58,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [고민정](/people/go-min-jeong) — **중립**: 젠더 갈등을 정치적 대립으로 고정하기보다 갈등을 토론과 비전의 문제로 전환하자고 말했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250180&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [신진욱](/people/sin-jin-uk) — **반대**: 반페미니즘 정서는 비판받아야 한다고 분명히 말했다. [출처](https://www.nocutnews.co.kr/news/6538532?utm_source=naver&utm_medium=article&utm_campaign=20260701065041)
 - [원민경](/people/won-min-gyeong) — **지지**: 성평등 관련 국제행사에 참여하며 성평등 의제를 지지하는 맥락이 확인된다. [출처](https://www.news1.kr/photos/8001019)
+- [김재섭](/people/gim-jae-seop) — **지지**: 여성혐오·여성차별 기준이 당적과 권력에 따라 다르게 적용되는 점을 비판했다. [출처](https://www.jibs.co.kr/news/articles/articlesDetail/63530?feed=na)
 <!-- /agent:stances -->

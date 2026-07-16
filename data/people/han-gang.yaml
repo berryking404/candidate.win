@@ -1,0 +1,14 @@
+slug: han-gang
+name_ko: 한강
+name_en: null
+party: null
+role: 소설가
+status: stub
+aliases:
+- 한강 작가
+discovered_via_issue: gender-conflict-2026
+discovered_at: '2026-07-16'
+sources:
+  news_keywords:
+  - 한강
+  youtube_channels: []
