@@ -161,9 +161,6 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이남식](/people/i-nam-sik) — **지지**: 대학과 소상공인 지원기관, 전통시장이 협력하는 원도심 활성화 해법을 강조했다. [출처](https://www.cstimes.com/news/articleView.html?idxno=713447)
 - [박관열](/people/bak-gwan-yeol) — **지지**: 경안시장 시설 개선과 상인 지원 방안을 현장에서 논의하며 전통시장 환경 개선을 추진했다. [출처](https://www.kukinews.com/article/view/kuk202607150158)
 - [이은경](/people/i-eun-gyeong) — **지지**: 골목경제 회복과 상권 활성화를 위한 중장기 마스터플랜 등 원도심 회복 5대 과제를 제안했다. [출처](https://www.kyeonggi.com/article/20260715580431)
-- [메리츠금융그룹](/people/meritz-financial-group) — **지지**: 홈플러스 회생을 위한 긴급 운영자금 2000억원 전액 지원을 결정하며 소상공인과 임직원의 어려움 해소에 나섰다. [출처](https://www.donga.com/news/Economy/article/all/20260716/134312927/1)
-- [이병권](/people/lee-byeong-gwon) — **지지**: 소상공인의 일시적 위기가 폐업으로 이어지지 않도록 대체인력 지원과 휴업권 보장을 포함한 사회안전망 구축을 약속했다. [출처](https://news.bbsi.co.kr/news/articleView.html?idxno=4095581)
-- [김장호](/people/kim-jang-ho) — **지지**: 전통시장 환경 개선, 공공배달앱 확대, 지역사랑상품권 확대 등으로 골목상권 활력을 높이겠다고 밝혔다. [출처](https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078521)
-- [정덕영](/people/jeong-deok-yeong) — **지지**: 지역 식당에서 행사를 열고 골목상권에 활력을 불어넣으며 소상공인에게 실질적 도움을 주겠다는 취지를 밝혔다. [출처](https://www.wikitree.co.kr/articles/1146914)
-- [나주시](/people/na-ju-si) — **지지**: 시민 1인당 20만원 민생회복지원금을 추석 전에 지급해 지역경제와 상권 회복을 추진한다. [출처](https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607160359&t=NN)
+- [이병권](/people/i-byeong-gwon) — **지지**: 소상공인의 일시적 위기가 폐업으로 이어지지 않도록 대체인력 지원과 휴업권 보장을 포함한 사회안전망 구축을 약속했다. [출처](https://news.bbsi.co.kr/news/articleView.html?idxno=4095581)
+- [김장호](/people/gim-jang-ho) — **지지**: 전통시장 환경 개선, 공공배달앱 확대, 지역사랑상품권 확대 등으로 골목상권 활력을 높이겠다고 밝혔다. [출처](https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078521)
 <!-- /agent:stances -->
