@@ -14,4 +14,5 @@ status: stub
 ## 이슈별 입장
 
 <!-- agent:stances -->
+- [스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)](/issues/starbucks-tank-day-2026) — **반대**: 배재고 5·18 조롱 응원 논란을 두고 "그냥 지나가선 안 된다"며 혐오와 역사희화화에 문제의식을 드러냈다. [출처](https://www.joongang.co.kr/article/25445595)
 <!-- /agent:stances -->
