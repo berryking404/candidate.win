@@ -1,70 +1,119 @@
-generated_at: '2026-07-15T23:01:10+00:00'
-source_date: 2026-07-15T230107Z
+generated_at: '2026-07-16T23:01:18+00:00'
+source_date: 2026-07-16T230113Z
 window_hours: 72
 items:
 - rank: 1
-  title: 송영길 “정청래, 평택을 공천 후회? 어느 당 대표였나”
+  title: 법원, ‘내란 가담 의혹’ 심우정 전 검찰총장 구속영장 기각
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 15건, 매체 13곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 15건, 매체 14곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 15
-    outlet_count: 13
-    public_actor: 대표, 의원, 조국혁신당
+    outlet_count: 14
+    public_actor: 국회
   sources:
-  - title: 서용주 "김용남 눈 부릅뜨고 있는데 공천후회? 정청래, 해당행위"[한판...
-    url: https://www.nocutnews.co.kr/news/6548874?utm_source=naver&utm_medium=article&utm_campaign=20260716073044
-  - title: 유시민 “李, 실패로 끝날 것”… 송영길은 ‘鄭 공천 후회’ 낙태 비유
-    url: https://www.seoul.co.kr/news/politics/2026/07/16/20260716008006?wlog_tag3=naver
-  - title: 송영길 “먼저 의원된 정청래, 대통령 깔봐” 2007년 명청관계까지 ‘파...
-    url: https://www.donga.com/news/Politics/article/all/20260716/134308371/2
+  - title: '''계엄 가담 의혹'' 심우정 전 검찰총장 영장 기각…법원 "소명 부족"'
+    url: https://news.tvchosun.com/site/data/html_dir/2026/07/17/2026071790005.html
+  - title: 국회 원구성 협상 또 결렬…트럼프, 강력 지지율 최저 기록[오늘아침]
+    url: https://www.nocutnews.co.kr/news/6549523?utm_source=naver&utm_medium=article&utm_campaign=20260717070057
+  - title: '''내란 가담 의혹'' 심우정 전 검찰총장 구속영장 기각'
+    url: https://news.tf.co.kr/read/life/2344394.htm
 - rank: 2
-  title: 박지원, 정청래 '평택 공천 후회' 발언에 "당 후보에게 할 말 아니었다"
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 15건, 매체 11곳에서 확인된 공적 쟁점입니다.
+  title: 전병헌 새미래민주당 대표 "국민 생명보다 회식 자리 배치가 더 중요한가"…정부 대응 비판
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 15
-    outlet_count: 11
-    public_actor: 대표, 민주당, 의원
+    news_count: 1
+    outlet_count: 1
+    public_actor: 대표, 민주당, 정부
   sources:
-  - title: 서용주 "김용남 눈 부릅뜨고 있는데 공천후회? 정청래, 해당행위"[한판...
-    url: https://www.nocutnews.co.kr/news/6548874?utm_source=naver&utm_medium=article&utm_campaign=20260716073044
-  - title: 유시민 “李, 실패로 끝날 것”… 송영길은 ‘鄭 공천 후회’ 낙태 비유
-    url: https://www.seoul.co.kr/news/politics/2026/07/16/20260716008006?wlog_tag3=naver
-  - title: 송영길 “먼저 의원된 정청래, 대통령 깔봐” 2007년 명청관계까지 ‘파...
-    url: https://www.donga.com/news/Politics/article/all/20260716/134308371/2
+  - title: 전병헌 새미래민주당 대표 "국민 생명보다 회식 자리 배치가 더 중요한...
+    url: https://www.fntoday.co.kr/news/articleView.html?idxno=388289
 - rank: 3
-  title: 김은혜 의원, 6·3 선거관리 논란 규명 앞장…경기도 대표 의원의 역할을 묻다
+  title: 박덕흠 국회부의장, 전 지역의원 폭행 논란…사퇴 촉구 현수막 걸려
   status: 추가 확인
   score: 5
   summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 0
     outlet_count: 0
-    public_actor: 대표, 의원
+    public_actor: 국회, 의원
   sources: []
 - rank: 4
-  title: 연일 한동훈 때리는 안철수…민주당은 ‘청년 정치’ 논란 [황현희의 불편한 여의도]
+  title: 국민의힘 “안규백 국방장관, 병적기록부 공개 거부시 탄핵 검토”
   status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  score: 5
+  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 민주당
-  sources:
-  - title: 연일 한동훈 때리는 안철수…민주당은 ‘청년 정치’ 논란 [황현희의 불...
-    url: https://www.joongang.co.kr/article/25445339
+    news_count: 0
+    outlet_count: 0
+    public_actor: 국민의힘, 장관
+  sources: []
 - rank: 5
-  title: 윤재옥 의원, 투표관리 강화 공직선거법 개정안 발의
+  title: '[속보] "李 대통령 탄핵하라"… 청원 54만명 돌파'
+  status: 기존 이슈와 함께 검토
+  score: 5
+  summary: 최근 보도 13건, 매체 13곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 13
+    outlet_count: 13
+    public_actor: 국민의힘
+  sources:
+  - title: 국민의힘, 장동혁·정점식 “이재명 정권 독선적 국정운영-입법독주 저...
+    url: http://www.breaknews.com/1222462
+  - title: 유시민의 “李 실패할 것” 발언에 靑 “별도 대응하지 않겠다”
+    url: https://www.munhwa.com/article/11603202?ref=naver
+  - title: 유시민 '李필패론'에 與 격앙...정청래는 "檢개혁 못하면 지지층 외면"
+    url: http://www.joseilbo.com/news/news_read.php?uid=572094&class=32&grp=
+  related_issue: martial-law-incident-2025
+- rank: 6
+  title: '"호남 반도체, 전력부터 답하라"…국회서 인프라 논란 재점화'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 의원
+    public_actor: 국회
   sources:
-  - title: 윤재옥 의원, 투표관리 강화 공직선거법 개정안 발의
-    url: https://www.womennews.co.kr/news/articleView.html?idxno=279942
+  - title: '"호남 반도체, 전력부터 답하라"…국회서 인프라 논란 재점화'
+    url: https://view.asiae.co.kr/article/2026071610175586586
+- rank: 7
+  title: 헌재·시민 패싱 논란…기후단체 “탄중법 걸림돌은 정부·야당·산업계”
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 헌재·시민 패싱 논란…기후단체 “탄중법 걸림돌은 정부·야당·산업계...
+    url: https://www.ekn.kr/web/view.php?key=20260716027323297
+- rank: 8
+  title: ‘안규백 논란’ 딛고 통합사관학교 띄운 정부·여당…대전 자운대 4년제로
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: ‘안규백 논란’ 딛고 통합사관학교 띄운 정부·여당…대전 자운대 4년...
+    url: https://www.joongang.co.kr/article/25445720
+- rank: 9
+  title: 테슬라 CEO 머스크, 위스콘신 선거법 위반 논란
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 확인 중
+  sources:
+  - title: 테슬라 CEO 머스크, 위스콘신 선거법 위반 논란
+    url: https://www.koreadaily.com/article/20260716135305524
+  - title: '''투표하면 15억원'' 머스크 … 美 선거법 위반 수사 위기'
+    url: https://www.newdaily.co.kr/site/data/html/2026/07/15/2026071500197.html
