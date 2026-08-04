@@ -1,9 +1,9 @@
 slug: gim-jong-dae
 name_ko: 김종대
-name_en: null
-party: null
-role: 전 국회의원
-status: stub
+name_en: Kim Jong-dae
+party: 정의당
+role: 전 국회의원·군사평론가
+status: curated
 aliases:
 - 김종대
 discovered_via_issue: defense-counterintelligence-reform-impeachment-petition-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김종대
   youtube_channels: []
+  official_urls:
+  - https://www.justice21.org/newhome/about/person.html?hnum=41

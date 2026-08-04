@@ -1,9 +1,9 @@
 slug: gim-jeong-myeong
 name_ko: 김정명
 name_en: null
-party: null
-role: 복지환경위원장
-status: stub
+party: 더불어민주당
+role: 전주시의회 복지환경위원회 위원장
+status: curated
 aliases:
 - 김정명
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김정명
   youtube_channels: []
+  official_urls:
+  - https://council.jeonju.go.kr/source/member/main/main.html?f_code=12002&f_daesu=12

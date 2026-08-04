@@ -1,9 +1,9 @@
 slug: han-gang
 name_ko: 한강
-name_en: null
+name_en: Han Kang
 party: null
 role: 소설가
-status: stub
+status: curated
 aliases:
 - 한강 작가
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,7 @@ sources:
   news_keywords:
   - 한강
   youtube_channels: []
+  official_urls:
+  - https://www.nobelprize.org/prizes/literature/2024/han/facts/
+  profile_urls:
+  - https://www.wikidata.org/wiki/Q5646626

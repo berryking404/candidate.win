@@ -1,9 +1,9 @@
 slug: i-myeong-hyeon
 name_ko: 이명현
-name_en: null
+name_en: Lee Myeong-hyeon
 party: null
-role: 특별검사
-status: stub
+role: 순직해병 특별검사
+status: curated
 aliases:
 - 이명현 특검
 discovered_via_issue: special-counsel-investigation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이명현
   youtube_channels: []
+  official_urls:
+  - https://www.joongang.co.kr/article/25385995

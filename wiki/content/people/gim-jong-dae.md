@@ -1,8 +1,9 @@
 ---
 title: 김종대
 slug: gim-jong-dae
-role: 전 국회의원
-status: stub
+role: 전 국회의원·군사평론가
+status: curated
+party: 정의당
 ---
 
 ## 행적

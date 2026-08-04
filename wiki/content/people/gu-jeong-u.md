@@ -2,7 +2,7 @@
 title: 구정우
 slug: gu-jeong-u
 role: 성균관대 사회학과 교수
-status: stub
+status: curated
 ---
 
 ## 행적

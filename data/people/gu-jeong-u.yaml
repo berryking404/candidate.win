@@ -1,9 +1,9 @@
 slug: gu-jeong-u
 name_ko: 구정우
-name_en: null
+name_en: Koo Jeong-woo
 party: null
 role: 성균관대 사회학과 교수
-status: stub
+status: curated
 aliases:
 - 구정우 교수
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 구정우
   youtube_channels: []
+  official_urls:
+  - https://swb.skku.edu/inssocsci/humanrights.do

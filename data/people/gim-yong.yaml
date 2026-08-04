@@ -1,9 +1,9 @@
 slug: gim-yong
 name_ko: 김용
-name_en: null
-party: null
-role: 정치인
-status: stub
+name_en: Kim Yong
+party: 더불어민주당
+role: 전 민주연구원 부원장·최고위원 후보
+status: curated
 aliases:
 - 김용 최고위원 후보
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김용
   youtube_channels: []
+  official_urls:
+  - https://www.donga.com/news/Politics/article/all/20260708/134257735/1

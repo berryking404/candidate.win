@@ -1,8 +1,9 @@
 ---
 title: 김용
 slug: gim-yong
-role: 정치인
-status: stub
+role: 전 민주연구원 부원장·최고위원 후보
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

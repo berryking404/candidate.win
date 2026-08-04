@@ -2,7 +2,7 @@
 title: 임승필
 slug: im-seung-pil
 role: 울진군의회 의장
-status: stub
+status: curated
 ---
 
 ## 행적

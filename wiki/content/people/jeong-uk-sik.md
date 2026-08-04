@@ -1,8 +1,8 @@
 ---
 title: 정욱식
 slug: jeong-uk-sik
-role: 칼럼니스트 / 평론가
-status: stub
+role: 평화네트워크 대표
+status: curated
 ---
 
 ## 행적

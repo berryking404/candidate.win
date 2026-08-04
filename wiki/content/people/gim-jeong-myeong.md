@@ -1,8 +1,9 @@
 ---
 title: 김정명
 slug: gim-jeong-myeong
-role: 복지환경위원장
-status: stub
+role: 전주시의회 복지환경위원회 위원장
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

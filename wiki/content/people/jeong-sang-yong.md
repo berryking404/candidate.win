@@ -1,8 +1,8 @@
 ---
 title: 정상용
 slug: jeong-sang-yong
-role: 국민건강보험공단 북부지사장
-status: stub
+role: 국민건강보험공단 전주북부지사장
+status: curated
 ---
 
 ## 행적

@@ -1,8 +1,8 @@
 ---
 title: 이명현
 slug: i-myeong-hyeon
-role: 특별검사
-status: stub
+role: 순직해병 특별검사
+status: curated
 ---
 
 ## 행적

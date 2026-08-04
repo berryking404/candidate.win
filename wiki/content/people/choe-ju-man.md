@@ -2,7 +2,8 @@
 title: 최주만
 slug: choe-ju-man
 role: 전주시의회 의장
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

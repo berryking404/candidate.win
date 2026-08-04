@@ -1,9 +1,9 @@
 slug: bak-gyun-taek
 name_ko: 박균택
-name_en: null
-party: null
-role: 더불어민주당 의원
-status: stub
+name_en: Park Kyun-taek
+party: 더불어민주당
+role: 제22대 국회의원 (광주 광산구갑)
+status: curated
 aliases:
 - 박균택 의원
 discovered_via_issue: defense-counterintelligence-reform-impeachment-petition-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 박균택
   youtube_channels: []
+  official_urls:
+  - https://watch.peoplepower21.org/Member?member_seq=1301

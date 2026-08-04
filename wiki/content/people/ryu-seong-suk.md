@@ -1,8 +1,8 @@
 ---
 title: 류성숙
 slug: ryu-seong-suk
-role: 국민건강보험공단 남부지사장
-status: stub
+role: 국민건강보험공단 전주남부지사장
+status: curated
 ---
 
 ## 행적

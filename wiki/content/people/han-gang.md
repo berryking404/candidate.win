@@ -2,7 +2,7 @@
 title: 한강
 slug: han-gang
 role: 소설가
-status: stub
+status: curated
 ---
 
 ## 행적
