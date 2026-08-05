@@ -59,4 +59,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [신진욱](/people/sin-jin-uk) — **반대**: 반페미니즘 정서는 비판받아야 한다고 분명히 말했다. [출처](https://www.nocutnews.co.kr/news/6538532?utm_source=naver&utm_medium=article&utm_campaign=20260701065041)
 - [원민경](/people/won-min-gyeong) — **지지**: 성평등 관련 국제행사에 참여하며 성평등 의제를 지지하는 맥락이 확인된다. [출처](https://www.news1.kr/photos/8001019)
 - [김재섭](/people/gim-jae-seop) — **지지**: 여성혐오·여성차별 기준이 당적과 권력에 따라 다르게 적용되는 점을 비판했다. [출처](https://www.jibs.co.kr/news/articles/articlesDetail/63530?feed=na)
+- [이준석](/people/i-jun-seok) — **지지**: 남성 역차별을 정책 과제로 다루고 성평등 정책의 실효성을 재검토하는 흐름을 주도했다. [출처](https://www.news1.kr/society/general-society/6215798)
 <!-- /agent:stances -->
