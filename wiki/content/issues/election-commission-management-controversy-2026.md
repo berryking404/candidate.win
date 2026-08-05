@@ -121,4 +121,5 @@ summary: 2026년 선거 과정의 투표용지 부족·관리 부실 논란과 �
 - ([/people/ju-jin-u]) **입장**: 지난 대선 투표자 수 고의 조작 의혹을 제기하며 선관위 특검을 통한 서버 압수수색 등 강력한 수사를 촉구했습니다. (머니투데이, https://www.mt.co.kr/politics/2026/08/02/2026080210033483705)
 - ([/people/jang-dong-hyeok]) **입장**: 투표용지 부족과 투표자 수 조작 의혹을 계기로 사전투표제 폐지와 선관위 통폐합 등 전면 개편을 추진하겠다고 밝혔습니다. (경향신문, https://www.khan.co.kr/article/202607311600011)
 - ([/people/jeon-jin-suk]) **입장**: 선관위 홍보영상의 '홍어' 그래픽을 문제 삼아 선관위에 경위 해명을 요구하는 쪽에 섰습니다. (YTN, https://www.ytn.co.kr/_ln/0101_202606052241304790)
+- [윤상현](/people/yun-sang-hyeon) — **중립**: 국정조사특위 위원장으로서 투표용지 부족 사태의 재검표와 특검 절차를 관리하며 사실관계 규명을 강조했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3656189)
 <!-- /agent:stances -->
