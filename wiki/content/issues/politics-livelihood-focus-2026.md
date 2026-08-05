@@ -161,4 +161,8 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [이연희](/people/i-yeon-hui) — **지지**: 본회의 출석과 민생을 위한 성실한 의정활동을 국회의 기본 의무로 강조했다. [출처](http://www.cctimes.kr/news/articleView.html?idxno=916722)
 - [한병도](/people/han-byeong-do) — **반대**: 국민의힘이 국회를 멈춰 세우고 민생법안을 외면한다고 비판하며 원 구성과 민생법안 처리를 촉구했다. [출처](https://www.sisaon.co.kr/news/articleView.html?idxno=202759)
 - [장동혁](/people/jang-dong-hyeok) — **지지**: 정치 검찰보다 무능·부패·정치 경찰 개혁이 먼저라며 민생을 위협하는 개혁 과제를 강조했다. [출처](https://www.newsis.com/view/NISX20260716_0003712888)
+- [한병도](/people/han-bondo) — **지지**: 형사사법체계 개편에 대한 공세를 반박하는 한편 부동산 세제 정상화와 신속공급대책 확대 등 민생 현안 추진을 강조했다. [출처](https://www.news1.kr/politics/assembly/6249626)
+- [정점식](/people/jung-jeom-sik) — **지지**: 주식시장 대란의 원인 규명을 위한 국정조사를 요구하며 정쟁보다 정책 점검이 목적이라고 강조했다. [출처](https://www.etnews.com/20260805000070)
+- [강승규](/people/kang-seung-gyu) — **지지**: 축산 현대화와 규제 합리화를 위한 민생 법안을 대표발의했다. [출처](https://www.viva100.com/article/20260805500484)
+- [이재명](/people/lee-jae-myung) — **중립**: 외교·안보를 정쟁의 도구로 삼지 말라고 강조하며 정쟁화 비판을 제기했다. [출처](https://www.seoul.co.kr/news/politics/president/2026/08/05/20260805500079?wlog_tag3=naver)
 <!-- /agent:stances -->
