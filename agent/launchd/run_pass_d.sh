@@ -5,7 +5,8 @@ set -euo pipefail
 AGENT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$AGENT_DIR"
 
-LOG=/tmp/com.candydate.agent.log
+LOG="${CANDYDATE_LOG_FILE:-/tmp/com.candydate.agent.log}"
+mkdir -p "$(dirname "$LOG")"
 
 log() { echo "$(date '+%Y-%m-%d %H:%M:%S') $*" >> "$LOG"; }
 
