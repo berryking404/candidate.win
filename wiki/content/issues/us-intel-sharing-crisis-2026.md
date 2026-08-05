@@ -1,5 +1,5 @@
 ---
-title: 한미 정보공유 중단 및 정동영 통일부 장관 해임 결의안 논란
+title: 한미 정보공유 중단 및 정동영 통일부 장관 해임 결의안 논란 (2026)
 slug: us-intel-sharing-crisis-2026
 category: foreign
 status: closed

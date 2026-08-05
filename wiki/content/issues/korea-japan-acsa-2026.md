@@ -1,4 +1,5 @@
 ---
+title: 한일 상호군수지원협정(ACSA) 논의 (2026)
 slug: korea-japan-acsa-2026
 category: foreign
 status: ongoing

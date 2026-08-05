@@ -214,7 +214,7 @@ python data/cli/main.py issue show local-election-nomination-2026
 # 에이전트로 이슈 wiki 갱신
 python data/cli/main.py issue sync local-election-nomination-2026 [--dry-run]
 
-# yaml 메타(status, conclusion)를 wiki에 반영 (편집자 노트 자동 생성/갱신)
+# yaml 메타(title_ko→title, status, conclusion)를 wiki에 반영 (편집자 노트 자동 생성/갱신)
 python data/cli/main.py issue apply-meta
 
 # 전체 이슈 일괄 동기화 (내부적으로 deep_agent.py --all → status: ongoing 인 이슈만)
