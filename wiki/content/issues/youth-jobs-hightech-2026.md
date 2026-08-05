@@ -116,4 +116,5 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [민형배](/people/min-hyeong-bae) — **지지**: AI 산업을 키우고 반도체 공장을 돌릴 전력 기반 확충의 필요성을 강조했다. [출처](https://kjmbc.co.kr/NewsArticle/1527914)
 - [이철우](/people/i-cheol-u) — **지지**: 첨단산업 발전을 위해 과학기술 인재를 파격 우대하고 청소년 인재 양성을 확대해야 한다고 밝혔다. [출처](https://www.idaegu.co.kr/news/articleView.html?idxno=554152)
 - [이주희](/people/i-ju-hui) — **지지**: AI 중심 교육 혁신을 통해 미래산업 인재를 양성하겠다고 밝혔다. [출처](https://view.asiae.co.kr/article/2026071616114639757)
+- [서준오](/people/seo-jun-o) — **지지**: 청년들이 실무 역량과 경쟁력을 갖춰 안정적으로 성장할 수 있도록 돕는 청년 일자리 지원을 강조했다. [출처](http://www.munhwa.com/article/11607408?ref=naver)
 <!-- /agent:stances -->
