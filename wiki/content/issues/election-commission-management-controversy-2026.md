@@ -113,4 +113,12 @@ summary: 2026년 선거 과정의 투표용지 부족·관리 부실 논란과 �
 - [손솔](/people/son-sol) — **중립**: 선관위 독립성은 유지하되 책임성과 전문성을 강화하는 원포인트 개헌과 법률 개정을 병행하자고 제안했다. [출처](https://www.m-economynews.com/news/article.html?no=68776)
 - [윤건영](/people/yun-geon-yeong) — **지지**: 즉각 재검표와 선관위 개혁을 촉구하며 진상규명과 제도 개선을 요구했다. [출처](https://www.news1.kr/politics/assembly/6230215)
 - [이진숙](/people/i-jin-suk) — **지지**: 투표용지 부족 재발을 막기 위한 법 개정안과 독립 조사위 설치를 추진했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8612980&ref=A)
+- ([/people/yuen-sang-hyeon]) **입장**: 선관위의 해명을 전제로, 특검이 결론을 정해놓거나 의혹을 키우는 방식이 되어선 안 된다고 했습니다. (국제뉴스, https://www.gukjenews.com/news/articleView.html?idxno=3656189)
+- ([/people/ju-jin-u]) **입장**: 지난 대선 투표자 수 고의 조작 의혹을 제기하며 선관위 특검을 통한 서버 압수수색 등 강력한 수사를 촉구했습니다. (머니투데이, https://www.mt.co.kr/politics/2026/08/02/2026080210033483705)
+- ([/people/jang-dong-hyeok]) **입장**: 투표용지 부족과 투표자 수 조작 의혹을 계기로 사전투표제 폐지와 선관위 통폐합 등 전면 개편을 추진하겠다고 밝혔습니다. (연합뉴스/관련 보도, https://www.khan.co.kr/article/202607311600011)
+- ([/people/jeon-jin-suk]) **입장**: 선관위 홍보영상의 '홍어' 그래픽을 문제 삼아 선관위에 경위 해명을 요구하는 쪽에 섰습니다. (YTN, https://www.ytn.co.kr/_ln/0101_202606052241304790)
+- ([/people/yun-sang-hyeon]) **입장**: 선관위의 해명을 전제로, 특검이 결론을 정해놓거나 의혹을 키우는 방식이 되어선 안 된다고 했습니다. (국제뉴스, https://www.gukjenews.com/news/articleView.html?idxno=3656189)
+- ([/people/ju-jin-u]) **입장**: 지난 대선 투표자 수 고의 조작 의혹을 제기하며 선관위 특검을 통한 서버 압수수색 등 강력한 수사를 촉구했습니다. (머니투데이, https://www.mt.co.kr/politics/2026/08/02/2026080210033483705)
+- ([/people/jang-dong-hyeok]) **입장**: 투표용지 부족과 투표자 수 조작 의혹을 계기로 사전투표제 폐지와 선관위 통폐합 등 전면 개편을 추진하겠다고 밝혔습니다. (경향신문, https://www.khan.co.kr/article/202607311600011)
+- ([/people/jeon-jin-suk]) **입장**: 선관위 홍보영상의 '홍어' 그래픽을 문제 삼아 선관위에 경위 해명을 요구하는 쪽에 섰습니다. (YTN, https://www.ytn.co.kr/_ln/0101_202606052241304790)
 <!-- /agent:stances -->
