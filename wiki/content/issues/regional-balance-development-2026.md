@@ -195,4 +195,12 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [최경환](/people/choe-gyeong-hwan) — **지지**: 발전공기업 통합 본부의 태안 유치를 촉구하며 공공기관 지방 이전과 지역소멸 대응 필요성을 강조했다. [출처](https://www.newstnt.com/news/articleView.html?idxno=710204)
 - [박관열](/people/bak-gwan-yeol) — **지지**: 중부권 광역급행철도를 지역 간 연계와 균형발전을 이끌 핵심 기반시설로 강조하며 조기 추진을 촉구했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251397&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [최유철](/people/choe-yu-cheol) — **지지**: 대구경북신공항 추진과 청년층 유입을 통한 지방소멸 대응 방안을 강조했다. [출처](https://www.idaegu.co.kr/news/articleView.html?idxno=554096)
+- [윤희신](/people/yun-hui-sin) — **지지**: 태안의 지역소멸 위기 대응을 위해 발전통합본사 유치와 대체발전소 공백 대응을 건의했다. [출처](http://www.cctimes.kr/news/articleView.html?idxno=920354)
+- [오황균](/people/o-hwang-gyun) — **지지**: 학령인구 감소와 지방소멸 위기 속에서 교육을 통한 지역 살리기를 강조했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1173539)
+- [최재구](/people/choe-jae-gu) — **지지**: 충남도와의 정책 공조를 통해 국도비 확보와 지역균형발전, 지역 경쟁력 강화를 추진했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1173570)
+- [안효익](/people/an-hyo-ik) — **지지**: 인구 감소와 지방소멸 극복 해법으로 체류형 관광 육성을 제시했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1173496)
+- [최은식](/people/choe-eun-sik) — **지지**: 공공부지 활용과 지방소멸대응기금, 민관합동개발을 통한 인구 증가용 공공임대주택 공급을 제안했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3656218)
+- [강승규](/people/gang-seung-gyu) — **지지**: 지방소멸 위기 속 청년 농업인과 축산농가를 위해 스마트축사 규제 합리화 법안 통과를 추진했다. [출처](http://www.chungnamilbo.co.kr/news/articleView.html?idxno=902455)
+- [이우청](/people/i-u-cheong) — **지지**: 지역 특성에 맞는 재난 대응체계와 노후 기반시설 안전관리, SOC 확충을 통한 지역 균형발전을 제시했다. [출처](https://www.idaegu.com/news/articleView.html?idxno=664828)
+- [이충우](/people/lee-chung-woo) — **지지**: 수도권과의 접근성을 높여 기업 유치와 관광 활성화를 이끌겠다고 밝혔다. [출처](https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608050941330310825)
 <!-- /agent:stances -->
