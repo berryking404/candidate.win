@@ -67,4 +67,9 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [안철수](/people/an-cheol-su) — **지지**: 주말부부의 전세대출 소득공제 확대를 추진해 혼인으로 인한 주거비 부담을 줄이려는 입장을 보였다. [출처](https://www.sportsseoul.com/news/read/1622016?ref=naver)
 - [구윤철](/people/gu-yun-cheol) — **지지**: 청년 전세임대 신속 공급과 전월세 안정화기구 도입으로 주거비 부담을 낮추겠다고 밝혔다. [출처](https://www.kbs.co.kr/news/newsview.do?ncd=8609253)
 - [전진선](/people/jeon-jin-seon) — **지지**: 청년 월세 지원과 신혼부부 주거자금 대출이자 지원으로 주거비 부담 완화를 추진했다. [출처](https://www.jeonmae.co.kr/news/articleView.html?idxno=1274186)
+- [안혜리](/people/an-hye-ri) — **중립**: 전세·주거 불안과 공급, 세입자 부담을 다루는 칼럼에서 정책 쟁점을 설명했다. [출처](https://www.khan.co.kr/article/202608042137005)
+- [정점식](/people/jeong-jeom-sik) — **반대**: 전월세 시장 불안과 세입자 부담이 커질 수 있다며 부동산 세제개편에 비판적 입장을 보였다. [출처](https://www.sedaily.com/article/20075643?ref=naver)
+- [유승민](/people/yu-seung-min) — **반대**: 주거비 부담과 전세 시장 불안을 키울 수 있다는 취지로 세제·부동산 정책에 우려를 나타냈다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=313840)
+- [김영록](/people/gim-yeong-rok) — **지지**: 지역 주거안정과 전세사기 피해 완화가 필요하다는 취지의 주거 지원 정책을 언급했다. [출처](https://www.khan.co.kr/article/202608042137005)
+- [이상일](/people/i-sang-il) — **지지**: 청년 전세사기 예방과 보증금 보호를 위한 지원 정책을 강조했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3656015)
 <!-- /agent:stances -->
