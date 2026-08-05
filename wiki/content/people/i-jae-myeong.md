@@ -9,9 +9,8 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
-- 2026-06-11: 이탈리아 일간지 인터뷰와 관련 보도에서 전시작전통제권 환수와 국방 투자 확대 추진 의지를 재확인했다. [출처](https://www.chosun.com/politics/politics_general/2026/06/11/KDM2KWBT5BHZPH5BTAY24UBZQU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
-- 2026-06-11: 미국과의 경제협력 확대와 안보 자율성 강화를 함께 추진하겠다고 밝혔다. [출처](https://www.news1.kr/politics/president/6194636)
-- 2026-06-11: 전시작전통제권 환수와 국방비 증액이 한미동맹의 방향과 맞닿아 있다고 강조했다. [출처](https://www.seoul.co.kr/news/politics/president/2026/06/12/20260612006006?wlog_tag3=naver)
+- 2026-06-08: 한일 상호군수지원협정(ACSA)에 대해 국민 정서상 현재는 어렵다고 밝히며, 과거사 문제가 정리되지 않은 상황임을 강조했다. [출처](https://www.hani.co.kr/arti/politics/bluehouse/1262506.html)
+- 2026-07-09: 정부는 현재 상호군수지원협정 체결을 검토하고 있지 않다고 밝혔다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1267430.html)
 <!-- /agent:events -->
 
 ## 이슈별 입장
