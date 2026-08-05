@@ -1,8 +1,9 @@
 ---
 title: 최은식
 slug: choe-eun-sik
-role: 옥천군의회 의원
-status: stub
+role: 옥천군의회 부의장
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

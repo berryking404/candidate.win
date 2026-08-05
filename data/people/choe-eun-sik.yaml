@@ -1,9 +1,9 @@
 slug: choe-eun-sik
 name_ko: 최은식
 name_en: null
-party: null
-role: 옥천군의회 의원
-status: stub
+party: 국민의힘
+role: 옥천군의회 부의장
+status: curated
 aliases:
 - 최은식 의원
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최은식
   youtube_channels: []
+  official_urls:
+  - https://council.oc.go.kr/member/10030/main.do

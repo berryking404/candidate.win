@@ -2,8 +2,8 @@ slug: o-hwang-gyun
 name_ko: 오황균
 name_en: null
 party: null
-role: 교육장
-status: stub
+role: 서천교육지원청 교육장
+status: curated
 aliases:
 - 오황균 교육장
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 오황균
   youtube_channels: []
+  official_urls:
+  - https://www.cnsce.go.kr/

@@ -2,7 +2,8 @@
 title: 서준오
 slug: seo-jun-o
 role: 노원구청장
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

@@ -1,9 +1,9 @@
 slug: choe-jae-gu
 name_ko: 최재구
-name_en: null
-party: null
+name_en: Choi Jae-gu
+party: 국민의힘
 role: 예산군수
-status: stub
+status: curated
 aliases:
 - 최재구 예산군수
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최재구
   youtube_channels: []
+  official_urls:
+  - https://yesan.go.kr/mayor/

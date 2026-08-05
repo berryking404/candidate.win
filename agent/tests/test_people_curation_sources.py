@@ -40,7 +40,7 @@ def _curated_urls(data: dict) -> list[str]:
 
 
 def test_recent_curation_batch_has_safe_source():
-    """Regression: 2026-08-04 people curation promotions keep ≥1 safe URL."""
+    """Regression: recent people curation promotions keep ≥1 safe URL."""
     batch = [
         "bak-gyun-taek",
         "gim-jong-dae",
@@ -54,6 +54,14 @@ def test_recent_curation_batch_has_safe_source():
         "jeong-sang-yong",
         "ryu-seong-suk",
         "gim-jeong-myeong",
+        # 2026-08-05
+        "cheon-ha-ram",
+        "choe-jae-gu",
+        "an-hyo-ik",
+        "choe-eun-sik",
+        "i-u-cheong",
+        "o-hwang-gyun",
+        "seo-jun-o",
     ]
     for slug in batch:
         data = yaml.safe_load((PEOPLE_DIR / f"{slug}.yaml").read_text(encoding="utf-8"))

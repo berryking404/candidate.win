@@ -1,9 +1,9 @@
 slug: cheon-ha-ram
 name_ko: 천하람
-name_en: null
-party: null
-role: 개혁신당 원내대표
-status: stub
+name_en: Chun Ha-ram
+party: 개혁신당
+role: 제22대 국회의원·개혁신당 원내대표
+status: curated
 aliases:
 - 천하람
 discovered_via_issue: defense-counterintelligence-reform-impeachment-petition-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 천하람
   youtube_channels: []
+  official_urls:
+  - https://watch.peoplepower21.org/Member?member_seq=1225

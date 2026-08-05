@@ -2,7 +2,8 @@
 title: 안효익
 slug: an-hyo-ik
 role: 옥천군의회 의장
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

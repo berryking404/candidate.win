@@ -1,8 +1,9 @@
 ---
 title: 이우청
 slug: i-u-cheong
-role: 건설소방위원장
-status: stub
+role: 경상북도의회 건설소방위원장
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

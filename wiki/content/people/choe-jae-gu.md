@@ -2,7 +2,8 @@
 title: 최재구
 slug: choe-jae-gu
 role: 예산군수
-status: stub
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

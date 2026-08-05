@@ -1,9 +1,9 @@
 slug: an-hyo-ik
 name_ko: 안효익
 name_en: null
-party: null
+party: 더불어민주당
 role: 옥천군의회 의장
-status: stub
+status: curated
 aliases:
 - 안효익 옥천군의회 의장
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 안효익
   youtube_channels: []
+  official_urls:
+  - https://council.oc.go.kr/member/07050/main.do

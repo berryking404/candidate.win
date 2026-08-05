@@ -1,8 +1,8 @@
 ---
 title: 오황균
 slug: o-hwang-gyun
-role: 교육장
-status: stub
+role: 서천교육지원청 교육장
+status: curated
 ---
 
 ## 행적

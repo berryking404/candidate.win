@@ -1,9 +1,9 @@
 slug: i-u-cheong
 name_ko: 이우청
 name_en: null
-party: null
-role: 건설소방위원장
-status: stub
+party: 국민의힘
+role: 경상북도의회 건설소방위원장
+status: curated
 aliases:
 - 이우청 건설소방위원장
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이우청
   youtube_channels: []
+  official_urls:
+  - https://council.gb.go.kr/member/main?search_code=12007
