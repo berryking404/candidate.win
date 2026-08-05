@@ -194,7 +194,7 @@ def cmd_person_apply_meta(_args: argparse.Namespace) -> None:
 
 
 def _update_issue_wiki(slug: str, yaml_data: dict) -> bool:
-    """wiki 이슈 페이지의 status와 conclusion(편집자 노트)을 yaml 값으로 업데이트."""
+    """wiki 이슈 페이지의 title·status와 conclusion(편집자 노트)을 yaml 값으로 업데이트."""
     import re
     wiki = WIKI_ISSUES / f"{slug}.md"
     if not wiki.exists():
@@ -205,7 +205,7 @@ def _update_issue_wiki(slug: str, yaml_data: dict) -> bool:
         print(f"{YELLOW}인코딩 오류, 건너뜀: {wiki.name}{RESET}")
         return False
 
-    # 1. Frontmatter status 업데이트
+    # 1. Frontmatter title·status 업데이트
     m_fm = re.match(r"^---\n(.*?)\n---\n(.*)", text, re.DOTALL)
     if not m_fm:
         return False
@@ -213,6 +213,11 @@ def _update_issue_wiki(slug: str, yaml_data: dict) -> bool:
     body = m_fm.group(2)
 
     changed = False
+    title = yaml_data.get("title_ko") or yaml_data.get("title")
+    if title and fm.get("title") != title:
+        # Hugo는 front matter title을 페이지 제목으로 쓰므로 title_ko와 동기화
+        fm = {"title": title, **{k: v for k, v in fm.items() if k != "title"}}
+        changed = True
     status = yaml_data.get("status")
     if status and fm.get("status") != status:
         fm["status"] = status
@@ -257,7 +262,7 @@ def _update_issue_wiki(slug: str, yaml_data: dict) -> bool:
 
 
 def cmd_issue_apply_meta(_args: argparse.Namespace) -> None:
-    """data/issues/*.yaml의 메타(status, conclusion)를 wiki에 반영."""
+    """data/issues/*.yaml의 메타(title_ko→title, status, conclusion)를 wiki에 반영."""
     updated = []
     skipped = []
     for f in sorted(DATA_ISSUES.glob("*.yaml")):
@@ -426,7 +431,7 @@ def main() -> None:
     isy.add_argument("slug")
     isy.add_argument("--dry-run", action="store_true")
 
-    iss.add_parser("apply-meta", help="yaml 메타(status, conclusion)를 wiki에 반영")
+    iss.add_parser("apply-meta", help="yaml 메타(title_ko→title, status, conclusion)를 wiki에 반영")
 
     isa = iss.add_parser("sync-all", help="전체 이슈 일괄 동기화")
     isa.add_argument("--dry-run", action="store_true")
