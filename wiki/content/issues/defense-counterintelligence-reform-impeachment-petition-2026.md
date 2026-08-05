@@ -26,4 +26,6 @@ summary: 2026년 6월 국방부의 방첩사 기능 분산과 사관학교 통�
 - [김병삼](/people/gim-byeong-sam) — **반대**: 국군사관학교를 대전 자운대로 집중하는 방식에 반대하며 공론화를 요구했다. [출처](https://www.news1.kr/local/daegu-gyeongbuk/6230487)
 - [조승래](/people/jo-seung-rae) — **지지**: 대전 자운대의 군사교육 집적을 근거로 국군사관학교 창설을 환영했다. [출처](https://www.wikitree.co.kr/articles/1146806)
 - [김종대](/people/gim-jong-dae) — **중립**: 사관학교 통폐합과 방첩사 해체의 후속 계획 부재를 비판적으로 지적했다. [출처](https://www.sisain.co.kr/news/articleView.html?idxno=58238)
+- [천하람](/people/cheon-ha-ram) — **반대**: 방첩사 자료 제출 거부와 안규백 장관의 탈영 의혹을 들어 병적기록 공개를 요구하고 탄핵 논의를 이어갔다. [출처](https://www.hankyung.com/article/202607217521H)
+- [성일종](/people/seong-il-jong) — **반대**: 군 사고와 기강 해이를 이유로 안규백 국방장관의 교체 필요성을 거론했다. [출처](https://www.mk.co.kr/article/12114340)
 <!-- /agent:stances -->
