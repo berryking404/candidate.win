@@ -53,4 +53,5 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [김도형](/people/gim-do-hyeong) — **중립**: 통일교 수사 무마 의혹과 관련해 피의자 조사 대상이 됐다. [출처](https://www.ajunews.com/view/20260609180821671)
 - [유병호](/people/yu-byeong-ho) — **반대**: 관저 이전 봐주기 감사 의혹으로 구속된 뒤 구속적부심을 청구하며 혐의를 다투고 있다. [출처](https://www.ytn.co.kr/_ln/0103_202608051657112210)
 - [김대기](/people/gim-dae-gi) — **중립**: 관저 이전 관련 예산 전용 의혹 수사에서 기소 대상에 포함됐다는 보도가 있었다. [출처](https://www.m-i.kr/news/articleView.html?idxno=1397859)
+- [한동훈](/people/han-dong-hun) — **중립**: 2차 종합특검이 계엄 관련 참고인 소환을 통보했으며, 한동훈은 통보받지 못했다고 반박했다. [출처](https://www.yna.co.kr/view/AKR20260806065500504)
 <!-- /agent:stances -->
