@@ -167,4 +167,8 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [민경선](/people/min-gyeong-seon) — **지지**: 청년기본소득과 고양페이 확대, 소상공인 특례보증 등으로 지역 상권 소비를 늘리고 민생경제 회복을 추진하겠다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260806074700060?input=1195m)
 - [정창수](/people/jeong-chang-su) — **지지**: 지역경제 살림 기본계획을 1호로 결재하고 전통시장과 골목상권 활성화에 집중하겠다고 밝혔다. [출처](https://www.naeil.com/news/read/597956?ref=naver)
 - [조일교](/people/jo-il-gyo) — **지지**: 소상공인과 중소기업 지원을 강화하는 경제정책 실행을 맡게 됐다. [출처](https://www.ccdailynews.com/news/articleView.html?idxno=2432711)
+- [최원용](/people/choe-won-yong) — **중립**: 고덕택지상가 골목형상점가 지정으로 상권에 활력을 주고 소상공인 경영 안정에 도움이 되길 기대한다고 밝혔다. [출처](https://www.seoul.co.kr/news/publicnews/local_govern/2026/08/06/20260806500115?wlog_tag3=naver)
+- [이승열](/people/i-seung-yeol) — **지지**: 하나금융의 포용금융 정책을 총괄하며 청년·소상공인 금융지원을 주도하고 있다고 전했다. [출처](https://www.dailybrief.co.kr/news/articleView.html?idxno=6474)
+- [염규송](/people/yeom-gyu-song) — **지지**: 전통시장 상인과 이용객의 불편 해소를 위한 생수 지원을 추진하며 폭염 대응에 나섰다. [출처](http://www.jndn.com/article.php?aid=1785994109437368004)
+- [박본부장](/people/bak-bon-bu-jang) — **지지**: 지역 상권 데이터를 지자체 정책과 소상공인 지원에 연결하겠다고 설명했다. [출처](https://www.newsway.co.kr/news/view?ud=2026080610542773477)
 <!-- /agent:stances -->
