@@ -39,4 +39,8 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - [문장렬](/people/mun-jang-ryeol) — **지지**: 전작권 조기 전환 추진 현황과 과제를 주제로 발제하며 전환 논의를 뒷받침하는 입장을 보였다. [출처](https://www.msn.com/ko-kr/news/national/%EA%B5%AD%EB%B0%A9%EC%9C%84-%E2%80%9C%EC%A0%84%EC%9E%91%EA%B6%8C-%EC%A1%B0%EA%B8%B0-%EC%A0%84%ED%99%98-%EC%B6%94%EC%A7%84-%ED%98%84%ED%99%A9%EA%B3%BC-%EA%B3%BC%EC%A0%9C-%EC%A7%91%EC%A4%91-%EB%85%BC%EC%9D%98%EB%82%B4%EB%8A%94-24%EC%9D%BC-%EC%A0%84%EB%A0%A5%EC%84%B8%EB%AF%B8%EB%82%98/ar-AA1GcVzF)
 - [조부활](/people/jo-bu-hwal) — **지지**: 전시작전통제권의 즉각 환수와 한미 관계의 정상화를 주장했다. [출처](http://www.fnnews.com/news/202607140947341377)
 - [정욱식](/people/jeong-uk-sik) — **지지**: 전시작전통제권 환수를 지연시키는 장벽을 허물고 군사주권을 회복해야 한다고 주장했다. [출처](http://www.tongilnews.com/news/articleView.html?idxno=216994)
+- [이재명](/people/lee-jaemyung) — **지지**: 임기 내 전시작전통제권을 조기에 환수하겠다는 의지를 재차 밝혔다. [출처](https://www.ytn.co.kr/_ln/0101_202608052253405470)
+- [안규백](/people/an-gyeobaek) — **지지**: FOC 검증이 완료되면 전작권 전환 시기를 건의하고 올해 하반기 로드맵을 완성하겠다고 밝혔다. [출처](https://www.ktv.go.kr/content/view?content_id=758980)
+- [이두희](/people/lee-duhui) — **지지**: SCM에서 FOC 검증과 전작권 회복 시기 결정을 추진하겠다고 강조했다. [출처](https://www.munhwa.com/article/11607547?ref=naver)
+- [국방부](/people/ministry-of-national-defense) — **지지**: 올해 가을 SCM에서 전작권 전환 목표연도 결정을 추진하고 UFS에서 일부 평가하겠다고 밝혔다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/08/05/2026080590160.html)
 <!-- /agent:stances -->
