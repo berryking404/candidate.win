@@ -97,4 +97,5 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - [김성환](/people/kim-seonghwan) — **혼합**: 지역별 전기요금 차등 인하를 추진하면서도 한전 적자와 수도권 경쟁력 문제를 함께 고려하겠다고 밝혔다. [출처](https://www.segye.com/newsView/20260804517802?OutUrl=naver)
 - [이형일](/people/lee-hyungil) — **중립**: 7월 물가가 정부 대책으로 0.3%p 낮아졌다고 설명했다. [출처](http://www.yonhapnewstv.co.kr/news/MYH202608042301298ck)
 - [조지연](/people/jo-ji-yeon) — **지지**: 폭염 등 자연재난이 장기화될 때 취약계층·전통시장·농축산업 종사자의 전기요금 부담을 덜어주는 법 개정을 추진했다. [출처](https://www.hidomin.com/news/articleView.html?idxno=716218)
+- [물가 안정과 에너지 요금 부담 (2026)](/issues/energy-price-inflation-2026) — **중립**: 기사들은 전기요금 인상, 차등요금제, 물가 안정 고려를 다루며 관련 논의를 소개했지만 특정 인물의 명시적 찬반 입장은 확인되지 않았다. [출처](https://www.m-i.kr/news/articleView.html?idxno=1399604)
 <!-- /agent:stances -->
