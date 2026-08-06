@@ -54,4 +54,6 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [송재봉](/people/song-jae-bong) — **지지**: 명태균 게이트 진상조사단의 일원으로 윤석열 1심 판결을 계기로 오세훈 처벌 촉구에 나섰다. [출처](https://www.news1.kr/photos/8007368)
 - [유시민](/people/yu-si-min) — **반대**: 이재명식 국정 운영과 공천 개입 논란을 비판하며 대통령·여권의 특검 및 당무 개입 문제를 제기했다. [출처](https://www.segye.com/newsView/20260715523555?OutUrl=naver)
 - [송영길](/people/song-yeong-gil) — **지지**: 채상병 사건과 관련해 국정감사 점검 및 끝까지 수사를 촉구했다. [출처](https://www.news1.kr/politics/assembly/6228961)
+- [조은석](/people/jo-eun-seok) — **중립**: 특별검사팀장으로서 관련 특검 수사를 지휘하는 역할이 확인된다. [출처](https://newstapa.org/article/EIeuj)
+- [민중기](/people/min-jung-gi) — **중립**: 특별검사팀으로 언급되며 관련 수사를 담당하는 역할이 확인된다. [출처](https://www.ynhnews.co.kr/)
 <!-- /agent:stances -->
