@@ -122,4 +122,12 @@ summary: 2026년 선거 과정의 투표용지 부족·관리 부실 논란과 �
 - ([/people/jang-dong-hyeok]) **입장**: 투표용지 부족과 투표자 수 조작 의혹을 계기로 사전투표제 폐지와 선관위 통폐합 등 전면 개편을 추진하겠다고 밝혔습니다. (경향신문, https://www.khan.co.kr/article/202607311600011)
 - ([/people/jeon-jin-suk]) **입장**: 선관위 홍보영상의 '홍어' 그래픽을 문제 삼아 선관위에 경위 해명을 요구하는 쪽에 섰습니다. (YTN, https://www.ytn.co.kr/_ln/0101_202606052241304790)
 - [윤상현](/people/yun-sang-hyeon) — **중립**: 국정조사특위 위원장으로서 투표용지 부족 사태의 재검표와 특검 절차를 관리하며 사실관계 규명을 강조했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3656189)
+- [선관위 특검 국민추천위원 구성](/people/jouduhyeon) — **지지**: 투표용지 부족 사태와 국민참정권 침해 의혹 진상규명을 위한 특검 후보 추천 절차에 참여했다. [출처](https://www.mt.co.kr/politics/2026/08/05/2026080520305197249)
+- [선관위 특검 국민추천위원 구성](/people/jojiyeon) — **지지**: 투표용지 부족 사태와 국민참정권 침해 의혹 진상규명을 위한 특검 후보 추천 절차에 참여했다. [출처](https://www.mt.co.kr/politics/2026/08/05/2026080520305197249)
+- [선관위 특검 국민추천위원 구성](/people/hasangeung) — **지지**: 투표용지 부족 사태와 국민참정권 침해 의혹 진상규명을 위한 특검 후보 추천 절차에 참여했다. [출처](https://www.mt.co.kr/politics/2026/08/05/2026080520305197249)
+- [선관위 특검 국민추천위원 구성](/people/gimyongwan) — **지지**: 투표용지 부족 사태와 국민참정권 침해 의혹 진상규명을 위한 특검 후보 추천 절차에 참여했다. [출처](https://www.hankookilbo.com/news/article/A2026080516180004130?did=NA)
+- [선관위 특검 국민추천위원 구성](/people/choeongchangho) — **지지**: 투표용지 부족 사태와 국민참정권 침해 의혹 진상규명을 위한 특검 후보 추천 절차에 참여했다. [출처](https://www.hankookilbo.com/news/article/A2026080516180004130?did=NA)
+- [선관위 특검 국민추천위원 구성](/people/chajina) — **지지**: 투표용지 부족 사태와 국민참정권 침해 의혹 진상규명을 위한 특검 후보 추천 절차에 참여했다. [출처](https://www.hankookilbo.com/news/article/A2026080516180004130?did=NA)
+- [선관위 개혁 방향 및 과제](/people/seobokgyeong) — **지지**: 국회 세미나와 강연을 통해 선관위의 개혁 방향과 과제를 공론화했다. [출처](https://www.newsis.com/view/NISI20260806_0021389887)
+- [선관위 개혁 방향 및 과제](/people/naminsun) — **지지**: 국회 세미나를 열어 선관위의 개혁 방향과 과제를 논의했다. [출처](https://www.newsis.com/view/NISI20260806_0021389885)
 <!-- /agent:stances -->
