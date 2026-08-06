@@ -72,4 +72,7 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [유승민](/people/yu-seung-min) — **반대**: 주거비 부담과 전세 시장 불안을 키울 수 있다는 취지로 세제·부동산 정책에 우려를 나타냈다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=313840)
 - [김영록](/people/gim-yeong-rok) — **지지**: 지역 주거안정과 전세사기 피해 완화가 필요하다는 취지의 주거 지원 정책을 언급했다. [출처](https://www.khan.co.kr/article/202608042137005)
 - [이상일](/people/i-sang-il) — **지지**: 청년 전세사기 예방과 보증금 보호를 위한 지원 정책을 강조했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3656015)
+- [오세훈](/people/osuhoon) — **반대**: 서울 전세·월세 불안을 키울 수 있는 규제와 공급 축소에 우려를 제기하며, 공공임대만으로는 수요를 감당하기 어렵고 민간 임대 공급이 필요하다고 말했다. [출처](https://www.ddaily.co.kr/page/view/2026080614292905137)
+- [오세훈](/people/osuhoon) — **지지**: 반환받은 용산공원 부지를 보존하겠다고 밝히며, 무리한 주택 공급보다 계획적 관리 필요성을 강조했다. [출처](https://www.hg-times.com/news/articleView.html?idxno=304224)
+- [청와대](/people/bluehouse) — **지지**: 공공임대주택 공급을 늘리고 청년과 무주택자의 주거비 부담을 줄이겠다고 밝혔다. [출처](https://www.goodmorningcc.com/news/articleView.html?idxno=450218)
 <!-- /agent:stances -->
