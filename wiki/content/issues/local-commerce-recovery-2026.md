@@ -163,4 +163,8 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이은경](/people/i-eun-gyeong) — **지지**: 골목경제 회복과 상권 활성화를 위한 중장기 마스터플랜 등 원도심 회복 5대 과제를 제안했다. [출처](https://www.kyeonggi.com/article/20260715580431)
 - [이병권](/people/i-byeong-gwon) — **지지**: 소상공인의 일시적 위기가 폐업으로 이어지지 않도록 대체인력 지원과 휴업권 보장을 포함한 사회안전망 구축을 약속했다. [출처](https://news.bbsi.co.kr/news/articleView.html?idxno=4095581)
 - [김장호](/people/gim-jang-ho) — **지지**: 전통시장 환경 개선, 공공배달앱 확대, 지역사랑상품권 확대 등으로 골목상권 활력을 높이겠다고 밝혔다. [출처](https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078521)
+- [송석준](/people/song-seok-jun) — **지지**: 소상공인 재기 지원법을 대표발의해 폐업한 소상공인에 대한 국가 지원을 추진했다. [출처](https://www.suwonilbo.kr/news/articleView.html?idxno=317143)
+- [민경선](/people/min-gyeong-seon) — **지지**: 청년기본소득과 고양페이 확대, 소상공인 특례보증 등으로 지역 상권 소비를 늘리고 민생경제 회복을 추진하겠다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260806074700060?input=1195m)
+- [정창수](/people/jeong-chang-su) — **지지**: 지역경제 살림 기본계획을 1호로 결재하고 전통시장과 골목상권 활성화에 집중하겠다고 밝혔다. [출처](https://www.naeil.com/news/read/597956?ref=naver)
+- [조일교](/people/jo-il-gyo) — **지지**: 소상공인과 중소기업 지원을 강화하는 경제정책 실행을 맡게 됐다. [출처](https://www.ccdailynews.com/news/articleView.html?idxno=2432711)
 <!-- /agent:stances -->
