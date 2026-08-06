@@ -205,4 +205,5 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [이충우](/people/lee-chung-woo) — **지지**: 수도권과의 접근성을 높여 기업 유치와 관광 활성화를 이끌겠다고 밝혔다. [출처](https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608050941330310825)
 - [윤난실](/people/yun-nan-sil) — **지지**: 전남광주통합특별시의 미래 성장전략과 지역균형발전, 산업·일자리 정책을 이끌 적임자로 지명됐다. [출처](https://www.newspim.com/news/view/20260806000704)
 - [백승주](/people/baek-seung-ju) — **지지**: 전남광주통합특별시의 미래 성장전략과 지역균형발전, 산업·일자리 정책을 이끌 적임자로 지명됐다. [출처](https://www.newspim.com/news/view/20260806000704)
+- [송영길](/people/song-yeong-gil) — **지지**: 호남 재생에너지 자립과 데이터센터 특구 지정 등을 공약하며 지역 성장과 균형발전 중심의 정책을 제시했다. [출처](https://www.newsis.com/view/NISX20260806103900053?input=1195m)
 <!-- /agent:stances -->
