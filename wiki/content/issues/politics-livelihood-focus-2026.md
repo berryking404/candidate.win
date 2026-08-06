@@ -168,4 +168,10 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [조계원](/people/jo-gye-won) — **지지**: 동부권 산업단지와 경제·민생 지원을 강조하며 지역 민생 집중 필요성을 언급했다. [출처](https://www.nocutnews.co.kr/news/6559232?utm_source=naver&utm_medium=article&utm_campaign=20260806021552)
 - [김성회](/people/gim-seong-hoe) — **지지**: 국민의힘이 민생법안을 가로막고 있다며 본회의 개의와 법안 처리 협조를 요구했다. [출처](https://www.newspim.com/news/view/20260805001115)
 - [장동혁](/people/jang-dong-hyeok) — **혼합**: 당내 갈등보다 대여 투쟁과 민생 현안 대응을 우선해야 한다고 하면서도, 주로 당내 사퇴 요구 방어에 방점이 찍혀 있었다. [출처](https://www.newsfreezone.co.kr/news/articleView.html?idxno=702670)
+- [추미애](/people/chumiae) — **지지**: 지방세제 개편과 재정 문제를 정치적 공방이 아니라 민생예산 중심으로 봐야 한다고 밝혔다. [출처](https://www.kyeonggi.com/article/20260806580139)
+- [한병도](/people/hanbyeongdo) — **지지**: 세제개편을 "성장과 민생을 위한 조세 정상화"로 규정하며 정쟁성 공포 마케팅을 비판했다. [출처](https://www.ntoday.co.kr/news/articleView.html?idxno=128604)
+- [천준호](/people/cheonjunho) — **지지**: 정부 세제개편안을 왜곡한 정쟁용 공포 마케팅은 국민에게 도움이 되지 않는다고 말했다. [출처](https://www.lawissue.co.kr/view.php?ud=202608061551544882b3279dfb36_12)
+- [강준현](/people/gangjunhyeon) — **지지**: 대통령을 끌어들여 정치적 위기를 모면하려 하지 말고 민생과 직결되는 범죄 대응에 집중해야 한다고 했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3657643)
+- [경기도의회 민주당](/people/gyeonggido-uihoe-minjudang) — **지지**: 민생예산을 지키는 협치가 필요하며 재정위기를 정치적 메시지로 소비해서는 안 된다고 했다. [출처](http://www.bizwnews.com/news/articleView.html?idxno=142560)
+- [이재명](/people/leejaemyung) — **중립**: 업무보고에서 정쟁에 휘말릴 경우 정책 신뢰가 떨어질 수 있다고 언급한 것으로 보도됐다. [출처](https://news.mtn.co.kr/news-detail/2026080615051060583)
 <!-- /agent:stances -->
