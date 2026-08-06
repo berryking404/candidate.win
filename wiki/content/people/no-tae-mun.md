@@ -18,4 +18,5 @@ status: curated
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **반대**: 임직원들에게 미래 경쟁력 훼손을 막기 위해 임금협상을 신중히 해달라고 당부했다. [출처](https://woman.chosun.com/news/articleView.html?idxno=125788)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **중립**: DX부문 노조와 직접 면담하며 성과급 격차와 보상 체계를 논의했다. [출처](https://www.econovill.com/news/articleView.html?idxno=743217)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **지지**: DX 부문 직원들의 상대적 박탈감에 공감하며 사기 진작과 조직 안정화 방안을 마련하겠다고 밝혔다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=310280)
+- [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **미확인**: 주주단체의 배임 고발과 삼성전자 노사 합의 과정의 당사자로 거론됐다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260805010001483)
 <!-- /agent:stances -->

@@ -51,4 +51,6 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [우재준](/people/woo-jaejun) — **반대**: 삼성전자 성과급 갈등을 계기로 영업이익 연동 성과급을 파업 대상으로 보는 노조법 해석에 비판적 입장을 밝혔다. [출처](https://www.kukinews.com/article/view/kuk202608040170)
 - [홍기용](/people/hong-giyong) — **반대**: 영업이익 연동 성과급을 대기업 노사 분쟁과 파업의 원인으로 보고 보완입법이 필요하다고 주장했다. [출처](https://biz.heraldcorp.com/article/10830198?ref=naver)
 - [이종훈](/people/ee-jonghun) — **반대**: 삼성전자 노조의 호남 반도체 투자 쟁의화와 성과급 요구 확산을 비판했다. [출처](https://www.hankyung.com/article/2026080325201)
+- [전영현](/people/jeon-yeong-hyeon) — **미확인**: 주주단체의 배임 고발과 삼성전자 노사 합의 과정의 당사자로 거론됐다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260805010001483)
+- [노태문](/people/no-tae-mun) — **미확인**: 주주단체의 배임 고발과 삼성전자 노사 합의 과정의 당사자로 거론됐다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260805010001483)
 <!-- /agent:stances -->
