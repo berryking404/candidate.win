@@ -133,4 +133,10 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [강성수](/people/gangseongsu) — **지지**: 반도체 생산 목표 달성을 위해 국비 지원, 광역 교통망, 인재 양성 기반 구축이 필요하다고 강조했다. [출처](https://news.mtn.co.kr/news-detail/2026080514242167509)
 - [서동욱](/people/seodongwook) — **지지**: 지역 이전 기업의 인력 수요에 대응하는 인재양성 신속트랙과 AI·반도체 분야 마이스터고 확대를 제시했다. [출처](https://www.newsis.com/view/NISX20260805_0003737016)
 - [이천시](/people/icheonsi) — **지지**: 반도체 산업 기반 위에서 지역 인재 양성과 취업 연계를 강화해 산업도시 경쟁력을 높이겠다고 밝혔다. [출처](https://www.g-enews.com/view.php?ud=202608051057067295a141c47927_1)
+- [김의겸](/people/kim-yigyeom) — **지지**: 피지컬 AI·로봇·반도체 기반의 제조 경쟁력 강화가 청년 일자리 문제 해결에 중요하다고 강조했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=05576006645544696)
+- [구윤철](/people/guyuncheol) — **지지**: 청년 일자리 대책과 AI 등 첨단 분야를 연계한 고용 지원 체계 및 일자리 플랫폼 마련을 예고했다. [출처](https://www.ezyeconomy.com/news/articleView.html?idxno=238424)
+- [김정관](/people/kimjangwan) — **지지**: 첨단산업 경쟁력 강화를 위해 주 52시간 근로제 예외 적용과 연구개발·스타트업 지원 필요성을 제기했다. [출처](http://www.yonhapnewstv.co.kr/news/AKR20260806142920sHH)
+- [이재명](/people/leejeongwon) — **지지**: 청년 정책을 교육·취업·소득·자산·주거·결혼 중심으로 재편해 청년 삶 전반을 지원하자고 주문했다. [출처](https://www.seoul.co.kr/news/politics/president/2026/08/06/20260806500120?wlog_tag3=naver)
+- [백성현](/people/baekseonghyeon) — **지지**: 국방산업 유치와 양질의 청년 일자리 창출을 지역 발전 전략으로 제시했다. [출처](https://news.tf.co.kr/read/national/2351324.htm)
+- [이남오](/people/inaemo) — **지지**: RE100 기반 첨단산업단지 육성과 반도체·미래 모빌리티·신재생에너지 집적을 통한 일자리 확대 구상을 밝혔다. [출처](https://www.pressian.com/pages/articles/2026080614252356142?utm_source=naver&utm_medium=search)
 <!-- /agent:stances -->
