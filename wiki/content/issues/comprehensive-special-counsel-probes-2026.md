@@ -54,4 +54,7 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [유병호](/people/yu-byeong-ho) — **반대**: 관저 이전 봐주기 감사 의혹으로 구속된 뒤 구속적부심을 청구하며 혐의를 다투고 있다. [출처](https://www.ytn.co.kr/_ln/0103_202608051657112210)
 - [김대기](/people/gim-dae-gi) — **중립**: 관저 이전 관련 예산 전용 의혹 수사에서 기소 대상에 포함됐다는 보도가 있었다. [출처](https://www.m-i.kr/news/articleView.html?idxno=1397859)
 - [한동훈](/people/han-dong-hun) — **중립**: 2차 종합특검이 계엄 관련 참고인 소환을 통보했으며, 한동훈은 통보받지 못했다고 반박했다. [출처](https://www.yna.co.kr/view/AKR20260806065500504)
+- [방기선](/people/bang-gi-seon) — **중립**: 12·3 계엄 이후 열린 당정대 회의 참석 경위와 이후 논의 과정을 특검 조사에서 설명한 참고인이다. [출처](https://news.jtbc.co.kr/article/NB12312032?influxDiv=NAVER)
+- [원희룡](/people/won-hui-ryong) — **중립**: 서울-양평 고속도로 노선 변경 관련 종합특검 재조사 대상자로 거론됐다. [출처](https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260806512&PRO_CODE=99)
+- [유병호](/people/yu-byeong-ho) — **중립**: 관저 이전 부실 감사 및 특혜 봐주기 감사 의혹으로 종합특검 수사를 받고 구속적부심이 진행됐다. [출처](https://www.ytn.co.kr/_ln/0103_202608061531596560)
 <!-- /agent:stances -->

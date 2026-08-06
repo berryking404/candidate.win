@@ -18,4 +18,5 @@ status: curated
 <!-- agent:stances -->
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **지지**: 관저 이전 과정의 행정안전부 예산 불법 전용 지시 혐의를 부인하며 보석을 요청했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=1782982185&code=11131900&cp=nv)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 관저 이전 예산 전용 의혹을 부인하며 혐의를 방어했다. [출처](https://news.tf.co.kr/read/life/2339070.htm)
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **중립**: 대통령 관저 이전 특혜 관련 혐의로 재판에 넘겨져 2차 공판이 예정됐다. [출처](https://www.news1.kr/society/court-prosecution/6251256)
 <!-- /agent:stances -->
