@@ -60,4 +60,10 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [원민경](/people/won-min-gyeong) — **지지**: 성평등 관련 국제행사에 참여하며 성평등 의제를 지지하는 맥락이 확인된다. [출처](https://www.news1.kr/photos/8001019)
 - [김재섭](/people/gim-jae-seop) — **지지**: 여성혐오·여성차별 기준이 당적과 권력에 따라 다르게 적용되는 점을 비판했다. [출처](https://www.jibs.co.kr/news/articles/articlesDetail/63530?feed=na)
 - [이준석](/people/i-jun-seok) — **지지**: 남성 역차별을 정책 과제로 다루고 성평등 정책의 실효성을 재검토하는 흐름을 주도했다. [출처](https://www.news1.kr/society/general-society/6215798)
+- [김경희](/people/kim-gyeonghui) — **지지**: 여자 목사로서 겪는 남존여비 현실을 언급하며 성차별 문제를 직접 제기했다. [출처](https://www.nocutnews.co.kr/news/6559006?utm_source=naver&utm_medium=article&utm_campaign=20260806110051)
+- [김혜정](/people/kim-hyejeong) — **중립**: 교육에서 서로 다른 생각을 이해하며 갈등을 차분히 풀어가야 한다는 취지로 성역할·갈등 논의를 제안했다. [출처](https://www.idomin.com/news/articleView.html?idxno=2011738)
+- [김미경](/people/kim-migyeong) — **지지**: 직장 내 성희롱과 젠더폭력 문제를 개인 갈등이 아닌 사회가 해결할 사안으로 짚었다. [출처](https://www.gnnews.co.kr/news/articleView.html?idxno=642670)
+- [홍승희](/people/hong-seunghui) — **지지**: 학교 현장의 여성·성소수자 혐오표현을 줄이기 위한 인권교육과 성평등 교육 필요성을 강조했다. [출처](https://www.yna.co.kr/view/AKR20260805134500004?input=1195m)
+- [엘사예드](/people/elsayed) — **반대**: 상대 진영의 성차별적 공격에 맞서 자신과 진영을 향한 낙인에 반발했다. [출처](https://www.segye.com/newsView/20260806504219?OutUrl=naver)
+- [트럼프](/people/trump) — **반대**: 한국계 여성 주지사 후보를 향해 공격적 표현을 쓰며 젠더·인종화된 혐오 논란을 키웠다. [출처](https://www.nocutnews.co.kr/news/6559105?utm_source=naver&utm_medium=article&utm_campaign=20260806104350)
 <!-- /agent:stances -->
