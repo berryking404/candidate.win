@@ -1,109 +1,41 @@
-generated_at: '2026-08-05T23:01:28+00:00'
-source_date: 2026-08-05T230052Z
+generated_at: '2026-08-06T23:02:16+00:00'
+source_date: 2026-08-06T230213Z
 window_hours: 72
 items:
 - rank: 1
-  title: 김민석·송영길 “조희대 탄핵”…정청래만 침묵
+  title: 이 대통령, 부동산정책 2차 점검회의…공급대책 집중 점검
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 17
-    public_actor: 대표, 민주당
-  sources:
-  - title: 김민석 “신천지 개입 보호받을 일인가” 정청래 “당대표 되면 金 감찰...
-    url: https://www.donga.com/news/Politics/article/all/20260805/134428284/2
-  - title: 호남 경선 앞두고… “조희대 탄핵” 다시 꺼낸 송영길·김민석
-    url: https://www.chosun.com/politics/assembly/2026/08/06/K7WG3AZQ5JCBPIZL7WSF6ZIMPI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
-  - title: 민주 당대표 경선...당원 추가투표 공방
-    url: https://www.ksilbo.co.kr/news/articleView.html?idxno=1063936
-- rank: 2
-  title: 대법관 제청 지연과 대법원장 탄핵
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 19
-    public_actor: 국민의힘, 국회, 대표, 의원, 정부
-  sources:
-  - title: 李정부 출범 1년 물가 보니…외식 상승폭 확대·생필품 품목별 엇갈려
-    url: https://www.dailian.co.kr/news/view/1674811/?sc=Naver
-  - title: 배인규 사망 왜?…경찰 “추락사 추정”
-    url: https://www.bntnews.co.kr/article/view/bnt202608060006
-  - title: '[기자의 눈] 다수의 함정에 빠진 국회'
-    url: https://www.ajunews.com/view/20260805081015617
-- rank: 3
-  title: 송영길 "당 대표 되면 조희대 탄핵 즉각 추진할 것"
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 17건, 매체 14곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 17
-    outlet_count: 14
-    public_actor: 대표, 민주당
-  sources:
-  - title: '[8·17 전대] 송영길 "당대표 되면 조희대 탄핵 즉각 추진"…"전임 지도...'
-    url: https://www.polinews.co.kr/news/articleView.html?idxno=739228
-  - title: “사법개혁 과제 여전”…김민석, 송영길 ‘조희대 탄핵 추진’에 공감
-    url: https://www.mk.co.kr/article/12117675
-  - title: 김민석 "조희대 탄핵 '공감'…사법·경찰개혁 추진"
-    url: http://www.inews24.com/view/1992167
-- rank: 4
-  title: 이 대통령, 오는 7일 '부동산 공급 대책' 2차 회의
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 15곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 15
-    public_actor: 민주당, 정부
-  sources:
-  - title: 역세권·준공업지역…정부, 수도권 주택공급 ‘전방위 카드’ 꺼낸다[집...
-    url: https://www.sedaily.com/article/20076240?ref=naver
-  - title: '''조세 정상화'' 내세웠지만…쏟아지는 비판에 수세 몰린 세제당국'
-    url: https://news.einfomax.co.kr/news/articleView.html?idxno=4428847
-  - title: '"임대주택 공급 위축 우려" "재분배인지 집값안정인지 불분명"…학계 쓴...'
-    url: https://view.asiae.co.kr/article/2026080607331949263
-- rank: 5
-  title: ‘주가 누르기’부터 ‘ISA’까지… 세제개편 논란에 진땀 빼는 정부
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: ‘주가 누르기’부터 ‘ISA’까지… 세제개편 논란에 진땀 빼는 정부
-    url: https://www.viva100.com/article/20260805500852
-- rank: 6
-  title: 李대통령 "尹정부서도 하던 사업 가지고 빨갱이라 해…강력 대응하라"
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: 李대통령 "尹정부서도 하던 사업 가지고 빨갱이라 해…강력 대응하라"
-    url: https://www.news1.kr/politics/president/6249786
-- rank: 7
-  title: ‘친청 투표 가이드’ ‘친명 현수막’ 모두 기각…민주당 계파 공방만 키워
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
+    outlet_count: 18
     public_actor: 민주당
   sources:
-  - title: ‘친청 투표 가이드’ ‘친명 현수막’ 모두 기각…민주당 계파 공방만...
-    url: https://www.mk.co.kr/article/12118341
-- rank: 8
-  title: 정부 부동산대책 충청권엔 '유명무실'…맞춤정책 절실
+  - title: 이 대통령, 오늘 부동산 점검 2차 회의…수도권 공급대책 논의한다
+    url: http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5210842
+  - title: '[이시각헤드라인] 8월 7일 라이브투데이'
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260807073228oO4
+  - title: 이 대통령, 부동산 점검 2차 회의…수도권 공급대책 논의
+    url: http://tbs.seoul.kr/news/newsView.do?typ_800=1&idx_800=3537724&seq_800=20530607
+- rank: 2
+  title: 李대통령, 오늘 부동산 점검 2차 회의…수도권 공급대책 논의
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 11건, 매체 9곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 11
+    outlet_count: 9
+    public_actor: 확인 중
+  sources:
+  - title: '[연합뉴스 이 시각 헤드라인] - 07:30'
+    url: https://www.yna.co.kr/view/AKR20260807014100011?input=1195m
+  - title: 李대통령, 오늘 부동산 2차 점검회의…'공급 속도전' 시험대
+    url: https://www.newsfreezone.co.kr/news/articleView.html?idxno=702883
+  - title: 李대통령, 오늘 부동산 점검 2차 회의…수도권 공급대책 논의
+    url: https://biz.sbs.co.kr/article_hub/20000327228?division=NAVER
+- rank: 3
+  title: 오세훈 "보유세·양도세 인상 국가폭력처럼...."…정부 세제개편안 집중 비판
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -112,5 +44,5 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: 정부 부동산대책 충청권엔 '유명무실'…맞춤정책 절실
-    url: https://www.cctoday.co.kr/news/articleView.html?idxno=2234415
+  - title: 오세훈 "보유세·양도세 인상 국가폭력처럼...."…정부 세제개편안 집중...
+    url: http://www.intn.co.kr/news/articleView.html?idxno=2052404
