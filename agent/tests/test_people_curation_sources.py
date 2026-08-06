@@ -19,10 +19,13 @@ _SAFE_HOST_HINTS = (
     "peoplepower21.org",
     "justice21.org",
     "skku.edu",
+    "smu.ac.kr",
     "pressian.com",
     "khanews.com",
     "donga.com",
     "joongang.co.kr",
+    "fnnews.com",
+    "digitaltoday.co.kr",
     "uljin21.com",
     "state.gov",
 )
@@ -62,6 +65,12 @@ def test_recent_curation_batch_has_safe_source():
         "i-u-cheong",
         "o-hwang-gyun",
         "seo-jun-o",
+        # 2026-08-06
+        "an-hye-ri",
+        "i-jun-su",
+        "pyo-yeong-hui",
+        "gim-jae-hyeon",
+        "jo-bu-hwal",
     ]
     for slug in batch:
         data = yaml.safe_load((PEOPLE_DIR / f"{slug}.yaml").read_text(encoding="utf-8"))

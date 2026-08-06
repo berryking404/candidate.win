@@ -1,9 +1,9 @@
 slug: gim-jae-hyeon
 name_ko: 김재현
-name_en: null
+name_en: Kim Jae-hyun
 party: null
-role: 교수
-status: stub
+role: 상명대학교 글로벌금융경영학부 교수
+status: curated
 aliases:
 - 김재현 교수
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김재현
   youtube_channels: []
+  official_urls:
+  - https://globaladm.smu.ac.kr/globaladm/faculty/faculty.do

@@ -1,8 +1,8 @@
 ---
 title: 안혜리
 slug: an-hye-ri
-role: journalist / columnist
-status: stub
+role: 중앙일보 논설위원
+status: curated
 ---
 
 ## 행적

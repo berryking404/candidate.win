@@ -1,9 +1,9 @@
 slug: an-hye-ri
 name_ko: 안혜리
-name_en: null
+name_en: Ahn Hye-ri
 party: null
-role: journalist / columnist
-status: stub
+role: 중앙일보 논설위원
+status: curated
 aliases:
 - 안혜리
 discovered_via_issue: housing-jeonse-crisis-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 안혜리
   youtube_channels: []
+  official_urls:
+  - https://www.joongang.co.kr/reporter/1191

@@ -3,7 +3,7 @@ name_ko: 조부활
 name_en: null
 party: null
 role: 대전목회자정의평화협의회 회장
-status: stub
+status: curated
 aliases:
 - 조부활
 discovered_via_issue: opcon-transfer-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 조부활
   youtube_channels: []
+  official_urls:
+  - https://www.fnnews.com/news/202507250858580527

@@ -2,7 +2,7 @@
 title: 이준수
 slug: i-jun-su
 role: 도이치모터스 주가조작 공범
-status: stub
+status: curated
 ---
 
 ## 행적

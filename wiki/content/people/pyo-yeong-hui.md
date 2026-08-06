@@ -1,8 +1,8 @@
 ---
 title: 표영희
 slug: pyo-yeong-hui
-role: SGC에너지 부사장
-status: stub
+role: SGC에너지 부사장·사내이사
+status: curated
 ---
 
 ## 행적

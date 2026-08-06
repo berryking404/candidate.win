@@ -1,8 +1,8 @@
 ---
 title: 김재현
 slug: gim-jae-hyeon
-role: 교수
-status: stub
+role: 상명대학교 글로벌금융경영학부 교수
+status: curated
 ---
 
 ## 행적

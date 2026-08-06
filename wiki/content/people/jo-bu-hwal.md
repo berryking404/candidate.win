@@ -2,7 +2,7 @@
 title: 조부활
 slug: jo-bu-hwal
 role: 대전목회자정의평화협의회 회장
-status: stub
+status: curated
 ---
 
 ## 행적
