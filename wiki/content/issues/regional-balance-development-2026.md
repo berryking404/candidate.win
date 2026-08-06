@@ -203,4 +203,6 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [강승규](/people/gang-seung-gyu) — **지지**: 지방소멸 위기 속 청년 농업인과 축산농가를 위해 스마트축사 규제 합리화 법안 통과를 추진했다. [출처](http://www.chungnamilbo.co.kr/news/articleView.html?idxno=902455)
 - [이우청](/people/i-u-cheong) — **지지**: 지역 특성에 맞는 재난 대응체계와 노후 기반시설 안전관리, SOC 확충을 통한 지역 균형발전을 제시했다. [출처](https://www.idaegu.com/news/articleView.html?idxno=664828)
 - [이충우](/people/lee-chung-woo) — **지지**: 수도권과의 접근성을 높여 기업 유치와 관광 활성화를 이끌겠다고 밝혔다. [출처](https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608050941330310825)
+- [윤난실](/people/yun-nan-sil) — **지지**: 전남광주통합특별시의 미래 성장전략과 지역균형발전, 산업·일자리 정책을 이끌 적임자로 지명됐다. [출처](https://www.newspim.com/news/view/20260806000704)
+- [백승주](/people/baek-seung-ju) — **지지**: 전남광주통합특별시의 미래 성장전략과 지역균형발전, 산업·일자리 정책을 이끌 적임자로 지명됐다. [출처](https://www.newspim.com/news/view/20260806000704)
 <!-- /agent:stances -->
