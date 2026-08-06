@@ -40,4 +40,5 @@ summary: 스타벅스 코리아의 5·18 연상 마케팅 논란과 그에 대�
 - [조국](/people/jo-guk) — **반대**: 탱크데이 논란을 5·18과 세월호 참사 연상 문제와 함께 비판적으로 공유하며 역사 조롱을 문제 삼았다. [출처](https://www.jibs.co.kr/news/articles/articlesDetail/63482?feed=na)
 - [고민정](/people/go-min-jeong) — **반대**: 스타벅스 반입금지령과 권위주의적 대응을 비판하며 스타벅스 논란을 당권 출마 계기로 언급했다. [출처](https://www.ppss.kr/news/articleView.html?idxno=302190)
 - [한강](/people/han-gang) — **반대**: 5·18 조롱 응원 논란을 두고 "그냥 지나가선 안 된다"며 혐오와 역사희화화에 문제의식을 드러냈다. [출처](https://www.joongang.co.kr/article/25445595)
+- [배재고](/people/bae-jae-go) — **중립**: 학생들이 5·18 비하 구호를 선창해 징계 조치를 받았다. [출처](https://imnews.imbc.com/replay/2026/nw930/article/6842810_36996.html)
 <!-- /agent:stances -->

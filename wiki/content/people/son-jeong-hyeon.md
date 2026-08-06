@@ -15,5 +15,5 @@ party: null
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
+- [스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)](/issues/starbucks-tank-day-2026) — **중립**: 논란 당시 스타벅스코리아 대표였고 이후 해임된 것으로 보도됐다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8629832&ref=A)
 <!-- /agent:stances -->
