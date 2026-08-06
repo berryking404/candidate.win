@@ -139,4 +139,5 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [이재명](/people/leejeongwon) — **지지**: 청년 정책을 교육·취업·소득·자산·주거·결혼 중심으로 재편해 청년 삶 전반을 지원하자고 주문했다. [출처](https://www.seoul.co.kr/news/politics/president/2026/08/06/20260806500120?wlog_tag3=naver)
 - [백성현](/people/baekseonghyeon) — **지지**: 국방산업 유치와 양질의 청년 일자리 창출을 지역 발전 전략으로 제시했다. [출처](https://news.tf.co.kr/read/national/2351324.htm)
 - [이남오](/people/inaemo) — **지지**: RE100 기반 첨단산업단지 육성과 반도체·미래 모빌리티·신재생에너지 집적을 통한 일자리 확대 구상을 밝혔다. [출처](https://www.pressian.com/pages/articles/2026080614252356142?utm_source=naver&utm_medium=search)
+- [국민통합위원회](/people/gukmintonghapwiwonhoe) — **지지**: AI 시대 청년 일자리와 미래산업 맞춤형 인재 양성을 핵심 과제로 점검하며 세대상생 일자리 해법 마련에 나섰다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3657704)
 <!-- /agent:stances -->
