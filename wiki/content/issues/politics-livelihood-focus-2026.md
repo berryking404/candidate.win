@@ -165,4 +165,7 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [정점식](/people/jung-jeom-sik) — **지지**: 주식시장 대란의 원인 규명을 위한 국정조사를 요구하며 정쟁보다 정책 점검이 목적이라고 강조했다. [출처](https://www.etnews.com/20260805000070)
 - [강승규](/people/kang-seung-gyu) — **지지**: 축산 현대화와 규제 합리화를 위한 민생 법안을 대표발의했다. [출처](https://www.viva100.com/article/20260805500484)
 - [이재명](/people/lee-jae-myung) — **중립**: 외교·안보를 정쟁의 도구로 삼지 말라고 강조하며 정쟁화 비판을 제기했다. [출처](https://www.seoul.co.kr/news/politics/president/2026/08/05/20260805500079?wlog_tag3=naver)
+- [조계원](/people/jo-gye-won) — **지지**: 동부권 산업단지와 경제·민생 지원을 강조하며 지역 민생 집중 필요성을 언급했다. [출처](https://www.nocutnews.co.kr/news/6559232?utm_source=naver&utm_medium=article&utm_campaign=20260806021552)
+- [김성회](/people/gim-seong-hoe) — **지지**: 국민의힘이 민생법안을 가로막고 있다며 본회의 개의와 법안 처리 협조를 요구했다. [출처](https://www.newspim.com/news/view/20260805001115)
+- [장동혁](/people/jang-dong-hyeok) — **혼합**: 당내 갈등보다 대여 투쟁과 민생 현안 대응을 우선해야 한다고 하면서도, 주로 당내 사퇴 요구 방어에 방점이 찍혀 있었다. [출처](https://www.newsfreezone.co.kr/news/articleView.html?idxno=702670)
 <!-- /agent:stances -->
