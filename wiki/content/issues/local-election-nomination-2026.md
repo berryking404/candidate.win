@@ -81,7 +81,6 @@ summary: 2026년 지방선거를 앞둔 공천 갈등과 보수·진보 진영�
 - [정청래](/people/jeong-cheong-rae) — **반대**: 지방선거 이후 공천 갈등과 당내 책임론이 확산되는 가운데 정면 돌파 입장을 보였다. [출처](https://www.khan.co.kr/article/202606102142005)
 - [박지원](/people/bak-ji-won) — **반대**: 지방선거 패배 뒤 당권 경쟁과 계파 갈등이 더 큰 싸움으로 번질 수 있다며 정청래 지도부 총사퇴와 전대 불출마를 요구했다. [출처](https://www.donga.com/news/Politics/article/all/20260610/134088830/2)
 - [정점식](/people/jeong-jeom-sik) — **중립**: 지방선거 패배 이후 원내대표로 선출돼 공천 과정의 갈등을 봉합하고 당을 다시 세우겠다는 메시지를 냈다. [출처](https://www.ulsanpress.net/news/articleView.html?idxno=576876)
-- [강득구](/people/gang-deuk-gu) — **반대**: 자신이 김용남 공천에 관여했다는 주장에 대해 “명백한 허위사실”이라고 반박했다. [출처](https://www.kyeonggi.com/article/20260613580060)
 - [김민석](/people/gim-min-seok) — **중립**: 지방선거 이후 당권 경쟁과 연대·단일화 변수의 한 축으로 거론됐다. [출처](https://www.newsis.com/view/NISX20260612_0003667598)
 - [송영길](/people/song-yeong-gil) — **중립**: 정청래 체제의 공천 방식을 비판하며 당권 경쟁과 단일화 변수의 한 축으로 거론됐다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=02397686645481392)
 - [이재명](/people/i-jae-myeong) — **혼합**: 지방선거 이후 여당을 향해 “진영 아닌 국민 전체”를 강조하며 갈등 조정과 책임 정치를 주문했다. [출처](https://www.yna.co.kr/view/AKR20260613049700001?input=1195m)

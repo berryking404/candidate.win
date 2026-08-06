@@ -16,7 +16,6 @@ summary: 서울-양평 고속도로 종점 변경을 둘러싼 특혜 의혹.
 - [추미애](/people/chu-mi-ae) — **지지**: 서울~양평고속도로 연장 추진 등 지역 현안 지원을 언급했다. [출처](https://www.news1.kr/local/gyeonggi/6161901)
 - [김승원](/people/gim-seung-won) — **지지**: 서울~양평고속도로 가평읍 연장 추진을 정책 과제로 제시했다. [출처](https://www.ajunews.com/view/20260510173636134)
 - [김준혁](/people/gim-jun-hyeok) — **지지**: 서울~양평고속도로 연장 추진에 관여한 현장 정책 논의에 참여했다. [출처](https://www.todaykorea.co.kr/news/articleView.html?idxno=401525)
-- [강득구](/people/gang-deuk-gu) — **지지**: 서울-양평 고속도로 백지화 문제를 거론하며 책임자 구속수사를 촉구했다. [출처](https://www.incheonilbo.com/news/articleView.html?idxno=1320045)
 <!-- /agent:stances -->
 
 <!-- human-edit -->

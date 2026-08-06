@@ -99,7 +99,6 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [조정식](/people/jo-jeong-sik) — **지지**: 건강보험을 대표적 사회안전망으로 평가하며 국고지원 확대와 국민연금 사각지대 해소, 응급의료체계 개선을 강조했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8601683&ref=A)
 - [신동화](/people/sin-dong-hwa) — **지지**: 취임 첫 결재로 퇴원 환자 통합돌봄 연계 지원 업무협약을 승인하며 의료·요양·돌봄 연계체계 구축에 나섰다. [출처](https://news.tf.co.kr/read/national/2339641.htm)
 - [김보라](/people/gim-bo-ra) — **지지**: 좋은 일자리와 사회안전망, 지속가능한 생태환경의 균형을 도시 비전으로 제시했다. [출처](https://news.ifm.kr/news/articleView.html?idxno=474346)
-- [강명구](/people/gang-myeong-gu) — **지지**: 경로당 운영비를 국가·지자체가 보조할 수 있도록 노인복지법 개정안을 발의해 노인복지 기반을 넓히려 했다. [출처](https://www.news1.kr/local/daegu-gyeongbuk/6217656)
 - [윤경희](/people/yun-gyeong-hui) — **지지**: 의료·요양 통합돌봄을 통해 빈틈없는 복지체계를 구축하겠다고 밝혔다. [출처](https://www.kbsm.net/news/view.php?idx=525465)
 - [박찬대](/people/bak-chan-dae) — **지지**: 인천시의 통합돌봄국 신설과 복지·돌봄 통합 정책 추진을 주도했다. [출처](https://www.cstimes.com/news/articleView.html?idxno=712240)
 - [김찬진](/people/gim-chan-jin) — **지지**: 치매 특화 구립요양원 건립과 24시간 아이돌봄 서비스 확대를 제시했다. [출처](https://www.viva100.com/article/20260704500209)
