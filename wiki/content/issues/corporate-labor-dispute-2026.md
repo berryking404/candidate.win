@@ -53,4 +53,5 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [이종훈](/people/ee-jonghun) — **반대**: 삼성전자 노조의 호남 반도체 투자 쟁의화와 성과급 요구 확산을 비판했다. [출처](https://www.hankyung.com/article/2026080325201)
 - [전영현](/people/jeon-yeong-hyeon) — **미확인**: 주주단체의 배임 고발과 삼성전자 노사 합의 과정의 당사자로 거론됐다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260805010001483)
 - [노태문](/people/no-tae-mun) — **미확인**: 주주단체의 배임 고발과 삼성전자 노사 합의 과정의 당사자로 거론됐다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260805010001483)
+- [삼성전자 노조](/people/placeholder) — **혼합**: 성과급 지급 방식 변경을 요구하며 집회를 열었고, 사측은 내부 검토 중이라고 밝혔다. [출처](placeholder: corporate-labor-dispute-2026)
 <!-- /agent:stances -->
