@@ -26,4 +26,6 @@ summary: 도이치모터스 주가조작 사건과 김건희 여사 연루 논�
 - [이원모](/people/i-won-mo) — **중립**: 도이치모터스 수사 무마 및 '황제 조사' 의혹 관련 참고인 조사 대상이 됐다. [출처](https://imnews.imbc.com/news/2026/society/article/6834870_36918.html)
 - [김건희](/people/gim-geon-hui) — **지지**: 2심 법원에서 도이치모터스 주가조작 가담 등의 유죄가 인정되며 징역 4년이 선고됐고, 관련 연루 정황이 기사들에서 반복 확인된다. [출처](https://www.joongang.co.kr/article/25443726)
 - [윤석열](/people/yun-seok-yeol) — **반대**: 김건희 씨의 도이치모터스 주가조작 연루 의혹을 부인하며 “집사람은 손해 보고 나왔다”는 취지의 발언을 했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008659661&plink=ORI&cooper=NAVER)
+- [윤석열](/people/yun-seok-yeol) — **중립**: 김건희 여사 도이치모터스 의혹 보도에서 전 대통령으로 함께 언급됐지만, 이번 수집 텍스트에서 직접적 입장은 확인되지 않았다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260526095200H69)
+- [오세훈](/people/o-se-hun) — **중립**: 도이치모터스 사건 관련 보도에서 하급심 판단의 비교 대상으로 함께 언급됐지만, 이번 수집 텍스트에서 직접적 입장은 확인되지 않았다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260526095200H69)
 <!-- /agent:stances -->
