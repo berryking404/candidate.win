@@ -171,4 +171,13 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이승열](/people/i-seung-yeol) — **지지**: 하나금융의 포용금융 정책을 총괄하며 청년·소상공인 금융지원을 주도하고 있다고 전했다. [출처](https://www.dailybrief.co.kr/news/articleView.html?idxno=6474)
 - [염규송](/people/yeom-gyu-song) — **지지**: 전통시장 상인과 이용객의 불편 해소를 위한 생수 지원을 추진하며 폭염 대응에 나섰다. [출처](http://www.jndn.com/article.php?aid=1785994109437368004)
 - [박본부장](/people/bak-bon-bu-jang) — **지지**: 지역 상권 데이터를 지자체 정책과 소상공인 지원에 연결하겠다고 설명했다. [출처](https://www.newsway.co.kr/news/view?ud=2026080610542773477)
+- [이천시](/people/icheon-si) — **지지**: 지역화폐 캐시백과 관광소비 확대를 통해 골목상권을 살리는 소비지원 정책을 추진했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257018&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
+- [순천시](/people/suncheon-si) — **지지**: 순천사랑상품권 발행 규모를 역대 최대 수준으로 늘려 지역 소비 활성화와 소상공인 매출 증대를 꾀했다. [출처](https://sports.donga.com/region/article/all/20260806/134432077/1)
+- [서천군](/people/seocheon-gun) — **지지**: 지역사랑 휴가지원 사업을 통해 여행 소비가 지역 소상공인과 골목상권으로 이어지도록 했다. [출처](https://www.newstnt.com/news/articleView.html?idxno=713114)
+- [영천시](/people/yeongcheon-si) — **지지**: 반값 여행 시범사업을 추진해 숙박·음식점·전통시장 등 지역 소비를 확대하려 했다. [출처](http://www.newsprime.co.kr/news/article.html?no=742970)
+- [평택시](/people/pyeongtaek-si) — **지지**: 고덕택지상가를 골목형상점가로 지정해 침체된 지역 소상공인의 경영 안정을 지원했다. [출처](https://www.mt.co.kr/policy/2026/08/06/2026080614245445613)
+- [고양시](/people/goyang-si) — **지지**: 전통시장과 골목상권에 상권 매니저, 주차환경 개선, 시설 현대화 지원을 추진했다. [출처](https://www.newstnt.com/news/articleView.html?idxno=713089)
+- [대전시](/people/daejeon-si) — **지지**: 마을세무사 제도를 통해 영세사업자와 전통시장 상인의 세무 상담 접근성을 높였다. [출처](https://www.ccdn.co.kr/news/articleView.html?idxno=1092494)
+- [청송군](/people/cheongsong-gun) — **지지**: 지역화폐 기반 기본소득이 전통시장과 골목상권 소비 확대에 도움이 된다고 평가했다. [출처](https://www.idaegu.com/news/articleView.html?idxno=664879)
+- [이재명](/people/lee-jaemyung) — **지지**: 전통시장 냉방 설비 구축과 지원 문턱 완화를 주문하며 민생 지원 강화를 강조했다. [출처](http://www.seouleconews.com/news/articleView.html?idxno=92908)
 <!-- /agent:stances -->
