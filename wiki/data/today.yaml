@@ -1,41 +1,113 @@
-generated_at: '2026-08-06T23:02:16+00:00'
-source_date: 2026-08-06T230213Z
+generated_at: '2026-08-07T23:02:07+00:00'
+source_date: 2026-08-07T230204Z
 window_hours: 72
 items:
 - rank: 1
-  title: 이 대통령, 부동산정책 2차 점검회의…공급대책 집중 점검
+  title: 최혁진 의원 "조희대 대법원장 탄핵 더는 미룰 수 없다"…강력 촉구
   status: 정식 검토
-  score: 7
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  score: 9
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 3
+    public_actor: 민주당, 의원
+  sources:
+  - title: 최혁진 “조희대 탄핵 사유 차고 넘쳐…지금 탄핵 안하면 직무유기” [...
+    url: https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000543961
+  - title: 최혁진 "조희대 탄핵안, 8월 본회의에 보고해야…송영길·김민석 등에 서...
+    url: https://www.newsis.com/view/NISX20260807_0003740383
+  - title: 민주당, 조희대 대법원장 탄핵 추진하나
+    url: https://www.naeil.com/news/read/598072?ref=naver
+- rank: 2
+  title: 與 '조희대 탄핵 주장'에 "전당대회에서 나온 이야기…확대해석 안 하길"
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 18
-    public_actor: 민주당
+    outlet_count: 17
+    public_actor: 국회, 대표, 민주당, 조국혁신당
   sources:
-  - title: 이 대통령, 오늘 부동산 점검 2차 회의…수도권 공급대책 논의한다
-    url: http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5210842
-  - title: '[이시각헤드라인] 8월 7일 라이브투데이'
-    url: http://www.yonhapnewstv.co.kr/news/MYH20260807073228oO4
-  - title: 이 대통령, 부동산 점검 2차 회의…수도권 공급대책 논의
-    url: http://tbs.seoul.kr/news/newsView.do?typ_800=1&idx_800=3537724&seq_800=20530607
-- rank: 2
-  title: 李대통령, 오늘 부동산 점검 2차 회의…수도권 공급대책 논의
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 11건, 매체 9곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 11
-    outlet_count: 9
-    public_actor: 확인 중
-  sources:
-  - title: '[연합뉴스 이 시각 헤드라인] - 07:30'
-    url: https://www.yna.co.kr/view/AKR20260807014100011?input=1195m
-  - title: 李대통령, 오늘 부동산 2차 점검회의…'공급 속도전' 시험대
-    url: https://www.newsfreezone.co.kr/news/articleView.html?idxno=702883
-  - title: 李대통령, 오늘 부동산 점검 2차 회의…수도권 공급대책 논의
-    url: https://biz.sbs.co.kr/article_hub/20000327228?division=NAVER
+  - title: 이 대통령 지지율 하락, 한국경제 "30대 분노" 경향신문 "지지층도 이탈...
+    url: https://www.mediatoday.co.kr/news/articleView.html?idxno=336251
+  - title: 범여권, 조희대 대법원장 탄핵 카드 꺼냈다
+    url: https://www.jeonmae.co.kr/news/articleView.html?idxno=1282068
+  - title: 민주당·조국혁신당 법사위원 대법관 제청 미루는 조희대 직격, "신속한...
+    url: https://www.huffingtonpost.kr/article/259381
 - rank: 3
-  title: 오세훈 "보유세·양도세 인상 국가폭력처럼...."…정부 세제개편안 집중 비판
+  title: '[신율 칼럼] 黨心이 국민여론?…국민에 ''공천권'' 돌려줘야'
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 19
+    public_actor: 국민의힘, 대표, 민주당, 의원, 정부
+  sources:
+  - title: 張 ‘당원중심’ 韓 ‘국민공천’… 의원들은 누구 손 들어줄까
+    url: https://www.kmib.co.kr/article/view.asp?arcid=9000001283&cp=nv
+  - title: '"축제의 장(場)이 아수라(阿修羅)장으로..." 내전(內戰)에 휩싸인 집권여...'
+    url: https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520976
+  - title: '[신율 칼럼] 黨心이 국민여론?…국민에 ''공천권'' 돌려줘야'
+    url: https://weekly.hankooki.com/news/articleView.html?idxno=7177593
+- rank: 4
+  title: 최혁진 , 조희대 대법원장 탄핵소추안 8월 발의 촉구
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 8건, 매체 7곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 8
+    outlet_count: 7
+    public_actor: 국회
+  sources:
+  - title: 범여권, 조희대 대법원장 전방위 압박 '왜?'
+    url: https://www.sisaweek.com/news/articleView.html?idxno=237169
+  - title: 與, 조희대 대법원장 탄핵 카드 만지작
+    url: https://www.edaily.co.kr/news/newspath.asp?newsid=06746966645545024
+  - title: 與 당권주자들, 조희대 정조준…'강경파'도 탄핵 압박 가세
+    url: http://www.inews24.com/view/1992983
+- rank: 5
+  title: '[속보] 국민의힘 윤리위, ''돌려차기'' 발언 논란 서범수·진종오 징계 절차 착수'
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 국민의힘
+  sources:
+  - title: '[속보] 국민의힘 윤리위, ''돌려차기'' 발언 논란 서범수·진종오 징계 절...'
+    url: https://www.pennmike.com/news/articleView.html?idxno=125192
+  - title: '[속보] 국힘 윤리위, ‘돌려차기 발언’ 서범수·진종오 징계절차 개시'
+    url: https://www.mk.co.kr/article/12120822
+- rank: 6
+  title: 최혁진 의원, 조 대법원장 탄핵소추안 발의 촉구 기자회견 개최
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 의원
+  sources:
+  - title: 최혁진 의원, 조 대법원장 탄핵소추안 발의 촉구 기자회견 개최
+    url: https://www.newspim.com/news/view/20260807000822
+  - title: 최혁진 "조희대 탄핵안, 8월 본회의에 보고해야…송영길·김민석 등에 서...
+    url: https://www.newsis.com/view/NISX20260807_0003740383
+- rank: 7
+  title: 형소법·부동산·주식 논란에 딴 목소리…‘레드팀 자처’ 與 무계파 의원들
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 의원
+  sources:
+  - title: 형소법·부동산·주식 논란에 딴 목소리…‘레드팀 자처’ 與 무계파 의...
+    url: https://www.joongang.co.kr/article/25451583
+- rank: 8
+  title: 메타, 인도 정부에 공식 사과-아동 성착취물 광고·모디 영상 삭제 논란 수습 나서
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -44,5 +116,5 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: 오세훈 "보유세·양도세 인상 국가폭력처럼...."…정부 세제개편안 집중...
-    url: http://www.intn.co.kr/news/articleView.html?idxno=2052404
+  - title: 메타, 인도 정부에 공식 사과-아동 성착취물 광고·모디 영상 삭제 논란...
+    url: https://www.mediafine.co.kr/news/articleView.html?idxno=85963
