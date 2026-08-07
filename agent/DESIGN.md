@@ -243,7 +243,7 @@ Pass D — apply (sync)
 | `run_pass_ab.sh` | `.env` + `.venv` 로드 → `deep_agent.py --all` → `deep_agent.py --batch-submit` |
 | `run_pass_d.sh` | `.env` + `.venv` 로드 → `deep_agent.py --batch-apply` (종료코드 1=미완료, 42=CB 트립) |
 
-**클러스터 CronJob** 런처/모니터/워커 SSoT는 `agent/cron/` (`setsid` + `bash` 기동 — PVC 시드 0644·kubectl exec teardown 대응). 스킬 경로 스크립트는 repo 파일을 `exec`하는 얇은 shim이다. 내구 로그: `CANDYDATE_LOG_FILE` (기본 `/cursor-home/candydate/state/agent.log`).
+**클러스터 CronJob** 런처/모니터/워커 SSoT는 `agent/cron/` (`setsid` + `bash` 기동 — PVC 시드 0644·kubectl exec teardown 대응). 스킬 경로 스크립트는 repo 파일을 `exec`하는 얇은 shim이다 — `agent/cron/install_skill_shims.sh <skill-scripts-dir>` 로 재시드(구식 `nohup`+bare `exec "$@"` 풀카피가 남으면 worker.log 공백·monitor exit 99). 내구 로그: `CANDYDATE_LOG_FILE` (기본 `/cursor-home/candydate/state/agent.log`).
 
 공통 로그(launchd 기본): `/tmp/com.candydate.agent.log` (stdout + stderr 동일 파일). 등록:
 
