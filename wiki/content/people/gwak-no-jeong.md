@@ -2,7 +2,7 @@
 title: 곽노정
 slug: gwak-no-jeong
 role: SK하이닉스 대표이사
-status: stub
+status: curated
 ---
 
 ## 행적

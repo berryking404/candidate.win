@@ -3,12 +3,14 @@ name_ko: 이두희
 name_en: null
 party: null
 role: 국방부 차관
-status: stub
+status: curated
 aliases:
 - 이 차관
 discovered_via_issue: opcon-transfer-2026
-discovered_at: '2026-08-06'
+discovered_at: 2026-08-06
 sources:
   news_keywords:
   - 이두희
   youtube_channels: []
+  official_urls:
+  - https://www.mnd.go.kr/mnd/334/subview.do

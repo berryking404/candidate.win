@@ -1,8 +1,8 @@
 ---
 title: 백승주
 slug: baek-seung-ju
-role: 전남광주 부시장 후보자
-status: stub
+role: 전남광주 정무부시장 후보자
+status: curated
 ---
 
 ## 행적

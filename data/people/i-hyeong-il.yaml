@@ -3,12 +3,14 @@ name_ko: 이형일
 name_en: null
 party: null
 role: 재정경제부 제1차관
-status: stub
+status: curated
 aliases:
 - 이형일
 discovered_via_issue: energy-price-inflation-2026
-discovered_at: '2026-08-06'
+discovered_at: 2026-08-06
 sources:
   news_keywords:
   - 이형일
   youtube_channels: []
+  official_urls:
+  - https://www.moef.go.kr/mi/vcmnstr/his.do?menuNo=9030000

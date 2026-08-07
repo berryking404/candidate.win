@@ -3,12 +3,14 @@ name_ko: 곽노정
 name_en: null
 party: null
 role: SK하이닉스 대표이사
-status: stub
+status: curated
 aliases:
 - 곽노정 SK하이닉스 대표이사
 discovered_via_issue: corporate-labor-dispute-2026
-discovered_at: '2026-08-06'
+discovered_at: 2026-08-06
 sources:
   news_keywords:
   - 곽노정
   youtube_channels: []
+  official_urls:
+  - https://www.fnnews.com/news/202511031443292472

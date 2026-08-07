@@ -1,14 +1,16 @@
 slug: jeong-chang-su
 name_ko: 정창수
 name_en: null
-party: null
+party: 더불어민주당
 role: 서울 강북구청장
-status: stub
+status: curated
 aliases:
 - 정창수 구청장
 discovered_via_issue: local-commerce-recovery-2026
-discovered_at: '2026-08-06'
+discovered_at: 2026-08-06
 sources:
   news_keywords:
   - 정창수
   youtube_channels: []
+  official_urls:
+  - https://www.donga.com/news/Society/article/all/20260720/134312845/2

@@ -1,8 +1,8 @@
 ---
 title: 이성훈
 slug: i-seong-hun
-role: LH 사장
-status: stub
+role: 한국토지주택공사 사장
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 이두희
 slug: i-du-hui
 role: 국방부 차관
-status: stub
+status: curated
 ---
 
 ## 행적

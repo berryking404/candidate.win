@@ -1,14 +1,16 @@
 slug: song-seok-jun
 name_ko: 송석준
 name_en: null
-party: null
+party: 국민의힘
 role: 국회의원
-status: stub
+status: curated
 aliases:
 - 송석준 의원
 discovered_via_issue: local-commerce-recovery-2026
-discovered_at: '2026-08-06'
+discovered_at: 2026-08-06
 sources:
   news_keywords:
   - 송석준
   youtube_channels: []
+  official_urls:
+  - https://watch.peoplepower21.org/Member?member_seq=994

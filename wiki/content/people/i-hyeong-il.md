@@ -2,7 +2,7 @@
 title: 이형일
 slug: i-hyeong-il
 role: 재정경제부 제1차관
-status: stub
+status: curated
 ---
 
 ## 행적

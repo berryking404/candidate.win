@@ -2,7 +2,8 @@
 title: 송석준
 slug: song-seok-jun
 role: 국회의원
-status: stub
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

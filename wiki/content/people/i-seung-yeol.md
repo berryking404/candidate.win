@@ -2,7 +2,7 @@
 title: 이승열
 slug: i-seung-yeol
 role: 하나금융 부회장
-status: stub
+status: curated
 ---
 
 ## 행적

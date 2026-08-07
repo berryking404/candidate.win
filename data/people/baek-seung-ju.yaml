@@ -2,13 +2,15 @@ slug: baek-seung-ju
 name_ko: 백승주
 name_en: null
 party: null
-role: 전남광주 부시장 후보자
-status: stub
+role: 전남광주 정무부시장 후보자
+status: curated
 aliases:
 - 백승주
 discovered_via_issue: regional-balance-development-2026
-discovered_at: '2026-08-06'
+discovered_at: 2026-08-06
 sources:
   news_keywords:
   - 백승주
   youtube_channels: []
+  official_urls:
+  - https://www.fnnews.com/news/202608061041382145
