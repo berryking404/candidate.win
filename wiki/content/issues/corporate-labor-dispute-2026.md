@@ -49,4 +49,5 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [이재명](/people/i-jae-myeong) — **중립**: 일부 대기업 노조의 영업이익 연동 성과급 요구를 언급하며 노동쟁의 대상 여부에 문제를 제기했다. [출처](http://www.4th.kr/news/articleView.html?idxno=2115825)
 - [전영현](/people/jeon-yeong-hyeon) — **미확인**: 주주단체의 배임 고발과 삼성전자 노사 합의 과정의 당사자로 거론됐다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260805010001483)
 - [노태문](/people/no-tae-mun) — **미확인**: 주주단체의 배임 고발과 삼성전자 노사 합의 과정의 당사자로 거론됐다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260805010001483)
+- [전국삼성전자노동조합](/people/unknown) — **지지**: 연구개발직군 주 52시간 예외 적용 철회, 노조 참여 권한 법제화, 유해화학물질 전수조사 등을 요구했다. [출처](https://www.pressian.com/pages/articles/2026080617235011158?utm_source=naver&utm_medium=search)
 <!-- /agent:stances -->
