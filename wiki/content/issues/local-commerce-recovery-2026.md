@@ -169,4 +169,5 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이승열](/people/i-seung-yeol) — **지지**: 하나금융의 포용금융 정책을 총괄하며 청년·소상공인 금융지원을 주도하고 있다고 전했다. [출처](https://www.dailybrief.co.kr/news/articleView.html?idxno=6474)
 - [염규송](/people/yeom-gyu-song) — **지지**: 전통시장 상인과 이용객의 불편 해소를 위한 생수 지원을 추진하며 폭염 대응에 나섰다. [출처](http://www.jndn.com/article.php?aid=1785994109437368004)
 - [이재명](/people/i-jae-myeong) — **지지**: 전통시장 냉방 설비 구축과 지원 문턱 완화를 주문하며 민생 지원 강화를 강조했다. [출처](http://www.seouleconews.com/news/articleView.html?idxno=92908)
+- [김성원](/people/gim-seong-won) — **지지**: 노후 상가 환경 개선, 주차·보행 인프라 확충, 상인 경영 컨설팅, 디지털 마케팅 지원, 임대료·시설 개선 등 소상공인 지원사업을 연계해 상권 경쟁력을 높이자고 제안했다. [출처](https://www.tournews21.com/news/articleView.html?idxno=140523)
 <!-- /agent:stances -->
