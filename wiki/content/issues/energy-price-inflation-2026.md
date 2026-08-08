@@ -85,4 +85,6 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - [이재명](/people/i-jae-myeong) — **지지**: 산업용 전기요금 지역별 차등 인하와 같은 전력정책을 통해 지방 경쟁력을 높이겠다는 정부 방침을 뒷받침했다. [출처](https://www.segye.com/newsView/20260804518859?OutUrl=naver)
 - [조지연](/people/jo-ji-yeon) — **지지**: 폭염 등 자연재난이 장기화될 때 취약계층·전통시장·농축산업 종사자의 전기요금 부담을 덜어주는 법 개정을 추진했다. [출처](https://www.hidomin.com/news/articleView.html?idxno=716218)
 - [물가 안정과 에너지 요금 부담 (2026)](/issues/energy-price-inflation-2026) — **중립**: 기사들은 전기요금 인상, 차등요금제, 물가 안정 고려를 다루며 관련 논의를 소개했지만 특정 인물의 명시적 찬반 입장은 확인되지 않았다. [출처](https://www.m-i.kr/news/articleView.html?idxno=1399604)
+- [이재명](/people/unknown) — **지지**: 폭염을 기후 재난으로 보고 폭염 대응과 민생법안 속도를 강조하며, 에너지 부담 완화와 물가 안정 대응 기조를 시사했다. [출처](https://www.naeil.com/news/read/598070?ref=naver)
+- [조용우](/people/unknown) — **중립**: 지역별 전기요금 차등제의 전면 재검토를 촉구하며 제도 설계와 보상 방식 개선 필요성을 제기했다. [출처](https://sports.donga.com/region/article/all/20260808/134440724/1)
 <!-- /agent:stances -->
