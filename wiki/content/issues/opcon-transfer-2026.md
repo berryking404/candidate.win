@@ -41,5 +41,4 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - [정욱식](/people/jeong-uk-sik) — **지지**: 전시작전통제권 환수를 지연시키는 장벽을 허물고 군사주권을 회복해야 한다고 주장했다. [출처](http://www.tongilnews.com/news/articleView.html?idxno=216994)
 - [이재명](/people/i-jae-myeong) — **지지**: 임기 내 전시작전통제권을 조기에 환수하겠다는 의지를 재차 밝혔다. [출처](https://www.ytn.co.kr/_ln/0101_202608052253405470)
 - [이두희](/people/i-du-hui) — **지지**: SCM에서 FOC 검증과 전작권 회복 시기 결정을 추진하겠다고 강조했다. [출처](https://www.munhwa.com/article/11607547?ref=naver)
-- [2026 자주평화실천단](/people/na) — **지지**: 온전하고 즉각적인 전시작전통제권 환수를 요구했다. [출처](http://www.tongilnews.com/news/articleView.html?idxno=217158)
 <!-- /agent:stances -->

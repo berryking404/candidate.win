@@ -75,8 +75,7 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [오세훈](/people/o-se-hun) — **반대**: 서울 전세·월세 불안을 키울 수 있는 규제와 공급 축소에 우려를 제기하며, 공공임대만으로는 수요를 감당하기 어렵고 민간 임대 공급이 필요하다고 말했다. [출처](https://www.ddaily.co.kr/page/view/2026080614292905137)
 - [오세훈](/people/o-se-hun) — **지지**: 반환받은 용산공원 부지를 보존하겠다고 밝히며, 무리한 주택 공급보다 계획적 관리 필요성을 강조했다. [출처](https://www.hg-times.com/news/articleView.html?idxno=304224)
 - [유의동](/people/yu-ui-dong) — **지지**: 다시 오르는 집값과 전월세 부담, 청년 주거난과 전세 사기 피해를 해결 과제로 제시했다. [출처](https://www.seoul.co.kr/news/plan/congressperson/2026/08/07/20260807500239?wlog_tag3=naver)
-- [서울시](/people/seoul-si) — **지지**: 공급 부족이 전세난과 주거비 부담을 키운다며 정비사업 통한 대규모 공급 필요성을 강조했다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/08/07/2026080790309.html)
-- [강대식](/people/gang-dae-sig) — **지지**: 서울 월세 급등과 전세보증금 회복으로 서민 주거비 비상이 커졌다고 지적했다. [출처](https://www.sentv.co.kr/article/view/sentv202608070199)
+- [강대식](/people/gang-dae-sik) — **지지**: 서울 월세 급등과 전세보증금 회복으로 서민 주거비 비상이 커졌다고 지적했다. [출처](https://www.sentv.co.kr/article/view/sentv202608070199)
 - [나경원](/people/na-gyeong-won) — **반대**: 이재명 정부의 부동산 정책이 국민의 주거 불안을 가중시킨다고 비판했다. [출처](http://www.breaknews.com/1227608)
 - [황희](/people/hwang-hui) — **중립**: 버스 하우스 제안을 둘러싼 논란 속에서 청년 주거 문제를 환기했다. [출처](https://www.munhwa.com/article/11608091?ref=naver)
 <!-- /agent:stances -->
