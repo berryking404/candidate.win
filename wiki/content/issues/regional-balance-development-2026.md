@@ -203,4 +203,13 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [윤난실](/people/yun-nan-sil) — **지지**: 전남광주통합특별시의 미래 성장전략과 지역균형발전, 산업·일자리 정책을 이끌 적임자로 지명됐다. [출처](https://www.newspim.com/news/view/20260806000704)
 - [백승주](/people/baek-seung-ju) — **지지**: 전남광주통합특별시의 미래 성장전략과 지역균형발전, 산업·일자리 정책을 이끌 적임자로 지명됐다. [출처](https://www.newspim.com/news/view/20260806000704)
 - [송영길](/people/song-yeong-gil) — **지지**: 호남 재생에너지 자립과 데이터센터 특구 지정 등을 공약하며 지역 성장과 균형발전 중심의 정책을 제시했다. [출처](https://www.newsis.com/view/NISX20260806103900053?input=1195m)
+- [이광재](/people/i-gwang-jae) — **지지**: 지방소멸 극복과 지역경제 활성화, 기업 유치와 규제 혁신을 강연에서 강조했다. [출처](https://www.kwnews.co.kr/article/20260808500053)
+- [황기연](/people/hwang-gi-yeon) — **지지**: 대규모 재생에너지 사업이 주민참여 이익공유와 지역경제 활성화, 지역소멸 위기 극복에 기여한다고 설명했다. [출처](https://www.etnews.com/20260808000019)
+- [최기영](/people/choe-gi-yeong) — **지지**: 봉화 K-베트남 밸리 특구를 문화·관광·정주 기능과 연결해 지역경제와 생활인구 확대의 기반으로 삼겠다고 밝혔다. [출처](https://www.tournews21.com/news/articleView.html?idxno=140489)
+- [조영혁](/people/jo-yeong-hyeok) — **지지**: 태양광 발전 수익 공유를 통해 지방소멸 위기 속 지역공동체에 활력을 불어넣겠다고 말했다. [출처](https://www.ikbc.co.kr/article/view/kbc202608070078)
+- [한병도](/people/han-byeong-do) — **지지**: 전북 헴프와 실증특구 확대를 지역균형발전과 규제개혁, 국가예산 연계 과제로 제시했다. [출처](http://www.jeonmin.co.kr/news/articleView.html?idxno=444814)
+- [김화진](/people/gim-hwa-jin) — **지지**: 낙후 지역에는 과감한 SOC와 균형발전 예산 투자가 필요하다고 강조했다. [출처](https://www.ikbc.co.kr/article/view/kbc202608070070)
+- [장송회](/people/jang-song-hoe) — **지지**: 경기 동북부의 철도 인프라 부족을 지적하며 균형발전을 촉구했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3659118)
+- [엄태영](/people/eom-tae-yeong) — **지지**: 국가산단 조성에서 토지 확보 절차를 앞당기는 제도개선이 국가전략산업 육성과 지역균형발전에 중요하다고 말했다. [출처](https://www.pinpointnews.co.kr/news/articleView.html?idxno=475189)
+- [조국혁신당](/people/jo-guk-hyeoksindang) — **반대**: 정부의 메가특구법에서 주 52시간제 적용 제외 구상을 철회하라고 요구했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=06514086645545024)
 <!-- /agent:stances -->
