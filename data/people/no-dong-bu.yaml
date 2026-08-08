@@ -1,0 +1,14 @@
+slug: no-dong-bu
+name_ko: 노동부
+name_en: null
+party: null
+role: 부처
+status: stub
+aliases:
+- 고용노동부
+discovered_via_issue: corporate-labor-dispute-2026
+discovered_at: '2026-08-08'
+sources:
+  news_keywords:
+  - 노동부
+  youtube_channels: []
