@@ -3,7 +3,7 @@ name_ko: 유병호
 name_en: null
 party: null
 role: 감사원 감사위원(전 사무총장)
-status: stub
+status: curated
 aliases:
 - 유 전 사무총장
 discovered_via_issue: comprehensive-special-counsel-probes-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 유병호
   youtube_channels: []
+  official_urls:
+  - https://www.mpm.go.kr/flexer/html/bbs_0000000000000130/20250529/7d86a8ea158a7b9bd.xlsx.files/sheet2.html

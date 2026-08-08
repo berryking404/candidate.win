@@ -2,7 +2,7 @@
 title: 유병호
 slug: yu-byeong-ho
 role: 감사원 감사위원(전 사무총장)
-status: stub
+status: curated
 ---
 
 ## 행적

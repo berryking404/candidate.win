@@ -2,7 +2,7 @@
 title: 이영조
 slug: i-yeong-jo
 role: 중부발전 사장
-status: stub
+status: curated
 ---
 
 ## 행적

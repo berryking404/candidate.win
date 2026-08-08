@@ -1,8 +1,9 @@
 ---
 title: 조계원
 slug: jo-gye-won
-role: 더불어민주당 전남도당위원장 출마자
-status: stub
+role: 국회의원
+party: 더불어민주당
+status: curated
 ---
 
 ## 행적

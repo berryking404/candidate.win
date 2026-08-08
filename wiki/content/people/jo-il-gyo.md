@@ -2,7 +2,7 @@
 title: 조일교
 slug: jo-il-gyo
 role: 충남 경제통상국장
-status: stub
+status: curated
 ---
 
 ## 행적

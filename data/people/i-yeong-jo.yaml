@@ -3,7 +3,7 @@ name_ko: 이영조
 name_en: null
 party: null
 role: 중부발전 사장
-status: stub
+status: curated
 aliases:
 - 이영조
 discovered_via_issue: energy-price-inflation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이영조
   youtube_channels: []
+  official_urls:
+  - https://www.donga.com/news/Economy/article/all/20260416/133755792/2

@@ -3,7 +3,7 @@ name_ko: 조일교
 name_en: null
 party: null
 role: 충남 경제통상국장
-status: stub
+status: curated
 aliases:
 - 조일교 국장
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 조일교
   youtube_channels: []
+  official_urls:
+  - https://council.chungnam.go.kr/viewer/minutes.do?uid=11559

@@ -2,7 +2,7 @@
 title: 방기선
 slug: bang-gi-seon
 role: 전 국무조정실장
-status: stub
+status: curated
 ---
 
 ## 행적
