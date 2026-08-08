@@ -1,113 +1,133 @@
-generated_at: '2026-08-07T23:02:07+00:00'
-source_date: 2026-08-07T230204Z
+generated_at: '2026-08-08T23:02:06+00:00'
+source_date: 2026-08-08T230203Z
 window_hours: 72
 items:
 - rank: 1
-  title: 최혁진 의원 "조희대 대법원장 탄핵 더는 미룰 수 없다"…강력 촉구
+  title: 조국, 與 일각 '조희대 탄핵론'에 "작년엔 선 긋더니…할말하않"
   status: 정식 검토
   score: 9
+  summary: 최근 보도 14건, 매체 13곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 14
+    outlet_count: 13
+    public_actor: 대표, 민주당
+  sources:
+  - title: '[막전막후] 5개월 묵힌 카드 왜 다시 나왔나...민주당 전대 뒤흔든 ''조희...'
+    url: https://www.pennmike.com/news/articleView.html?idxno=125277
+  - title: 조국, 與 일각 '조희대 탄핵론'에 "작년엔 선 긋더니…할말하않"
+    url: https://www.newsis.com/view/NISX20260808_0003741419
+  - title: 조국, 與 일각 '조희대 탄핵론'에 "작년엔 선 긋더니…할말하않"
+    url: https://www.news1.kr/politics/assembly/6253080
+- rank: 2
+  title: 폭염 사망자 10명 중 8명 고령층…정부, 범정부 대응체계 강화
+  status: 정식 검토
+  score: 7
   summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 3
     outlet_count: 3
-    public_actor: 민주당, 의원
+    public_actor: 정부
   sources:
-  - title: 최혁진 “조희대 탄핵 사유 차고 넘쳐…지금 탄핵 안하면 직무유기” [...
-    url: https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000543961
-  - title: 최혁진 "조희대 탄핵안, 8월 본회의에 보고해야…송영길·김민석 등에 서...
-    url: https://www.newsis.com/view/NISX20260807_0003740383
-  - title: 민주당, 조희대 대법원장 탄핵 추진하나
-    url: https://www.naeil.com/news/read/598072?ref=naver
-- rank: 2
-  title: 與 '조희대 탄핵 주장'에 "전당대회에서 나온 이야기…확대해석 안 하길"
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 17
-    public_actor: 국회, 대표, 민주당, 조국혁신당
-  sources:
-  - title: 이 대통령 지지율 하락, 한국경제 "30대 분노" 경향신문 "지지층도 이탈...
-    url: https://www.mediatoday.co.kr/news/articleView.html?idxno=336251
-  - title: 범여권, 조희대 대법원장 탄핵 카드 꺼냈다
-    url: https://www.jeonmae.co.kr/news/articleView.html?idxno=1282068
-  - title: 민주당·조국혁신당 법사위원 대법관 제청 미루는 조희대 직격, "신속한...
-    url: https://www.huffingtonpost.kr/article/259381
+  - title: 폭염 사망자 10명 중 8명 고령층…범정부 현장 대응 강화
+    url: https://www.dailian.co.kr/news/view/1676127/?sc=Naver
+  - title: 폭염 사망자 10명 중 8명 고령층…정부, 범정부 대응체계 강화
+    url: https://www.viva100.com/article/20260808500112
+  - title: 온열질환 사망 10명 중 8명, 65세 이상 고령…정부 “고령층 보호 대책 ...
+    url: https://biz.heraldcorp.com/article/10834694?ref=naver
 - rank: 3
-  title: '[신율 칼럼] 黨心이 국민여론?…국민에 ''공천권'' 돌려줘야'
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 19
-    public_actor: 국민의힘, 대표, 민주당, 의원, 정부
-  sources:
-  - title: 張 ‘당원중심’ 韓 ‘국민공천’… 의원들은 누구 손 들어줄까
-    url: https://www.kmib.co.kr/article/view.asp?arcid=9000001283&cp=nv
-  - title: '"축제의 장(場)이 아수라(阿修羅)장으로..." 내전(內戰)에 휩싸인 집권여...'
-    url: https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520976
-  - title: '[신율 칼럼] 黨心이 국민여론?…국민에 ''공천권'' 돌려줘야'
-    url: https://weekly.hankooki.com/news/articleView.html?idxno=7177593
-- rank: 4
-  title: 최혁진 , 조희대 대법원장 탄핵소추안 8월 발의 촉구
+  title: 폭염에 23명 사망...범정부 대응체계 강화
   status: 정식 검토
   score: 7
-  summary: 최근 보도 8건, 매체 7곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 8
-    outlet_count: 7
-    public_actor: 국회
+    news_count: 20
+    outlet_count: 18
+    public_actor: 정부
   sources:
-  - title: 범여권, 조희대 대법원장 전방위 압박 '왜?'
-    url: https://www.sisaweek.com/news/articleView.html?idxno=237169
-  - title: 與, 조희대 대법원장 탄핵 카드 만지작
-    url: https://www.edaily.co.kr/news/newspath.asp?newsid=06746966645545024
-  - title: 與 당권주자들, 조희대 정조준…'강경파'도 탄핵 압박 가세
-    url: http://www.inews24.com/view/1992983
+  - title: 온열질환 사망자 고령층이 82%…중대본 "현장 중심 대응 강화"
+    url: http://www.yonhapnewstv.co.kr/news/MYH202608082141389Sh
+  - title: 폭염 장기화에 정부 대응 강화…내일 중대본 회의
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260808194251kh2
+  - title: 정부, 폭염 대응 범정부 총력 체계 가동 시작
+    url: https://www.m-economynews.com/news/article.html?no=69555
+- rank: 4
+  title: 폭염에 23명 사망...범정부 대응체계 강화
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 20건, 매체 15곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 15
+    public_actor: 정부
+  sources:
+  - title: 온열 사망자 3명·환자 202명..."상황 심각 범정부 총력 체계 가동"
+    url: https://www.ytn.co.kr/_ln/0115_202608082154237126
+  - title: 온열질환 사망자 고령층이 82%…중대본 "현장 중심 대응 강화"
+    url: http://www.yonhapnewstv.co.kr/news/MYH202608082141389Sh
+  - title: 폭염 장기화에 정부 대응 강화…내일 중대본 회의
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260808194251kh2
 - rank: 5
-  title: '[속보] 국민의힘 윤리위, ''돌려차기'' 발언 논란 서범수·진종오 징계 절차 착수'
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  title: '''폭염 대응'' 범정부 대응체계 강화…분야별 비상대응기구 가동'
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 20건, 매체 20곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 국민의힘
+    news_count: 20
+    outlet_count: 20
+    public_actor: 정부
   sources:
-  - title: '[속보] 국민의힘 윤리위, ''돌려차기'' 발언 논란 서범수·진종오 징계 절...'
-    url: https://www.pennmike.com/news/articleView.html?idxno=125192
-  - title: '[속보] 국힘 윤리위, ‘돌려차기 발언’ 서범수·진종오 징계절차 개시'
-    url: https://www.mk.co.kr/article/12120822
+  - title: 정부, 폭염 대응 범정부 총력 체계 가동 시작
+    url: https://www.m-economynews.com/news/article.html?no=69555
+  - title: '''폭염 지속'' 범정부 대응체계 가동…온열질환 사망자 80% ''고령층'''
+    url: https://www.newspost.kr/news/articleView.html?idxno=224789
+  - title: 폭염에 23명 사망...범정부 대응체계 강화
+    url: http://www.fnnews.com/news/202608081259377137
 - rank: 6
-  title: 최혁진 의원, 조 대법원장 탄핵소추안 발의 촉구 기자회견 개최
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  title: 민주당 당원커뮤니티 해킹…1만7088명 개인정보 유출
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 18건, 매체 17곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 의원
+    news_count: 18
+    outlet_count: 17
+    public_actor: 민주당
   sources:
-  - title: 최혁진 의원, 조 대법원장 탄핵소추안 발의 촉구 기자회견 개최
-    url: https://www.newspim.com/news/view/20260807000822
-  - title: 최혁진 "조희대 탄핵안, 8월 본회의에 보고해야…송영길·김민석 등에 서...
-    url: https://www.newsis.com/view/NISX20260807_0003740383
+  - title: 민주당 당원 1만7088명 해킹 피해…김민석·김용 "정청래 등 前 지도부 ...
+    url: https://www.sisajournal.com/news/articleView.html?idxno=382871
+  - title: 김민석 후보 “당원정보 유출 1년이나…관리 무능 바로 잡아야”
+    url: https://www.chosun.com/politics/assembly/2026/08/08/34CPSFEDLJDM7OOBW4Y5XDNYZU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+  - title: 김민석 "당원 1.7만명 정보 유출 1년…관리 무능 바로잡아야"
+    url: https://www.hankyung.com/article/2026080818177
 - rank: 7
-  title: 형소법·부동산·주식 논란에 딴 목소리…‘레드팀 자처’ 與 무계파 의원들
+  title: 민주당 당원 커뮤니티 해킹…회원 1만7천여명 개인정보 유출
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 6건, 매체 5곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 6
+    outlet_count: 5
+    public_actor: 민주당
+  sources:
+  - title: 민주당 당원 커뮤니티 해킹…회원 1만7천여명 개인정보 유출
+    url: https://www.kyeonggi.com/article/20260808580022
+  - title: 與 당원 커뮤니티서 회원 개인정보 무더기 해킹
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260807210013J2B
+  - title: 민주당원 커뮤니티 해킹…1만 7천여 명 개인정보 유출
+    url: https://www.obsnews.co.kr/news/articleView.html?idxno=1533324
+- rank: 8
+  title: 민주당, 개인정보 유출 늑장 대응 논란에⋯“당시 점검서 이상 없었다”
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 의원
+    public_actor: 민주당
   sources:
-  - title: 형소법·부동산·주식 논란에 딴 목소리…‘레드팀 자처’ 與 무계파 의...
-    url: https://www.joongang.co.kr/article/25451583
-- rank: 8
-  title: 메타, 인도 정부에 공식 사과-아동 성착취물 광고·모디 영상 삭제 논란 수습 나서
+  - title: 민주당, 개인정보 유출 늑장 대응 논란에⋯“당시 점검서 이상 없었다”
+    url: https://www.etoday.co.kr/news/view/2612393
+- rank: 9
+  title: '"덥다 더워"⋯중대본, 폭염 범정부 대응 강화⋯내일 추가 논의'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -116,5 +136,17 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: 메타, 인도 정부에 공식 사과-아동 성착취물 광고·모디 영상 삭제 논란...
-    url: https://www.mediafine.co.kr/news/articleView.html?idxno=85963
+  - title: '"덥다 더워"⋯중대본, 폭염 범정부 대응 강화⋯내일 추가 논의'
+    url: http://www.inews24.com/view/1993133
+- rank: 10
+  title: 김민석 갈등 제로 정청래 뻔뻔… 민주당 제주 경선서 격돌
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 민주당
+  sources:
+  - title: 김민석 "갈등 제로" 정청래 "뻔뻔"… 민주당 제주 경선서 격돌
+    url: https://www.ajunews.com/view/20260808125611102
