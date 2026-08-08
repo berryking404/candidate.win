@@ -130,4 +130,10 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [이종삼](/people/i-jong-sam) — **지지**: 의료 사각지대 해소와 농업인 삶의 질 향상을 위한 사회안전망 역할을 강조했다. [출처](https://www.news1.kr/local/ulsan/6252720)
 - [이상식](/people/i-sang-sik) — **지지**: 민·관 협력을 통한 현장 중심 복지 행정으로 지역 사회의 안전망 강화 의지를 밝혔다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3658857)
 - [변현섭](/people/byeon-hyeon-seop) — **지지**: 주민 복지 요구를 반영해 실질적으로 도움이 되는 사업 추진과 안전망 강화 방향에 참여했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3658857)
+- [부안군](/people/_pending) — **지지**: 주민의 보건의료·돌봄·주거를 통합 지원하는 의료·요양 통합돌봄 사업을 추진하고 있다. [출처](https://www.newsis.com/view/NISX20260808_0003741354)
+- [경북테크노파크](/people/_pending) — **지지**: 고령화와 돌봄 인력 부족에 대응하는 2026 스마트 사회서비스 시범사업을 추진하고 있다. [출처](https://view.asiae.co.kr/article/2026080813153089169)
+- [보건복지부](/people/_pending) — **지지**: 독거노인 등 취약계층 보호를 위해 폭염 대응 비상대책본부를 가동하고 맞춤형 보호를 강화했다. [출처](https://www.mt.co.kr/economy/2026/08/08/2026080812091274422)
+- [최봉근](/people/_pending) — **지지**: 치매관리주치의 2차 시범사업을 전국으로 확대해 환자 접근성과 지속적 관리를 높이겠다고 밝혔다. [출처](https://www.dentalnews.or.kr/news/article.html?no=47919)
+- [박란희](/people/_pending) — **지지**: 노인복지관 부재 해소, 노인 사회참여 확대, 지역 돌봄 통합지원체계 구축 등 고령화 대응 과제를 논의했다. [출처](https://weekly.hankooki.com/news/articleView.html?idxno=7178111)
+- [동구](/people/_pending) — **지지**: 사회적 고립 위험군의 일상 회복을 돕기 위해 맞춤형 돌봄 확대를 추진하고 있다. [출처](https://www.namdonews.com/news/articleView.html?idxno=919400)
 <!-- /agent:stances -->
