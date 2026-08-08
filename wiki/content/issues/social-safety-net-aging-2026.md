@@ -124,4 +124,10 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [이승로](/people/i-seung-ro) — **지지**: 돌봄이 필요한 주민을 위한 지역 돌봄 안전망 구축 협력을 약속했다. [출처](https://www.cnbizm.com/news/articleView.html?idxno=308745)
 - [윤석열](/people/yun-seok-yeol) — **지지**: 국가책임 통합돌봄 확대, 기초연금 하후상박 개편, 사회안전망 재정비를 핵심 과제로 제시했다. [출처](https://www.korea.kr/news/policyNewsView.do?newsId=148968291&call_from=naver_news)
 - [최유철](/people/choe-yu-cheol) — **지지**: 초고령화 인구소멸 위기에 대응해 청년·신혼부부 유입과 일자리·주거 지원을 중심으로 정책을 추진하겠다고 밝혔다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3638389)
+- [최대호](/people/choe-dae-ho) — **지지**: 아동보호구역 확대, 플랫폼노동자 산재 예방, 지역사회 안전망 강화에 나서는 흐름으로 사회안전망 확대에 우호적이다. [출처](https://www.webeconomy.co.kr/news/articleView.html?idxno=2259312)
+- [이민근](/people/i-min-geun) — **지지**: 지역사회 안전망 강화와 공무원 사칭 사기 예방 등 생활밀착형 안전망 확충을 추진했다. [출처](http://www.fieldnews.kr/news/articleView.html?idxno=30546)
+- [김민욱](/people/gim-min-uk) — **지지**: 재난 대책과 사회 안전망 강화를 기후위기 대응의 핵심 과제로 제시했다. [출처](https://imnews.imbc.com/replay/2026/nwdesk/article/6843235_37004.html)
+- [이종삼](/people/i-jong-sam) — **지지**: 의료 사각지대 해소와 농업인 삶의 질 향상을 위한 사회안전망 역할을 강조했다. [출처](https://www.news1.kr/local/ulsan/6252720)
+- [이상식](/people/i-sang-sik) — **지지**: 민·관 협력을 통한 현장 중심 복지 행정으로 지역 사회의 안전망 강화 의지를 밝혔다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3658857)
+- [변현섭](/people/byeon-hyeon-seop) — **지지**: 주민 복지 요구를 반영해 실질적으로 도움이 되는 사업 추진과 안전망 강화 방향에 참여했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3658857)
 <!-- /agent:stances -->
