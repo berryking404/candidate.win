@@ -1,133 +1,69 @@
-generated_at: '2026-08-08T23:02:06+00:00'
-source_date: 2026-08-08T230203Z
+generated_at: '2026-08-09T23:02:01+00:00'
+source_date: 2026-08-09T230157Z
 window_hours: 72
 items:
 - rank: 1
-  title: 조국, 與 일각 '조희대 탄핵론'에 "작년엔 선 긋더니…할말하않"
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 14건, 매체 13곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 14
-    outlet_count: 13
-    public_actor: 대표, 민주당
-  sources:
-  - title: '[막전막후] 5개월 묵힌 카드 왜 다시 나왔나...민주당 전대 뒤흔든 ''조희...'
-    url: https://www.pennmike.com/news/articleView.html?idxno=125277
-  - title: 조국, 與 일각 '조희대 탄핵론'에 "작년엔 선 긋더니…할말하않"
-    url: https://www.newsis.com/view/NISX20260808_0003741419
-  - title: 조국, 與 일각 '조희대 탄핵론'에 "작년엔 선 긋더니…할말하않"
-    url: https://www.news1.kr/politics/assembly/6253080
-- rank: 2
-  title: 폭염 사망자 10명 중 8명 고령층…정부, 범정부 대응체계 강화
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 정부
-  sources:
-  - title: 폭염 사망자 10명 중 8명 고령층…범정부 현장 대응 강화
-    url: https://www.dailian.co.kr/news/view/1676127/?sc=Naver
-  - title: 폭염 사망자 10명 중 8명 고령층…정부, 범정부 대응체계 강화
-    url: https://www.viva100.com/article/20260808500112
-  - title: 온열질환 사망 10명 중 8명, 65세 이상 고령…정부 “고령층 보호 대책 ...
-    url: https://biz.heraldcorp.com/article/10834694?ref=naver
-- rank: 3
-  title: 폭염에 23명 사망...범정부 대응체계 강화
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 18
-    public_actor: 정부
-  sources:
-  - title: 온열질환 사망자 고령층이 82%…중대본 "현장 중심 대응 강화"
-    url: http://www.yonhapnewstv.co.kr/news/MYH202608082141389Sh
-  - title: 폭염 장기화에 정부 대응 강화…내일 중대본 회의
-    url: http://www.yonhapnewstv.co.kr/news/MYH20260808194251kh2
-  - title: 정부, 폭염 대응 범정부 총력 체계 가동 시작
-    url: https://www.m-economynews.com/news/article.html?no=69555
-- rank: 4
-  title: 폭염에 23명 사망...범정부 대응체계 강화
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 20건, 매체 15곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 15
-    public_actor: 정부
-  sources:
-  - title: 온열 사망자 3명·환자 202명..."상황 심각 범정부 총력 체계 가동"
-    url: https://www.ytn.co.kr/_ln/0115_202608082154237126
-  - title: 온열질환 사망자 고령층이 82%…중대본 "현장 중심 대응 강화"
-    url: http://www.yonhapnewstv.co.kr/news/MYH202608082141389Sh
-  - title: 폭염 장기화에 정부 대응 강화…내일 중대본 회의
-    url: http://www.yonhapnewstv.co.kr/news/MYH20260808194251kh2
-- rank: 5
-  title: '''폭염 대응'' 범정부 대응체계 강화…분야별 비상대응기구 가동'
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 20건, 매체 20곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 20
-    public_actor: 정부
-  sources:
-  - title: 정부, 폭염 대응 범정부 총력 체계 가동 시작
-    url: https://www.m-economynews.com/news/article.html?no=69555
-  - title: '''폭염 지속'' 범정부 대응체계 가동…온열질환 사망자 80% ''고령층'''
-    url: https://www.newspost.kr/news/articleView.html?idxno=224789
-  - title: 폭염에 23명 사망...범정부 대응체계 강화
-    url: http://www.fnnews.com/news/202608081259377137
-- rank: 6
-  title: 민주당 당원커뮤니티 해킹…1만7088명 개인정보 유출
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 18건, 매체 17곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 18
-    outlet_count: 17
-    public_actor: 민주당
-  sources:
-  - title: 민주당 당원 1만7088명 해킹 피해…김민석·김용 "정청래 등 前 지도부 ...
-    url: https://www.sisajournal.com/news/articleView.html?idxno=382871
-  - title: 김민석 후보 “당원정보 유출 1년이나…관리 무능 바로 잡아야”
-    url: https://www.chosun.com/politics/assembly/2026/08/08/34CPSFEDLJDM7OOBW4Y5XDNYZU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
-  - title: 김민석 "당원 1.7만명 정보 유출 1년…관리 무능 바로잡아야"
-    url: https://www.hankyung.com/article/2026080818177
-- rank: 7
-  title: 민주당 당원 커뮤니티 해킹…회원 1만7천여명 개인정보 유출
+  title: 폭염 장기화에 정부 대응 강화…오늘 중대본 회의
   status: 정식 검토
   score: 7
   summary: 최근 보도 6건, 매체 5곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 6
     outlet_count: 5
-    public_actor: 민주당
+    public_actor: 정부
   sources:
-  - title: 민주당 당원 커뮤니티 해킹…회원 1만7천여명 개인정보 유출
-    url: https://www.kyeonggi.com/article/20260808580022
-  - title: 與 당원 커뮤니티서 회원 개인정보 무더기 해킹
-    url: http://www.yonhapnewstv.co.kr/news/MYH20260807210013J2B
-  - title: 민주당원 커뮤니티 해킹…1만 7천여 명 개인정보 유출
-    url: https://www.obsnews.co.kr/news/articleView.html?idxno=1533324
-- rank: 8
-  title: 민주당, 개인정보 유출 늑장 대응 논란에⋯“당시 점검서 이상 없었다”
+  - title: '[이시각헤드라인] 8월 9일 일요와이드 (11시)'
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260809110631V3P
+  - title: 폭염 장기화에 정부 대응 강화…오늘 중대본 회의
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260809085458kFM
+  - title: '''폭염 대응'' 범정부 대응체계 강화…분야별 비상대응기구 가동'
+    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008696028&plink=ORI&cooper=NAVER
+- rank: 2
+  title: 폭염 장기화에 정부 대응 강화…고위험군 집중 관리
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 6건, 매체 4곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 6
+    outlet_count: 4
+    public_actor: 정부
+  sources:
+  - title: 온열질환 131명 늘어…정부, 고위험군 집중 관리
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260809205430DFZ
+  - title: 폭염 장기화에 정부 대응 강화…고위험군 집중 관리
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260809194657ZiW
+  - title: 폭염 장기화에 정부 대응 강화…고위험군 집중 관리
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260809141743MIi
+- rank: 3
+  title: 장동혁 ‘징계 정치’ 가속…국민의힘 계파 갈등 다시 격화
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 3
+    public_actor: 국민의힘
+  sources:
+  - title: 서범수 등 비당권파 징계 가속, 국민의힘 계파갈등 다시 고조
+    url: https://www.ksilbo.co.kr/news/articleView.html?idxno=1064139
+  - title: 국힘 '비당권파 4인' 징계 속도전…장동혁, '막말·논란' 역공
+    url: https://www.slist.kr/news/articleView.html?idxno=757611
+  - title: 국힘 비당권파 4인 징계 급가속…張, '막말·논란' 앞세워 역공
+    url: https://www.yna.co.kr/view/AKR20260808046700001?input=1195m
+- rank: 4
+  title: ISA 혜택축소 논란‥ 민주당 "수정 여지"
   status: 추가 확인
-  score: 4
+  score: 6
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 민주당
+    public_actor: 민주당, 정부
   sources:
-  - title: 민주당, 개인정보 유출 늑장 대응 논란에⋯“당시 점검서 이상 없었다”
-    url: https://www.etoday.co.kr/news/view/2612393
-- rank: 9
-  title: '"덥다 더워"⋯중대본, 폭염 범정부 대응 강화⋯내일 추가 논의'
+  - title: 與, 부동산 세제·주가누르기 방지법·ISA 정부안 대폭 손질
+    url: http://www.fnnews.com/news/202608091430348289
+- rank: 5
+  title: '"정부 믿었는데 출구는 줘야지"…''뒤통수'' 논란 상생임대 보완될까 [흔들리는 룰, 출렁이는 시장③]'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -136,10 +72,10 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: '"덥다 더워"⋯중대본, 폭염 범정부 대응 강화⋯내일 추가 논의'
-    url: http://www.inews24.com/view/1993133
-- rank: 10
-  title: 김민석 갈등 제로 정청래 뻔뻔… 민주당 제주 경선서 격돌
+  - title: '"정부 믿었는데 출구는 줘야지"…''뒤통수'' 논란 상생임대 보완될까 [흔...'
+    url: https://www.etoday.co.kr/news/view/2612454
+- rank: 6
+  title: 촛불행동 "민주당, 13일 본회의에 조희대 탄핵안 상정해야"
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -148,5 +84,5 @@ items:
     outlet_count: 1
     public_actor: 민주당
   sources:
-  - title: 김민석 "갈등 제로" 정청래 "뻔뻔"… 민주당 제주 경선서 격돌
-    url: https://www.ajunews.com/view/20260808125611102
+  - title: 촛불행동 "민주당, 13일 본회의에 조희대 탄핵안 상정해야"
+    url: https://www.siminsori.com/news/articleView.html?idxno=400954
