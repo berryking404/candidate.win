@@ -1,9 +1,9 @@
 slug: yun-hye-seon
 name_ko: 윤혜선
 name_en: null
-party: null
+party: 더불어민주당
 role: 성남시의회 의원 / 문복위 위원장
-status: stub
+status: curated
 aliases:
 - 윤혜선
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 윤혜선
   youtube_channels: []
+  official_urls:
+  - https://www.sncouncil.go.kr/member/10002/main.do

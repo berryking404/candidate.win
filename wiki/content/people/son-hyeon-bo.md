@@ -2,7 +2,7 @@
 title: 손현보
 slug: son-hyeon-bo
 role: 부산 세계로교회 목사
-status: stub
+status: curated
 ---
 
 ## 행적

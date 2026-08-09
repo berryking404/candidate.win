@@ -2,7 +2,7 @@
 title: 김성원
 slug: gim-seong-won
 role: 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적

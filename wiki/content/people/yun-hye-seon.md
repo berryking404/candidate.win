@@ -2,7 +2,7 @@
 title: 윤혜선
 slug: yun-hye-seon
 role: 성남시의회 의원 / 문복위 위원장
-status: stub
+status: curated
 ---
 
 ## 행적

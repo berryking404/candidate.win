@@ -3,7 +3,7 @@ name_ko: 하인성
 name_en: null
 party: null
 role: 경북테크노파크 원장
-status: stub
+status: curated
 aliases:
 - 하인성
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 하인성
   youtube_channels: []
+  official_urls:
+  - https://www.joongang.co.kr/article/23910203

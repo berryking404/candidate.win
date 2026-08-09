@@ -3,7 +3,7 @@ name_ko: 손현보
 name_en: null
 party: null
 role: 부산 세계로교회 목사
-status: stub
+status: curated
 aliases:
 - 손 목사
 - 손현보 목사
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 손현보
   youtube_channels: []
+  official_urls:
+  - https://www.joongang.co.kr/article/25314412

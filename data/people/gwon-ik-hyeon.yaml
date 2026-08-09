@@ -3,7 +3,7 @@ name_ko: 권익현
 name_en: null
 party: null
 role: 부안군수
-status: stub
+status: curated
 aliases:
 - 권익현
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 권익현
   youtube_channels: []
+  official_urls:
+  - https://www.buan.go.kr/mayor/index.buan?menuCd=DOM_000000301002000000

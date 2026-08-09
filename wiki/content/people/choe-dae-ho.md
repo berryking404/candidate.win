@@ -2,7 +2,7 @@
 title: 최대호
 slug: choe-dae-ho
 role: 안양시장
-status: stub
+status: curated
 ---
 
 ## 행적

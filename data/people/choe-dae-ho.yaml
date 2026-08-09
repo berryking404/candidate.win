@@ -3,7 +3,7 @@ name_ko: 최대호
 name_en: null
 party: null
 role: 안양시장
-status: stub
+status: curated
 aliases:
 - 최대호
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최대호
   youtube_channels: []
+  official_urls:
+  - https://anyang.go.kr/mayor/index.do

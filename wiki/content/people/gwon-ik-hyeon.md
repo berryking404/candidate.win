@@ -2,7 +2,7 @@
 title: 권익현
 slug: gwon-ik-hyeon
 role: 부안군수
-status: stub
+status: curated
 ---
 
 ## 행적
