@@ -2,7 +2,7 @@
 title: 이종삼
 slug: i-jong-sam
 role: 울산농협 총괄본부장
-status: stub
+status: curated
 ---
 
 ## 행적

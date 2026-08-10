@@ -1,8 +1,8 @@
 ---
 title: 변현섭
 slug: byeon-hyeon-seop
-role: 민간위원장
-status: stub
+role: 임실군 지사면 지역사회보장협의체 민간위원장
+status: curated
 ---
 
 ## 행적

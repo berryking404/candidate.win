@@ -1,8 +1,8 @@
 ---
 title: 이상식
 slug: i-sang-sik
-role: 공공위원장
-status: stub
+role: 임실군 지사면 지역사회보장협의체 공공위원장
+status: curated
 ---
 
 ## 행적

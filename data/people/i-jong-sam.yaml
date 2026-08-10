@@ -3,7 +3,7 @@ name_ko: 이종삼
 name_en: null
 party: null
 role: 울산농협 총괄본부장
-status: stub
+status: curated
 aliases:
 - 이종삼
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이종삼
   youtube_channels: []
+  official_urls:
+  - https://www.newsis.com/view/NISX20260805_0003737630

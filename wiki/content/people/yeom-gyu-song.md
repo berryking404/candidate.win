@@ -1,8 +1,8 @@
 ---
 title: 염규송
 slug: yeom-gyu-song
-role: 이사장
-status: stub
+role: 광주신용보증재단 이사장
+status: curated
 ---
 
 ## 행적

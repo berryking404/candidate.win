@@ -2,8 +2,8 @@ slug: i-sang-sik
 name_ko: 이상식
 name_en: null
 party: null
-role: 공공위원장
-status: stub
+role: 임실군 지사면 지역사회보장협의체 공공위원장
+status: curated
 aliases:
 - 이상식
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이상식
   youtube_channels: []
+  official_urls:
+  - https://www.gukjenews.com/news/articleView.html?idxno=3658857
