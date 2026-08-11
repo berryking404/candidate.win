@@ -126,4 +126,5 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [김정겸](/people/gim-jeong-gyeom) — **지지**: 충남대-외부기관 협력을 통해 반도체·바이오 등 첨단 성장엔진과 미래 인재 양성을 강조했다. [출처](https://www.news1.kr/local/daejeon-chungnam/6255289)
 - [조주현](/people/jo-ju-hyeon) — **지지**: 중소기업 고용정책과 첨단산업 인재·일자리 확대 필요성을 언급했다. [출처](https://view.asiae.co.kr/article/2026081111354760349)
 - [박충권](/people/bak-chung-gwon) — **반대**: 자발적 이직 청년 실업급여 확대를 현금 살포라고 비판하며 반대했다. [출처](http://www.breaknews.com/1227876)
+- [이 대통령](/people/unknown) — **지지**: 균형발전과 초격차 첨단산업의 과감한 육성을 강조하며 관련 메가프로젝트를 속도감 있게 추진하겠다는 뜻을 밝혔다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=314551)
 <!-- /agent:stances -->
