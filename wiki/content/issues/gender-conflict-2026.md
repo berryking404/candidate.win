@@ -65,4 +65,6 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [조전혁](/people/jo-jeon-hyeok) — **중립**: 페미니즘·젠더교육을 둘러싼 교육 현장 논쟁의 당사자로 거론됐다. [출처](https://monthly.chosun.com/news/articleView.html?idxno=70988)
 - [김문수](/people/gim-mun-su) — **중립**: 후보 배우자를 둘러싼 가부장적 발언 논란 속에서 성차별 논쟁의 맥락에 놓였다. [출처](https://www.hani.co.kr/arti/society/women/1271942.html)
 - [김지수](/people/gim-ji-su) — **중립**: 젠더 갈등 완화를 위한 청년 공존·공감 네트워크 운영 맥락에서 언급됐다. [출처](https://www.yna.co.kr/view/AKR20260610035500530?input=1195m)
+- [대전시 성평등복지국 신설 찬반 시민단체](/people/) — **지지**: 성평등복지국 신설을 둘러싼 보수 성향 시민단체의 반대 목소리가 확인되며, 젠더 이념 도입에 비판적 입장을 보였다. [출처](https://www.tjb.co.kr/news05/bodo/view/id/102212)
+- [FIRSTKorea시민연대](/people/) — **지지**: 성평등복지국 신설에 반대하며 무분별한 젠더 이념 도입이 진짜 사회적 약자에 대한 복지 우선순위를 훼손한다고 주장했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1174478)
 <!-- /agent:stances -->
