@@ -67,4 +67,8 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [김지수](/people/gim-ji-su) — **중립**: 젠더 갈등 완화를 위한 청년 공존·공감 네트워크 운영 맥락에서 언급됐다. [출처](https://www.yna.co.kr/view/AKR20260610035500530?input=1195m)
 - [대전시 성평등복지국 신설 찬반 시민단체](/people/) — **지지**: 성평등복지국 신설을 둘러싼 보수 성향 시민단체의 반대 목소리가 확인되며, 젠더 이념 도입에 비판적 입장을 보였다. [출처](https://www.tjb.co.kr/news05/bodo/view/id/102212)
 - [FIRSTKorea시민연대](/people/) — **지지**: 성평등복지국 신설에 반대하며 무분별한 젠더 이념 도입이 진짜 사회적 약자에 대한 복지 우선순위를 훼손한다고 주장했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1174478)
+- [서울교사노조](/people/seoul-teacher-union) — **중립**: 혐오 표현과 젠더·지역 비하가 교실 갈등을 키운다고 지적하며 지도·조정의 필요성을 강조했다. [출처](https://www.dailian.co.kr/news/view/1677050/?sc=Naver)
+- [무리뉴](/people/mourinho) — **미확인**: 성차별적 발언 의혹을 부인하며 맥락상 험한 말이었다고 설명했다. [출처](https://www.starnewskorea.com/sports/2026/08/11/2026081113243570397)
+- [대전여성단체연합](/people/daejeon-women-association) — **지지**: 성평등 복지국 신설을 당초 계획대로 추진해야 한다고 촉구했다. [출처](http://www.dtnews24.com/news/articleView.html?idxno=814153)
+- [영등포구가족센터](/people/yeongdeungpo-family-center) — **지지**: 전통적인 성역할을 돌아보는 프로그램을 운영하며 양성평등의 의미를 확산했다. [출처](https://www.beopbo.com/news/articleView.html?idxno=337070)
 <!-- /agent:stances -->
