@@ -79,11 +79,11 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [나경원](/people/na-gyeong-won) — **반대**: 이재명 정부의 부동산 정책이 국민의 주거 불안을 가중시킨다고 비판했다. [출처](http://www.breaknews.com/1227608)
 - [황희](/people/hwang-hui) — **중립**: 버스 하우스 제안을 둘러싼 논란 속에서 청년 주거 문제를 환기했다. [출처](https://www.munhwa.com/article/11608091?ref=naver)
 - [박세미](/people/park-semi) — **중립**: 전세사기 피해를 당했지만 반환보증으로 보증금을 돌려받은 뒤 피해금 전액을 기부했다고 밝혔다. [출처](https://www.insight.co.kr/news/567476)
-- [이승기](/people/lee-seunggi) — **반대**: 한남동 고급빌라 전세보증금 미반환 문제를 두고 전 소속사 대표를 횡령 혐의로 고소하며 법적 대응에 나섰다. [출처](https://biz.heraldcorp.com/article/10836962?ref=naver)
+- [이승기](/people/i-seung-gi) — **반대**: 한남동 고급빌라 전세보증금 미반환 문제를 두고 전 소속사 대표를 횡령 혐의로 고소하며 법적 대응에 나섰다. [출처](https://biz.heraldcorp.com/article/10836962?ref=naver)
 - [수원특례시](/people/__pending__/suwon-special-city) — **지지**: 전세사기와 깡통전세 우려에 대응해 안전전세 관리단 운영협의회를 열고 예방 대책을 논의했다. [출처](http://www.enewstoday.co.kr/news/articleView.html?idxno=2457868)
 - [경상북도](/people/__pending__/gyeongsangbuk-do) — **지지**: 청년 월세 지원과 전세보증금 반환보증료 지원사업을 계속사업으로 전환했다. [출처](http://andongmbc.co.kr/adboard/NewsView84129)
 - [경기도](/people/__pending__/gyeonggi-do) — **지지**: 전세사기 피해를 입은 외국인과 재외동포도 긴급주거지원을 받을 수 있도록 하자는 취지의 보도를 통해 주거 불안을 완화하는 방향이 제시됐다. [출처](https://www.wikitree.co.kr/articles/1151555)
-- [김한규](/people/kim-han-gyu) — **지지**: 비아파트 전세사기 이후 줄어든 민간 공급을 보완하려면 공급자 금융과 규제 완화, 세제 혜택이 필요하다고 밝혔다. [출처](https://www.newsis.com/view/NISX20260811_0003744116)
+- [김한규](/people/gim-han-gyu) — **지지**: 비아파트 전세사기 이후 줄어든 민간 공급을 보완하려면 공급자 금융과 규제 완화, 세제 혜택이 필요하다고 밝혔다. [출처](https://www.newsis.com/view/NISX20260811_0003744116)
 - [한병도](/people/han-byeong-do) — **지지**: 민생과 주거 안정에 직결된 주택공급 법안 처리를 강조하며 부동산 시장 불안 완화를 촉구했다. [출처](http://www.fnnews.com/news/202608111107044953)
 - [장성철](/people/jang-seong-cheol) — **중립**: 공공 주택에서 전세사기 피해를 본 청년 세입자 문제를 언급하며 해결을 촉구했다. [출처](https://www.nocutnews.co.kr/news/6560930?utm_source=naver&utm_medium=article&utm_campaign=20260811073049)
 <!-- /agent:stances -->

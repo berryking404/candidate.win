@@ -162,8 +162,8 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [유의동](/people/yu-ui-dong) — **지지**: 시장 신뢰 회복과 민생 안정을 국정 운영의 최우선 순위로 둬야 한다고 말했다. [출처](https://www.sedaily.com/article/20077070?ref=naver)
 - [김예지](/people/gim-ye-ji) — **지지**: 약자 사건 초동 수사와 민생 범죄 대응을 위해 검찰 보완수사가 필요하다고 말했다. [출처](https://www.nocutnews.co.kr/news/6560032?utm_source=naver&utm_medium=article&utm_campaign=20260807073207)
 - [조정식](/people/jo-jeong-sik) — **반대**: 민주당 전당대회가 민생 경쟁이 아니라 막말 공방으로 흐른다고 비판했다. [출처](https://www.newsworks.co.kr/news/articleView.html?idxno=849763)
-- [한병도](/people/han-byeongdo) — **지지**: 민생법안과 주택공급 관련 법안 처리를 위해 13일 본회의 개최와 국민의힘 협조를 거듭 촉구했다. [출처](https://www.ytn.co.kr/_ln/0101_202608111127238477)
+- [한병도](/people/han-byeong-do) — **지지**: 민생법안과 주택공급 관련 법안 처리를 위해 13일 본회의 개최와 국민의힘 협조를 거듭 촉구했다. [출처](https://www.ytn.co.kr/_ln/0101_202608111127238477)
 - [최수진](/people/choi-sujin) — **혼합**: 합의된 민생법안 처리는 협조하겠다고 했지만, 정치적 이슈가 있는 법안은 본회의에서 따로 다뤄야 한다고 주장했다. [출처](https://www.news1.kr/politics/assembly/6255351)
-- [윤건영](/people/yun-geonyeong) — **지지**: 국조특위가 정쟁으로 더 연장돼선 안 된다며 일정 조속 합의를 요구했다. [출처](https://www.ytn.co.kr/_ln/0101_202608101801123786)
-- [장동혁](/people/jang-donghyeok) — **반대**: 이재명 대통령의 부동산 공약 불일치를 강하게 비판하며 여권의 민생 대응을 문제 삼았다. [출처](https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260810511&PRO_CODE=99)
+- [윤건영](/people/yun-geon-yeong) — **지지**: 국조특위가 정쟁으로 더 연장돼선 안 된다며 일정 조속 합의를 요구했다. [출처](https://www.ytn.co.kr/_ln/0101_202608101801123786)
+- [장동혁](/people/jang-dong-hyeok) — **반대**: 이재명 대통령의 부동산 공약 불일치를 강하게 비판하며 여권의 민생 대응을 문제 삼았다. [출처](https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260810511&PRO_CODE=99)
 <!-- /agent:stances -->
