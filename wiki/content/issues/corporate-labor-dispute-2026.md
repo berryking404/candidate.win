@@ -50,4 +50,5 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [전영현](/people/jeon-yeong-hyeon) — **미확인**: 주주단체의 배임 고발과 삼성전자 노사 합의 과정의 당사자로 거론됐다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260805010001483)
 - [노태문](/people/no-tae-mun) — **미확인**: 주주단체의 배임 고발과 삼성전자 노사 합의 과정의 당사자로 거론됐다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260805010001483)
 - [이재명](/people/i-jae-myeong) — **반대**: 삼성전자 노조의 광주반도체 공장 투자 교섭 주장에 대해 분쟁이 끝이 없어진다며 엄격한 대응 필요성을 시사했다. [출처](https://www.munhwa.com/article/11608689?ref=naver)
+- [김지형](/people/gim-ji-hyeong) — **중립**: 삼성전자 사태로 불거진 ‘N% 성과급’ 문제를 사회적 대화 의제로 검토해야 한다고 밝혀 노사정 협의 필요성을 강조했다. [출처](https://www.nocutnews.co.kr/news/6561218?utm_source=naver&utm_campaign=20260811021853)
 <!-- /agent:stances -->
