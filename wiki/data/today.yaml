@@ -1,21 +1,25 @@
-generated_at: '2026-08-10T23:02:03+00:00'
-source_date: 2026-08-10T230159Z
+generated_at: '2026-08-11T23:02:24+00:00'
+source_date: 2026-08-11T230219Z
 window_hours: 72
 items:
 - rank: 1
-  title: '[단독] 한국마사회 ‘말복지 논란’ 국회로…제주비건, 문대림 의원에 현안질의 요청'
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  title: 김영배 "'버스하우스 논란' 민심 악화에 영향"
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회, 의원
+    news_count: 20
+    outlet_count: 17
+    public_actor: 국회, 대표, 민주당, 의원, 장관, 정부
   sources:
-  - title: '[단독] 한국마사회 ‘말복지 논란’ 국회로…제주비건, 문대림 의원에 ...'
-    url: https://www.wikitree.co.kr/articles/1151552
+  - title: ‘심판 성 접대 파문 논란’에 깊은 걱정…박지성 “축구협회 어떤 결과...
+    url: https://www.mk.co.kr/article/12124488
+  - title: 대구·경북 복지부 산하기관 '싹쓸이' 통폐합 기류 … 호남엔 바이오클...
+    url: https://biz.newdaily.co.kr/site/data/html/2026/08/11/2026081100289.html
+  - title: '[손병관의 뉴스프레소] 청와대 ''직''보다 집을 택한 다주택자들'
+    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258488&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
 - rank: 2
-  title: '[윤준의 부동산수첩] 민주당 의원까지 세법개정안·공급정책 수정요구 나서'
+  title: 촛불국민, 민주당 의원 73명에게 “조희대 탄핵 동참하라” 손 편지
   status: 추가 확인
   score: 6
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -24,22 +28,20 @@ items:
     outlet_count: 1
     public_actor: 민주당, 의원
   sources:
-  - title: '[윤준의 부동산수첩] 민주당 의원까지 세법개정안·공급정책 수정요구 ...'
-    url: https://www.nbntv.kr/news/articleView.html?idxno=340542
+  - title: '"조희대 탄핵소추안 동참하라"…촛불행동 6단체, 민주당에 손편지'
+    url: https://www.newsis.com/view/NISX20260811_0003744131
 - rank: 3
-  title: AI 음악 저작권 논란에 국회 토론회 취소… 음저협 '자체 기준' 도마
+  title: '[정책 신뢰와 안보 논란]정점식 원내대표, “졸속 세제개편 재검토는 맞지만…정책 신뢰·안보까지 흔들려”'
   status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  score: 5
+  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
-  sources:
-  - title: AI 음악 저작권 논란에 국회 토론회 취소… 음저협 '자체 기준' 도마
-    url: https://www.newscj.com/news/articleView.html?idxno=3424005
+    news_count: 0
+    outlet_count: 0
+    public_actor: 대표, 원내대표
+  sources: []
 - rank: 4
-  title: '"폐버스라니"…국힘, 정부·여당 부동산 논란 정조준'
+  title: 정부 세제개편안 논란 확산, 與 대책부심…野 파상공세
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -48,19 +50,41 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: '"폐버스라니"…국힘, 정부·여당 부동산 논란 정조준'
-    url: https://www.shinailbo.co.kr/news/articleView.html?idxno=5049907
+  - title: 정부 세제개편안 논란 확산, 與 대책부심…野 파상공세
+    url: https://www.ksilbo.co.kr/news/articleView.html?idxno=1064395
 - rank: 5
-  title: 국민의힘, 경선 결과 공개 기준 놓고 후보-중앙당 갈등
+  title: 국회 국토위, 8.3 세제개편안 ‘세금 폭탄’ 논란에…여·야 없이 ‘주택공급 확대’ 주문
   status: 추가 확인
   score: 4
-  summary: 최근 보도 2건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 2
+    news_count: 1
     outlet_count: 1
-    public_actor: 국민의힘
+    public_actor: 국회
   sources:
-  - title: '[손병관의 뉴스프레소] 다세대주택 ''무단증축'' 여파로 물러난 ''정권교체...'
-    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258148&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
-  - title: 국민의힘, 경선 결과 공개 기준 놓고 후보-중앙당 갈등
-    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257477&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+  - title: 국회 국토위, 8.3 세제개편안 '세금 폭탄' 논란에…여·야 없이 '주택공...
+    url: https://www.sejungilbo.com/news/articleView.html?idxno=59622
+- rank: 6
+  title: '''발표→반발→보완'' 되풀이…李정부 뒷북 국정운영? 여론 민감 대응?'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: '''발표→반발→보완'' 되풀이…李정부 뒷북 국정운영? 여론 민감 대응?'
+    url: https://www.dailian.co.kr/news/view/1677317/?sc=Naver
+- rank: 7
+  title: '"조희대 탄핵소추안 동참하라"…촛불행동 6단체, 민주당에 손편지'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 민주당
+  sources:
+  - title: '"조희대 탄핵소추안 동참하라"…촛불행동 6단체, 민주당에 손편지'
+    url: https://www.newsis.com/view/NISX20260811_0003744131
