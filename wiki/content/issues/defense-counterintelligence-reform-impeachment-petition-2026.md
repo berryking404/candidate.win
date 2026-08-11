@@ -33,4 +33,7 @@ summary: 2026년 6월 국방부의 방첩사 기능 분산과 사관학교 통�
 - [이재명](/people/i-jae-myeong) — **지지**: 육·해·공군 사관학교 통합이 쿠데타 재발 가능성을 줄일 수 있다며 통합 추진에 힘을 실었다. [출처](https://www.gobalnews.com/news/articleView.html?idxno=202584)
 - [유용원](/people/yu-yong-won) — **반대**: 국군사관학교 설립 추진과 통합사관학교 졸속 추진을 규탄하는 결의안을 발의했다. [출처](https://www.hankyung.com/article/202608070809i)
 - [김용태](/people/gim-yong-tae) — **반대**: 사관학교 통합은 범죄 피해자들의 요청을 넘어 정치적 논란을 낳는 사안이라는 취지로 정부 입장을 비판했다. [출처](https://imnews.imbc.com/replay/2026/nw1400/article/6843167_36974.html)
+- [정희용](/people/jeong-hui-yong) — **반대**: 방첩사 폐지와 사관학교 통합 추진이 군의 기본 태세를 흔든다고 비판했다. [출처](https://www.newspim.com/news/view/20260811000258)
+- [박완수](/people/bak-wan-su) — **반대**: 해군사관학교 이전과 사관학교 통합을 지역 홀대 문제로 보고 재검토를 요구했다. [출처](https://www.munhwa.com/article/11608590?ref=naver)
+- [홍준표](/people/hong-jun-pyo) — **반대**: 3군 사관학교 통합을 육사 무력화 시도로 비판했다. [출처](https://www.news1.kr/politics/assembly/6254977)
 <!-- /agent:stances -->
