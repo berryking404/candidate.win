@@ -14,5 +14,5 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
-
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 수호신 TF 관련 계엄 준비 목적이 아니라고 부인했다. [출처](https://www.google.com/search?q=이진우+수호신+TF+계엄+준비+목적+아냐)
 <!-- /agent:stances -->

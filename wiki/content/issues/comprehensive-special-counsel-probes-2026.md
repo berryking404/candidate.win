@@ -54,4 +54,5 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [원희룡](/people/won-hui-ryong) — **중립**: 서울-양평 고속도로 노선 변경 관련 종합특검 재조사 대상자로 거론됐다. [출처](https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260806512&PRO_CODE=99)
 - [유병호](/people/yu-byeong-ho) — **중립**: 종합특검이 관저 이전 감사 무마 의혹과 관련해 유병호 감사위원을 구속기소했다. [출처](https://www.hankookilbo.com/news/article/A2026080711010000474?did=NA)
 - [권창영](/people/gwon-chang-yeong) — **지지**: 종합특검 특별검사로서 관저 이전 봐주기 감사와 계엄 관련 수용공간 확보 의혹 수사를 지휘했다. [출처](https://www.khan.co.kr/article/202608071533001)
+- [이진우](/people/i-jin-u) — **반대**: 수호신 TF 관련 계엄 준비 목적이 아니라고 부인했다. [출처](https://www.google.com/search?q=이진우+수호신+TF+계엄+준비+목적+아냐)
 <!-- /agent:stances -->
