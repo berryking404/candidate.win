@@ -119,4 +119,11 @@ summary: 2026년 선거 과정의 투표용지 부족·관리 부실 논란과 �
 - ([/people/jeon-jin-suk]) **입장**: 선관위 홍보영상의 '홍어' 그래픽을 문제 삼아 선관위에 경위 해명을 요구하는 쪽에 섰습니다. (YTN, https://www.ytn.co.kr/_ln/0101_202606052241304790)
 - [윤상현](/people/yun-sang-hyeon) — **중립**: 국정조사특위 위원장으로서 투표용지 부족 사태의 재검표와 특검 절차를 관리하며 사실관계 규명을 강조했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3656189)
 - [선관위 특검 국민추천위원 구성](/people/jo-ji-yeon) — **지지**: 투표용지 부족 사태와 국민참정권 침해 의혹 진상규명을 위한 특검 후보 추천 절차에 참여했다. [출처](https://www.mt.co.kr/politics/2026/08/05/2026080520305197249)
+- [윤상현](/people/yun-sanghyeon) — **반대**: 투표용지 부족 사태와 선관위 관리 부실을 강하게 문제 삼으며 전면 개혁·진상규명을 요구했다. [출처](https://www.news1.kr/politics/assembly/6255076)
+- [나경원](/people/na-gyeongwon) — **반대**: 선관위의 부실이 누적되면 부정으로 볼 수 있다며 관리 책임을 강하게 비판했다. [출처](https://www.yna.co.kr/view/AKR20260811062000001?input=1195m)
+- [한병도](/people/han-byeongdo) — **지지**: 선관위 부실을 뿌리 뽑고 재발 방지 대책을 세워 전면 개혁해야 한다며 국조와 개혁을 옹호했다. [출처](https://www.yna.co.kr/view/AKR20260811075900001?input=1195m)
+- [강동완](/people/gang-dongwan) — **중립**: 투표자 수 오입력과 부실 관리는 인정했지만 개표 결과와의 연결 및 부정선거 주장에는 선을 그었다. [출처](https://news.jtbc.co.kr/article/NB12312654?influxDiv=NAVER)
+- [서범수](/people/seo-beomsu) — **혼합**: 선관위 특검과 연계한 재검표를 주장하면서도 진실 규명 절차를 강조해 신중론을 보였다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8633053&ref=A)
+- [윤건영](/people/yun-geonyeong) — **중립**: 재검표 일정 조율을 요구하며 국조특위 절차를 중시했지만 선관위 개혁 자체에 대한 찬반은 드러나지 않았다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8633521&ref=A)
+- [장동혁](/people/jang-donghyeok) — **반대**: 특검 출범 후 재검표를 하자며 선관위 국조 일정을 늦춰야 한다는 입장을 냈다. [출처](https://www.munhwa.com/article/11608708?ref=naver)
 <!-- /agent:stances -->
