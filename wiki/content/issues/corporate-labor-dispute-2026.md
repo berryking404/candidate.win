@@ -49,4 +49,5 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [이재명](/people/i-jae-myeong) — **중립**: 일부 대기업 노조의 영업이익 연동 성과급 요구를 언급하며 노동쟁의 대상 여부에 문제를 제기했다. [출처](http://www.4th.kr/news/articleView.html?idxno=2115825)
 - [전영현](/people/jeon-yeong-hyeon) — **미확인**: 주주단체의 배임 고발과 삼성전자 노사 합의 과정의 당사자로 거론됐다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260805010001483)
 - [노태문](/people/no-tae-mun) — **미확인**: 주주단체의 배임 고발과 삼성전자 노사 합의 과정의 당사자로 거론됐다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260805010001483)
+- [이재명](/people/i-jae-myeong) — **반대**: 삼성전자 노조의 광주반도체 공장 투자 교섭 주장에 대해 분쟁이 끝이 없어진다며 엄격한 대응 필요성을 시사했다. [출처](https://www.munhwa.com/article/11608689?ref=naver)
 <!-- /agent:stances -->
