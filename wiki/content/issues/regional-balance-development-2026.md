@@ -205,4 +205,7 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [송영길](/people/song-yeong-gil) — **지지**: 호남 재생에너지 자립과 데이터센터 특구 지정 등을 공약하며 지역 성장과 균형발전 중심의 정책을 제시했다. [출처](https://www.newsis.com/view/NISX20260806103900053?input=1195m)
 - [이광재](/people/i-gwang-jae) — **지지**: 지방소멸 극복과 지역경제 활성화, 기업 유치와 규제 혁신을 강연에서 강조했다. [출처](https://www.kwnews.co.kr/article/20260808500053)
 - [한병도](/people/han-byeong-do) — **지지**: 전북 헴프와 실증특구 확대를 지역균형발전과 규제개혁, 국가예산 연계 과제로 제시했다. [출처](http://www.jeonmin.co.kr/news/articleView.html?idxno=444814)
+- [최형식](/people/choe-hyeong-sik) — **지지**: 전남·광주 행정통합을 수도권 집중과 지방소멸 대응을 위한 시대적 선택으로 평가했다. [출처](https://www.kukinews.com/article/view/kuk202608110054)
+- [김의겸](/people/gim-ui-gyeom) — **지지**: 새만금 정착 근로자에 대한 파격적 세제 혜택을 통해 인구 유입과 지방소멸 위기 대응을 강조했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3661250)
+- [이장섭](/people/i-jang-seop) — **지지**: 지역 경제 활성화와 일자리 창출을 통해 수도권 집중과 지방 소멸 위기에 대응해야 한다는 취지의 발언을 했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1174706)
 <!-- /agent:stances -->
