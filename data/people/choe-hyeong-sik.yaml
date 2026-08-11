@@ -3,7 +3,7 @@ name_ko: 최형식
 name_en: null
 party: null
 role: 전 담양군수
-status: stub
+status: curated
 aliases:
 - 최형식 전 담양군수
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최형식
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20250217085800054

@@ -1,7 +1,7 @@
 ---
-title: 최형식
-slug: choe-hyeong-sik
-role: 전 담양군수
+title: 조주현
+slug: jo-ju-hyeon
+role: 중소벤처기업연구원 원장
 status: curated
 ---
 

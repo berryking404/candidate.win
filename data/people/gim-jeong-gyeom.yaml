@@ -3,7 +3,7 @@ name_ko: 김정겸
 name_en: null
 party: null
 role: 충남대 총장
-status: stub
+status: curated
 aliases:
 - 김정겸
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김정겸
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20240401075500063

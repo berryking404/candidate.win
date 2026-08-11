@@ -2,7 +2,7 @@
 title: 이장섭
 slug: i-jang-seop
 role: 청주시장
-status: stub
+status: curated
 ---
 
 ## 행적

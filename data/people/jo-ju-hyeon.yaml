@@ -3,7 +3,7 @@ name_ko: 조주현
 name_en: null
 party: null
 role: 중소벤처기업연구원 원장
-status: stub
+status: curated
 aliases:
 - 조주현
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 조주현
   youtube_channels: []
+  official_urls:
+  - https://www.newsis.com/view/NISX20250902_0003312562

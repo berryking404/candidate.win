@@ -1,9 +1,9 @@
 slug: choe-jeong-ho
 name_ko: 최정호
 name_en: null
-party: null
+party: 더불어민주당
 role: 익산시장
-status: stub
+status: curated
 aliases:
 - 최정호
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최정호
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260701132500055

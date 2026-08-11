@@ -2,7 +2,7 @@
 title: 김의겸
 slug: gim-ui-gyeom
 role: 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적

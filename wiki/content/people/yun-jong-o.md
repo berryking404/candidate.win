@@ -1,7 +1,7 @@
 ---
-title: 최형식
-slug: choe-hyeong-sik
-role: 전 담양군수
+title: 윤종오
+slug: yun-jong-o
+role: 진보당 원내대표
 status: curated
 ---
 

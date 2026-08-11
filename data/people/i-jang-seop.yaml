@@ -1,9 +1,9 @@
 slug: i-jang-seop
 name_ko: 이장섭
 name_en: null
-party: null
+party: 더불어민주당
 role: 청주시장
-status: stub
+status: curated
 aliases:
 - 이장섭 청주시장
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이장섭
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260701127200064

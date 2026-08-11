@@ -1,7 +1,7 @@
 ---
-title: 최형식
-slug: choe-hyeong-sik
-role: 전 담양군수
+title: 최정호
+slug: choe-jeong-ho
+role: 익산시장
 status: curated
 ---
 

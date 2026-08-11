@@ -1,7 +1,7 @@
 ---
-title: 최형식
-slug: choe-hyeong-sik
-role: 전 담양군수
+title: 김정겸
+slug: gim-jeong-gyeom
+role: 충남대 총장
 status: curated
 ---
 
