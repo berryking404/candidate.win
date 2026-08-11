@@ -34,4 +34,5 @@ party: 국민의힘
 - [전세·주거 불안과 지역 민생 (2026)](/issues/housing-jeonse-crisis-2026) — **반대**: 보유세·거래세 인상과 대출 제한이 전세보증금과 월세 상승을 초래할 수 있다며 정부의 부동산 정책 부작용을 우려했다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1266700.html)
 - [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원·해임건의안 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **반대**: 육·해·공군 사관학교 통합이 국가안보의 백년대계인 장교 양성체계를 흔들고 각 군의 전문성과 정체성을 훼손할 수 있다고 비판했다. [출처](https://www.newsis.com/view/NISX20260705_0003696275)
 - [도이치모터스 주가 조작 의혹 및 김건희 여사 연루 논란 (2023)](/issues/deutsch-motors-stock-2023) — **중립**: 도이치모터스 사건 관련 보도에서 하급심 판단의 비교 대상으로 함께 언급됐지만, 직접적인 입장은 확인되지 않았다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260526095200H69)
+- [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 청년AI·주거안정 추경으로 청년실업 대응을 추진했다. [출처](https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/08/11/20260811019007?wlog_tag3=naver)
 <!-- /agent:stances -->

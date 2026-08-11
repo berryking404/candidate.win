@@ -122,4 +122,8 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [이상일](/people/i-sang-il) — **지지**: 용인 첨단시스템반도체 국가산업단지와 반도체클러스터를 중심으로 산업과 행정 혁신을 추진하겠다고 설명했다. [출처](http://www.beyondpost.co.kr/view.php?ud=2026080812261555644c878f8fa1_30)
 - [민경선](/people/min-gyeong-seon) — **지지**: 항공우주와 의료바이오 등 첨단산업을 일자리와 연계한 '고양 대전환' 구상을 제시했다. [출처](http://www.fieldnews.kr/news/articleView.html?idxno=30562)
 - [이재명](/people/i-jae-myeong) — **지지**: 청년 정책을 교육·취업·소득·자산·주거·결혼 중심으로 재편할 필요가 있다고 주문했다. [출처](https://news.einfomax.co.kr/news/articleView.html?idxno=4429262)
+- [윤종오](/people/yun-jong-o) — **지지**: 청년 일자리와 첨단산업 육성의 핵심으로 노동권 보장과 산업정책 전환을 요구했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258233&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
+- [김정겸](/people/gim-jeong-gyeom) — **지지**: 충남대-외부기관 협력을 통해 반도체·바이오 등 첨단 성장엔진과 미래 인재 양성을 강조했다. [출처](https://www.news1.kr/local/daejeon-chungnam/6255289)
+- [조주현](/people/jo-ju-hyeon) — **지지**: 중소기업 고용정책과 첨단산업 인재·일자리 확대 필요성을 언급했다. [출처](https://view.asiae.co.kr/article/2026081111354760349)
+- [박충권](/people/bak-chung-gwon) — **반대**: 자발적 이직 청년 실업급여 확대를 현금 살포라고 비판하며 반대했다. [출처](http://www.breaknews.com/1227876)
 <!-- /agent:stances -->

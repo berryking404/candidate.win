@@ -14,4 +14,5 @@ status: curated
 
 <!-- agent:stances -->
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026) (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 투표용지 100% 인쇄 의무화법을 발의해 선관위의 관리 부실 재발을 막자고 했습니다. [출처](https://www.hankyung.com/article/202607131435H)
+- [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **반대**: 자발적 이직 청년 실업급여 확대를 현금 살포라고 비판했다. [출처](http://www.breaknews.com/1227876)
 <!-- /agent:stances -->
