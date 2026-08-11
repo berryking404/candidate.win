@@ -23,4 +23,8 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [도널드 트럼프](/people/donald-trump) — **지지**: 호르무즈 해협 봉쇄를 다시 시행할 수 있다고 경고하며 이란만을 겨냥한 압박 수단으로 삼겠다는 뜻을 밝혔다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8606528&ref=A)
 - [트럼프](/people/donald-trump) — **미확인**: 호르무즈 해협 통항을 지원하는 ‘프로젝트 프리덤’을 띄웠다가 곧바로 철회했고, 이후 재개방 협상과 해상 봉쇄 재개를 오가며 정책 방향이 흔들렸다. [출처](https://www.newsis.com/view/NISX20260728_0003726065)
 - [JD 밴스](/people/jd-vance) — **지지**: 이란이 호르무즈 해협 통제를 내세워 미국의 제재·봉쇄 해제를 요구하는 협상 국면을 설명하며 타결 가능성을 언급했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8631651&ref=A)
+- [압바스 아락치](/people/abbas-araghchi) — **지지**: 호르무즈 해협 재개방의 전제로 미국의 대이란 봉쇄 해제, 공격 중단, 미군 철수와 전쟁 피해 보상을 요구했다. [출처](https://www.etoday.co.kr/news/view/2613176)
+- [호세인 모헤비](/people/hossein-mohebi) — **지지**: 호르무즈 해협 재개방 여부는 이란이 정한 조건에 달려 있으며, 미군 철수와 해상 봉쇄 해제, 배상이 필요하다고 밝혔다. [출처](https://www.ytn.co.kr/_ln/0104_202608111056319712)
+- [모하마드 바게르 졸가드르](/people/mohammad-bagher-zolghadr) — **지지**: 호르무즈 해협 재개방의 조건으로 해상 봉쇄·제재 해제, 이란 주변 미군 철수, 전쟁 피해 배상을 제시했다. [출처](https://www.imaeil.com/page/view/2026081109415497544)
+- [에릭 브루어](/people/eric-brewer) — **중립**: 미국의 봉쇄와 경제압박이 이미 심각한 이란의 협상력을 흔들고 있다는 분석을 내놨다. [출처](https://www.newsis.com/view/NISX20260811_0003743866)
 <!-- /agent:stances -->
