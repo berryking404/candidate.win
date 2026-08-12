@@ -153,4 +153,9 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [강은진](/people/kang-eun-jin) — **지지**: 발달지연 아동에 대한 국가의 조기개입 책임과 지원 사각지대 해소를 강조했다. [출처](https://www.ngonews.kr/news/articleView.html?idxno=235140)
 - [이택수](/people/lee-taek-su) — **지지**: 노인맞춤돌봄서비스 여가활동 프로그램에 참석해 노인 돌봄 지원을 확인했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1174653)
 - [조혜정](/people/jo-hye-jeong) — **지지**: 돌봄 인력 부족이 심각한 초고령사회에 AI 기반 통합 돌봄을 제시했다. [출처](https://www.joongangenews.com/news/articleView.html?idxno=539187)
+- [김영훈](/people/kim-young-hoon) — **지지**: 사회보험을 소득 기반으로 전환해 보호 사각지대를 줄이고, 특수고용·플랫폼 종사자 지원과 노동복지 인프라 강화를 추진하겠다고 밝혔다. [출처](https://www.newspim.com/news/view/20260812000598)
+- [최봉근](/people/choi-bong-geun) — **지지**: 노인일자리가 돌봄 공백 해소와 환경 개선 등 지역사회 문제 해결에 기여한다며 성과 기반 확산을 주문했다. [출처](https://www.yna.co.kr/view/AKR20260812074500530?input=1195m)
+- [이채정](/people/lee-chae-jeong) — **지지**: 초고령사회에 대응하려면 통합돌봄 지원인력 제도화와 통합지원 전달체계 재편이 필요하다고 제안했다. [출처](https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521121)
+- [이병래](/people/lee-byeong-rae) — **지지**: 남동구 통합돌봄 신청 확대와 서비스 연계를 통해 생활권 중심 돌봄체계를 강화하겠다고 밝혔다. [출처](https://www.m-i.kr/news/articleView.html?idxno=1401444)
+- [김찬진](/people/kim-chan-jin) — **지지**: 제물포구 방문진료·복약지도를 통해 통합돌봄 대상자의 의료·요양 연계를 강화하겠다고 밝혔다. [출처](http://www.enewstoday.co.kr/news/articleView.html?idxno=2458467)
 <!-- /agent:stances -->
