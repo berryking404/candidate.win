@@ -58,4 +58,8 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [민중기](/people/min-jung-gi) — **중립**: 특별검사팀으로 언급되며 관련 수사를 담당하는 역할이 확인된다. [출처](https://www.ynhnews.co.kr/)
 - [김건희](/people/gim-geon-hui) — **반대**: 검찰과 1심 판단을 인용해 김 여사가 시세조종을 인식하거나 공모했다고 보기 어렵다는 취지의 내용이 제시됐다. [출처](https://www.joongang.co.kr/article/25425304)
 - [김건희](/people/gim-geon-hui) — **지지**: 항소심 재판부가 도이치모터스 주가조작 공동정범 혐의를 인정했다는 보도가 나왔다. [출처](https://www.joongang.co.kr/article/25439727)
+- [박찬대](/people/bak-chan-dae) — **반대**: 윤석열 전 대통령 탄핵에 반대하는 행보를 보여 야권의 탄핵 추진에 반대하는 입장으로 읽힌다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1272516.html)
+- [정청래](/people/jeong-cheong-rae) — **반대**: 12·3 내란 뒤 비상계엄을 옹호하고 윤석열 전 대통령 탄핵에 반대하는 행보를 보였다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1272516.html)
+- [조광한](/people/jo-gwang-han) — **반대**: 12·3 내란 뒤 비상계엄을 옹호하고 윤석열 전 대통령 탄핵에 반대하는 행보를 보였다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1272516.html)
+- [우재준](/people/u-jae-jun) — **반대**: 한동훈의 탄핵 찬성 전력을 비판하며 탄핵 찬성 자체를 문제 삼는 태도를 보였다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/08/12/2026081290109.html)
 <!-- /agent:stances -->
