@@ -86,4 +86,10 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [김한규](/people/gim-han-gyu) — **지지**: 비아파트 전세사기 이후 줄어든 민간 공급을 보완하려면 공급자 금융과 규제 완화, 세제 혜택이 필요하다고 밝혔다. [출처](https://www.newsis.com/view/NISX20260811_0003744116)
 - [한병도](/people/han-byeong-do) — **지지**: 민생과 주거 안정에 직결된 주택공급 법안 처리를 강조하며 부동산 시장 불안 완화를 촉구했다. [출처](http://www.fnnews.com/news/202608111107044953)
 - [장성철](/people/jang-seong-cheol) — **중립**: 공공 주택에서 전세사기 피해를 본 청년 세입자 문제를 언급하며 해결을 촉구했다. [출처](https://www.nocutnews.co.kr/news/6560930?utm_source=naver&utm_medium=article&utm_campaign=20260811073049)
+- [이소라](/people/lee-sora) — **지지**: 서울시 사회주택 ‘녹색친구들’ 전세보증금 미반환 피해 세대에 대해 세대별 맞춤형 보호대책 마련을 촉구했다. [출처](https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065581231805047)
+- [이승기](/people/lee-seung-gi) — **반대**: 한남동 고급 빌라의 전세보증금 105억 원을 돌려받지 못했다며 법적 대응에 나섰다. [출처](https://www.realty.chosun.com/site/data/html_dir/2026/08/11/2026081101999.html)
+- [HUG](/people/hug) — **지지**: 안심전세앱에서 확정일자와 우선변제권 관련 정보를 실시간 조회하도록 정보 연계 사업을 추진했다. [출처](http://www.fnnews.com/news/202608120947038773)
+- [한국부동산원](/people/korean-real-estate-board) — **지지**: 전세사기 예방과 임차인 보증금 보호를 위해 HUG와 확정일자 정보 연계 사업을 추진했다. [출처](https://www.yna.co.kr/view/AKR20260812047300003?input=1195m)
+- [오세훈](/people/oh-se-hoon) — **중립**: 서민의 주거 불안을 해소하려면 재개발·재건축이 제대로 추진돼야 한다며 주택시장 안정 필요성을 언급했다. [출처](http://www.economytalk.kr/news/articleView.html?idxno=423462)
+- [국민의힘 경기도당](/people/people-placeholder) — **반대**: 경기도의 외국인 전세사기 피해자 지원 제도 개선 건의를 두고 반대 입장을 밝혔다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/08/12/2026081290108.html)
 <!-- /agent:stances -->
