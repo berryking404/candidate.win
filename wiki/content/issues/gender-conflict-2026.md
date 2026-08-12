@@ -71,4 +71,7 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [무리뉴](/people/mourinho) — **미확인**: 성차별적 발언 의혹을 부인하며 맥락상 험한 말이었다고 설명했다. [출처](https://www.starnewskorea.com/sports/2026/08/11/2026081113243570397)
 - [대전여성단체연합](/people/daejeon-women-association) — **지지**: 성평등 복지국 신설을 당초 계획대로 추진해야 한다고 촉구했다. [출처](http://www.dtnews24.com/news/articleView.html?idxno=814153)
 - [영등포구가족센터](/people/yeongdeungpo-family-center) — **지지**: 전통적인 성역할을 돌아보는 프로그램을 운영하며 양성평등의 의미를 확산했다. [출처](https://www.beopbo.com/news/articleView.html?idxno=337070)
+- [강훈구](/people/pending) — **중립**: 세대 간·젠더 간 단절과 대립이 첨예해진 시대에 서로의 입장을 바꿔보며 이해를 넓혀야 한다고 말했다. [출처](https://www.news1.kr/life-culture/performance-exhibition/6256641)
+- [허태정](/people/pending) — **지지**: 성평등복지국 신설과 성별임금격차 해소, 젠더폭력 예방 등 성평등 정책 필요성을 밝혔다. [출처](https://www.ccdn.co.kr/news/articleView.html?idxno=1093345)
+- [FIRSTKorea시민연대](/people/pending) — **반대**: 무분별한 젠더 이념 도입이 복지 우선순위를 훼손한다고 주장하며 성평등복지국 신설에 반대했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1174478)
 <!-- /agent:stances -->
