@@ -95,4 +95,13 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - [홍윤정](/people/hong-yoonjeong) — **혼합**: AI 데이터센터 확대가 전기요금과 환경에 미치는 영향을 규제할 제도가 마련될 때까지 신규 건설 유예를 공약했다. [출처](https://www.yonhapnewstv.co.kr/news/MYH20260811110635Y1T)
 - [한전 사장](/people/hankukjeon-sajang) — **지지**: 재생에너지 사용을 유도하기 위한 새로운 요금제 도입과 계통망 건설을 강조했다. [출처](https://www.newsis.com/view/NISX20260811_0003744289)
 - [박완수](/people/bak-wan-su) — **지지**: 장기 가뭄과 민생 현안 대응 과정에서 에너지전환과 비용 절감의 필요성을 언급했다. [출처](https://www.kukinews.com/article/view/kuk202608110003)
+- [이명박](/people/lee-mb) — **지지**: 전기요금을 최대한 저렴하게 유지해야 한다는 취지의 발언이 보도됐다. [출처](https://www.dongascience.com/news/view/79392)
+- [김동철](/people/kim-dongchul) — **중립**: 한전이 네이버페이와 전기요금 청구·수납 디지털화 협약을 체결했다. [출처](https://www.newspim.com/news/view/20260812000586)
+- [여장권](/people/yeo-jangkwon) — **지지**: 기후동행패스 전환 홍보를 하며 고유가 반값 할인과 교통비 부담 완화를 안내했다. [출처](https://www.etnews.com/20260812000182)
+- [신장식](/people/shin-jangsik) — **지지**: 폭염을 사회적 불평등 문제로 보고 냉방 에너지 기본권 보장을 추진하겠다고 밝혔다. [출처](https://www.newsis.com/view/NISX20260812_0003745835)
+- [김소희](/people/kim-sohui) — **지지**: 폭염 대응 논의에서 에너지 바우처 확대 필요성을 언급했다. [출처](https://n.news.naver.com/mnews/article/214/0001517382?sid=100)
+- [프란체스카 홍](/people/francesca-hong) — **반대**: 신규 AI 데이터센터 건설을 유예해 전기요금 인상과 수자원 고갈을 막아야 한다는 입장을 밝혔다. [출처](https://www.yna.co.kr/view/MYH20260812060315MfP)
+- [유재준](/people/yoo-jaejun) — **지지**: 고환율·고유가·고물가로 어려움을 겪는 납세자에 대한 세정지원을 확대한다고 밝혔다. [출처](https://www.tfmedia.co.kr/news/article.html?no=206416)
+- [조국혁신당](/people/jogukhyuksindang) — **지지**: 폭염을 자연재난이 아닌 불평등으로 보고 냉방기본권 보장을 추진하겠다고 밝혔다. [출처](https://www.newsis.com/view/NISX20260812_0003745835)
+- [한성숙](/people/han-seongsuk) — **중립**: 중소기업 규제혁신 토론회 일정이 공지됐다. [출처](https://www.safetimes.co.kr/news/articleView.html?idxno=244848)
 <!-- /agent:stances -->
