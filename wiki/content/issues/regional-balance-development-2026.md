@@ -209,4 +209,5 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [김의겸](/people/gim-ui-gyeom) — **지지**: 새만금 정착 근로자에 대한 파격적 세제 혜택을 통해 인구 유입과 지방소멸 위기 대응을 강조했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3661250)
 - [이장섭](/people/i-jang-seop) — **지지**: 지역 경제 활성화와 일자리 창출을 통해 수도권 집중과 지방 소멸 위기에 대응해야 한다는 취지의 발언을 했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1174706)
 - [신영재](/people/sin-yeong-jae) — **지지**: 지방소멸대응기금을 활용해 청년농업인 육성과 바이오기업 유치, 일자리 창출, 청년·근로자 정착 기반을 연결하는 지역 활성화 정책을 추진했다. [출처](https://view.asiae.co.kr/article/2026081211540307492)
+- [김기재](/people/gim-gi-jae) — **지지**: 시민 생활 안정과 지역경제 회복을 위한 민생살리기 비상조치를 가동하겠다고 밝혔다. [출처](https://www.goodmorningcc.com/news/articleView.html?idxno=450533)
 <!-- /agent:stances -->
