@@ -1,90 +1,120 @@
-generated_at: '2026-08-11T23:02:24+00:00'
-source_date: 2026-08-11T230219Z
+generated_at: '2026-08-12T23:02:04+00:00'
+source_date: 2026-08-12T230159Z
 window_hours: 72
 items:
 - rank: 1
-  title: 김영배 "'버스하우스 논란' 민심 악화에 영향"
+  title: “5·18 논란 인사들, 이번엔 국회로”…이진숙, ‘광주 재조명’ 포럼...
   status: 정식 검토
   score: 9
-  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 17건, 매체 14곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 17
-    public_actor: 국회, 대표, 민주당, 의원, 장관, 정부
+    news_count: 17
+    outlet_count: 14
+    public_actor: 국회, 대표, 장관
   sources:
-  - title: ‘심판 성 접대 파문 논란’에 깊은 걱정…박지성 “축구협회 어떤 결과...
-    url: https://www.mk.co.kr/article/12124488
-  - title: 대구·경북 복지부 산하기관 '싹쓸이' 통폐합 기류 … 호남엔 바이오클...
-    url: https://biz.newdaily.co.kr/site/data/html/2026/08/11/2026081100289.html
-  - title: '[손병관의 뉴스프레소] 청와대 ''직''보다 집을 택한 다주택자들'
-    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258488&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+  - title: '[Who Is ?] 김준동 한국남부발전 대표이사 사장'
+    url: https://www.businesspost.co.kr/BP?command=article_view&num=444162
+  - title: '노조에 가입하자 사라진 지금-여기 살아갈 자격: ㈜일강 이주노동자 계...'
+    url: http://www.jbsori.com/news/articleView.html?idxno=17727
+  - title: 5·18 재검증? 국회가 판 깔아준 '폄훼화·정쟁화'
+    url: http://www.gjdream.com/news/articleView.html?idxno=671784
 - rank: 2
-  title: 촛불국민, 민주당 의원 73명에게 “조희대 탄핵 동참하라” 손 편지
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  title: 최교진, 교육감선거 특정후보 지지 논란에 "부적절했다고 생각"
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 8건, 매체 7곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 민주당, 의원
+    news_count: 8
+    outlet_count: 7
+    public_actor: 장관
   sources:
-  - title: '"조희대 탄핵소추안 동참하라"…촛불행동 6단체, 민주당에 손편지'
-    url: https://www.newsis.com/view/NISX20260811_0003744131
+  - title: “서·논술 수능 독서로 충분...내년 3월 최종안 마련”
+    url: https://www.hangyo.com/news/article.html?no=108843
+  - title: 최교진 장관, 교육감 선거 특정 후보 지지 논란에 “부적절했다”
+    url: https://www.edaily.co.kr/news/newspath.asp?newsid=05848246645546664
+  - title: 차정인 "논·서술형 수능, 독서로 충분…3월 최종안 마련"(종합)
+    url: https://www.newsis.com/view/NISX20260812_0003746655
 - rank: 3
-  title: '[정책 신뢰와 안보 논란]정점식 원내대표, “졸속 세제개편 재검토는 맞지만…정책 신뢰·안보까지 흔들려”'
+  title: 국힘, 이번 주 `보완수사권 폐지법` 헌법소원 청구…국방장관 탄핵소추안도 곧 발의
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 3
+    public_actor: 장관
+  sources:
+  - title: 국힘, 이르면 이번 주 '보완수사권 폐지법' 헌법소원 청구한다
+    url: https://www.kbsm.net/news/view.php?idx=530149
+  - title: 국힘, 이번 주 '보완수사권 폐지법' 헌법소원 청구…국방장관 탄핵소추...
+    url: https://www.imaeil.com/page/view/2026081215571771061
+  - title: 국힘, 이르면 이번 주 '보완수사권 폐지법' 헌법소원 청구
+    url: https://www.yna.co.kr/view/AKR20260812053100001?input=1195m
+- rank: 4
+  title: 이강일 측 "김성택, 공천 청탁하며 돈봉투 건네" 경찰 고발
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 6건, 매체 6곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 6
+    outlet_count: 6
+    public_actor: 의원
+  sources:
+  - title: 이강일 측 "김성택, 공천 청탁하며 돈봉투 건네" 경찰 고발
+    url: https://www.dynews.co.kr/news/articleView.html?idxno=861554
+  - title: 이강일 측 "경선 앞두고 김성택 '공천 청탁' 돈봉투 건네"
+    url: https://www.ccdn.co.kr/news/articleView.html?idxno=1093690
+  - title: 김성택 전 청주시의원 공천 청탁 돈봉투 의혹…경찰 수사
+    url: https://www.news1.kr/local/sejong-chungbuk/6257330
+- rank: 5
+  title: 장동혁 "사퇴론, 결국 공천과 관련…이제는 안쓰럽다"
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 9건, 매체 9곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 9
+    outlet_count: 9
+    public_actor: 민주당
+  sources:
+  - title: 안철수, 친한계 저격 "총선 공천서 배제해야" [정치오늘]
+    url: https://www.sisaon.co.kr/news/articleView.html?idxno=203468
+  - title: '''사퇴론'' 잠복기 틈탄 장동혁의 역공, 당협 위원장 대폭 물갈이 예고'
+    url: https://m.skyedaily.com/news_view.html?ID=309700
+  - title: 장동혁 "'안 싸우는' 당협위원장 교체할 때…사퇴론은 이제 안쓰러워"
+    url: https://www.mt.co.kr/politics/2026/08/12/2026081211421036744
+- rank: 6
+  title: 국민의힘, ‘장동혁 거취 vs 한동훈 복당’ 계파 갈등 민주당 전당대회 이후 ‘확산’
   status: 추가 확인
   score: 5
   summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 0
     outlet_count: 0
-    public_actor: 대표, 원내대표
+    public_actor: 국민의힘, 민주당
   sources: []
-- rank: 4
-  title: 정부 세제개편안 논란 확산, 與 대책부심…野 파상공세
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: 정부 세제개편안 논란 확산, 與 대책부심…野 파상공세
-    url: https://www.ksilbo.co.kr/news/articleView.html?idxno=1064395
-- rank: 5
-  title: 국회 국토위, 8.3 세제개편안 ‘세금 폭탄’ 논란에…여·야 없이 ‘주택공급 확대’ 주문
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
-  sources:
-  - title: 국회 국토위, 8.3 세제개편안 '세금 폭탄' 논란에…여·야 없이 '주택공...
-    url: https://www.sejungilbo.com/news/articleView.html?idxno=59622
-- rank: 6
-  title: '''발표→반발→보완'' 되풀이…李정부 뒷북 국정운영? 여론 민감 대응?'
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: '''발표→반발→보완'' 되풀이…李정부 뒷북 국정운영? 여론 민감 대응?'
-    url: https://www.dailian.co.kr/news/view/1677317/?sc=Naver
 - rank: 7
-  title: '"조희대 탄핵소추안 동참하라"…촛불행동 6단체, 민주당에 손편지'
+  title: 이강일 측 "경선 앞두고 김성택 '공천 청탁' 돈봉투 건네"
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 확인 중
+  sources:
+  - title: 이강일 측 "경선 앞두고 김성택 '공천 청탁' 돈봉투 건네"
+    url: https://www.ccdn.co.kr/news/articleView.html?idxno=1093690
+  - title: 이강일 측 "경선 앞두고 김성택 '공천 청탁' 돈봉투 건네"
+    url: https://www.yna.co.kr/view/AKR20260812130700064?input=1195m
+- rank: 8
+  title: 이강일 측 '김성택, 공천 청탁하며 돈 건넸다'… 경찰 수사
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 민주당
+    public_actor: 의원
   sources:
-  - title: '"조희대 탄핵소추안 동참하라"…촛불행동 6단체, 민주당에 손편지'
-    url: https://www.newsis.com/view/NISX20260811_0003744131
+  - title: 김성택 전 청주시의원 공천 청탁 돈봉투 의혹…경찰 수사
+    url: https://www.news1.kr/local/sejong-chungbuk/6257330
