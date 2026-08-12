@@ -36,4 +36,5 @@ summary: 2026년 6월 국방부의 방첩사 기능 분산과 사관학교 통�
 - [정희용](/people/jeong-hui-yong) — **반대**: 방첩사 폐지와 사관학교 통합 추진이 군의 기본 태세를 흔든다고 비판했다. [출처](https://www.newspim.com/news/view/20260811000258)
 - [박완수](/people/bak-wan-su) — **반대**: 해군사관학교 이전과 사관학교 통합을 지역 홀대 문제로 보고 재검토를 요구했다. [출처](https://www.munhwa.com/article/11608590?ref=naver)
 - [홍준표](/people/hong-jun-pyo) — **반대**: 3군 사관학교 통합을 육사 무력화 시도로 비판했다. [출처](https://www.news1.kr/politics/assembly/6254977)
+- [안규백](/people/an-gyu-baek) — **중립**: 사관학교 통합 정책을 논의하고 동창회장들과 협조를 요청했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635047&ref=A)
 <!-- /agent:stances -->
