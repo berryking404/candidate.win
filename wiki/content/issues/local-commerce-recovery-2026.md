@@ -181,4 +181,7 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [김성수](/people/gim-seong-su) — **지지**: 체류형 관광 콘텐츠 확충을 통해 해운대 지역경제와 상권을 함께 살리겠다는 목표를 밝혔다. [출처](https://www.pointe.co.kr/news/articleView.html?idxno=83060)
 - [유승광](/people/yuseung-gwang) — **지지**: 지역 상권을 살리는 구조를 만들겠다며 생태복원과 지역경제 회복을 연계한 군정 방향을 제시했다. [출처](https://www.aflnews.co.kr/news/articleView.html?idxno=326227)
 - [유제환](/people/yuje-hwan) — **지지**: 소상공인 성장 촉진을 맡는 과장급 인사로, 관련 정책 추진 역량을 강화하는 인사로 확인됐다. [출처](https://www.public25.com/news/articleView.html?idxno=52483)
+- [황영만](/people/hwang-yeong-man) — **지지**: 중소·소상공인 판로 확대를 위해 유통 대기업 입점 품평회와 수수료 우대 지원을 추진했다. [출처](https://www.ajunews.com/view/20260812091533128)
+- [김경미](/people/gim-gyeong-mi) — **지지**: 소상공인 제품의 시장성 검증과 국내 유통·해외 진출 연계를 돕는 판로개척 모델을 소개했다. [출처](https://www.etoday.co.kr/news/view/2613528)
+- [손화정](/people/son-hwa-jeong) — **지지**: 정전 피해를 입은 주민과 소상공인의 보상 지원 및 전력 인프라 점검을 약속했다. [출처](https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031449)
 <!-- /agent:stances -->
