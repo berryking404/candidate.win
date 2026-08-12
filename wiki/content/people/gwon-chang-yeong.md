@@ -17,4 +17,5 @@ status: curated
 <!-- agent:stances -->
 - [종합특검](/issues/comprehensive-special-counsel-probes-2026) — **중립**: 2차 종합특검팀 특별검사로서 계엄사 지원 방안 논의 정황을 공개했다. [출처](https://www.news1.kr/society/court-prosecution/6199400)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **지지**: 관저 이전 봐주기 감사 및 계엄 관련 수용공간 확보 의혹 사건에서 특검 수사를 이끌었다. [출처](https://www.khan.co.kr/article/202608071533001)
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **미확인**: 2차 종합특검 특별검사로 수사와 기소를 총괄했다. [출처](https://www.chosun.com/national/court_law/2026/08/12/GBUWE2UNX5HXXA4FRXSBRSJMT4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
 <!-- /agent:stances -->

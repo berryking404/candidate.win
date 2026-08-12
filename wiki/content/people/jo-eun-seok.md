@@ -14,4 +14,5 @@ status: curated
 ## 이슈별 입장
 
 <!-- agent:stances -->
+
 <!-- /agent:stances -->

@@ -55,4 +55,11 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [유병호](/people/yu-byeong-ho) — **중립**: 종합특검이 관저 이전 감사 무마 의혹과 관련해 유병호 감사위원을 구속기소했다. [출처](https://www.hankookilbo.com/news/article/A2026080711010000474?did=NA)
 - [권창영](/people/gwon-chang-yeong) — **지지**: 종합특검 특별검사로서 관저 이전 봐주기 감사와 계엄 관련 수용공간 확보 의혹 수사를 지휘했다. [출처](https://www.khan.co.kr/article/202608071533001)
 - [이진우](/people/i-jin-u) — **반대**: 수호신 TF 관련 계엄 준비 목적이 아니라고 부인했다. [출처](https://www.google.com/search?q=이진우+수호신+TF+계엄+준비+목적+아냐)
+- [조은석](/people/jo-eun-seok) — **미확인**: 종합특검과 내란특검의 ‘내란 종료 시점’ 해석이 엇갈리는 과정에서 이름이 거론됐다. [출처](https://www.yna.co.kr/view/AKR20260812073300004?input=1195m)
+- [권창영](/people/gwon-chang-yeong) — **미확인**: 2차 종합특검 특별검사로서 수사와 기소를 총괄하고 있다. [출처](https://www.chosun.com/national/court_law/2026/08/12/GBUWE2UNX5HXXA4FRXSBRSJMT4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
+- [황유성](/people/hwang-yu-seong) — **미확인**: 채상병 사건 개입 및 VIP 격노 은폐 의혹과 관련해 구속심사를 받았다. [출처](https://www.ytn.co.kr/_ln/0103_202608121117249499)
+- [문연철](/people/mun-yeon-cheol) — **미확인**: 채상병 사건 개입 및 VIP 격노 은폐 의혹과 관련해 구속심사를 받았다. [출처](https://www.ytn.co.kr/_ln/0103_202608121117249499)
+- [신원식](/people/sin-won-sik) — **미확인**: 특검이 비상계엄 관련 추가 기소 대상로 언급했다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260811192100kSZ)
+- [한동훈](/people/han-dong-hun) — **미확인**: 계엄 해제 이후 열린 당정대 회의 관련 참고인 소환 대상이 됐다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260811192100kSZ)
+- [정점식](/people/jeong-jeom-sik) — **미확인**: 대북송금 사건 수사 검사 징계에 대해 정치보복이라고 비판했다. [출처](https://www.news1.kr/politics/assembly/6256533)
 <!-- /agent:stances -->

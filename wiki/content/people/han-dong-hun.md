@@ -29,4 +29,5 @@ party: 국민의힘
 - [스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)](/issues/starbucks-tank-day-2026) — **혼합**: 배재고 징계가 과도하다고 비판하며 학생 처벌 수위에는 반대했지만, 논란 자체의 문제성은 별도로 부정하지 않았다. [출처](https://www.busan.com/view/busan/view.php?code=2026070121182209732)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **지지**: 2차 종합특검의 장기 출국금지 조치가 해제된 뒤, 사유 공개를 위한 정보공개 청구를 예고했다. [출처](https://www.hankyung.com/article/202607143323H)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **혼합**: 특검의 참고인 소환 통보를 받지 못했다고 반박하면서도, 계엄 관련 조사 대상이라는 사실은 알려졌다. [출처](https://www.yna.co.kr/view/AKR20260806065500504)
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **미확인**: 계엄 해제 이후 열린 당정대 회의 관련 참고인 소환 대상이 됐다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260811192100kSZ)
 <!-- /agent:stances -->
