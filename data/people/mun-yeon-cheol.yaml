@@ -3,7 +3,7 @@ name_ko: 문연철
 name_en: null
 party: null
 role: 전 방첩부대장
-status: stub
+status: curated
 aliases:
 - 문연철 전 방첩부대장
 - 문연철 대령
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 문연철
   youtube_channels: []
+  official_urls:
+  - https://www.khan.co.kr/article/202608101646001

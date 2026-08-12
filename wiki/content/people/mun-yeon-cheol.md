@@ -2,7 +2,7 @@
 title: 문연철
 slug: mun-yeon-cheol
 role: 전 방첩부대장
-status: stub
+status: curated
 ---
 
 ## 행적

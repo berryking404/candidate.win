@@ -1,9 +1,8 @@
 ---
-title: 이장섭
-slug: i-jang-seop
-role: 청주시장
+title: 권창준
+slug: gwon-chang-jun
+role: 고용노동부 차관
 status: curated
-party: 더불어민주당
 ---
 
 ## 행적

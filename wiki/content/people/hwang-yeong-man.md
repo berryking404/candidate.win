@@ -1,9 +1,8 @@
 ---
-title: 이장섭
-slug: i-jang-seop
-role: 청주시장
-status: curated
-party: 더불어민주당
+title: 황영만
+slug: hwang-yeong-man
+role: 중기중앙회 소상공인정책실장
+status: stub
 ---
 
 ## 행적

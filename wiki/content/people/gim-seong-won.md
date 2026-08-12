@@ -3,6 +3,7 @@ title: 김성원
 slug: gim-seong-won
 role: 국회의원
 status: curated
+party: 국민의힘
 ---
 
 ## 행적

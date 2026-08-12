@@ -3,7 +3,7 @@ name_ko: 황유성
 name_en: null
 party: null
 role: 전 국군방첩사령관
-status: stub
+status: curated
 aliases:
 - 황유성 전 방첩사령관
 discovered_via_issue: comprehensive-special-counsel-probes-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 황유성
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260812062052004

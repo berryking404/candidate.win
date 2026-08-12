@@ -2,7 +2,7 @@
 title: 황유성
 slug: hwang-yu-seong
 role: 전 국군방첩사령관
-status: stub
+status: curated
 ---
 
 ## 행적

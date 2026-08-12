@@ -3,7 +3,7 @@ name_ko: 권창준
 name_en: null
 party: null
 role: 고용노동부 차관
-status: stub
+status: curated
 aliases:
 - 권창준 차관
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 권창준
   youtube_channels: []
+  official_urls:
+  - https://moel.go.kr/agency/overview/vice/intro.do

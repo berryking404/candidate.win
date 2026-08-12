@@ -3,6 +3,7 @@ title: 최정호
 slug: choe-jeong-ho
 role: 익산시장
 status: curated
+party: 더불어민주당
 ---
 
 ## 행적

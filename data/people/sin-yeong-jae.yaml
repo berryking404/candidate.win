@@ -3,7 +3,7 @@ name_ko: 신영재
 name_en: null
 party: null
 role: 홍천군수
-status: stub
+status: curated
 aliases:
 - 신 군수
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 신영재
   youtube_channels: []
+  official_urls:
+  - https://www.hongcheon.go.kr/www/selectEmployeeList.do?key=312

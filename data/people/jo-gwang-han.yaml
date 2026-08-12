@@ -1,9 +1,9 @@
 slug: jo-gwang-han
 name_ko: 조광한
 name_en: null
-party: null
+party: 국민의힘
 role: 국민의힘 지명직 최고위원
-status: stub
+status: curated
 aliases:
 - 조광한
 discovered_via_issue: special-counsel-investigation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 조광한
   youtube_channels: []
+  official_urls:
+  - https://www.joongang.co.kr/article/25396255

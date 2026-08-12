@@ -1,9 +1,8 @@
 ---
-title: 이장섭
-slug: i-jang-seop
-role: 청주시장
+title: 신영재
+slug: sin-yeong-jae
+role: 홍천군수
 status: curated
-party: 더불어민주당
 ---
 
 ## 행적

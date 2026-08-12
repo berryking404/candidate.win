@@ -1,9 +1,8 @@
 ---
-title: 이장섭
-slug: i-jang-seop
-role: 청주시장
-status: curated
-party: 더불어민주당
+title: 김경미
+slug: gim-gyeong-mi
+role: 서울시 소상공인정책과장
+status: stub
 ---
 
 ## 행적

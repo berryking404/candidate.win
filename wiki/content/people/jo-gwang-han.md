@@ -1,9 +1,9 @@
 ---
-title: 이장섭
-slug: i-jang-seop
-role: 청주시장
+title: 조광한
+slug: jo-gwang-han
+role: 국민의힘 지명직 최고위원
 status: curated
-party: 더불어민주당
+party: 국민의힘
 ---
 
 ## 행적

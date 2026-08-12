@@ -3,6 +3,7 @@ title: 윤종오
 slug: yun-jong-o
 role: 진보당 원내대표
 status: curated
+party: 진보당
 ---
 
 ## 행적

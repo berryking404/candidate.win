@@ -3,6 +3,7 @@ title: 김의겸
 slug: gim-ui-gyeom
 role: 국회의원
 status: curated
+party: 더불어민주당
 ---
 
 ## 행적
