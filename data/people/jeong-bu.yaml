@@ -1,0 +1,14 @@
+slug: jeong-bu
+name_ko: 정부
+name_en: null
+party: null
+role: 정부
+status: stub
+aliases:
+- 정부
+discovered_via_issue: opcon-transfer-2026
+discovered_at: '2026-08-12'
+sources:
+  news_keywords:
+  - 정부
+  youtube_channels: []

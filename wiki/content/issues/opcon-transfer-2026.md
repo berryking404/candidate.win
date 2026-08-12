@@ -41,4 +41,11 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - [정욱식](/people/jeong-uk-sik) — **지지**: 전시작전통제권 환수를 지연시키는 장벽을 허물고 군사주권을 회복해야 한다고 주장했다. [출처](http://www.tongilnews.com/news/articleView.html?idxno=216994)
 - [이재명](/people/i-jae-myeong) — **지지**: 임기 내 전시작전통제권을 조기에 환수하겠다는 의지를 재차 밝혔다. [출처](https://www.ytn.co.kr/_ln/0101_202608052253405470)
 - [이두희](/people/i-du-hui) — **지지**: SCM에서 FOC 검증과 전작권 회복 시기 결정을 추진하겠다고 강조했다. [출처](https://www.munhwa.com/article/11607547?ref=naver)
+- [안규백](/people/an-gyubaek) — **지지**: UFS를 통해 전작권 전환 조건 충족 여부를 평가하고, 하반기 SCM에서 FOC 검증과 전작권 회복 시기 결정을 추진하겠다고 밝혔다. [출처](https://www.segye.com/newsView/20260811519208?OutUrl=naver)
+- [윤 원내대표](/people/yoon-wonnaedaepyo) — **지지**: 전시작전통제권 환수는 주권국가의 군사주권 문제라며 조건 없는 즉각 환수를 주장했다. [출처](https://www.news2day.co.kr/article/20260811500098)
+- [광주진보연대](/people/gwangju-jinboyeondae) — **지지**: 전시작전통제권 환수는 군사적 평가가 아닌 주권 문제라며 미국이 정한 조건에 좌우돼선 안 된다고 밝혔다. [출처](https://biz.heraldcorp.com/article/10837349?ref=naver)
+- [정부](/people/jeongbu) — **중립**: 전작권 전환과 연합훈련 축소를 둘러싼 추진 방향이 기사에서 언급됐다. [출처](https://www.mk.co.kr/article/12124206)
+- [군 당국](/people/gun-danguk) — **중립**: UFS를 전작권 환수의 중요한 시험대로 보는 평가가 기사에서 소개됐다. [출처](https://www.thereport.co.kr/news/articleView.html?idxno=90378)
+- [한미 군사동맹](/people/hanmi-gunsa-dongmaeng) — **반대**: 전작권 조기 환수 추진이 한미 군사동맹 유지에 우려를 낳는다는 사설의 평가가 제시됐다. [출처](https://www.mk.co.kr/article/12124206)
+- [한미연합군사연습](/people/hanmi-yeonhapgunsayeonsup) — **중립**: UFS가 전작권 전환 조건 충족 여부를 평가하는 계기로 소개됐다. [출처](https://www.segye.com/newsView/20260811519208?OutUrl=naver)
 <!-- /agent:stances -->
