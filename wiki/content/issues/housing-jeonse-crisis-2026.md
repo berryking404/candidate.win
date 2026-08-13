@@ -92,4 +92,8 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [한국부동산원](/people/korean-real-estate-board) — **지지**: 전세사기 예방과 임차인 보증금 보호를 위해 HUG와 확정일자 정보 연계 사업을 추진했다. [출처](https://www.yna.co.kr/view/AKR20260812047300003?input=1195m)
 - [오세훈](/people/oh-se-hoon) — **중립**: 서민의 주거 불안을 해소하려면 재개발·재건축이 제대로 추진돼야 한다며 주택시장 안정 필요성을 언급했다. [출처](http://www.economytalk.kr/news/articleView.html?idxno=423462)
 - [국민의힘 경기도당](/people/people-placeholder) — **반대**: 경기도의 외국인 전세사기 피해자 지원 제도 개선 건의를 두고 반대 입장을 밝혔다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/08/12/2026081290108.html)
+- [김윤덕](/people/kim-yundeok) — **지지**: 전세사기 여파로 심화된 전세의 월세화와 주거비 부담을 완화하기 위해 전월세 안심신탁과 보증료 지원 확대를 추진하겠다고 밝혔다. [출처](https://www.newsis.com/view/NISX20260812_0003746929)
+- [신진창](/people/shin-jinchang) — **지지**: 비거주 1주택자의 전세대출 제한과 함께 임대인의 보증금 미반환 등 예외 상황은 허용해 실수요자와 피해자를 보호하겠다고 설명했다. [출처](https://www.hani.co.kr/arti/economy/property/1272714.html)
+- [한병도](/people/han-byeongdo) — **지지**: 주거비 부담이 큰 계층에 대한 지원과 전·월세 시장 안정, 실수요자 주거를 뒷받침할 금융정책의 실효성을 강조했다. [출처](https://biz.heraldcorp.com/article/10839933?ref=naver)
+- [오세훈](/people/o-sehun) — **지지**: 청년 주거비 부담을 덜어주는 청년안심주택 운영을 점검하며 주거 안정 필요성을 부각했다. [출처](https://www.areyou.co.kr/news/articleView.html?idxno=94848)
 <!-- /agent:stances -->
