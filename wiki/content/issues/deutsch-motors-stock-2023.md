@@ -28,4 +28,5 @@ summary: 도이치모터스 주가조작 사건과 김건희 여사 연루 논�
 - [윤석열](/people/yun-seok-yeol) — **반대**: 김건희 씨의 도이치모터스 주가조작 연루 의혹을 부인하며 “집사람은 손해 보고 나왔다”는 취지의 발언을 했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008659661&plink=ORI&cooper=NAVER)
 - [윤석열](/people/yun-seok-yeol) — **중립**: 김건희 여사 도이치모터스 의혹 보도에서 전 대통령으로 함께 언급됐지만, 이번 수집 텍스트에서 직접적 입장은 확인되지 않았다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260526095200H69)
 - [오세훈](/people/o-se-hun) — **중립**: 도이치모터스 사건 관련 보도에서 하급심 판단의 비교 대상으로 함께 언급됐지만, 이번 수집 텍스트에서 직접적 입장은 확인되지 않았다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260526095200H69)
+- [이준수](/people/i-jun-su) — **반대**: 도이치모터스 주가조작 사건 공범으로 기소돼 대법원에서 징역형 집행유예가 확정됐다. [출처](https://www.ytn.co.kr/_ln/0103_202608131126572318)
 <!-- /agent:stances -->
