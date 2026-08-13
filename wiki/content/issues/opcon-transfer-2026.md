@@ -51,4 +51,5 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - [정부](/people/jeongbu) — **지지**: 국방부가 올해 하반기 전작권 전환 로드맵 완성에 역량을 집중하고, SCM에서 미래연합사령부 FOC 검증과 전작권 전환 시기 결정을 추진하겠다고 밝혔다. [출처](https://www.news1.kr/diplomacy/defense-diplomacy/6257221)
 - [이중구](/people/i-jung-gu) — **중립**: 한국형 3축 체계를 발전시키듯 북한의 기존 위협 대응 능력을 강화하는 것이 중요하다고 언급하며 전작권 전환 자체의 찬반보다 대응 능력 강화에 초점을 맞췄다. [출처](https://news.tf.co.kr/read/ptoday/2353355.htm)
 - [국방부](/people/gukbangbu) — **지지**: 올해 하반기 전작권 전환 로드맵 완성과 SCM에서의 FOC 검증 및 전작권 전환 시기 결정을 추진하겠다고 밝혔다. [출처](https://www.news1.kr/diplomacy/defense-diplomacy/6257221)
+- [한국형 3축 체계](/people/hanguk-hyeong-samchuk-chegye) — **중립**: 북한의 기존 위협 대응 능력 강화와 연계해 전작권 전환 논의의 배경으로 언급됐다. [출처](https://news.tf.co.kr/read/ptoday/2353355.htm)
 <!-- /agent:stances -->
