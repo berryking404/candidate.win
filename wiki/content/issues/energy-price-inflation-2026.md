@@ -104,4 +104,7 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - [유재준](/people/yoo-jaejun) — **지지**: 고환율·고유가·고물가로 어려움을 겪는 납세자에 대한 세정지원을 확대한다고 밝혔다. [출처](https://www.tfmedia.co.kr/news/article.html?no=206416)
 - [조국혁신당](/people/jogukhyuksindang) — **지지**: 폭염을 자연재난이 아닌 불평등으로 보고 냉방기본권 보장을 추진하겠다고 밝혔다. [출처](https://www.newsis.com/view/NISX20260812_0003745835)
 - [한성숙](/people/han-seongsuk) — **중립**: 중소기업 규제혁신 토론회 일정이 공지됐다. [출처](https://www.safetimes.co.kr/news/articleView.html?idxno=244848)
+- [김소희](/people/gim-so-hui) — **지지**: 폭염 대응 논의에서 에너지 바우처 확대 필요성을 언급했다. [출처](https://n.news.naver.com/mnews/article/214/0001517382?sid=100)
+- [이재명](/people/lee-jae-myeong) — **지지**: 물가 안정과 에너지 부담 완화 필요성을 언급하며 전기요금 동결 기조와 물가 부담 대응을 강조. [출처](https://www.electimes.com/news/articleView.html?idxno=371230)
+- [박완수](/people/park-wan-su) — **지지**: 장기 가뭄 대응과 함께 에너지전환 및 비용 절감 필요성을 언급했다. [출처](https://www.kukinews.com/article/view/kuk202608110003)
 <!-- /agent:stances -->
