@@ -77,4 +77,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [앨버니지](/people/) — **반대**: 성차별 농담이라는 주장에 대해 사과하지 않고 그 주장을 거부했다. [출처](https://www.chosun.com/international/international_general/2026/08/12/6VYZZ2GHRJEU3MWP7LR7BJGWBI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
 - [야마가미](/people/) — **지지**: 앨버니지의 발언을 성차별적인 멜론 농담으로 규정하며 무례하고 양국 관계에 해롭다고 비판했다. [출처](https://biz.heraldcorp.com/article/10839111?ref=naver)
 - [국가인권위원회](/people/) — **지지**: 여성에게만 수건·비누 요금을 받는 목욕탕 관행을 성차별로 판단했다. [출처](https://www.hankookilbo.com/news/article/A2026081310240005706?did=NA)
+- 미확인 기록 없음
 <!-- /agent:stances -->
