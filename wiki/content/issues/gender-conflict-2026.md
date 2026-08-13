@@ -74,4 +74,7 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [강훈구](/people/pending) — **중립**: 세대 간·젠더 간 단절과 대립이 첨예해진 시대에 서로의 입장을 바꿔보며 이해를 넓혀야 한다고 말했다. [출처](https://www.news1.kr/life-culture/performance-exhibition/6256641)
 - [허태정](/people/pending) — **지지**: 성평등복지국 신설과 성별임금격차 해소, 젠더폭력 예방 등 성평등 정책 필요성을 밝혔다. [출처](https://www.ccdn.co.kr/news/articleView.html?idxno=1093345)
 - [FIRSTKorea시민연대](/people/pending) — **반대**: 무분별한 젠더 이념 도입이 복지 우선순위를 훼손한다고 주장하며 성평등복지국 신설에 반대했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1174478)
+- [앨버니지](/people/) — **반대**: 성차별 농담이라는 주장에 대해 사과하지 않고 그 주장을 거부했다. [출처](https://www.chosun.com/international/international_general/2026/08/12/6VYZZ2GHRJEU3MWP7LR7BJGWBI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
+- [야마가미](/people/) — **지지**: 앨버니지의 발언을 성차별적인 멜론 농담으로 규정하며 무례하고 양국 관계에 해롭다고 비판했다. [출처](https://biz.heraldcorp.com/article/10839111?ref=naver)
+- [국가인권위원회](/people/) — **지지**: 여성에게만 수건·비누 요금을 받는 목욕탕 관행을 성차별로 판단했다. [출처](https://www.hankookilbo.com/news/article/A2026081310240005706?did=NA)
 <!-- /agent:stances -->
