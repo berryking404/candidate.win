@@ -22,4 +22,5 @@ summary: 일본 측의 한일 ACSA 체결 요구와 한국 정부의 신중론�
 - [함재규](/people/ham-jae-gyu) — **반대**: 한일 상호군수지원협정(ACSA) 체결 저지를 내세우며, 이를 한반도 전쟁기지화와 연결해 거부해야 한다고 밝혔다. [출처](http://worknworld.kctu.org/news/articleView.html?idxno=509667)
 - [박경선](/people/bak-gyeong-seon) — **반대**: 한반도를 전쟁기지화하는 구상과 함께 한일상호군수지원협정(ACSA)을 거부해야 한다고 말했다. [출처](http://news.inochong.org/detail.php?number=6526&thread=22r14)
 - [박규용](/people/bak-gyu-yong) — **반대**: 정부가 추진 중인 한일 군수지원협정 체결 움직임을 규탄하며 반대 입장을 드러냈다. [출처](http://www.tongilnews.com/news/articleView.html?idxno=216978)
+- [김선호](/people/gim-seon-ho) — **지지**: 일본 참석자들이 한일 상호군수지원협정(ACSA) 체결을 강하게 제기한 사실을 전하며 협정 논의가 안보·군수 협력의 흐름 속에 있음을 보여줬다. [출처](https://www.pressian.com/pages/articles/2026081214152226144?utm_source=naver&utm_medium=search)
 <!-- /agent:stances -->
