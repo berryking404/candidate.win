@@ -1,8 +1,9 @@
 ---
-title: 황영만
-slug: hwang-yeong-man
-role: 중기중앙회 소상공인정책실장
+title: 오세희
+slug: o-se-hui
+role: 국회의원
 status: curated
+party: 더불어민주당
 ---
 
 ## 행적

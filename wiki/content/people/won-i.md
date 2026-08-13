@@ -2,7 +2,7 @@
 title: 원이
 slug: won-i
 role: 리센느 멤버
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -1,7 +1,7 @@
 ---
-title: 황영만
-slug: hwang-yeong-man
-role: 중기중앙회 소상공인정책실장
+title: 전현영
+slug: jeon-hyeon-yeong
+role: 의정부도시공사 사장
 status: curated
 ---
 

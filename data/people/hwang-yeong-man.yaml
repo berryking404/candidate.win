@@ -3,7 +3,7 @@ name_ko: 황영만
 name_en: null
 party: null
 role: 중기중앙회 소상공인정책실장
-status: stub
+status: curated
 aliases:
 - 황영만
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 황영만
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260812066600030

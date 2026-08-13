@@ -1,7 +1,7 @@
 ---
-title: 황영만
-slug: hwang-yeong-man
-role: 중기중앙회 소상공인정책실장
+title: 신진창
+slug: sin-jin-chang
+role: 금융위원회 사무처장
 status: curated
 ---
 

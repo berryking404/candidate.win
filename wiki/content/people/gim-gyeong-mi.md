@@ -2,7 +2,7 @@
 title: 김경미
 slug: gim-gyeong-mi
 role: 서울시 소상공인정책과장
-status: stub
+status: curated
 ---
 
 ## 행적

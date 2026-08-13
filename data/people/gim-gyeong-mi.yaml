@@ -3,7 +3,7 @@ name_ko: 김경미
 name_en: null
 party: null
 role: 서울시 소상공인정책과장
-status: stub
+status: curated
 aliases:
 - 김경미
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김경미
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260211063900004

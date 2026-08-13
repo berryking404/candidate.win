@@ -3,7 +3,7 @@ name_ko: 원이
 name_en: null
 party: null
 role: 리센느 멤버
-status: stub
+status: curated
 aliases:
 - 리센느 원이
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 원이
   youtube_channels: []
+  official_urls:
+  - https://www.joongang.co.kr/article/25444032
