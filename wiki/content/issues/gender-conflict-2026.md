@@ -65,17 +65,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [조전혁](/people/jo-jeon-hyeok) — **중립**: 페미니즘·젠더교육을 둘러싼 교육 현장 논쟁의 당사자로 거론됐다. [출처](https://monthly.chosun.com/news/articleView.html?idxno=70988)
 - [김문수](/people/gim-mun-su) — **중립**: 후보 배우자를 둘러싼 가부장적 발언 논란 속에서 성차별 논쟁의 맥락에 놓였다. [출처](https://www.hani.co.kr/arti/society/women/1271942.html)
 - [김지수](/people/gim-ji-su) — **중립**: 젠더 갈등 완화를 위한 청년 공존·공감 네트워크 운영 맥락에서 언급됐다. [출처](https://www.yna.co.kr/view/AKR20260610035500530?input=1195m)
-- [대전시 성평등복지국 신설 찬반 시민단체](/people/) — **지지**: 성평등복지국 신설을 둘러싼 보수 성향 시민단체의 반대 목소리가 확인되며, 젠더 이념 도입에 비판적 입장을 보였다. [출처](https://www.tjb.co.kr/news05/bodo/view/id/102212)
-- [FIRSTKorea시민연대](/people/) — **지지**: 성평등복지국 신설에 반대하며 무분별한 젠더 이념 도입이 진짜 사회적 약자에 대한 복지 우선순위를 훼손한다고 주장했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1174478)
-- [서울교사노조](/people/seoul-teacher-union) — **중립**: 혐오 표현과 젠더·지역 비하가 교실 갈등을 키운다고 지적하며 지도·조정의 필요성을 강조했다. [출처](https://www.dailian.co.kr/news/view/1677050/?sc=Naver)
-- [무리뉴](/people/mourinho) — **미확인**: 성차별적 발언 의혹을 부인하며 맥락상 험한 말이었다고 설명했다. [출처](https://www.starnewskorea.com/sports/2026/08/11/2026081113243570397)
-- [대전여성단체연합](/people/daejeon-women-association) — **지지**: 성평등 복지국 신설을 당초 계획대로 추진해야 한다고 촉구했다. [출처](http://www.dtnews24.com/news/articleView.html?idxno=814153)
-- [영등포구가족센터](/people/yeongdeungpo-family-center) — **지지**: 전통적인 성역할을 돌아보는 프로그램을 운영하며 양성평등의 의미를 확산했다. [출처](https://www.beopbo.com/news/articleView.html?idxno=337070)
-- [강훈구](/people/pending) — **중립**: 세대 간·젠더 간 단절과 대립이 첨예해진 시대에 서로의 입장을 바꿔보며 이해를 넓혀야 한다고 말했다. [출처](https://www.news1.kr/life-culture/performance-exhibition/6256641)
-- [허태정](/people/pending) — **지지**: 성평등복지국 신설과 성별임금격차 해소, 젠더폭력 예방 등 성평등 정책 필요성을 밝혔다. [출처](https://www.ccdn.co.kr/news/articleView.html?idxno=1093345)
-- [FIRSTKorea시민연대](/people/pending) — **반대**: 무분별한 젠더 이념 도입이 복지 우선순위를 훼손한다고 주장하며 성평등복지국 신설에 반대했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1174478)
-- [앨버니지](/people/) — **반대**: 성차별 농담이라는 주장에 대해 사과하지 않고 그 주장을 거부했다. [출처](https://www.chosun.com/international/international_general/2026/08/12/6VYZZ2GHRJEU3MWP7LR7BJGWBI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
-- [야마가미](/people/) — **지지**: 앨버니지의 발언을 성차별적인 멜론 농담으로 규정하며 무례하고 양국 관계에 해롭다고 비판했다. [출처](https://biz.heraldcorp.com/article/10839111?ref=naver)
-- [국가인권위원회](/people/) — **지지**: 여성에게만 수건·비누 요금을 받는 목욕탕 관행을 성차별로 판단했다. [출처](https://www.hankookilbo.com/news/article/A2026081310240005706?did=NA)
 - 미확인 기록 없음
 <!-- /agent:stances -->

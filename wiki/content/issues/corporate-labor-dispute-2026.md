@@ -50,10 +50,6 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [전영현](/people/jeon-yeong-hyeon) — **미확인**: 주주단체의 배임 고발과 삼성전자 노사 합의 과정의 당사자로 거론됐다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260805010001483)
 - [노태문](/people/no-tae-mun) — **미확인**: 주주단체의 배임 고발과 삼성전자 노사 합의 과정의 당사자로 거론됐다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260805010001483)
 - [이재명](/people/i-jae-myeong) — **반대**: 삼성전자 노조의 광주반도체 공장 투자 교섭 주장에 대해 분쟁이 끝이 없어진다며 엄격한 대응 필요성을 시사했다. [출처](https://www.munhwa.com/article/11608689?ref=naver)
-- [김지형](/people/gim-ji-hyeong) — **중립**: 삼성전자 사태로 불거진 ‘N% 성과급’ 문제를 사회적 대화 의제로 검토해야 한다고 밝혀 노사정 협의 필요성을 강조했다. [출처](https://www.nocutnews.co.kr/news/6561218?utm_source=naver&utm_campaign=20260811021853)
-- [최승호](/people/choi-seungho) — **지지**: 삼성전자 초기업노조가 SK하이닉스 통합노조와 연대·공동 성명을 검토하며 노사 현안 대응에 협력했다. [출처](https://www.etoday.co.kr/news/view/2613669)
-- [최승호](/people/choi-seungho) — **혼합**: 호남 반도체 클러스터 투자 의제와 관련해 노조가 경영상 결정에 개입할 수 있다는 논란의 계기가 됐다. [출처](https://www.eroun.net/news/articleView.html?idxno=87486)
-- [동행노조](/people/donghaeng-nojo) — **반대**: 삼성전자 성과급 합의안에 반발해 성과급 배분의 공정성을 문제 삼았다. [출처](https://newstapa.org/article/tsK1h)
-- [경사노위 관계자](/people/gyeongsanwi-gwangyeja) — **중립**: 영업이익 N% 성과급을 둘러싼 배분 기준과 분쟁 가능성을 사회적 대화 의제로 검토했다. [출처](https://www.kukinews.com/article/view/kuk202608110122)
-- [민주노총](/people/) — **지지**: 삼성전자 노조의 교섭 의제 확대를 대기업 봐주기 논란과 연결해 옹호하고, 정부의 쟁의 범위 축소 시도를 비판했다. [출처](https://www.sisajournal.com/news/articleView.html?idxno=383458)
+- [최승호](/people/choe-seung-ho) — **지지**: 삼성전자 초기업노조가 SK하이닉스 통합노조와 연대·공동 성명을 검토하며 노사 현안 대응에 협력했다. [출처](https://www.etoday.co.kr/news/view/2613669)
+- [최승호](/people/choe-seung-ho) — **혼합**: 호남 반도체 클러스터 투자 의제와 관련해 노조가 경영상 결정에 개입할 수 있다는 논란의 계기가 됐다. [출처](https://www.eroun.net/news/articleView.html?idxno=87486)
 <!-- /agent:stances -->
