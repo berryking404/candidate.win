@@ -24,4 +24,5 @@ party: 국민의힘
 - [윤석열](/issues/special-counsel-investigation-2026) — **혼합**: 탄핵심판과 특검 국면에서 ‘하이브리드전’과 선거개입설을 주장하며 방어 논리를 폈다. [출처](https://www.hani.co.kr/arti/society/society_general/1267726.html)
 - [도이치모터스 주가 조작 의혹 및 김건희 여사 연루 논란 (2023)](/issues/deutsch-motors-stock-2023) — **반대**: 김건희 씨의 도이치모터스 주가조작 연루 의혹을 부인하는 발언을 했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008659661&plink=ORI&cooper=NAVER)
 - [도이치모터스 주가 조작 의혹 및 김건희 여사 연루 논란 (2023)](/issues/deutsch-motors-stock-2023) — **중립**: 김건희 여사 도이치모터스 사건 보도에서 전 대통령으로 함께 언급됐지만, 직접적인 입장은 확인되지 않았다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260526095200H69)
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 우방국에 계엄 정당화 메시지를 전달하라고 지시한 의혹으로 직권남용 혐의 기소됐다. [출처](https://www.kukinews.com/article/view/kuk202608130004)
 <!-- /agent:stances -->

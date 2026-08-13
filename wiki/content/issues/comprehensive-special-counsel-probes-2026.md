@@ -62,4 +62,8 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [신원식](/people/sin-won-sik) — **미확인**: 특검이 비상계엄 관련 추가 기소 대상로 언급했다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260811192100kSZ)
 - [한동훈](/people/han-dong-hun) — **미확인**: 계엄 해제 이후 열린 당정대 회의 관련 참고인 소환 대상이 됐다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260811192100kSZ)
 - [정점식](/people/jeong-jeom-sik) — **미확인**: 대북송금 사건 수사 검사 징계에 대해 정치보복이라고 비판했다. [출처](https://www.news1.kr/politics/assembly/6256533)
+- [윤석열](/people/yun-seok-yeol) — **반대**: 계엄 정당화 메시지 전파 지시 의혹으로 종합특검이 직권남용 혐의로 기소했다. [출처](https://www.kukinews.com/article/view/kuk202608130004)
+- [신원식](/people/sin-won-sik) — **반대**: 윤석열의 지시를 받아 계엄 정당화 메시지 전달에 관여한 혐의로 불구속 기소됐다. [출처](https://www.kukinews.com/article/view/kuk202608130004)
+- [김종욱](/people/gim-jong-uk) — **반대**: 비상계엄 당시 해경을 합수부에 편제하려 한 내란 가담 의혹으로 기소됐다. [출처](https://www.news1.kr/society/court-prosecution/6256719)
+- [안성식](/people/an-seong-sik) — **반대**: 비상계엄 당시 해경 인원 증원 편성·구금시설 제공 시도 등 내란 가담 의혹으로 기소됐다. [출처](https://www.news1.kr/society/court-prosecution/6256719)
 <!-- /agent:stances -->
