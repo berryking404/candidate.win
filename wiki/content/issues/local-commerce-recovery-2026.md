@@ -184,4 +184,8 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [황영만](/people/hwang-yeong-man) — **지지**: 중소·소상공인 판로 확대를 위해 유통 대기업 입점 품평회와 수수료 우대 지원을 추진했다. [출처](https://www.ajunews.com/view/20260812091533128)
 - [김경미](/people/gim-gyeong-mi) — **지지**: 소상공인 제품의 시장성 검증과 국내 유통·해외 진출 연계를 돕는 판로개척 모델을 소개했다. [출처](https://www.etoday.co.kr/news/view/2613528)
 - [손화정](/people/son-hwa-jeong) — **지지**: 정전 피해를 입은 주민과 소상공인의 보상 지원 및 전력 인프라 점검을 약속했다. [출처](https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031449)
+- [이현재](/people/i-hyeon-jae) — **지지**: 점심시간 주정차 단속 유예 확대가 상권 이용 부담을 덜고 지역 상권과 소상공인에 활력을 주도록 추진했다. [출처](http://www.weeklytoday.com/news/articleView.html?idxno=790175)
+- [오세희](/people/o-se-hui) — **반대**: 대형 유통 규제 완화 논의가 현실화되면 골목상권과 전통시장에 심각한 타격이 될 수 있다고 주장했다. [출처](https://www.joongang.co.kr/article/25453032)
+- [한병도](/people/han-byeong-do) — **지지**: 홈플러스 재개장 이후 고용 안정과 협력업체 피해 회복을 포함한 정상화 지원을 당 차원에서 계속하겠다고 밝혔다. [출처](https://www.cbci.co.kr/news/articleView.html?idxno=597878)
+- [전현영](/people/jeon-hyeon-yeong) — **지지**: 상권진흥센터 간담회에서 지역 상인 의견을 바탕으로 상권 지원사업을 추진하겠다고 밝혔다. [출처](https://www.newspim.com/news/view/20260813000662)
 <!-- /agent:stances -->
