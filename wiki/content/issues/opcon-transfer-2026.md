@@ -48,4 +48,7 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - [군 당국](/people/gun-danguk) — **중립**: UFS를 전작권 환수의 중요한 시험대로 보는 평가가 기사에서 소개됐다. [출처](https://www.thereport.co.kr/news/articleView.html?idxno=90378)
 - [한미 군사동맹](/people/hanmi-gunsa-dongmaeng) — **반대**: 전작권 조기 환수 추진이 한미 군사동맹 유지에 우려를 낳는다는 사설의 평가가 제시됐다. [출처](https://www.mk.co.kr/article/12124206)
 - [한미연합군사연습](/people/hanmi-yeonhapgunsayeonsup) — **중립**: UFS가 전작권 전환 조건 충족 여부를 평가하는 계기로 소개됐다. [출처](https://www.segye.com/newsView/20260811519208?OutUrl=naver)
+- [정부](/people/jeongbu) — **지지**: 국방부가 올해 하반기 전작권 전환 로드맵 완성에 역량을 집중하고, SCM에서 미래연합사령부 FOC 검증과 전작권 전환 시기 결정을 추진하겠다고 밝혔다. [출처](https://www.news1.kr/diplomacy/defense-diplomacy/6257221)
+- [이중구](/people/i-jung-gu) — **중립**: 한국형 3축 체계를 발전시키듯 북한의 기존 위협 대응 능력을 강화하는 것이 중요하다고 언급하며 전작권 전환 자체의 찬반보다 대응 능력 강화에 초점을 맞췄다. [출처](https://news.tf.co.kr/read/ptoday/2353355.htm)
+- [국방부](/people/gukbangbu) — **지지**: 올해 하반기 전작권 전환 로드맵 완성과 SCM에서의 FOC 검증 및 전작권 전환 시기 결정을 추진하겠다고 밝혔다. [출처](https://www.news1.kr/diplomacy/defense-diplomacy/6257221)
 <!-- /agent:stances -->
