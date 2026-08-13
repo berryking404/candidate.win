@@ -139,4 +139,9 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [송... ](/people/unknown) — **미확인**: 기업과 좋은 일자리를 늘리고 청년 역량을 강화하는 선순환 구조를 강조했다. [출처](https://www.incheontoday.com/news/articleView.html?idxno=322293)
 - [박용선](/people/bak-yong-seon) — **지지**: 포항의 과학기술과 예술을 연결해 청년이 머물고 새로운 일자리가 생기는 산업 생태계를 강조했다. [출처](https://www.kbmaeil.com/article/20260809500170)
 - [권창준](/people/gwon-chang-jun) — **중립**: 국제기능올림픽 선수단 결단식에서 숙련기술 인재 육성과 청년 기술역량의 중요성을 부각했다. [출처](https://www.newsis.com/view/NISX20260811_0003744128)
+- [구윤철](/people/guyooncheol) — **지지**: 정부가 청년 일자리 회복 방안을 조속히 발표하고 제조·건설업 맞춤형 고용 대책을 마련하겠다고 밝혔다. [출처](http://www.newsfc.co.kr/news/articleView.html?idxno=80496)
+- [신정훈](/people/shinjeonghun) — **지지**: 호남권 반도체 산업의 지역 인재 육성을 위해 공장 건설 단계부터 인력 양성이 준비돼야 한다고 주문했다. [출처](https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521174)
+- [김은주](/people/kimeunju) — **지지**: 피지컬AI 산업을 미래 첨단산업 중심축으로 키우며 양질의 청년 일자리 창출이 핵심이라고 밝혔다. [출처](http://www.jeollailbo.com/news/articleView.html?idxno=808105)
+- [최해운](/people/choihaeun) — **지지**: 청년도전지원사업 참여 청년을 발굴해 취업 연계까지 돕는 체계를 운영한다고 밝혔다. [출처](https://www.kyosu.net/news/articleView.html?idxno=208846)
+- [남원시 청년협의체](/people/namwonsi-cheongnyeonhyeobuichae) — **지지**: 일자리·창업·주거·교육·복지 정책을 유기적으로 연결하는 청년정책 체계 강화를 건의했다. [출처](https://www.newsis.com/view/NISX20260813_0003747652)
 <!-- /agent:stances -->
