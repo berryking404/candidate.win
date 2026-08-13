@@ -66,4 +66,6 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [신원식](/people/sin-won-sik) — **반대**: 윤석열의 지시를 받아 계엄 정당화 메시지 전달에 관여한 혐의로 불구속 기소됐다. [출처](https://www.kukinews.com/article/view/kuk202608130004)
 - [김종욱](/people/gim-jong-uk) — **반대**: 비상계엄 당시 해경을 합수부에 편제하려 한 내란 가담 의혹으로 기소됐다. [출처](https://www.news1.kr/society/court-prosecution/6256719)
 - [안성식](/people/an-seong-sik) — **반대**: 비상계엄 당시 해경 인원 증원 편성·구금시설 제공 시도 등 내란 가담 의혹으로 기소됐다. [출처](https://www.news1.kr/society/court-prosecution/6256719)
+- [심우정](/people/sim-u-jeong) — **반대**: 비상계엄 당시 내란 중요임무 종사 혐의와 관련해 종합특검 압수수색 대상이 됐다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=05221766645546992)
+- [조은석](/people/jo-eun-seok) — **중립**: 감사원 관저 이전 의혹 배당 순서 조작 정황이 포착되며 관련 조사 맥락에서 언급됐다. [출처](https://www.yna.co.kr/view/AKR20260812162900004?input=1195m)
 <!-- /agent:stances -->
