@@ -210,4 +210,10 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [이장섭](/people/i-jang-seop) — **지지**: 지역 경제 활성화와 일자리 창출을 통해 수도권 집중과 지방 소멸 위기에 대응해야 한다는 취지의 발언을 했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1174706)
 - [신영재](/people/sin-yeong-jae) — **지지**: 지방소멸대응기금을 활용해 청년농업인 육성과 바이오기업 유치, 일자리 창출, 청년·근로자 정착 기반을 연결하는 지역 활성화 정책을 추진했다. [출처](https://view.asiae.co.kr/article/2026081211540307492)
 - [김기재](/people/gim-gi-jae) — **지지**: 시민 생활 안정과 지역경제 회복을 위한 민생살리기 비상조치를 가동하겠다고 밝혔다. [출처](https://www.goodmorningcc.com/news/articleView.html?idxno=450533)
+- [박완수](/people/park-wansu) — **지지**: AI·첨단제조를 지역발전의 축으로 삼아 지역균형발전과 지방소멸 대응에 우호적인 입장을 보였다. [출처](https://www.etnews.com/20260813000161)
+- [신창호](/people/shinchangho) — **지지**: 저출생·지방소멸 대응 공공주택 공급을 성과로 내세우며 청년·신혼부부 정착 기반 확충을 강조했다. [출처](https://www.ajunews.com/view/20260813105245888)
+- [조상호](/people/jo-sangho) — **지지**: 행정수도 완성이 수도권 일극체제와 지방소멸 위기를 함께 해소하는 국가적 해법이라고 밝혔다. [출처](https://www.news1.kr/local/sejong-chungbuk/6257952)
+- [강경숙](/people/kang-gyeong-suk) — **지지**: 전북의 지역균형발전을 국가적 큰 목표로 삼고 선봉에 서겠다고 밝혔다. [출처](https://www.news1.kr/local/jeonbuk/6257961)
+- [김윤덕](/people/kim-yun-deok) — **지지**: 수도권 공급 확대와 함께 지방정부·서울시와의 협의를 언급하며 주택·지역 현안 해결을 추진했다. [출처](https://www.newsway.co.kr/news/view?ud=2026081311395199483)
+- [주낙영](/people/ju-nakyeong) — **지지**: 공공기관 이전을 국가균형발전과 지역 특화산업 성장의 프로젝트로 규정하며 유치에 나섰다. [출처](https://www.nocutnews.co.kr/news/6562304?utm_source=naver&utm_medium=article&utm_campaign=20260813102916)
 <!-- /agent:stances -->
