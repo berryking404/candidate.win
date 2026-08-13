@@ -166,4 +166,7 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [최수진](/people/choi-sujin) — **혼합**: 합의된 민생법안 처리는 협조하겠다고 했지만, 정치적 이슈가 있는 법안은 본회의에서 따로 다뤄야 한다고 주장했다. [출처](https://www.news1.kr/politics/assembly/6255351)
 - [윤건영](/people/yun-geon-yeong) — **지지**: 국조특위가 정쟁으로 더 연장돼선 안 된다며 일정 조속 합의를 요구했다. [출처](https://www.ytn.co.kr/_ln/0101_202608101801123786)
 - [장동혁](/people/jang-dong-hyeok) — **반대**: 이재명 대통령의 부동산 공약 불일치를 강하게 비판하며 여권의 민생 대응을 문제 삼았다. [출처](https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260810511&PRO_CODE=99)
+- [한병도](/people/han-byeongdo) — **지지**: 주거 안정과 민생법안 처리를 “소모적 정쟁의 대상”이 아닌 민생 과제로 규정하며, 국민의힘과 오세훈 서울시에 협력을 촉구했다. [출처](https://www.yna.co.kr/view/AKR20260813045200001?input=1195m)
+- [정청래](/people/jeong-cheongrae) — **지지**: 당정청 원팀·원보이스를 강조하며 “계파정치가 외면한 개혁과 민생을 되찾겠다”고 밝혔다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=739912)
+- [최보윤](/people/choi-bo-yoon) — **반대**: 여권이 청년 고용과 민생의 괴리를 제대로 해소하지 못한다고 비판하며, “국민의힘은 청년들의 절규를 외면해서는 안 된다”고 주장했다. [출처](https://www.newspim.com/news/view/20260813000209)
 <!-- /agent:stances -->
