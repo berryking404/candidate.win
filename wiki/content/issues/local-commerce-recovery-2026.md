@@ -187,4 +187,11 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [김학홍](/people/gim-hak-hong) — **지지**: 민생 회복을 위해 고유가 위기 대응 지원금을 지급해 골목상권 활성화의 마중물을 만들겠다고 밝혔다. [출처](https://www.hankookilbo.com/news/article/A2026081409390000785?did=NA)
 - [김선옥](/people/gim-seon-ok) — **지지**: 소상공인 건의 사항이 정책과 예산에 반영되도록 점검하겠다고 말했다. [출처](https://www.newsis.com/view/NISX20260814_0003749025)
 - [이수희](/people/i-su-hui) — **지지**: 전통시장에 쿨링 포그를 설치해 시장 이용 편의와 지역 상권 활성화를 뒷받침했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3664718)
+- [조세일](/people/jo-se-il) — **지지**: 재개장한 홈플러스 의정부점을 찾아 지역 상권 활성화에 힘을 보태며 상권 회복 의지를 드러냈다. [출처](https://www.ekn.kr/web/view.php?key=20260814020242875)
+- [손훈모](/people/son-hun-mo) — **지지**: 역전시장을 찾아 상인들과 상권 활성화 방안을 논의하고 폭염으로 위축된 지역 상권 회복을 모색했다. [출처](https://view.asiae.co.kr/article/2026081413404814122)
+- [강릉시경제살리기협의회](/people/gangneung-si-gyeongje-salligi-hyeobuihoe) — **지지**: 100일간 전통시장과 골목상권 이용 등 지역 내 소비 확대를 통해 지역경제를 살리겠다고 나섰다. [출처](https://www.kukinews.com/article/view/kuk202608140071)
+- [김현기](/people/gim-hyeon-gi) — **지지**: 외국인 의료관광 체험관 운영과 연계해 지역 상권 활성화가 결실로 이어지도록 지원하겠다고 밝혔다. [출처](https://www.jeonmae.co.kr/news/articleView.html?idxno=1284108)
+- [이정연](/people/i-jeong-yeon) — **지지**: 미사호수공원 환경 개선과 상권 활성화 방안을 논의하며 침체된 지역 상권에 활력을 불어넣는 방안을 주문했다. [출처](https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/08/14/20260814500133?wlog_tag3=naver)
+- [안병윤](/people/an-byeong-yun) — **지지**: 주차난과 상권 활성화, 관광자원 활용을 통한 지역 활력 제고 방안을 주민들과 논의했다. [출처](https://www.yeongnam.com/web/view.php?key=20260814024232204)
+- [김형기](/people/gim-hyeong-gi) — **지지**: 지역 소상공인 보호와 골목상권 파급효과를 따져 묻는 등 지역상권 보호에 방점을 찍었다. [출처](https://www.sisajournal.com/news/articleView.html?idxno=383594)
 <!-- /agent:stances -->
