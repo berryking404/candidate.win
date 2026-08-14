@@ -26,4 +26,5 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [헤그세스](/people/hegse-seu) — **지지**: 대이란 해상봉쇄를 무기한 이어갈 수 있다고 강조하며 장기 압박 태세를 공개적으로 시사했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637139&ref=A)
 - [스콧 베선트](/people/seu-kot-beseonteu) — **지지**: 이란에 대해 전례 없는 경제 고립과 호르무즈 해협 봉쇄 압박을 병행하겠다고 경고했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=04083606645547320)
 - [북한](/people/bukhan) — **반대**: 한미 연합훈련과 주한미군의 전략적 유연성 확대를 미군의 공격적 태세 조정으로 규정하며 이를 비난했다. [출처](https://www.donga.com/news/Politics/article/all/20260814/134476807/1)
+- [미8군](/people/mi8gun) — **지지**: UFS에서 제1도련선 전투력 투사와 동맹 현대화를 강조해 주한미군의 전략적 유연성을 시사했다. [출처](https://www.sedaily.com/article/20079524?ref=naver)
 <!-- /agent:stances -->
