@@ -9,12 +9,8 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
-- 2026-07-01: 전군주요지휘관회의에서 전시작전통제권 회복의 중요성을 강조하며 "스스로 결심할 수 없는 군은 강군이 될 수 없다"고 밝혔다. [출처](https://www.hani.co.kr/arti/politics/defense/1266255.html)
-- 2026-07-01: 전작권 회복을 위해 올해 한미안보협의회(SCM)에서 FOC 검증을 마치고 목표 연도(X연도)를 보고하겠다고 밝혔다. [출처](https://www.news1.kr/diplomacy/defense-diplomacy/6214034)
-- 2026-07-01: 전작권 회복 후 연합구성군사령부 상설화를 추진하라고 지시했다. [출처](https://www.nocutnews.co.kr/news/6541417?utm_source=naver&utm_medium=article&utm_campaign=20260701022645)
-- 2026-07-11: 병적기록 공개 논란과 탄핵 청원 확산 속에서 국방 개혁 추진을 둘러싼 공방의 중심에 섰다. [출처](https://www.sisajournal.com/news/articleView.html?idxno=379523)
-- 2026-07-10: 사관학교 통합 입법 필요성을 거론하며 군 교육체계 개편을 뒷받침했다. [출처](https://www.sisajournal.com/news/articleView.html?idxno=379513)
-
+- 2026-08-14: 사관학교 통합 방침을 재확인하며 현 체제 유지 보도는 사실이 아니라고 반박했다. [출처](https://www.hani.co.kr/arti/politics/defense/1272931.html)
+- 2026-08-13: 방첩사 해체 이후 대체 조직 창설과 국방개혁 추진 흐름이 보도됐다. [출처](https://www.sedaily.com/article/20079221?ref=naver)
 <!-- /agent:events -->
 
 ## 이슈별 입장
