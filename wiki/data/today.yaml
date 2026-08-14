@@ -1,67 +1,41 @@
-generated_at: '2026-08-13T23:03:09+00:00'
-source_date: 2026-08-13T230254Z
+generated_at: '2026-08-14T23:03:56+00:00'
+source_date: 2026-08-14T230343Z
 window_hours: 72
 items:
 - rank: 1
-  title: 이진숙이 주최한 ‘국회 5·18 토론회’서 논란 “광주를 고립·분열시켜...
+  title: 국민의힘, 이진숙 5·18 토론회 논란에 부적절…징계는 내부 논의
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 17건, 매체 14곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 17
+    outlet_count: 14
+    public_actor: 국민의힘, 의원
+  sources:
+  - title: '''5·18 토론회'' 이진숙 제명 촉구…당내서도 ''눈총'''
+    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008706495&plink=ORI&cooper=NAVER
+  - title: '"물러나라" 이진숙 제명 촉구…국힘서도 비판 목소리'
+    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008706273&plink=ORI&cooper=NAVER
+  - title: 징계해, 말아…'5·18 폄훼' 논란 앞 장동혁 '이진숙 딜레마'
+    url: https://www.sisajournal.com/news/articleView.html?idxno=383712
+- rank: 2
+  title: 정부·통신사업자, 불법스팸 대응 점검…추석 앞두고 차단 강화
   status: 정식 검토
   score: 7
-  summary: 최근 보도 5건, 매체 5곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 13건, 매체 13곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 5
-    outlet_count: 5
-    public_actor: 국회
-  sources:
-  - title: '[Who Is ?] 주진우 사조그룹 회장'
-    url: https://www.businesspost.co.kr/BP?command=article_view&num=444313
-  - title: 이진숙이 주최한 ‘국회 5·18 토론회’서 논란 “광주를 고립·분열시켜...
-    url: https://www.khan.co.kr/article/202608132128015
-  - title: 범여권 "이진숙, 5·18 역사 왜곡 세력에 국회 문 열어주나…즉각 중단...
-    url: https://www.namdonews.com/news/articleView.html?idxno=919937
-- rank: 2
-  title: 정부, 北 비난에 "핵잠은 북핵 고도화 대응하는 방어 조치" 반박
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 2
+    news_count: 13
+    outlet_count: 13
     public_actor: 정부
   sources:
-  - title: 정부, 北 비난에 “핵잠은 북핵 고도화 대응하는 방어 조치” 반박
-    url: https://biz.heraldcorp.com/article/10840550?ref=naver
-  - title: 정부 "핵잠은 북핵 고도화 대응하는 방어조치"…北 비난 반박
-    url: https://www.yna.co.kr/view/AKR20260813136400504?input=1195m
+  - title: 정부·이통3사, 무효번호·해외발 스팸 막는다
+    url: https://zdnet.co.kr/view/?no=20260814173332
+  - title: 정부, 추석 연휴 앞두고 불법스팸 대응 현황 점검
+    url: https://www.itdaily.kr/news/articleView.html?idxno=241024
+  - title: 정부·이통3사, 불법스팸 차단 강화 나선다
+    url: https://www.dailian.co.kr/news/view/1678694/?sc=Naver
 - rank: 3
-  title: 정부 "핵잠은 북핵 고도화 대응하는 방어조치"…北 비난 반박
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 정부
-  sources:
-  - title: 정부, 北 비난에 “핵잠은 북핵 고도화 대응하는 방어 조치” 반박
-    url: https://biz.heraldcorp.com/article/10840550?ref=naver
-  - title: 정부 "핵잠은 북핵 고도화 대응하는 방어조치"…北 비난 반박
-    url: https://www.yna.co.kr/view/AKR20260813136400504?input=1195m
-- rank: 4
-  title: “국회가 대관 업체인가”…5·18 폄훼 포럼 강행 논란
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 2건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 1
-    public_actor: 국회
-  sources:
-  - title: “국회가 대관 업체인가”…5·18 폄훼 포럼 강행 논란
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8636658&ref=A
-  - title: “국회가 대관 업체인가”…5·18 폄훼 포럼 강행 논란
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8636434&ref=A
-- rank: 5
-  title: 지방의회 '공천 먹튀' 논란… 민주당, '방지법' 내놨다
+  title: '[뉴스1 PICK]이진숙 ‘5·18 포럼’ 연일 논란…민주당, 제명 촉구 결의안 제출'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -70,10 +44,10 @@ items:
     outlet_count: 1
     public_actor: 민주당
   sources:
-  - title: 지방의회 '공천 먹튀' 논란… 민주당, '방지법' 내놨다
-    url: https://www.sisaweek.com/news/articleView.html?idxno=237292
-- rank: 6
-  title: 좌파 도움은 거절?...콜롬비아 정부 논란 [자막뉴스]
+  - title: '[뉴스1 PICK]이진숙 ‘5·18 포럼’ 연일 논란…민주당, 제명 촉구 결의...'
+    url: https://www.news1.kr/politics/assembly/6259662
+- rank: 4
+  title: 남부지역 '가뭄' 비상…정부, 대응단 새로 꾸려 총력 대응
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -82,5 +56,41 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: 좌파 도움은 거절?...콜롬비아 정부 논란 [자막뉴스]
-    url: https://www.ytn.co.kr/_ln/0134_202608131254512795
+  - title: 남부지역 '가뭄' 비상…정부, 대응단 새로 꾸려 총력 대응
+    url: https://www.nocutnews.co.kr/news/6562882?utm_source=naver&utm_medium=article&utm_campaign=20260814100028
+- rank: 5
+  title: 정부, 이달말 '미래대응기금법 특별법' 입법예고한다
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 정부, 이달말 '미래대응기금법 특별법' 입법예고한다
+    url: https://www.hankyung.com/article/202608141294i
+- rank: 6
+  title: 정부, 가뭄 대응 지휘체계 격상…남부 현장대응단 가동
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 정부, 가뭄 대응 지휘체계 격상…남부 현장대응단 가동
+    url: https://www.dailian.co.kr/news/view/1678470/?sc=Naver
+- rank: 7
+  title: 도수치료까지 헌법소원… 정부 정책에 반발해 헌재 찾는 의사들
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 도수치료까지 헌법소원… 정부 정책에 반발해 헌재 찾는 의사들
+    url: https://health.chosun.com/site/data/html_dir/2026/08/14/2026081402718.html
