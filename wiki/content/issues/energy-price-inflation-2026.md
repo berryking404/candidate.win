@@ -96,4 +96,6 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - [김소희](/people/gim-so-hui) — **지지**: 폭염 대응 논의에서 에너지 바우처 확대 필요성을 언급했다. [출처](https://n.news.naver.com/mnews/article/214/0001517382?sid=100)
 - [이재명](/people/i-jae-myeong) — **지지**: 물가 안정과 에너지 부담 완화 필요성을 언급하며 전기요금 동결 기조와 물가 부담 대응을 강조. [출처](https://www.electimes.com/news/articleView.html?idxno=371230)
 - [박완수](/people/bak-wan-su) — **지지**: 장기 가뭄 대응과 함께 에너지전환 및 비용 절감 필요성을 언급했다. [출처](https://www.kukinews.com/article/view/kuk202608110003)
+- [김성제](/people/gim-seong-je) — **중립**: 경기중부권행정협의회에서 집단에너지 냉방요금 지역 간 형평성 확보 등 공공요금 현안 안건을 논의했다. [출처](https://www.news1.kr/local/gyeonggi/6258819)
+- [송영길](/people/song-yeong-gil) — **지지**: 소상공인 전기요금 20만원 지원 제도를 상시화하겠다고 민생 공약으로 제시했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=740044)
 <!-- /agent:stances -->

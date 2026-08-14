@@ -22,4 +22,5 @@ party: 소나무당
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 이념 싸움을 버리고 민생을 위한 경쟁을 해야 한다며 당 운영의 중심을 민생으로 돌려야 한다고 강조했다. [출처](https://www.donga.com/news/Politics/article/all/20260708/134257269/1)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 선거대책위원회의 관료적 운영과 안이한 대응을 비판하며 선거 운영 개선 필요성을 제기했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8607910&ref=A)
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **지지**: 조희대 대법원장 탄핵 추진과 함께 명태균·김건희 관련 특검을 통해 윤석열과 오세훈도 처벌받게 했다고 밝혔다. [출처](https://www.inews24.com/view/1992074)
+- [물가 안정과 에너지 요금 부담 (2026)](/issues/energy-price-inflation-2026) — **지지**: 소상공인 전기요금 20만원 지원을 상시 제도로 전환하겠다고 약속했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=740044)
 <!-- /agent:stances -->
