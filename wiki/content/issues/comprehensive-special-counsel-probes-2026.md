@@ -68,4 +68,9 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [안성식](/people/an-seong-sik) — **반대**: 비상계엄 당시 해경 인원 증원 편성·구금시설 제공 시도 등 내란 가담 의혹으로 기소됐다. [출처](https://www.news1.kr/society/court-prosecution/6256719)
 - [심우정](/people/sim-u-jeong) — **반대**: 비상계엄 당시 내란 중요임무 종사 혐의와 관련해 종합특검 압수수색 대상이 됐다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=05221766645546992)
 - [조은석](/people/jo-eun-seok) — **중립**: 감사원 관저 이전 의혹 배당 순서 조작 정황이 포착되며 관련 조사 맥락에서 언급됐다. [출처](https://www.yna.co.kr/view/AKR20260812162900004?input=1195m)
+- [김종욱](/people/gim-jong-uk) — **중립**: 계엄 가담 혐의로 기소돼 첫 재판을 앞두고 있다는 보도가 있었다. [출처](https://www.yna.co.kr/view/AKR20260814041900004?input=1195m)
+- [이시원](/people/i-si-won) — **중립**: 채해병 수사 방해 의혹 사건에서 불구속 기소됐다는 보도가 있었다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8636638&ref=A)
+- [임기훈](/people/im-gi-hun) — **중립**: 채해병 수사 방해 의혹 사건에서 함께 불구속 기소됐다는 보도가 있었다. [출처](https://news.jtbc.co.kr/article/NB12313285?influxDiv=NAVER)
+- [이은우](/people/i-eun-u) — **중립**: 내란 선전 혐의 관련 종합특검 사건의 재판이 본격화된다는 보도가 있었다. [출처](https://www.yna.co.kr/view/AKR20260814041951004?input=1195m)
+- [심우정](/people/sim-u-jeong) — **중립**: 내란 가담 의혹과 도이치모터스 수사 무마 의혹으로 추가 압수수색을 받았다는 보도가 있었다. [출처](https://news.tf.co.kr/read/life/2353926.htm)
 <!-- /agent:stances -->

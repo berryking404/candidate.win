@@ -17,4 +17,5 @@ party: 무소속
 
 <!-- agent:stances -->
 - [도이치모터스 주가 조작 의혹 및 김건희 여사 연루 논란 (2023)](/issues/deutsch-motors-stock-2023) — **반대**: 도이치모터스 수사 무마 의혹과 관련해 검찰 지휘부의 윗선 개입 대상으로 특검 입건됐다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260524183224i1m)
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **중립**: 내란 가담 의혹과 도이치모터스 수사 무마 의혹으로 추가 압수수색을 받았다는 보도가 있었다. [출처](https://news.tf.co.kr/read/life/2353926.htm)
 <!-- /agent:stances -->
