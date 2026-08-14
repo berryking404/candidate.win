@@ -87,7 +87,7 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [신진창](/people/sin-jin-chang) — **지지**: 비거주 1주택자의 전세대출 제한과 함께 임대인의 보증금 미반환 등 예외 상황은 허용해 실수요자와 피해자를 보호하겠다고 설명했다. [출처](https://www.hani.co.kr/arti/economy/property/1272714.html)
 - [한병도](/people/han-byeong-do) — **지지**: 주거비 부담이 큰 계층에 대한 지원과 전·월세 시장 안정, 실수요자 주거를 뒷받침할 금융정책의 실효성을 강조했다. [출처](https://biz.heraldcorp.com/article/10839933?ref=naver)
 - [오세훈](/people/o-se-hun) — **지지**: 청년 주거비 부담을 덜어주는 청년안심주택 운영을 점검하며 주거 안정 필요성을 부각했다. [출처](https://www.areyou.co.kr/news/articleView.html?idxno=94848)
-- [양지영](/people/yang-jiyoung) — **중립**: 전세보증금반환보증 가입 기준 완화가 거론되는 상황을 설명했다. [출처](https://biz.heraldcorp.com/article/10841500?ref=naver)
-- [전재수](/people/jeon-jaesu) — **지지**: 전세사기 피해 예방을 위해 반환보증 보증료 지원과 공공임대주택 공급을 추경에 반영했다. [출처](https://www.etoday.co.kr/news/view/2614578)
-- [오세훈](/people/oh-sehoon) — **혼합**: 공급 공백 해소를 위해 재건축·재개발과 세제 전환이 필요하다고 주장하면서, 세 부담 확대는 주거 불안을 키운다고 비판했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008705422&plink=ORI&cooper=NAVER)
+- [양지영](/people/yang-ji-yeong) — **중립**: 전세보증금반환보증 가입 기준 완화가 거론되는 상황을 설명했다. [출처](https://biz.heraldcorp.com/article/10841500?ref=naver)
+- [전재수](/people/jeon-jae-su) — **지지**: 전세사기 피해 예방을 위해 반환보증 보증료 지원과 공공임대주택 공급을 추경에 반영했다. [출처](https://www.etoday.co.kr/news/view/2614578)
+- [오세훈](/people/o-se-hun) — **혼합**: 공급 공백 해소를 위해 재건축·재개발과 세제 전환이 필요하다고 주장하면서, 세 부담 확대는 주거 불안을 키운다고 비판했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008705422&plink=ORI&cooper=NAVER)
 <!-- /agent:stances -->

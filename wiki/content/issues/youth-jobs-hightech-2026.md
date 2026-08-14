@@ -140,9 +140,7 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [권창준](/people/gwon-chang-jun) — **중립**: 국제기능올림픽 선수단 결단식에서 숙련기술 인재 육성과 청년 기술역량의 중요성을 부각했다. [출처](https://www.newsis.com/view/NISX20260811_0003744128)
 - [구윤철](/people/gu-yun-cheol) — **지지**: 정부가 청년 일자리 회복 방안을 조속히 발표하고 제조·건설업 맞춤형 고용 대책을 마련하겠다고 밝혔다. [출처](http://www.newsfc.co.kr/news/articleView.html?idxno=80496)
 - [신정훈](/people/sin-jeong-hun) — **지지**: 호남권 반도체 산업의 지역 인재 육성을 위해 공장 건설 단계부터 인력 양성이 준비돼야 한다고 주문했다. [출처](https://www.ilyoseoul.co.kr/news/articleView.html?idxno=521174)
-- [최대호](/people/choe-tae-ho) — **지지**: 좋은 일자리와 주거, 생활환경을 함께 강화해 청년과 신혼부부가 선택하는 도시 경쟁력을 높이겠다고 밝혔다. [출처](https://www.kmaeil.com/news/articleView.html?idxno=648560)
+- [최대호](/people/choe-dae-ho) — **지지**: 좋은 일자리와 주거, 생활환경을 함께 강화해 청년과 신혼부부가 선택하는 도시 경쟁력을 높이겠다고 밝혔다. [출처](https://www.kmaeil.com/news/articleView.html?idxno=648560)
 - [최현덕](/people/choe-hyeon-deok) — **지지**: 기업 현장의 채용 수요를 점검하고 왕숙 도시첨단산업단지와 연계한 기업 성장 기반 마련을 약속했다. [출처](https://www.ajunews.com/view/20260814113059110)
 - [구윤철](/people/gu-yun-cheol) — **반대**: 청년 실업을 공공기관·정책의 성과만으로 포장할 수 없다는 맥락에서 청년고용 부진을 우려하며 적극 대응을 촉구했다. [출처](https://www.heraldcorp.com/article/10841199)
-- [한보형](/people/han-bo-hyeong) — **지지**: 삼성전자 반도체의 AI 전환을 위해 딥러닝·비전 AI 전문역량을 제공했다. [출처](https://www.segye.com/newsView/20260814509728?OutUrl=naver)
-- [한태린](/people/han-tae-rin) — **지지**: 삼성전자 반도체의 AX 가속을 위해 데이터 엔지니어링 전문역량을 제공했다. [출처](https://www.segye.com/newsView/20260814509728?OutUrl=naver)
 <!-- /agent:stances -->

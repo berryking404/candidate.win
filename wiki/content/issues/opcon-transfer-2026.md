@@ -42,6 +42,4 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - [이재명](/people/i-jae-myeong) — **지지**: 임기 내 전시작전통제권을 조기에 환수하겠다는 의지를 재차 밝혔다. [출처](https://www.ytn.co.kr/_ln/0101_202608052253405470)
 - [이두희](/people/i-du-hui) — **지지**: SCM에서 FOC 검증과 전작권 회복 시기 결정을 추진하겠다고 강조했다. [출처](https://www.munhwa.com/article/11607547?ref=naver)
 - [안규백](/people/an-gyu-baek) — **지지**: UFS를 통해 전작권 전환 조건 충족 여부를 평가하고, 하반기 SCM에서 FOC 검증과 전작권 회복 시기 결정을 추진하겠다고 밝혔다. [출처](https://www.segye.com/newsView/20260811519208?OutUrl=naver)
-- [유엔사](/people/yu-en-sa) — **중립**: 유엔사의 경비·정전집행 기능 강화가 전작권 전환을 앞두고 한국 측과의 협의 문제로 논란이 되고 있다. [출처](https://www.hankyung.com/article/2026081301121)
-- [국방부](/people/gukbangbu) — **중립**: 올해 전시작전통제권 환수를 추진하는 과정에서 유엔사와의 마찰이 빚어졌다고 보도됐다. [출처](https://www.hankyung.com/article/2026081301121)
 <!-- /agent:stances -->

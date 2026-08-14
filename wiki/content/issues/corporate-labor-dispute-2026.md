@@ -53,5 +53,4 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [최승호](/people/choe-seung-ho) — **지지**: 삼성전자 초기업노조가 SK하이닉스 통합노조와 연대·공동 성명을 검토하며 노사 현안 대응에 협력했다. [출처](https://www.etoday.co.kr/news/view/2613669)
 - [최승호](/people/choe-seung-ho) — **혼합**: 호남 반도체 클러스터 투자 의제와 관련해 노조가 경영상 결정에 개입할 수 있다는 논란의 계기가 됐다. [출처](https://www.eroun.net/news/articleView.html?idxno=87486)
 - [최승호](/people/choe-seung-ho) — **중립**: 삼성전자 노조가 호남 반도체 클러스터 투자 문제를 교섭 의제로 볼 수 있다고 설명했지만, 메가프로젝트 자체에는 반대하지 않는다고 선을 그었다. [출처](https://www.hani.co.kr/arti/society/labor/1272758.html)
-- [삼성바이오로직스](/people/samsung-bio) — **혼합**: 임금 인상과 성과급 배분 요구로 전면 파업을 벌였지만, 이후 노동위원회 사후조정 절차에 합의해 교섭 재개 국면으로 전환했다. [출처](http://www.newstomato.com/ReadNews.aspx?no=1310327&inflow=N)
 <!-- /agent:stances -->

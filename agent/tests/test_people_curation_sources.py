@@ -142,3 +142,25 @@ def test_ssot_slug_alignment_no_orphan_people_pages():
     wiki_slugs = {p.stem for p in WIKI_DIR.glob("*.md") if p.stem != "_index"}
     assert not (wiki_slugs - yaml_slugs), sorted(wiki_slugs - yaml_slugs)[:20]
     assert not (yaml_slugs - wiki_slugs), sorted(yaml_slugs - wiki_slugs)[:20]
+
+
+def test_issue_stance_people_links_resolve_to_ssot():
+    """Publication hygiene: stance bullets must point at yaml+wiki people slugs."""
+    import re
+
+    yaml_slugs = {p.stem for p in PEOPLE_DIR.glob("*.yaml")}
+    wiki_slugs = {p.stem for p in WIKI_DIR.glob("*.md") if p.stem != "_index"}
+    issues_dir = ROOT / "wiki" / "content" / "issues"
+    line_re = re.compile(r"\[([^\]]+)\]\(/people/([a-z0-9-]+)\)")
+    block_re = re.compile(r"<!--\s*agent:stances\s*-->(.*?)<!--\s*/agent:stances\s*-->", re.S)
+    broken: list[str] = []
+    for md in sorted(issues_dir.glob("*.md")):
+        if md.stem == "_index":
+            continue
+        text = md.read_text(encoding="utf-8")
+        match = block_re.search(text)
+        body = match.group(1) if match else text
+        for name, slug in line_re.findall(body):
+            if slug not in yaml_slugs or slug not in wiki_slugs:
+                broken.append(f"{md.stem}:{name}:{slug}")
+    assert broken == [], broken[:20]
