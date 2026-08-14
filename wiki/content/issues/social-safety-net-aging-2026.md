@@ -153,4 +153,10 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [김원기](/people/gim-won-gi) — **지지**: 폭염 속 어르신이 지역 돌봄으로 건강을 회복한 사례를 언급하며 지역사회 돌봄의 중요성을 보여줬다. [출처](http://www.weeklytoday.com/news/articleView.html?idxno=790196)
 - [김중남](/people/gim-jung-nam) — **지지**: 노인복지 발전방안을 논의하며 지역 노인복지 강화 의제를 다뤘다. [출처](https://www.100ssd.co.kr/news/articleView.html?idxno=211815)
 - [김영훈](/people/gim-yeong-hun) — **지지**: 노동법과 사회보험 밖 노동자 보호, 고용보험 확대를 통해 사각지대를 줄이겠다고 밝혔다. [출처](https://www.naeil.com/news/read/598539?ref=naver)
+- [이준호](/people/i-jun-ho) — **지지**: 고독사 위기가구를 선제 발굴하고 촘촘한 사회안전망을 구축하는 간담회에 참석했다. [출처](https://www.pressian.com/pages/articles/2026081411303495370?utm_source=naver&utm_medium=search)
+- [유찬종](/people/yu-chan-jong) — **지지**: 취약계층의 반려동물 돌봄 부담을 줄이기 위한 통합 지원 서비스를 추진했다. [출처](https://www.cnbizm.com/news/articleView.html?idxno=311625)
+- [오유경](/people/o-yu-gyeong) — **지지**: 어르신 대상 식의약 안전교육을 직접 진행하며 고령층 피해 차단에 나섰다. [출처](https://www.news1.kr/bio/welfare-medical/6259178)
+- [서강석](/people/seo-gang-seok) — **지지**: 어린이집·학원 종사자 안전교육 확대를 통해 촘촘한 사회안전망 구축을 강조했다. [출처](https://www.cnbizm.com/news/articleView.html?idxno=311561)
+- [강두식](/people/gang-du-sik) — **지지**: 폭염 취약 노인과 농업인을 현장 중심으로 보호하는 촘촘한 사회안전망 구축을 강조했다. [출처](https://www.tournews21.com/news/articleView.html?idxno=141000)
+- [조용익](/people/jo-yong-ik) — **지지**: 말복 맞이 배식 봉사로 지역 어르신들의 건강한 여름나기를 지원했다. [출처](https://www.m-i.kr/news/articleView.html?idxno=1402457)
 <!-- /agent:stances -->
