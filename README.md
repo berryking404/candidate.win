@@ -47,6 +47,8 @@ hugo server -D
 # → http://localhost:1313
 ```
 
+본문 마크다운의 `[출처](https://…)` 와 오늘의 화제 외부 URL은 새 탭에서 열린다 (`wiki/layouts/_markup/render-link.html`). `/people/`, `/issues/` 같은 위키 내부 링크는 같은 탭을 유지한다.
+
 ## Agent 실행
 
 ```bash

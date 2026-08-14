@@ -10,6 +10,7 @@
 - [x] 예시 인물 페이지 수동 작성 — `wiki/content/people/lee-jae-myung.md`
 - [x] 예시 이슈 페이지 수동 작성 — `wiki/content/issues/real-estate-tax-2026.md`
 - [x] GitHub Pages 배포 자동화 — `.github/workflows/deploy.yml` (Hugo 0.161.0, actions/deploy-pages)
+- [x] 외부 출처 링크 새 탭 — `wiki/layouts/_markup/render-link.html` (내부 `/people/`·`/issues/` 는 같은 탭)
 
 ## Phase 2 — Crawler MVP & Tier 0/1 전처리
 
