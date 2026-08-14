@@ -182,4 +182,9 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [오세희](/people/o-se-hui) — **반대**: 대형 유통 규제 완화 논의가 현실화되면 골목상권과 전통시장에 심각한 타격이 될 수 있다고 주장했다. [출처](https://www.joongang.co.kr/article/25453032)
 - [한병도](/people/han-byeong-do) — **지지**: 홈플러스 재개장 이후 고용 안정과 협력업체 피해 회복을 포함한 정상화 지원을 당 차원에서 계속하겠다고 밝혔다. [출처](https://www.cbci.co.kr/news/articleView.html?idxno=597878)
 - [전현영](/people/jeon-hyeon-yeong) — **지지**: 상권진흥센터 간담회에서 지역 상인 의견을 바탕으로 상권 지원사업을 추진하겠다고 밝혔다. [출처](https://www.newspim.com/news/view/20260813000662)
+- [소상공인시장진흥공단](/people/so-sang-gong-in-sijang-jinheung-gongdan) — **지지**: AI를 활용한 내부 업무혁신과 소상공인 지원 서비스 고도화로 지원 체계를 강화했다. [출처](https://www.munhwa.com/article/11609629?ref=naver)
+- [태안군](/people/tae-an-gun) — **지지**: 지역 사랑 휴가 지원 시범 사업을 통해 지역 소상공인 매출 증가와 생활인구 확대를 기대했다. [출처](http://news.lghellovision.net/news/articleView.html?idxno=551050)
+- [김학홍](/people/gim-hak-hong) — **지지**: 민생 회복을 위해 고유가 위기 대응 지원금을 지급해 골목상권 활성화의 마중물을 만들겠다고 밝혔다. [출처](https://www.hankookilbo.com/news/article/A2026081409390000785?did=NA)
+- [김선옥](/people/gim-seon-ok) — **지지**: 소상공인 건의 사항이 정책과 예산에 반영되도록 점검하겠다고 말했다. [출처](https://www.newsis.com/view/NISX20260814_0003749025)
+- [이수희](/people/i-su-hui) — **지지**: 전통시장에 쿨링 포그를 설치해 시장 이용 편의와 지역 상권 활성화를 뒷받침했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3664718)
 <!-- /agent:stances -->
