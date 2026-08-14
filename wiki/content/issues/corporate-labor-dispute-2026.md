@@ -52,4 +52,5 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [이재명](/people/i-jae-myeong) — **반대**: 삼성전자 노조의 광주반도체 공장 투자 교섭 주장에 대해 분쟁이 끝이 없어진다며 엄격한 대응 필요성을 시사했다. [출처](https://www.munhwa.com/article/11608689?ref=naver)
 - [최승호](/people/choe-seung-ho) — **지지**: 삼성전자 초기업노조가 SK하이닉스 통합노조와 연대·공동 성명을 검토하며 노사 현안 대응에 협력했다. [출처](https://www.etoday.co.kr/news/view/2613669)
 - [최승호](/people/choe-seung-ho) — **혼합**: 호남 반도체 클러스터 투자 의제와 관련해 노조가 경영상 결정에 개입할 수 있다는 논란의 계기가 됐다. [출처](https://www.eroun.net/news/articleView.html?idxno=87486)
+- [최승호](/people/choe-seung-ho) — **중립**: 삼성전자 노조가 호남 반도체 클러스터 투자 문제를 교섭 의제로 볼 수 있다고 설명했지만, 메가프로젝트 자체에는 반대하지 않는다고 선을 그었다. [출처](https://www.hani.co.kr/arti/society/labor/1272758.html)
 <!-- /agent:stances -->
