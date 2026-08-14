@@ -214,4 +214,7 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [강경숙](/people/gang-gyeong-suk) — **지지**: 전북의 지역균형발전을 국가적 큰 목표로 삼고 선봉에 서겠다고 밝혔다. [출처](https://www.news1.kr/local/jeonbuk/6257961)
 - [김윤덕](/people/gim-yun-deok) — **지지**: 수도권 공급 확대와 함께 지방정부·서울시와의 협의를 언급하며 주택·지역 현안 해결을 추진했다. [출처](https://www.newsway.co.kr/news/view?ud=2026081311395199483)
 - [주낙영](/people/ju-nak-yeong) — **지지**: 공공기관 이전을 국가균형발전과 지역 특화산업 성장의 프로젝트로 규정하며 유치에 나섰다. [출처](https://www.nocutnews.co.kr/news/6562304?utm_source=naver&utm_medium=article&utm_campaign=20260813102916)
+- [최승환](/people/choe-seung-hwan) — **지지**: 지방 소도시 공원 시설과 정원 복지를 통해 지방소멸 위기를 극복하자는 사업 취지를 밝혔다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260814010004873)
+- [한득수](/people/han-deuk-su) — **지지**: 임실군의 지방소멸·인구감소 대응 중장기 청사진 마련을 주도했다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260814010004935)
+- [민경선](/people/min-gyeong-seon) — **지지**: 수도권 서북부 교통난 해소와 지역 균형발전을 위해 광역철도망 구축 지원을 요청했다. [출처](https://www.newsfreezone.co.kr/news/articleView.html?idxno=704080)
 <!-- /agent:stances -->
