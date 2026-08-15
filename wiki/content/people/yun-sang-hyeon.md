@@ -18,4 +18,5 @@ party: 국민의힘
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **반대**: 선관위에 상근직 위원장과 내부 감사위 도입 등을 주장하며 선거관리 체계 전반의 개혁을 요구했다. [출처](https://www.newsis.com/view/NISX20260622_0003678333)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **지지**: 투표용지 부족 사태를 민주주의 훼손 사안으로 보고 국정조사와 선거관리 개혁을 요구했다. [출처](https://www.munhwa.com/article/11600106?ref=naver)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 2차 종합특검의 체포방해 기소를 '정치적 망신을 주기 위한 억지기소'라고 반발했다. [출처](https://www.google.com/search?q=2026.7.1+국민의힘+나경원+김기현+특검+기소)
+- [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **반대**: 민생이 어려운 시점에 개헌을 띄우는 것은 정치적 국면전환이라고 비판했다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/08/15/2026081590021.html)
 <!-- /agent:stances -->
