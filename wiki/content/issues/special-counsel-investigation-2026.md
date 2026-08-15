@@ -64,5 +64,4 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [우재준](/people/u-jae-jun) — **반대**: 한동훈의 탄핵 찬성 전력을 비판하며 탄핵 찬성 자체를 문제 삼는 태도를 보였다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/08/12/2026081290109.html)
 - [박종준](/people/bak-jong-jun) — **미확인**: 비화폰 통화 내역 원격 삭제 혐의 항소심이 보도됐다. [출처](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545115)
 - [김민석](/people/gim-min-seok) — **중립**: 조작기소·공소취소와 특검의 역할을 언급하며 제도적 문제를 거론했다. [출처](https://imnews.imbc.com/news/2026/politics/article/6844603_36911.html)
-- [명태균](/people/myeong-tae-gyun) — **반대**: 공천 개입·명태균 게이트 관련 특검 수사의 핵심 인물로 거론됐다. [출처](https://www.chosun.com/opinion/editorial/2026/08/15/XTRKS5EKZFETJEYCWOJ7NNBII4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
 <!-- /agent:stances -->

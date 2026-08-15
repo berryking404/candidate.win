@@ -66,11 +66,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [김문수](/people/gim-mun-su) — **중립**: 후보 배우자를 둘러싼 가부장적 발언 논란 속에서 성차별 논쟁의 맥락에 놓였다. [출처](https://www.hani.co.kr/arti/society/women/1271942.html)
 - [김지수](/people/gim-ji-su) — **중립**: 젠더 갈등 완화를 위한 청년 공존·공감 네트워크 운영 맥락에서 언급됐다. [출처](https://www.yna.co.kr/view/AKR20260610035500530?input=1195m)
 - 미확인 기록 없음
-- [이준석](/people/lee-junseok) — **혼합**: 젠더 갈등을 둘러싼 정치적 논쟁에서 성별 갈등을 조장했다는 비판과 반대 진영의 문제 제기가 함께 언급됐다. [출처](https://www.ibabynews.com/news/articleView.html?idxno=153710)
-- [윤석열](/people/yoon-sukyeol) — **중립**: 제공된 기사에서는 젠더 갈등 관련 맥락 속에서 정부가 거론됐지만, 구체적 입장은 확인되지 않았다. [출처](https://www.ibabynews.com/news/articleView.html?idxno=153710)
-- [배인규](/people/bae-in-gyu) — **중립**: 신남성연대와 젠더 갈등의 확산 맥락에서 언급됐으나, 이슈에 대한 직접 입장은 기사에서 명확히 드러나지 않았다. [출처](http://weekly.chosun.com/news/articleView.html?idxno=54304)
-- [WNBPA](/people/wnbpa) — **지지**: 트랜스젠더를 포함한 개인이나 집단을 향한 혐오와 괴롭힘을 규탄하며 다양성과 포용성을 지지했다. [출처](https://www.newsis.com/view/NISX20260814_0003749868)
-- [국가인권위원회](/people/national-human-rights-commission) — **지지**: 여성에게만 수건·비누 요금을 부과하는 관행이 성차별이라는 판단을 내렸다. [출처](https://biz.sbs.co.kr/article_hub/20000328809?division=NAVER)
-- [이진](/people/lee-jin) — **중립**: 캣맘 논쟁에 젠더 문제가 얽혀 있다는 맥락에서 학계 인사로 언급됐으나, 이슈에 대한 직접 입장은 확인되지 않았다. [출처](https://www.chosun.com/national/weekend/2026/08/15/BNCZ7WPQ2RBJPDMQALDTYSZ6EM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
-- [김학순](/people/kim-haksun) — **지지**: 일본군 위안부 문제를 여성 인권과 평화의 문제로 기억하고 혐오를 경계하자는 맥락에서 언급됐다. [출처](https://www.dandinews.com/news/articleView.html?idxno=17335)
+- [이준석](/people/i-jun-seok) — **혼합**: 젠더 갈등을 둘러싼 정치적 논쟁에서 성별 갈등을 조장했다는 비판과 반대 진영의 문제 제기가 함께 언급됐다. [출처](https://www.ibabynews.com/news/articleView.html?idxno=153710)
 <!-- /agent:stances -->

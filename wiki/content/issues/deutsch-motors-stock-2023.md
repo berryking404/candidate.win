@@ -31,6 +31,4 @@ summary: 도이치모터스 주가조작 사건과 김건희 여사 연루 논�
 - [이준수](/people/i-jun-su) — **반대**: 도이치모터스 주가조작 사건 공범으로 기소돼 대법원에서 징역형 집행유예가 확정됐다. [출처](https://www.ytn.co.kr/_ln/0103_202608131126572318)
 - [조희대](/people/jo-hui-dae) — **중립**: 도이치모터스 사건의 상고심을 심리하는 대법원장으로 관련 재판 절차의 중심에 있었다. [출처](https://www.hani.co.kr/arti/society/society_general/1273028.html)
 - [민중기](/people/min-jung-gi) — **중립**: 김건희 특검을 이끄는 특별검사로 도이치모터스 관련 수사·의견서 제출을 주도했다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260814190114RLj)
-- [이은우](/people/i-eun-u) — **중립**: 도이치모터스와 직접 관련 없는 다른 특검 수사 보도에서 함께 거론됐다. [출처](https://www.hani.co.kr/arti/society/society_general/1273028.html)
-- [윤상현](/people/yun-sang-hyeon) — **중립**: 김건희·윤석열 관련 종합특검 수사 보도에서 함께 거론됐다. [출처](https://www.incheontoday.com/news/articleView.html?idxno=322398)
 <!-- /agent:stances -->

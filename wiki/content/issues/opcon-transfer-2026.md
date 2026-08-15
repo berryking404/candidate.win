@@ -44,7 +44,4 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - [안규백](/people/an-gyu-baek) — **지지**: UFS를 통해 전작권 전환 조건 충족 여부를 평가하고, 하반기 SCM에서 FOC 검증과 전작권 회복 시기 결정을 추진하겠다고 밝혔다. [출처](https://www.segye.com/newsView/20260811519208?OutUrl=naver)
 - [노무현](/people/no-mu-hyeon) — **지지**: 전작권 환수를 국가 주권을 바로 세우는 과정이라고 규정하며 헌법정신과 한국군 위상에 부합하는 조치라고 설명했다. [출처](https://www.jeonmae.co.kr/news/articleView.html?idxno=1284173)
 - [김두환](/people/gim-du-hwan) — **지지**: 전작권의 조건 없는 즉각 환수와 미국의 내정간섭 중단, 한반도 전쟁기지화 반대를 요구하는 연속 행동을 취재했다. [출처](http://www.tongilnews.com/news/articleView.html?idxno=217216)
-- [전국시국회의](/people/jeongug-sigughui) — **지지**: 전시작전통제권의 조속한 환수와 한미동맹의 대등한 관계로의 재정립을 요구했다. [출처](https://www.ngonews.kr/news/articleView.html?idxno=235590)
-- [기고자](/people/gi-goja) — **반대**: 전작권 전환은 조건 충족과 검증이 선행돼야 하며 정치 일정에 따라 서둘러서는 안 된다고 주장했다. [출처](https://www.munhwa.com/article/11609740?ref=naver)
-- [유엔군사령부](/people/yuengunsaryeongbu) — **미확인**: DMZ 관리를 위한 새 여단급 조직 추진이 전작권 전환·미래연합사 관련 한미 소통과 합의에 대한 우려로 이어지고 있다. [출처](https://www.ytn.co.kr/_ln/0101_202608150524091992)
 <!-- /agent:stances -->

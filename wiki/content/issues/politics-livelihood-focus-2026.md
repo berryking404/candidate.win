@@ -174,6 +174,5 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [한병도](/people/han-byeong-do) — **지지**: 주택 공급과 민생법안 처리를 위해 국회가 정쟁을 멈추고 본회의를 열어야 한다고 촉구했다. [출처](https://www.todaykorea.co.kr/news/articleView.html?idxno=404886)
 - [박충권](/people/bak-chung-gwon) — **반대**: 정부의 개헌·국정기조를 겨냥해 ‘민생 도탄’이라는 표현으로 비판하며 정권의 민생 집중에 회의적 입장을 드러냈다. [출처](https://www.newspim.com/news/view/20260814000221)
 - [오세훈](/people/o-se-hun) — **혼합**: 주거 문제를 가장 절박한 민생으로 언급하며 공급 확대를 요구했지만, 정부 공급대책에는 규제 개선이 더 과감해야 한다고 비판했다. [출처](https://biz.heraldcorp.com/article/10841515?ref=naver)
-- [국민의힘](/people/gukminui-him) — **반대**: 대통령과 여권이 민생보다 개헌·정쟁에 치우쳤다고 비판하며 민생 도탄을 문제 삼았다. [출처](https://www.newspim.com/news/view/20260814000221)
 - [윤상현](/people/yun-sang-hyeon) — **반대**: 민생이 어려운데 개헌을 띄우는 것은 국면전환용이라고 비판했다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/08/15/2026081590021.html)
 <!-- /agent:stances -->
