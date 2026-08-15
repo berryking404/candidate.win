@@ -184,4 +184,10 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [전현영](/people/jeon-hyeon-yeong) — **지지**: 상권진흥센터 간담회에서 지역 상인 의견을 바탕으로 상권 지원사업을 추진하겠다고 밝혔다. [출처](https://www.newspim.com/news/view/20260813000662)
 - [손훈모](/people/son-hun-mo) — **지지**: 역전시장을 찾아 상인들과 상권 활성화 방안을 논의하고 폭염으로 위축된 지역 상권 회복을 모색했다. [출처](https://view.asiae.co.kr/article/2026081413404814122)
 - [안병윤](/people/an-byeong-yun) — **지지**: 주차난과 상권 활성화, 관광자원 활용을 통한 지역 활력 제고 방안을 주민들과 논의했다. [출처](https://www.yeongnam.com/web/view.php?key=20260814024232204)
+- [이승로](/people/i-seung-ro) — **지지**: 홈플러스 월곡점 재개장 현장을 점검하며 전통시장·골목상권과의 상생 협력을 강조했다. [출처](https://www.newsis.com/view/NISX20260814_0003750279)
+- [박형우](/people/bak-hyeong-u) — **지지**: 홈플러스 작전점 재개장 현장을 찾아 지역 소비 활성화와 상권 회복을 응원했다. [출처](https://www.wikitree.co.kr/articles/1152647)
+- [이성복](/people/i-seong-bok) — **중립**: 관련 기사에서 동네마트와 중소유통업계의 현장 목소리를 청취하며 상권 지원 방향을 논의했다. [출처](https://www.tournews21.com/news/articleView.html?idxno=141117)
+- [조재구](/people/jo-jae-gu) — **지지**: 대구 남구의 골목형상점가 추가 지정을 통해 온누리상품권 가맹 사각지대를 줄이고 골목상권 경쟁력 강화를 추진했다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=06605926645547320)
+- [이충우](/people/i-chung-u) — **지지**: 여주 고유 음식문화와 관광을 연계해 체류시간과 지역 농산물 소비, 상권 활성화를 함께 높이겠다고 밝혔다. [출처](http://www.beyondpost.co.kr/view.php?ud=2026081420382380994c878f8fa1_30)
+- [문경시](/people/mun-gyeong-si) — **미확인**: 전 시민 1인당 25만 원 지급을 통해 골목상권과 소상공인에 온기를 불어넣는 정책을 추진했다. [출처](http://news.lghellovision.net/news/articleView.html?idxno=551244)
 <!-- /agent:stances -->
