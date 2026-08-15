@@ -159,4 +159,5 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [서강석](/people/seo-gang-seok) — **지지**: 어린이집·학원 종사자 안전교육 확대를 통해 촘촘한 사회안전망 구축을 강조했다. [출처](https://www.cnbizm.com/news/articleView.html?idxno=311561)
 - [강두식](/people/gang-du-sik) — **지지**: 폭염 취약 노인과 농업인을 현장 중심으로 보호하는 촘촘한 사회안전망 구축을 강조했다. [출처](https://www.tournews21.com/news/articleView.html?idxno=141000)
 - [조용익](/people/jo-yong-ik) — **지지**: 말복 맞이 배식 봉사로 지역 어르신들의 건강한 여름나기를 지원했다. [출처](https://www.m-i.kr/news/articleView.html?idxno=1402457)
+- [남영희](/people/unknown) — **지지**: 자살 예방과 지역사회 안전망 강화를 위해 현장을 더 세밀히 살피고 촘촘한 안전망이 필요하다고 강조했다. [출처](https://www.incheonilbo.com/news/articleView.html?idxno=1329667)
 <!-- /agent:stances -->
