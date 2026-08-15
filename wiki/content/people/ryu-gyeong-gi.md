@@ -2,7 +2,7 @@
 title: 류경기
 slug: ryu-gyeong-gi
 role: 중랑구청장
-status: stub
+status: curated
 ---
 
 ## 행적

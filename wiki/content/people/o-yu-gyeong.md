@@ -2,7 +2,7 @@
 title: 오유경
 slug: o-yu-gyeong
 role: 식품의약품안전처장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -3,7 +3,7 @@ name_ko: 서강석
 name_en: null
 party: null
 role: 송파구청장
-status: stub
+status: curated
 aliases:
 - 서강석
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 서강석
   youtube_channels: []
+  official_urls:
+  - https://www.songpa.go.kr/chief/contents.do?key=3723

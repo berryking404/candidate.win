@@ -1,8 +1,8 @@
 ---
 title: 이준호
 slug: i-jun-ho
-role: 부시장
-status: stub
+role: 태백시 부시장
+status: curated
 ---
 
 ## 행적

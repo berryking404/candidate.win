@@ -3,7 +3,7 @@ name_ko: 이시원
 name_en: null
 party: null
 role: 전 대통령실 공직기강비서관
-status: stub
+status: curated
 aliases:
 - 이시원
 discovered_via_issue: comprehensive-special-counsel-probes-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이시원
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260813154900004

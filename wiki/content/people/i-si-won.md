@@ -2,7 +2,7 @@
 title: 이시원
 slug: i-si-won
 role: 전 대통령실 공직기강비서관
-status: stub
+status: curated
 ---
 
 ## 행적

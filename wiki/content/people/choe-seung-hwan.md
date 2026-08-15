@@ -2,7 +2,7 @@
 title: 최승환
 slug: choe-seung-hwan
 role: 충북도 문화체육관광국장
-status: stub
+status: curated
 ---
 
 ## 행적

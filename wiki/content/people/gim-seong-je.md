@@ -2,7 +2,7 @@
 title: 김성제
 slug: gim-seong-je
 role: 의왕시장, 경기중부권행정협의회장
-status: stub
+status: curated
 ---
 
 ## 행적

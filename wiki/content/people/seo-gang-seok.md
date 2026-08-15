@@ -2,7 +2,7 @@
 title: 서강석
 slug: seo-gang-seok
 role: 송파구청장
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 이은우
 slug: i-eun-u
 role: 전 KTV 원장
-status: stub
+status: curated
 ---
 
 ## 행적

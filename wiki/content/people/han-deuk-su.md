@@ -2,7 +2,7 @@
 title: 한득수
 slug: han-deuk-su
 role: 임실군수
-status: stub
+status: curated
 ---
 
 ## 행적

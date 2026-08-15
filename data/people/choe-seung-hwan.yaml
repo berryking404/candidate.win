@@ -3,7 +3,7 @@ name_ko: 최승환
 name_en: null
 party: null
 role: 충북도 문화체육관광국장
-status: stub
+status: curated
 aliases:
 - 최승환
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최승환
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260701142300064
