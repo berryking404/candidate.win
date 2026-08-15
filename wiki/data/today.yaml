@@ -1,41 +1,100 @@
-generated_at: '2026-08-14T23:03:56+00:00'
-source_date: 2026-08-14T230343Z
+generated_at: '2026-08-15T23:03:34+00:00'
+source_date: 2026-08-15T230327Z
 window_hours: 72
 items:
 - rank: 1
-  title: 국민의힘, 이진숙 5·18 토론회 논란에 부적절…징계는 내부 논의
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 17건, 매체 14곳에서 확인된 공적 쟁점입니다.
+  title: '''5·18 폄훼'' 논란 이진숙 의원 ''규탄·제명 촉구'' 전국 확산...민주화운동단체들 “헌법 정신·민주주의 뿌리 짓밟아,
+    국회의원 자격 없어"'
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 17
-    outlet_count: 14
-    public_actor: 국민의힘, 의원
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회, 의원
   sources:
-  - title: '''5·18 토론회'' 이진숙 제명 촉구…당내서도 ''눈총'''
-    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008706495&plink=ORI&cooper=NAVER
-  - title: '"물러나라" 이진숙 제명 촉구…국힘서도 비판 목소리'
-    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008706273&plink=ORI&cooper=NAVER
-  - title: 징계해, 말아…'5·18 폄훼' 논란 앞 장동혁 '이진숙 딜레마'
-    url: https://www.sisajournal.com/news/articleView.html?idxno=383712
+  - title: '''5·18 폄훼'' 논란 이진숙 의원 ''규탄·제명 촉구'' 전국 확산...민주화운...'
+    url: http://www.jbsori.com/news/articleView.html?idxno=17743
 - rank: 2
-  title: 정부·통신사업자, 불법스팸 대응 점검…추석 앞두고 차단 강화
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 13건, 매체 13곳에서 확인된 공적 쟁점입니다.
+  title: 박근혜 前대통령도 털렸다...서강대 개인정보 18만건 유출
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 13
-    outlet_count: 13
-    public_actor: 정부
+    news_count: 3
+    outlet_count: 3
+    public_actor: 확인 중
   sources:
-  - title: 정부·이통3사, 무효번호·해외발 스팸 막는다
-    url: https://zdnet.co.kr/view/?no=20260814173332
-  - title: 정부, 추석 연휴 앞두고 불법스팸 대응 현황 점검
-    url: https://www.itdaily.kr/news/articleView.html?idxno=241024
-  - title: 정부·이통3사, 불법스팸 차단 강화 나선다
-    url: https://www.dailian.co.kr/news/view/1678694/?sc=Naver
+  - title: '"박근혜 前대통령도 유출 대상"…서강대 18만명 개인정보 털렸다'
+    url: https://www.imaeil.com/page/view/2026081606454827805
+  - title: 박근혜 前대통령도 털렸다...서강대 개인정보 18만건 유출
+    url: http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608150578&t=NN
+  - title: 박근혜 前 대통령도 털렸다... 서강대 개인정보 18만건 유출
+    url: https://www.chosun.com/national/national_general/2026/08/15/2NGHGRIHXRGMLP7HHFYJSYJBGY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 - rank: 3
-  title: '[뉴스1 PICK]이진숙 ‘5·18 포럼’ 연일 논란…민주당, 제명 촉구 결의안 제출'
+  title: '"박근혜 前대통령도 유출 대상"…서강대 18만명 개인정보 털렸다'
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 10건, 매체 9곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 10
+    outlet_count: 9
+    public_actor: 확인 중
+  sources:
+  - title: '[천지일보 이슈종합] 김민석 과반 누적득표율·李 ''종전 논의'' 다자협의...'
+    url: https://www.newscj.com/news/articleView.html?idxno=3425488
+  - title: '"박근혜 前대통령도 유출 대상"…서강대 18만명 개인정보 털렸다'
+    url: https://www.imaeil.com/page/view/2026081606454827805
+  - title: 박근혜 前대통령도 포함된 듯…서강대 개인정보 18만건 유출 사태
+    url: https://www.dailian.co.kr/news/view/1678875/?sc=Naver
+- rank: 4
+  title: 서강대 개인정보 18만건 유출…박근혜 전 대통령 포함
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 16
+    public_actor: 확인 중
+  sources:
+  - title: 서강대 개인정보 18만 건 유출…사흘 간 속수무책으로 ‘탈탈’
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638151&ref=A
+  - title: '[천지일보 이슈종합] 김민석 과반 누적득표율·李 ''종전 논의'' 다자협의...'
+    url: https://www.newscj.com/news/articleView.html?idxno=3425488
+  - title: '"박근혜 前대통령도 유출 대상"…서강대 18만명 개인정보 털렸다'
+    url: https://www.imaeil.com/page/view/2026081606454827805
+- rank: 5
+  title: 서강대 개인정보 18만건 유출…박근혜 前대통령도 포함된듯(종합)
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 3건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 2
+    public_actor: 확인 중
+  sources:
+  - title: '[천지일보 이슈종합] 김민석 과반 누적득표율·李 ''종전 논의'' 다자협의...'
+    url: https://www.newscj.com/news/articleView.html?idxno=3425488
+  - title: 서강대 개인정보 18만건 유출… 박근혜 前대통령도 포함된 듯(종합)
+    url: https://www.newscj.com/news/articleView.html?idxno=3425417
+  - title: 서강대 개인정보 18만건 유출…박근혜 前대통령도 포함된듯(종합)
+    url: https://www.yna.co.kr/view/AKR20260815029651004?input=1195m
+- rank: 6
+  title: 서강대, 개인정보 18만건 유출…박근혜 전 대통령도 털린 듯
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 확인 중
+  sources:
+  - title: 서강대, 개인정보 18만건 유출…박근혜 전 대통령도 털린 듯
+    url: https://news.jtbc.co.kr/article/NB12313560?influxDiv=NAVER
+  - title: 박근혜 前대통령도 털린듯…서강대 개인정보 유출에 학생들 ‘부글부글...
+    url: https://biz.heraldcorp.com/article/10842365?ref=naver
+- rank: 7
+  title: '[AI 이슈트렌드] 황정민 스토킹 공판 논란 속 8·13 부동산 대책·민주당 경선 주목'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -44,53 +103,17 @@ items:
     outlet_count: 1
     public_actor: 민주당
   sources:
-  - title: '[뉴스1 PICK]이진숙 ‘5·18 포럼’ 연일 논란…민주당, 제명 촉구 결의...'
-    url: https://www.news1.kr/politics/assembly/6259662
-- rank: 4
-  title: 남부지역 '가뭄' 비상…정부, 대응단 새로 꾸려 총력 대응
+  - title: '[AI 이슈트렌드] 황정민 스토킹 공판 논란 속 8·13 부동산 대책·민주당...'
+    url: https://www.aitimes.com/news/articleView.html?idxno=213995
+- rank: 8
+  title: 국회, 20일 본회의서 패트법 처리 전망…부동산법안 놓고는 전운
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 정부
+    public_actor: 국회
   sources:
-  - title: 남부지역 '가뭄' 비상…정부, 대응단 새로 꾸려 총력 대응
-    url: https://www.nocutnews.co.kr/news/6562882?utm_source=naver&utm_medium=article&utm_campaign=20260814100028
-- rank: 5
-  title: 정부, 이달말 '미래대응기금법 특별법' 입법예고한다
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: 정부, 이달말 '미래대응기금법 특별법' 입법예고한다
-    url: https://www.hankyung.com/article/202608141294i
-- rank: 6
-  title: 정부, 가뭄 대응 지휘체계 격상…남부 현장대응단 가동
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: 정부, 가뭄 대응 지휘체계 격상…남부 현장대응단 가동
-    url: https://www.dailian.co.kr/news/view/1678470/?sc=Naver
-- rank: 7
-  title: 도수치료까지 헌법소원… 정부 정책에 반발해 헌재 찾는 의사들
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: 도수치료까지 헌법소원… 정부 정책에 반발해 헌재 찾는 의사들
-    url: https://health.chosun.com/site/data/html_dir/2026/08/14/2026081402718.html
+  - title: 국회, 20일 본회의서 패트법 처리 전망…부동산법안 놓고는 전운
+    url: https://www.yna.co.kr/view/AKR20260815038400001?input=1195m
