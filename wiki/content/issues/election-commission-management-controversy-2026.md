@@ -136,4 +136,7 @@ summary: 2026년 선거 과정의 투표용지 부족·관리 부실 논란과 �
 - [나경원](/people/na-gyeong-won) — **지지**: 선관위의 부실이 누적되면 부정선거 의혹 검증이 필요하다는 취지로, 가능성을 열어두고 조사해야 한다고 했다. [출처](https://www.pressian.com/pages/articles/2026081116065519517?utm_source=naver&utm_medium=search)
 - [노태악](/people/no-tae-ak) — **중립**: 선관위는 투표용지 부족과 투표 중단 규정 위반은 인정했지만 선거 결과 영향은 없다고 설명했다. [출처](https://www.donga.com/news/Society/article/all/20260812/134461063/2)
 - [위철환](/people/wi-cheol-hwan) — **중립**: 선관위 직무대행으로서 청문회에서 관련 논란에 대응했다. [출처](http://www.queen.co.kr/news/articleView.html?idxno=461586)
+- [장동혁](/people/jang-dong-hyeok) — **혼합**: 선관위 특검과 장외 집회를 주도하며 강경 대응을 이어갔지만, 부정선거 의혹과 관리 부실을 함께 거론해 단일 입장으로 보기 어렵다. [출처](https://www.donga.com/news/Politics/article/all/20260814/134482284/2)
+- [김용민](/people/gim-yong-min) — **지지**: 선관위 개혁을 헌법 개편 의제와 함께 언급하며 제도 개혁 필요성을 제기했다. [출처](https://www.newspim.com/news/view/20260814000902)
+- [정청래](/people/jeong-cheong-rae) — **혼합**: 선관위의 잘못을 강하게 비판했지만, 직접적 제도개혁안보다 당내 선관위 결정과 관련한 반발이 중심이었다. [출처](https://www.pressian.com/pages/articles/2026081411321559648?utm_source=naver&utm_medium=search)
 <!-- /agent:stances -->
