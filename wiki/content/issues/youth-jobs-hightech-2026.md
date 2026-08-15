@@ -143,4 +143,10 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [최대호](/people/choe-dae-ho) — **지지**: 좋은 일자리와 주거, 생활환경을 함께 강화해 청년과 신혼부부가 선택하는 도시 경쟁력을 높이겠다고 밝혔다. [출처](https://www.kmaeil.com/news/articleView.html?idxno=648560)
 - [최현덕](/people/choe-hyeon-deok) — **지지**: 기업 현장의 채용 수요를 점검하고 왕숙 도시첨단산업단지와 연계한 기업 성장 기반 마련을 약속했다. [출처](https://www.ajunews.com/view/20260814113059110)
 - [구윤철](/people/gu-yun-cheol) — **반대**: 청년 실업을 공공기관·정책의 성과만으로 포장할 수 없다는 맥락에서 청년고용 부진을 우려하며 적극 대응을 촉구했다. [출처](https://www.heraldcorp.com/article/10841199)
+- [이재명](/people/lee-jaemyung) — **중립**: 광복절 경축사에서 청년의 일자리·미래 불안을 언급하고, 첨단산업 협력과 공급망·에너지 협력을 통해 미래 비전을 강조했다. [출처](http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608150541&t=NN)
+- [김정관](/people/kim-jeonggwan) — **중립**: 반도체 산업 경쟁력을 위해 인재 확보가 중요하다고 언급하며, 첨단산업 인력난 해소 필요성을 강조했다. [출처](https://www.khan.co.kr/article/202608150600061)
+- [배경훈](/people/bae-kyunghun) — **지지**: AI 상용화와 메가 프로젝트를 통해 기술 인재와 산업 인프라를 키워야 한다는 취지로 발언했다. [출처](https://www.nocutnews.co.kr/news/6563388?utm_source=naver&utm_medium=article&utm_campaign=20260815080039)
+- [하정우](/people/ha-jungwoo) — **지지**: 피지컬 AI와 메가프로젝트를 통해 지역을 연결하고 첨단산업 기반을 강화하자고 제안했다. [출처](https://www.pressian.com/pages/articles/2026081417394929831?utm_source=naver&utm_medium=search)
+- [최태원](/people/choi-taewon) — **지지**: 반도체 생태계 구축에 전력·용수·숙련 인재와 협력업체 기반이 필요하다고 강조했다. [출처](https://www.econovill.com/news/articleView.html?idxno=748112)
+- [송영길](/people/song-younggil) — **지지**: 청년 10만 명 해외 경험 지원과 귀국 뒤 창업·취업 연계를 추진하겠다고 밝혔다. [출처](https://mpmbc.co.kr/NewsArticle/1532331)
 <!-- /agent:stances -->
