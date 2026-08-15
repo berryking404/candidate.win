@@ -217,4 +217,8 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [최승환](/people/choe-seung-hwan) — **지지**: 지방 소도시 공원 시설과 정원 복지를 통해 지방소멸 위기를 극복하자는 사업 취지를 밝혔다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260814010004873)
 - [한득수](/people/han-deuk-su) — **지지**: 임실군의 지방소멸·인구감소 대응 중장기 청사진 마련을 주도했다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260814010004935)
 - [민경선](/people/min-gyeong-seon) — **지지**: 수도권 서북부 교통난 해소와 지역 균형발전을 위해 광역철도망 구축 지원을 요청했다. [출처](https://www.newsfreezone.co.kr/news/articleView.html?idxno=704080)
+- [진교훈](/people/jin-gyohun) — **지지**: 공공주택 공급사업을 지역균형발전의 출발점으로 평가하며 추진을 뒷받침했다. [출처](https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608141328159000107)
+- [이인선](/people/i-in-seon) — **혼합**: 지역균형발전 필요성은 강조했지만, 특례 혜택이 수도권에 머무를 수 있다는 우려도 함께 제기했다. [출처](http://www.breaknews.com/1228954)
+- [김성제](/people/gim-seong-je) — **지지**: 신분당선 연장 등 지역 연결성 확충을 통해 지역균형발전을 뒷받침하는 공동건의에 참여했다. [출처](https://www.newsfreezone.co.kr/news/articleView.html?idxno=703519)
+- [한대희](/people/han-dae-hui) — **지지**: 신분당선 연장 공동건의에 참여하며 지역 간 접근성 개선과 균형발전을 강조했다. [출처](https://www.newsfreezone.co.kr/news/articleView.html?idxno=703519)
 <!-- /agent:stances -->
