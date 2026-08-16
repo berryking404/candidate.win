@@ -98,7 +98,4 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - [박완수](/people/bak-wan-su) — **지지**: 장기 가뭄 대응과 함께 에너지전환 및 비용 절감 필요성을 언급했다. [출처](https://www.kukinews.com/article/view/kuk202608110003)
 - [김성제](/people/gim-seong-je) — **중립**: 경기중부권행정협의회에서 집단에너지 냉방요금 지역 간 형평성 확보 등 공공요금 현안 안건을 논의했다. [출처](https://www.news1.kr/local/gyeonggi/6258819)
 - [송영길](/people/song-yeong-gil) — **지지**: 소상공인 전기요금 20만원 지원 제도를 상시화하겠다고 민생 공약으로 제시했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=740044)
-- [전주 아중천 탁구시설 논란 관련 보도](/people/energy-price-inflation-2026) — **중립**: 전기 공급·계량·요금 부담과 비용 처리의 사실관계 확인 필요성이 제기됐습니다. [출처](http://www.hansbiz.co.kr/news/articleView.html?idxno=857188)
-- [한전·가스공사 이자비용 부담](/people/energy-price-inflation-2026) — **반대**: 공공요금 동결과 지역별 차등요금제 논의로 한전의 재무 부담이 커지고 있습니다. [출처](https://www.yna.co.kr/view/AKR20260815016500003?input=1195m)
-- [지역별 전기요금 차등제 공청회](/people/energy-price-inflation-2026) — **지지**: 산업용 전기요금의 지역별 차등 적용 논의가 진행 중입니다. [출처](https://kidd.co.kr/news/247042)
 <!-- /agent:stances -->
