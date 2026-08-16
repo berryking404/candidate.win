@@ -72,4 +72,10 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [임기훈](/people/im-gi-hun) — **중립**: 채해병 수사 방해 의혹 사건에서 함께 불구속 기소됐다는 보도가 있었다. [출처](https://news.jtbc.co.kr/article/NB12313285?influxDiv=NAVER)
 - [이은우](/people/i-eun-u) — **중립**: 내란 선전 혐의 관련 종합특검 사건의 재판이 본격화된다는 보도가 있었다. [출처](https://www.yna.co.kr/view/AKR20260814041951004?input=1195m)
 - [심우정](/people/sim-u-jeong) — **중립**: 내란 가담 의혹과 도이치모터스 수사 무마 의혹으로 추가 압수수색을 받았다는 보도가 있었다. [출처](https://news.tf.co.kr/read/life/2353926.htm)
+- [장동혁](/people/jang-donghyeok) — **지지**: 특검이 의혹을 제대로 수사해야 한다며 수사 필요성을 강조했다. [출처](https://www.ytn.co.kr/_ln/0101_202608160007113199)
+- [한동훈](/people/han-donghun) — **반대**: 특검의 추가 출석·조사 요구에 응하지 않으며 비협조적 태도를 보였다. [출처](https://www.ikbc.co.kr/article/view/kbc202608160010)
+- [박지원](/people/park-jiwon) — **지지**: 특검이 한동훈을 다시 불러 강하게 수사해야 한다고 주장했다. [출처](https://www.ikbc.co.kr/article/view/kbc202608160010)
+- [박상용](/people/park-sangyong) — **반대**: 본인이 특검과 검찰의 장기 조사 대상이 됐다며 자료 공개를 요구했다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=315093)
+- [이재명](/people/lee-jaemyung) — **중립**: 특검·검찰 수사 관련 공방에서 검사 수사 제한 질문에 반박하며 제도 논점을 언급했다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260814010005115)
+- [조은석](/people/jo-eunseok) — **중립**: 특별검사 팀을 이끄는 인물로 기사에 등장했으나 이슈에 대한 직접 입장은 확인되지 않았다. [출처](https://www.news1.kr/society/court-prosecution/6259895)
 <!-- /agent:stances -->
