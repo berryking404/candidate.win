@@ -3,7 +3,7 @@ name_ko: 노무현
 name_en: null
 party: null
 role: 전 대통령
-status: stub
+status: curated
 aliases:
 - 노무현 대통령
 discovered_via_issue: opcon-transfer-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 노무현
   youtube_channels: []
+  official_urls:
+  - https://www.pa.go.kr/online_contents/president/history16.jsp

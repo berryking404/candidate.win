@@ -2,7 +2,7 @@
 title: 노무현
 slug: no-mu-hyeon
 role: 전 대통령
-status: stub
+status: curated
 ---
 
 ## 행적

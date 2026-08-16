@@ -2,7 +2,7 @@
 title: 조희대
 slug: jo-hui-dae
 role: 대법원장
-status: stub
+status: curated
 ---
 
 ## 행적
