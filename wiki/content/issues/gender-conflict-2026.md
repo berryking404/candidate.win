@@ -67,4 +67,6 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [김지수](/people/gim-ji-su) — **중립**: 젠더 갈등 완화를 위한 청년 공존·공감 네트워크 운영 맥락에서 언급됐다. [출처](https://www.yna.co.kr/view/AKR20260610035500530?input=1195m)
 - 미확인 기록 없음
 - [이준석](/people/i-jun-seok) — **혼합**: 젠더 갈등을 둘러싼 정치적 논쟁에서 성별 갈등을 조장했다는 비판과 반대 진영의 문제 제기가 함께 언급됐다. [출처](https://www.ibabynews.com/news/articleView.html?idxno=153710)
+- [배인규](/people/bae-in-gyu) — **지지**: 신남성연대를 이끌며 ‘악성 페미니즘’과 젠더 갈등을 사회적 문제로 규정했다. [출처](https://www.joongang.co.kr/article/25451250)
+- [이재명](/people/i-jae-myeong) — **지지**: 남성·여성 혐오와 차별적 표현을 문제로 보고 갈등 완화 필요성을 언급했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8568848&ref=A)
 <!-- /agent:stances -->
