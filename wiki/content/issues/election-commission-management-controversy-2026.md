@@ -139,4 +139,6 @@ summary: 2026년 선거 과정의 투표용지 부족·관리 부실 논란과 �
 - [장동혁](/people/jang-dong-hyeok) — **혼합**: 선관위 특검과 장외 집회를 주도하며 강경 대응을 이어갔지만, 부정선거 의혹과 관리 부실을 함께 거론해 단일 입장으로 보기 어렵다. [출처](https://www.donga.com/news/Politics/article/all/20260814/134482284/2)
 - [김용민](/people/gim-yong-min) — **지지**: 선관위 개혁을 헌법 개편 의제와 함께 언급하며 제도 개혁 필요성을 제기했다. [출처](https://www.newspim.com/news/view/20260814000902)
 - [정청래](/people/jeong-cheong-rae) — **혼합**: 선관위의 잘못을 강하게 비판했지만, 직접적 제도개혁안보다 당내 선관위 결정과 관련한 반발이 중심이었다. [출처](https://www.pressian.com/pages/articles/2026081411321559648?utm_source=naver&utm_medium=search)
+- [이혁](/people/i-hyeok) — **중립**: 선관위 특검 후보로 추천됐으며, 이 사안에 대한 공개 발언·입장은 확인되지 않았다. [출처](https://www.mk.co.kr/article/12128256)
+- [이태한](/people/i-tae-han) — **중립**: 선관위 특검 후보로 추천됐으며, 이 사안에 대한 공개 발언·입장은 확인되지 않았다. [출처](https://www.mk.co.kr/article/12128256)
 <!-- /agent:stances -->

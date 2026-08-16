@@ -9,6 +9,7 @@ party: 개혁신당
 ## 행적
 
 <!-- agent:events -->
+- 2026-08-12: 6·3 지방선거 부정선거 주장에 대해 사전투표 오입력은 없었다고 반박하며 관리 부실과 부정선거를 구분해야 한다는 취지로 말했다. [출처](https://www.idaegu.co.kr/news/articleView.html?idxno=556594)
 <!-- /agent:events -->
 
 ## 이슈별 입장
