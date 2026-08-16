@@ -53,4 +53,7 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [최승호](/people/choe-seung-ho) — **지지**: 삼성전자 초기업노조가 SK하이닉스 통합노조와 연대·공동 성명을 검토하며 노사 현안 대응에 협력했다. [출처](https://www.etoday.co.kr/news/view/2613669)
 - [최승호](/people/choe-seung-ho) — **혼합**: 호남 반도체 클러스터 투자 의제와 관련해 노조가 경영상 결정에 개입할 수 있다는 논란의 계기가 됐다. [출처](https://www.eroun.net/news/articleView.html?idxno=87486)
 - [최승호](/people/choe-seung-ho) — **중립**: 삼성전자 노조가 호남 반도체 클러스터 투자 문제를 교섭 의제로 볼 수 있다고 설명했지만, 메가프로젝트 자체에는 반대하지 않는다고 선을 그었다. [출처](https://www.hani.co.kr/arti/society/labor/1272758.html)
+- [삼성전자동행노동조합](/people/unknown) — **중립**: 삼성전자 DX 부문에서 자사주 1000주 추가 보상을 요구하며 교섭·집회를 이어갔다. [출처](https://www.news1.kr/industry/general-industry/6259910)
+- [삼성그룹 초기업노조](/people/unknown) — **혼합**: 메가프로젝트 자체는 반대하지 않지만 근로조건 영향에 대해 입장을 조정하며 경계했다. [출처](https://www.joongangenews.com/news/articleView.html?idxno=539963)
+- [리노공업 노조](/people/unknown) — **반대**: 사측의 압박 주장에 맞서 대화 요구 차원의 단식농성과 총파업을 이어갔다. [출처](https://www.news1.kr/local/busan-gyeongnam/6260351)
 <!-- /agent:stances -->
