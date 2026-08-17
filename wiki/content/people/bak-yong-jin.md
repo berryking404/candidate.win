@@ -1,8 +1,8 @@
 ---
 title: 박용진
 slug: bak-yong-jin
-role: 정치인
-status: stub
+role: 전 국회의원
+status: curated
 ---
 
 ## 행적

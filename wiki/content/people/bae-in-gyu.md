@@ -2,7 +2,7 @@
 title: 배인규
 slug: bae-in-gyu
 role: 신남성연대 대표, 유튜버
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -2,7 +2,7 @@
 title: 이태한
 slug: i-tae-han
 role: 선관위 특검 후보 변호사
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -3,7 +3,7 @@ name_ko: 배인규
 name_en: null
 party: null
 role: 신남성연대 대표, 유튜버
-status: stub
+status: curated
 aliases:
 - 신남성연대 배인규
 - 배인규 대표
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 배인규
   youtube_channels: []
+  official_urls:
+  - https://www.joongang.co.kr/article/25451250

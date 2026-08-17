@@ -2,8 +2,8 @@ slug: bak-yong-jin
 name_ko: 박용진
 name_en: null
 party: null
-role: 정치인
-status: stub
+role: 전 국회의원
+status: curated
 aliases:
 - 전 국회의원
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 박용진
   youtube_channels: []
+  official_urls:
+  - https://www.give.go.kr/portal/supporter/supporterSearch/congressView.do?congressNo=14211&viewType=BODY

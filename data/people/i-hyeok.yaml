@@ -3,7 +3,7 @@ name_ko: 이혁
 name_en: null
 party: null
 role: 선관위 특검 후보 변호사
-status: stub
+status: curated
 aliases:
 - 이혁 변호사
 discovered_via_issue: election-commission-management-controversy-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이혁
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260814119251001
