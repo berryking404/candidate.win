@@ -39,4 +39,5 @@ summary: 2026년 6월 국방부의 방첩사 기능 분산과 사관학교 통�
 - [안규백](/people/an-gyu-baek) — **중립**: 사관학교 통합 정책을 논의하고 동창회장들과 협조를 요청했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635047&ref=A)
 - [천하람](/people/cheon-ha-ram) — **반대**: 안규백 장관의 병적기록부 공개와 사퇴를 요구하며 탄핵 청원 동의가 30만 명을 넘었다고 압박했다. [출처](https://www.yna.co.kr/view/AKR20260806069200001?input=1195m)
 - [김문수](/people/gim-mun-su) — **반대**: 방첩사 해체와 사관학교 통합, 전작권 전환 등을 함께 거론하며 이재명 정부의 국방안보 기조를 강하게 비판했다. [출처](https://www.kyeonggi.com/article/20260812580127)
+- [이재명](/people/i-jae-myeong) — **중립**: 국방부의 육·해·공군 사관학교 통합 추진을 두고 합동성 제고·미래전 대비·인구절벽 대응 논리를 제시했다는 보도가 있었다. [출처](https://www.newdaily.co.kr/site/data/html/2026/08/16/2026081600001.html)
 <!-- /agent:stances -->
