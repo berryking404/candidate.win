@@ -44,4 +44,5 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - [안규백](/people/an-gyu-baek) — **지지**: UFS를 통해 전작권 전환 조건 충족 여부를 평가하고, 하반기 SCM에서 FOC 검증과 전작권 회복 시기 결정을 추진하겠다고 밝혔다. [출처](https://www.segye.com/newsView/20260811519208?OutUrl=naver)
 - [노무현](/people/no-mu-hyeon) — **지지**: 전작권 환수를 국가 주권을 바로 세우는 과정이라고 규정하며 헌법정신과 한국군 위상에 부합하는 조치라고 설명했다. [출처](https://www.jeonmae.co.kr/news/articleView.html?idxno=1284173)
 - [김두환](/people/gim-du-hwan) — **지지**: 전작권의 조건 없는 즉각 환수와 미국의 내정간섭 중단, 한반도 전쟁기지화 반대를 요구하는 연속 행동을 취재했다. [출처](http://www.tongilnews.com/news/articleView.html?idxno=217216)
+- [이종섭](/people/i-unknown) — **지지**: 전시작전통제권 환수를 조속히 해야 한다는 입장을 밝혔다. [출처](http://www.ddanzi.com/891920907)
 <!-- /agent:stances -->
