@@ -22,4 +22,5 @@ party: 더불어민주당
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **지지**: 공소취소 특검을 비판하며 특검을 통한 책임 추궁 필요성을 강조했다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1263406.html)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **지지**: 원구성 협상 지연을 끝내고 곧 민생법안 처리에 나서겠다는 여당의 입장을 주도했다. [출처](https://www.khan.co.kr/article/202606291750001)
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **반대**: 윤석열 전 대통령 탄핵에 반대하는 행보를 보여 야권의 탄핵 추진에 반대하는 입장으로 읽힌다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1272516.html)
+- [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **중립**: 윤석열 정부 탄핵 이후 경력 소개가 있었지만, 이번 이슈에 대한 직접 입장은 확인되지 않았다. [출처](http://www.jeollailbo.com/news/articleView.html?idxno=808307)
 <!-- /agent:stances -->
