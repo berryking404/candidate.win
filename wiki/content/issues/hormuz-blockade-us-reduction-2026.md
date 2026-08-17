@@ -24,4 +24,6 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [트럼프](/people/donald-trump) — **미확인**: 호르무즈 해협 통항을 지원하는 ‘프로젝트 프리덤’을 띄웠다가 곧바로 철회했고, 이후 재개방 협상과 해상 봉쇄 재개를 오가며 정책 방향이 흔들렸다. [출처](https://www.newsis.com/view/NISX20260728_0003726065)
 - [JD 밴스](/people/jd-vance) — **지지**: 이란이 호르무즈 해협 통제를 내세워 미국의 제재·봉쇄 해제를 요구하는 협상 국면을 설명하며 타결 가능성을 언급했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8631651&ref=A)
 - [헤그세스](/people/pete-hegseth) — **지지**: 대이란 해상봉쇄를 무기한 이어갈 수 있다고 강조하며 장기 압박 태세를 공개적으로 시사했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637139&ref=A)
+- [스콧 베선트](/people/scott-bessent) — **지지**: 미국이 대이란 해상봉쇄를 무기한 유지하며 경제적 압박을 지속해야 한다는 취지로 발언했다. [출처](https://www.etoday.co.kr/news/view/2615139)
+- [이란 대통령](/people/iran-president) — **반대**: 호르무즈 재개방과 관련한 조건을 두고 미국과의 이견 속에서도 종전 MOU를 옹호하며, 미국의 봉쇄 해제와 협상을 전제로 한 입장을 보였다. [출처](https://www.news1.kr/world/middleeast-africa/6260864)
 <!-- /agent:stances -->
