@@ -90,4 +90,7 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [양지영](/people/yang-ji-yeong) — **중립**: 전세보증금반환보증 가입 기준 완화가 거론되는 상황을 설명했다. [출처](https://biz.heraldcorp.com/article/10841500?ref=naver)
 - [전재수](/people/jeon-jae-su) — **지지**: 전세사기 피해 예방을 위해 반환보증 보증료 지원과 공공임대주택 공급을 추경에 반영했다. [출처](https://www.etoday.co.kr/news/view/2614578)
 - [오세훈](/people/o-se-hun) — **혼합**: 공급 공백 해소를 위해 재건축·재개발과 세제 전환이 필요하다고 주장하면서, 세 부담 확대는 주거 불안을 키운다고 비판했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008705422&plink=ORI&cooper=NAVER)
+- [청년 전월세결합보증 및 전월세 안심신탁]( /people/housing-jeonse-crisis-2026 ) — **지지**: 세입자의 보증금 미반환 위험을 낮추고 청년·무주택 가구의 전월세 부담을 줄이는 제도 도입을 긍정적으로 다뤘다. [출처](https://news.tf.co.kr/read/economy/2354486.htm)
+- [전세사기 피해 지원과 임대차 분쟁 대응]( /people/housing-jeonse-crisis-2026 ) — **지지**: 전세사기 피해자 긴급생계비 지원과 임대차 분쟁·보증금 반환 법률상담 등 피해자 보호 조치를 소개했다. [출처](http://www.jeonmin.co.kr/news/articleView.html?idxno=445255)
+- [청년 주거비 부담 완화와 공공임대 활용]( /people/housing-jeonse-crisis-2026 ) — **지지**: 비싼 주거비를 줄이기 위해 공공임대와 저렴한 월세를 활용해야 한다는 취지의 제안을 전했다. [출처](https://www.asiatime.co.kr/article/20260814500400)
 <!-- /agent:stances -->
