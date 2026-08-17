@@ -23,4 +23,5 @@ party: 무소속
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **지지**: 김건희 관련 특검 수사가 1심 유죄와 함께 특검 정당성을 뒷받침하는 국면으로 보도됐다. [출처](https://www.topstarnews.net/news/articleView.html?idxno=16113712)
 - [도이치모터스 주가 조작 의혹 및 김건희 여사 연루 논란 (2023)](/issues/deutsch-motors-stock-2023) — **혼합**: 특검이 김건희 씨 측 청탁에 따른 서면 답변 사전 조율 및 수사 무마 의혹을 수사하는 가운데, 검찰은 김 여사를 불기소 처분했다. [출처](https://news.jtbc.co.kr/article/NB12306481?influxDiv=NAVER)
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **반대**: 검찰과 1심 판단을 인용해 김 여사가 시세조종을 인식하거나 공모했다고 보기 어렵다는 취지의 내용이 제시됐다. [출처](https://www.joongang.co.kr/article/25425304)
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **미확인**: 관저 이전 특혜 의혹, 전용 집무실·예산 사용 정황, 수사방해 관련 보도가 이어졌다. [출처](https://www.yna.co.kr/view/AKR20260817034000004?input=1195m)
 <!-- /agent:stances -->

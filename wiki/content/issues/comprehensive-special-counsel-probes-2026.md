@@ -77,4 +77,5 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [박지원](/people/bak-ji-won) — **지지**: 특검이 한동훈을 다시 불러 강하게 수사해야 한다고 주장했다. [출처](https://www.ikbc.co.kr/article/view/kbc202608160010)
 - [박상용](/people/bak-sang-yong) — **반대**: 본인이 특검과 검찰의 장기 조사 대상이 됐다며 자료 공개를 요구했다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=315093)
 - [이재명](/people/i-jae-myeong) — **중립**: 특검·검찰 수사 관련 공방에서 검사 수사 제한 질문에 반박하며 제도 논점을 언급했다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260814010005115)
+- [김건희](/people/gim-geon-hui) — **미확인**: 관저 이전 특혜 의혹과 관련해 특검 수사와 기소 검토의 중심에 놓였다. [출처](https://www.yna.co.kr/view/AKR20260817034000004?input=1195m)
 <!-- /agent:stances -->
