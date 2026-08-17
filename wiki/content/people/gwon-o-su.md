@@ -9,8 +9,8 @@ party: 무소속
 ## 행적
 
 <!-- agent:events -->
-- 2026-05-26: 도이치모터스 주가조작 사건 관련 징역형 집행유예가 확정됐다고 보도됐다. [출처](https://www.newsis.com/view/NISX20260526_0003643540)
-- 2026-06-26: 도이치모터스 주가조작 사건의 핵심 관련자로 다시 언급됐다. [출처](https://www.segye.com/newsView/20260626514289?OutUrl=naver)
+- 2023년 도이치모터스 주가조작 사건의 핵심 공모자로 계속 언급됨. [출처](https://www.news1.kr/society/court-prosecution/6230555)
+- 김건희와 공모한 관련자로 보도되며 사건의 중심에 있음. [출처](https://www.yna.co.kr/view/AKR20260428169400004?input=1195m)
 <!-- /agent:events -->
 
 ## 이슈별 입장
