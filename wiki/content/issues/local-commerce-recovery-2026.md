@@ -187,4 +187,5 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이승로](/people/i-seung-ro) — **지지**: 홈플러스 월곡점 재개장 현장을 점검하며 전통시장·골목상권과의 상생 협력을 강조했다. [출처](https://www.newsis.com/view/NISX20260814_0003750279)
 - [이충우](/people/lee-chung-woo) — **지지**: 여주 고유 음식문화와 관광을 연계해 체류시간과 지역 농산물 소비, 상권 활성화를 함께 높이겠다고 밝혔다. [출처](http://www.beyondpost.co.kr/view.php?ud=2026081420382380994c878f8fa1_30)
 - [김기재](/people/gimgijae) — **지지**: 합덕전통시장을 찾아 시민·소상공인 목소리를 듣고 지역 상권 활성화를 위한 지원과 개선사항을 논의했다. [출처](http://www.chungnamilbo.co.kr/news/articleView.html?idxno=904277)
+- [추경호](/people/chu-gyeong-ho) **입장**: 지역 상권 회복과 경제 부양을 위해 추가경정예산 편성 등 정책 대응을 제시함. (source: https://www.breaknews.com/1205892)
 <!-- /agent:stances -->
