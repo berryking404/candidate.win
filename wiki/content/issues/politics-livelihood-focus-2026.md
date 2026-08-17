@@ -183,4 +183,13 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [정청래](/people/jeong-cheong-rae) — **지지**: 정쟁보다 민생과 개혁을 되찾겠다고 말하며 협치와 민생 입법을 강조했다. [출처](https://www.wikitree.co.kr/articles/1152251)
 - [김민석](/people/gim-min-seok) — **지지**: 민생·경제·안보를 그대로 추진하겠다고 강조했다. [출처](https://www.ytn.co.kr/_ln/0101_202608151857595130)
 - [박충권](/people/bak-chung-gwon) — **반대**: 정부가 민생 악화와 지지율 하락을 개헌 카드로 돌파하려 한다고 비판했다. [출처](https://www.wolyo.co.kr/news/articleView.html?idxno=316452)
+- [홍기원](/people/hong-gi-won) — **혼합**: 여야가 민생과 정치 체제 문제를 함께 다뤄야 한다며 제왕적 대통령제 비판과 개헌 필요성을 함께 제기했다. [출처](https://www.nocutnews.co.kr/news/6563694?utm_source=naver&utm_medium=article&utm_campaign=20260817110407)
+- [김민석](/people/gim-min-seok) — **혼합**: 당원투표 전략과 당내 역동성 속에서 민생 의제가 충분히 드러나지 않았다는 지적과 함께, 민생 현안 대응이 과제로 언급됐다. [출처](https://www.ytn.co.kr/_ln/0101_202608162258467969)
+- [김태호](/people/gim-tae-ho) — **혼합**: 국민과 민생을 위한 정치가 실종됐다며 분권형 개헌을 주장하고, 현직 대통령의 연임 포기 여부를 개헌 논의의 조건으로 제시했다. [출처](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260817.22003004338)
+- [이혜원](/people/i-hye-won) — **지지**: 책임 있는 정치를 현장에서 시작해야 한다며 사람 중심·민생 중심의 의정활동을 강조했다. [출처](https://www.nocutnews.co.kr/news/6562918?utm_source=naver&utm_medium=article&utm_campaign=20260817050102)
+- [추미애](/people/chu-mi-ae) — **혼합**: 경기도 재정과 민생사업 여력을 두고 비상재정 필요성을 제기했지만, 이를 둘러싼 정치권 공방 속에서 정쟁이 함께 부각됐다. [출처](https://www.news1.kr/local/gyeonggi/6260561)
+- [이동훈](/people/i-dong-hun) — **지지**: 기사에서 직접 인용된 민생과 실용을 강조하는 인사 기용 방침을 언급했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=9000003647&cp=nv)
+- [양기대](/people/yang-gi-dae) — **중립**: 기사에서 세제개편과 민생 논의를 둘러싼 당내 발언맥락으로 거론됐다. [출처](https://www.news1.kr/politics/assembly/6260270)
+- [조용술](/people/jo-yong-sul) — **반대**: 소모적인 정쟁에 몰두해 대안 야당 이미지가 부족하다고 국민의힘을 비판했다. [출처](https://www.ekn.kr/web/view.php?key=20260816025533258)
+- [이청형](/people/i-cheong-hyeong) — **중립**: 민생 중심의 의정과 현장 정치를 강조하는 문맥에서 거론됐다. [출처](https://www.nocutnews.co.kr/news/6562918?utm_source=naver&utm_medium=article&utm_campaign=20260817050102)
 <!-- /agent:stances -->
