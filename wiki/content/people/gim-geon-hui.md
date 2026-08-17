@@ -9,7 +9,7 @@ party: 무소속
 ## 행적
 
 <!-- agent:events -->
-- 2026-07-15: 도이치모터스 주가조작 사건과 관련해 권오수 전 회장 등과 공모해 고가·허수·통정매매로 부당이득을 취득한 혐의로 재판에 넘겨졌다는 보도가 나왔다. [출처](https://news1.kr/society/court-prosecution/6229612)
+- 2026-08-16: 김건희 관련 특검 수사와 관련한 사법 일정이 언급됐다. [출처](https://www.hankookilbo.com/news/article/A2026081611300004470?did=NA)
 <!-- /agent:events -->
 
 ## 이슈별 입장

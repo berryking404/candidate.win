@@ -30,4 +30,5 @@ party: 국민의힘
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **지지**: 2차 종합특검의 장기 출국금지 조치가 해제된 뒤, 사유 공개를 위한 정보공개 청구를 예고했다. [출처](https://www.hankyung.com/article/202607143323H)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **혼합**: 특검의 참고인 소환 통보를 받지 못했다고 반박하면서도, 계엄 관련 조사 대상이라는 사실은 알려졌다. [출처](https://www.yna.co.kr/view/AKR20260806065500504)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **미확인**: 계엄 해제 이후 열린 당정대 회의 관련 참고인 소환 대상이 됐다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260811192100kSZ)
+- [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **지지**: 윤석열 전 대통령의 탄핵에 찬성했던 인물로 기사에 언급됐다. [출처](https://www.sisajournal.com/news/articleView.html?idxno=383229)
 <!-- /agent:stances -->
