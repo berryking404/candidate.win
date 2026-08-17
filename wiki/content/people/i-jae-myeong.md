@@ -9,8 +9,7 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
-- 2026-06-08: 한일 상호군수지원협정(ACSA)에 대해 국민 정서상 현재는 어렵다고 밝히며, 과거사 문제가 정리되지 않은 상황임을 강조했다. [출처](https://www.hani.co.kr/arti/politics/bluehouse/1262506.html)
-- 2026-07-09: 정부는 현재 상호군수지원협정 체결을 검토하고 있지 않다고 밝혔다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1267430.html)
+- 2026-08-06: 젠더 갈등과 관련해 행정부가 젠더 이슈 대응을 회피해 왔다는 보도 맥락 속에서 언급됨. (/people/i-jae-myeong)
 <!-- /agent:events -->
 
 ## 이슈별 입장
@@ -35,4 +34,5 @@ party: 더불어민주당
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **지지**: 한일 상호군수지원협정의 현실적 필요성을 인정하며 한일 군사협력의 속도를 강조했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003246239&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 서남권 첨단산업을 새 성장 거점으로 육성하고 대규모 AI·반도체 투자를 통해 지역 청년 일자리와 균형발전을 함께 추진하겠다는 입장을 밝혔다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=06825686645486968)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **반대**: 삼성전자 노조의 광주 반도체 공장 관련 교섭 주장에 대해 분쟁이 끝없이 확장될 수 있다며 엄격한 대응 필요성을 시사했다. [출처](https://www.munhwa.com/article/11608689?ref=naver)
+- (/issues/gender-conflict-2026) **입장**: 젠더 관련 현안에 대한 직접적 입장은 코퍼스에서 확인되지 않음.
 <!-- /agent:stances -->

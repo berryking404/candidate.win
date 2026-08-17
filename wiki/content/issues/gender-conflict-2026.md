@@ -69,4 +69,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [이준석](/people/i-jun-seok) — **혼합**: 젠더 갈등을 둘러싼 정치적 논쟁에서 성별 갈등을 조장했다는 비판과 반대 진영의 문제 제기가 함께 언급됐다. [출처](https://www.ibabynews.com/news/articleView.html?idxno=153710)
 - [배인규](/people/bae-in-gyu) — **지지**: 신남성연대를 이끌며 ‘악성 페미니즘’과 젠더 갈등을 사회적 문제로 규정했다. [출처](https://www.joongang.co.kr/article/25451250)
 - [이재명](/people/i-jae-myeong) — **지지**: 남성·여성 혐오와 차별적 표현을 문제로 보고 갈등 완화 필요성을 언급했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8568848&ref=A)
+- (/people/i-jae-myeong) **입장**: gender conflict / gender issue response remains unclear in corpus; stance extracted as unknown.
 <!-- /agent:stances -->
