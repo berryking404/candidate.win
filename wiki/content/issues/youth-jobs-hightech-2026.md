@@ -149,4 +149,5 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [최태원](/people/choe-tae-won) — **지지**: 반도체 생태계 구축에 전력·용수·숙련 인재와 협력업체 기반이 필요하다고 강조했다. [출처](https://www.econovill.com/news/articleView.html?idxno=748112)
 - [송영길](/people/song-yeong-gil) — **지지**: 청년 10만 명 해외 경험 지원과 귀국 뒤 창업·취업 연계를 추진하겠다고 밝혔다. [출처](https://mpmbc.co.kr/NewsArticle/1532331)
 - [박용진](/people/bak-yong-jin) — **지지**: 청년 실업 문제를 언급하며 관련 대책을 재검토하겠다고 밝힌 점에서 청년 고용 지원에 우호적입니다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=06487846645546992)
+- [한요셉](/people/han-yo-sep) — **지지**: AI 시대 청년 일자리 창출을 위해 낡은 규제와 노동 시장의 경직성을 완화하는 구조개혁이 필요하다고 제언했다. [출처](https://www.newsis.com/view/NISX20260817_0003751206)
 <!-- /agent:stances -->
