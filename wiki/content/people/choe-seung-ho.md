@@ -17,4 +17,5 @@ status: curated
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **지지**: 삼성전자 초기업노조 위원장으로 성과급 제도화와 상한 폐지를 요구하며 총파업 가능성을 공개적으로 밝혔고, 협상에서도 강경한 입장을 유지했다. [출처](http://www.yonhapnewstv.co.kr/news/AKR20260512102610yQz)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **혼합**: 성과급 상한 폐지와 제도화를 고수하며 파업을 예고했지만, DX 조합원들의 반발과 내부 갈등도 드러났다. [출처](https://www.yna.co.kr/view/AKR20260515037000003?input=1195m)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **중립**: 합의안 가결 이후에도 조합원 사기진작과 후속 교섭 필요성을 강조했다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260529191004tDN)
+- [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **반대**: 삼성전자 노조의 영업이익 연동 성과급 요구와 연대 움직임이 과도한 성과급 요구 논란으로 이어졌다는 점에서 반대 입장으로 분류된다. [출처](http://www.fnnews.com/news/202608161543579754)
 <!-- /agent:stances -->
