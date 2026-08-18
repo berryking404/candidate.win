@@ -3,7 +3,7 @@ name_ko: 김지형
 name_en: null
 party: null
 role: 경제사회노동위원회 위원장
-status: stub
+status: curated
 aliases:
 - 경사노위 위원장
 discovered_via_issue: corporate-labor-dispute-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김지형
   youtube_channels: []
+  official_urls:
+  - https://www.eslc.go.kr/ibuilder.do?menu_idx=1960

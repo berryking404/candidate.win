@@ -2,7 +2,7 @@
 title: 김지형
 slug: gim-ji-hyeong
 role: 경제사회노동위원회 위원장
-status: stub
+status: curated
 ---
 
 ## 행적

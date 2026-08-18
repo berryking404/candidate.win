@@ -2,7 +2,7 @@
 title: 박준
 slug: bak-jun
 role: 경상남도의회 의장
-status: stub
+status: curated
 ---
 
 ## 행적

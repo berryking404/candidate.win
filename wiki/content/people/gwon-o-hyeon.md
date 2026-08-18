@@ -2,7 +2,7 @@
 title: 권오현
 slug: gwon-o-hyeon
 role: 전 삼성 회장
-status: stub
+status: curated
 ---
 
 ## 행적

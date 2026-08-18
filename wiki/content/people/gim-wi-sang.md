@@ -2,7 +2,7 @@
 title: 김위상
 slug: gim-wi-sang
 role: 국민의힘 의원
-status: stub
+status: curated
 ---
 
 ## 행적

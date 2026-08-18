@@ -2,7 +2,7 @@
 title: 한요셉
 slug: han-yo-sep
 role: 한국개발연구원(KDI) 연구위원
-status: stub
+status: curated
 ---
 
 ## 행적

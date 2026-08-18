@@ -2,7 +2,7 @@
 title: 조상호
 slug: jo-sang-ho
 role: 세종시장
-status: stub
+status: curated
 ---
 
 ## 행적

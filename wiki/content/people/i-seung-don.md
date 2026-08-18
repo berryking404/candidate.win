@@ -2,7 +2,7 @@
 title: 이승돈
 slug: i-seung-don
 role: 농촌진흥청장
-status: stub
+status: curated
 ---
 
 ## 행적

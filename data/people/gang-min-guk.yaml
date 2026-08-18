@@ -3,7 +3,7 @@ name_ko: 강민국
 name_en: null
 party: null
 role: 국회의원
-status: stub
+status: curated
 aliases:
 - 진주을 의원
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 강민국
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20240410091600052

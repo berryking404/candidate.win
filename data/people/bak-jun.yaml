@@ -3,7 +3,7 @@ name_ko: 박준
 name_en: null
 party: null
 role: 경상남도의회 의장
-status: stub
+status: curated
 aliases:
 - 경상남도의회 의장
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 박준
   youtube_channels: []
+  official_urls:
+  - https://council.gyeongnam.go.kr/member/PJoon/vod3.do

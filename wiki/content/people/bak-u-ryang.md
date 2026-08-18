@@ -2,7 +2,7 @@
 title: 박우량
 slug: bak-u-ryang
 role: 신안군수 후보
-status: stub
+status: curated
 ---
 
 ## 행적

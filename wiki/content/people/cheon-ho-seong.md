@@ -2,7 +2,7 @@
 title: 천호성
 slug: cheon-ho-seong
 role: 교육감
-status: stub
+status: curated
 ---
 
 ## 행적

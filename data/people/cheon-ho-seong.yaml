@@ -3,7 +3,7 @@ name_ko: 천호성
 name_en: null
 party: null
 role: 교육감
-status: stub
+status: curated
 aliases:
 - 전북특별자치도교육감
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 천호성
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260604004100055

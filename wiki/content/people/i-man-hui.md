@@ -2,7 +2,7 @@
 title: 이만희
 slug: i-man-hui
 role: 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적

@@ -3,7 +3,7 @@ name_ko: 이승돈
 name_en: null
 party: null
 role: 농촌진흥청장
-status: stub
+status: curated
 aliases:
 - 이승돈
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이승돈
   youtube_channels: []
+  official_urls:
+  - https://www.rda.go.kr/board/board.do?mode=html&prgId=idu_drctitrEntry

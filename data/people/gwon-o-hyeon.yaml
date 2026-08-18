@@ -3,7 +3,7 @@ name_ko: 권오현
 name_en: null
 party: null
 role: 전 삼성 회장
-status: stub
+status: curated
 aliases:
 - 권오현 전 삼성 회장
 discovered_via_issue: corporate-labor-dispute-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 권오현
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20230216078600004

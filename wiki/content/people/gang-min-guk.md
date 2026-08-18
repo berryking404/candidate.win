@@ -2,7 +2,7 @@
 title: 강민국
 slug: gang-min-guk
 role: 국회의원
-status: stub
+status: curated
 ---
 
 ## 행적
