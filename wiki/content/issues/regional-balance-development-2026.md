@@ -231,4 +231,6 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [서미화](/people/seo-mi-hwa) — **지지**: 인구 소멸 지역을 국가균형발전으로 사람이 떠나는 도시가 아닌 청년이 찾는 도시로 만들어야 한다고 말했다. [출처](https://www.ikbc.co.kr/article/view/kbc202608160026)
 - [황영모](/people/hwang-yeong-mo) — **지지**: 농어촌기본소득 재원을 지방소멸대응기금 등으로 별도 마련해야 한다며 농촌 소멸 대응 정책 확대를 주장했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638418&ref=A)
 - [김중남](/people/gim-jung-nam) — **지지**: 영동권 균형발전의 핵심 거점으로 천연물바이오 산업단지의 기회발전특구 지정을 강조했다. [출처](https://www.jeonmae.co.kr/news/articleView.html?idxno=1284326)
+- [이만희](/people/lee-man-hee) — **지지**: 경북 의료인력 부족과 수도권-비수도권 의료격차 해소를 지방소멸 대응의 핵심 과제로 보고, 지역 의료인력 직접 양성을 강조했다. [출처](https://www.imaeil.com/page/view/2026081811184997083)
+- [봉화군](/people/gyeongbuk-bonghwa-gun) — **지지**: 지방소멸과 농촌 고령화에 대응하는 향후 10년 공간 전략과 농촌공간 재구조화 계획을 추진하고 있다. [출처](http://www.metroseoul.co.kr/article/20260818500079)
 <!-- /agent:stances -->
