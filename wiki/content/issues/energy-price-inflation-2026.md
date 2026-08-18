@@ -98,4 +98,5 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - [박완수](/people/bak-wan-su) — **지지**: 장기 가뭄 대응과 함께 에너지전환 및 비용 절감 필요성을 언급했다. [출처](https://www.kukinews.com/article/view/kuk202608110003)
 - [김성제](/people/gim-seong-je) — **중립**: 경기중부권행정협의회에서 집단에너지 냉방요금 지역 간 형평성 확보 등 공공요금 현안 안건을 논의했다. [출처](https://www.news1.kr/local/gyeonggi/6258819)
 - [송영길](/people/song-yeong-gil) — **지지**: 소상공인 전기요금 20만원 지원 제도를 상시화하겠다고 민생 공약으로 제시했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=740044)
+- [서울교통공사](/people/seoul-transportation-corp) — **반대**: 산업용 전기요금 체계 개편 과정에서 도시철도 공공성과 운영 특성을 반영하고 전기요금 부담 완화를 요구했다. [출처](https://www.newsis.com/view/NISX20260818_0003752256)
 <!-- /agent:stances -->
