@@ -156,4 +156,5 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [성수석](/people/seong-su-seok) — **지지**: 반도체·AI 특성화 교육 확대와 산업정책 연계를 통해 인재 유치를 강조했다. [출처](https://weekly.hankooki.com/news/articleView.html?idxno=7179369)
 - [류연승](/people/ryu-yeon-seung) — **지지**: 반도체·ICT 분야 국제협력을 통해 전문 인재 양성을 추진했다. [출처](https://edu.donga.com/news/articleView.html?idxno=110984)
 - [정동화](/people/jeong-dong-hwa) — **지지**: 엔터 산업 취업을 희망하는 청년들의 진로 설정과 일경험 연계를 지원했다. [출처](https://news.bbsi.co.kr/news/articleView.html?idxno=4101268)
+- [박준희](/people/pak-jun-hui) — **지지**: 관악 청년과 G밸리 일자리를 잇는 공동 취업지원 모델을 통해 청년 취업과 기업 인재 확보의 선순환을 기대했다. [출처](https://www.yna.co.kr/view/AKR20260818104700004?input=1195m)
 <!-- /agent:stances -->
