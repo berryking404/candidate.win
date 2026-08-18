@@ -2,7 +2,7 @@
 title: 이현정
 slug: i-hyeon-jeong
 role: 한국지방세연구원 현안대응센터장
-status: stub
+status: curated
 ---
 
 ## 행적

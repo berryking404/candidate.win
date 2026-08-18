@@ -1,8 +1,8 @@
 ---
 title: 황영모
 slug: hwang-yeong-mo
-role: 위원장
-status: stub
+role: 전북연구원 선임연구위원
+status: curated
 ---
 
 ## 행적

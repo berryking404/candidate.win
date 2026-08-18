@@ -3,7 +3,7 @@ name_ko: 이현정
 name_en: null
 party: null
 role: 한국지방세연구원 현안대응센터장
-status: stub
+status: curated
 aliases:
 - 이현정
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이현정
   youtube_channels: []
+  official_urls:
+  - https://www.fnnews.com/news/202608161341182660
