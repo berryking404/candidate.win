@@ -171,4 +171,5 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [최인수](/people/choe-in-su) — **지지**: 교회 시설을 지역 통합돌봄 거점으로 활용하는 방안을 추진했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=9000003584&cp=nv)
 - [조호경](/people/jo-ho-gyeong) — **지지**: 가조권역 통합돌봄센터 운영을 위한 물품 기탁을 통해 돌봄 인프라를 지원했다. [출처](https://www.newsgn.com/news/articleView.html?idxno=568055)
 - [최대호](/people/choe-dae-ho) — **지지**: 폭염 취약가구 지원 전달식에서 취약계층 보호 의지를 밝혔다. [출처](http://www.globalepic.co.kr/view.php?ud=2026081415374331515f69d33b22_29)
+- [서은영](/people/seo-eun-yeong) — **지지**: 위기청소년과 범죄피해자 지원을 위한 지역사회 안전망 구축에 나섰다. [출처](https://www.kpanews.co.kr/news/articleView.html?idxno=540809)
 <!-- /agent:stances -->
