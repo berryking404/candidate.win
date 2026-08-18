@@ -150,4 +150,10 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [송영길](/people/song-yeong-gil) — **지지**: 청년 10만 명 해외 경험 지원과 귀국 뒤 창업·취업 연계를 추진하겠다고 밝혔다. [출처](https://mpmbc.co.kr/NewsArticle/1532331)
 - [박용진](/people/bak-yong-jin) — **지지**: 청년 실업 문제를 언급하며 관련 대책을 재검토하겠다고 밝힌 점에서 청년 고용 지원에 우호적입니다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=06487846645546992)
 - [한요셉](/people/han-yo-sep) — **지지**: AI 시대 청년 일자리 창출을 위해 낡은 규제와 노동 시장의 경직성을 완화하는 구조개혁이 필요하다고 제언했다. [출처](https://www.newsis.com/view/NISX20260817_0003751206)
+- [김종희](/people/gim-jong-hui) — **중립**: 공공기관 취업을 희망하는 청년 대상 실전 과정을 운영해 청년 취업 지원에 나섰다. [출처](https://edu.donga.com/news/articleView.html?idxno=110985)
+- [이창용](/people/i-chang-yong) — **중립**: 청년고용 감소와 AI 확산의 관계를 분석한 한국은행 보고서 발표를 통해 문제 진단에 관여했다. [출처](https://www.yna.co.kr/view/AKR20260818079400002?input=1195m)
+- [박정주](/people/bak-jeong-ju) — **지지**: 서울 청년 유입과 창업·일자리·정착을 잇는 구조를 강화하겠다고 밝혔다. [출처](http://www.newsworker.co.kr/news/articleView.html?idxno=441476)
+- [성수석](/people/seong-su-seok) — **지지**: 반도체·AI 특성화 교육 확대와 산업정책 연계를 통해 인재 유치를 강조했다. [출처](https://weekly.hankooki.com/news/articleView.html?idxno=7179369)
+- [류연승](/people/ryu-yeon-seung) — **지지**: 반도체·ICT 분야 국제협력을 통해 전문 인재 양성을 추진했다. [출처](https://edu.donga.com/news/articleView.html?idxno=110984)
+- [정동화](/people/jeong-dong-hwa) — **지지**: 엔터 산업 취업을 희망하는 청년들의 진로 설정과 일경험 연계를 지원했다. [출처](https://news.bbsi.co.kr/news/articleView.html?idxno=4101268)
 <!-- /agent:stances -->
