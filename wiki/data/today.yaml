@@ -1,108 +1,76 @@
-generated_at: '2026-08-17T23:02:19+00:00'
-source_date: 2026-08-17T230213Z
+generated_at: '2026-08-18T23:02:18+00:00'
+source_date: 2026-08-18T230209Z
 window_hours: 72
 items:
 - rank: 1
-  title: 국민의힘, '5·18 토론회 논란' 이진숙에 "징계 검토 안 해"
+  title: '[사설] 노봉법·메가특구법 등 노사 갈등 현안은 정부가 해결해야'
   status: 정식 검토
   score: 9
-  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 4
+    outlet_count: 4
+    public_actor: 대표, 정부
+  sources:
+  - title: 조선소가 알던 위험, 감독은 장례 뒤에 왔다
+    url: https://newscham.net/articles/117075
+  - title: '[오늘의 사설]"김민석 대표, 국민 목소리에 귀 기울이길..."'
+    url: http://www.nongaek.com/news/articleView.html?idxno=96436
+  - title: '[전국 주요 신문 사설](18일 조간)'
+    url: https://www.yna.co.kr/view/AKR20260818012700011?input=1195m
+- rank: 2
+  title: 국힘·서울시, '8·13 부동산 대책 문제점' 토론회…오세훈 참석
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 11건, 매체 11곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 11
+    outlet_count: 11
+    public_actor: 국회, 정부
+  sources:
+  - title: 국힘, '8·13 부동산대책' 국회 토론회…오세훈도 참석
+    url: http://www.joseilbo.com/news/news_read.php?uid=574014&class=32&grp=
+  - title: 김민석, 봉하마을 참배·文 예방…부산서 첫 공개 최고위[오늘아침]
+    url: https://www.nocutnews.co.kr/news/6564502?utm_source=naver&utm_medium=article&utm_campaign=20260819070027
+  - title: 국힘·서울시, '8·13 부동산 대책 문제점' 토론회…오세훈 참석
+    url: https://www.yna.co.kr/view/AKR20260818154600001?input=1195m
+- rank: 3
+  title: 국힘 서울시당, ‘8·13 부동산 대책’ 토론회 개최…오세훈 참석
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 17
-    public_actor: 국민의힘, 대표
+    outlet_count: 18
+    public_actor: 국회, 민주당, 정부
   sources:
-  - title: 국민의힘, "'5·18 폄훼' 이진숙 징계 검토 안해"
-    url: https://kjmbc.co.kr/NewsArticle/1532621
-  - title: 이진숙 '5.18 토론회' 두고 국힘 '징계 검토 안해'...당안팎 비난 봇물
-    url: https://www.polinews.co.kr/news/articleView.html?idxno=740433
-  - title: '''5·18 포럼'' 후폭풍…與 당원 3700명 "이진숙 최고 징계하라"'
-    url: http://weekly.chosun.com/news/articleView.html?idxno=54393
-- rank: 2
-  title: 국민의힘, 5·18 토론회 논란 관련 이진숙, 징계 검토 안 해
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 18건, 매체 17곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 18
-    outlet_count: 17
-    public_actor: 국민의힘, 대표, 의원
-  sources:
-  - title: 이진숙 '5.18 토론회' 두고 국힘 '징계 검토 안해'...당안팎 비난 봇물
-    url: https://www.polinews.co.kr/news/articleView.html?idxno=740433
-  - title: '''5·18 포럼'' 후폭풍…與 당원 3700명 "이진숙 최고 징계하라"'
-    url: http://weekly.chosun.com/news/articleView.html?idxno=54393
-  - title: '[아주경제 오늘의 뉴스 종합] 김민석, 與 당대표 선출…과반 득표 불발...'
-    url: https://www.ajunews.com/view/20260817214216126
-- rank: 3
-  title: 국민의힘, ‘5·18토론회 논란’ 이진숙 의원에 “징계 검토 안 한다”
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 12건, 매체 11곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 12
-    outlet_count: 11
-    public_actor: 국민의힘, 의원
-  sources:
-  - title: 국힘, '5·18토론회 논란' 이진숙에 "징계 검토 안 한다"
-    url: https://www.obsnews.co.kr/news/articleView.html?idxno=1534287
-  - title: 국힘, '5·18 토론회 논란' 이진숙에 "징계 검토 안한다"
-    url: https://www.edaily.co.kr/news/newspath.asp?newsid=02089366645548304
-  - title: 국힘, '5·18토론회 논란' 이진숙에 "징계 검토 안 한다"
-    url: https://www.obsnews.co.kr/news/articleView.html?idxno=1534274
+  - title: 국힘, '8·13 부동산대책' 국회 토론회…오세훈도 참석
+    url: http://www.joseilbo.com/news/news_read.php?uid=574014&class=32&grp=
+  - title: 고양시 덕양구·일산동구 GB 109.03㎢, 토지거래허가구역 지정
+    url: https://www.joongangenews.com/news/articleView.html?idxno=540835
+  - title: 오늘 국토위 당정협의…'용산공원 개발' 논의 주목
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260819073018JHI
 - rank: 4
-  title: 혁신당 "경남 호우로 막대한 피해…정부·지자체 신속 대응해야"
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 정부, 조국혁신당
-  sources:
-  - title: 혁신당 "경남 호우로 막대한 피해…정부·지자체 신속 대응해야"
-    url: https://www.news1.kr/politics/assembly/6260988
-  - title: 조국혁신당 "극한 호우로 경남지역 피해 발생…정부에 총력 대응 촉구"
-    url: https://www.newsis.com/view/NISX20260817_0003751462
-- rank: 5
-  title: '''박근혜 등 개인정보 18만건 유출'' 서강대 해킹…경찰, 내사 착수'
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 6건, 매체 6곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 6
-    outlet_count: 6
-    public_actor: 확인 중
-  sources:
-  - title: '[단독] ‘개인정보 18만건’ 털린 서강대, 학점교류 타대생도 유출'
-    url: https://www.segye.com/newsView/20260817513910?OutUrl=naver
-  - title: ‘70학번 박근혜’도 털렸다… 경찰, ‘서강대 해킹 사고’ 내사 착수
-    url: https://www.chosun.com/national/national_general/2026/08/16/CMMJEFJJ5FAEJCTCONTRP5AFEU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
-  - title: '''70학번 박근혜'' 등 개인정보 대량 유출…경찰, 내사 착수'
-    url: https://www.hankyung.com/article/2026081642397
-- rank: 6
-  title: 김태호 "대통령 만나는 것과 굴복은 달라"…'골프 회동' 비판 반박
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 확인 중
-  sources:
-  - title: 야권, 이 대통령 골프회동 비판 거세
-    url: https://www.inews365.com/news/article.html?no=932030
-  - title: 김태호 "대통령 만나는 것과 굴복은 달라"…'골프 회동' 비판 반박
-    url: https://www.news1.kr/politics/assembly/6260890
-- rank: 7
-  title: 민주당 전당대회 끝났지만 ‘사생결단' 계파 갈등 여전히 남아…전북지역 유독 '심각', 왜?
+  title: '[단독] 국감 앞두고 대응 높인 정부…전 부처 ‘상황반’ 꾸린다'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 민주당
+    public_actor: 정부
   sources:
-  - title: 민주당 전당대회 끝났지만 '사생결단' 계파 갈등 여전히 남아…전북지역...
-    url: http://www.jbsori.com/news/articleView.html?idxno=17750
+  - title: '[단독] 국감 앞두고 대응 높인 정부…전 부처 ‘상황반’ 꾸린다'
+    url: https://news.mtn.co.kr/news-detail/2026081816471787971
+- rank: 5
+  title: 삼성바이오로직스 노조, 정부 비판 거세지자 '사후조정' 합의
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 삼성바이오로직스 노조, 정부 비판 거세지자 '사후조정' 합의
+    url: https://www.sisaweek.com/news/articleView.html?idxno=237338
