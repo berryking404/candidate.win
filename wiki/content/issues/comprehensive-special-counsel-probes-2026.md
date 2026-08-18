@@ -78,4 +78,7 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [박상용](/people/bak-sang-yong) — **반대**: 본인이 특검과 검찰의 장기 조사 대상이 됐다며 자료 공개를 요구했다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=315093)
 - [이재명](/people/i-jae-myeong) — **중립**: 특검·검찰 수사 관련 공방에서 검사 수사 제한 질문에 반박하며 제도 논점을 언급했다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260814010005115)
 - [김건희](/people/gim-geon-hui) — **미확인**: 관저 이전 특혜 의혹과 관련해 특검 수사와 기소 검토의 중심에 놓였다. [출처](https://www.yna.co.kr/view/AKR20260817034000004?input=1195m)
+- [김건희](/people/gim-geon-hui) — **반대**: 관저 이전 공사 특혜와 관련해 기소 대상이 됐고, 특검은 영향력 행사와 금품 수수 의혹을 수사했다. [출처](https://www.jtbc.co.kr/article/NB12313792?influxDiv=NAVER)
+- [윤한홍](/people/yun-han-hong) — **반대**: 관저 이전 공사와 공관 자료 제출 과정에 개입한 정황이 확인돼 기소 대상에 올랐다. [출처](https://news.jtbc.co.kr/article/NB12313797?influxDiv=NAVER)
+- [조성현](/people/jo-seong-hyeon) — **반대**: 비상계엄 당시 국회로 향하던 부대에 지시한 행위로 특검 기소 방침이 나왔다. [출처](https://www.ytn.co.kr/_ln/0103_202608180853026507)
 <!-- /agent:stances -->
