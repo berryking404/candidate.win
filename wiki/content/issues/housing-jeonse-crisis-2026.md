@@ -1,6 +1,5 @@
 ---
 title: 전세·주거 불안과 지역 민생 (2026)
-slug: housing-jeonse-crisis-2026
 category: policy
 status: ongoing
 summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주거 불안을 다루는 이슈.
@@ -90,12 +89,5 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [양지영](/people/yang-ji-yeong) — **중립**: 전세보증금반환보증 가입 기준 완화가 거론되는 상황을 설명했다. [출처](https://biz.heraldcorp.com/article/10841500?ref=naver)
 - [전재수](/people/jeon-jae-su) — **지지**: 전세사기 피해 예방을 위해 반환보증 보증료 지원과 공공임대주택 공급을 추경에 반영했다. [출처](https://www.etoday.co.kr/news/view/2614578)
 - [오세훈](/people/o-se-hun) — **혼합**: 공급 공백 해소를 위해 재건축·재개발과 세제 전환이 필요하다고 주장하면서, 세 부담 확대는 주거 불안을 키운다고 비판했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008705422&plink=ORI&cooper=NAVER)
-- [청년 전월세결합보증 및 전월세 안심신탁]( /people/housing-jeonse-crisis-2026 ) — **지지**: 세입자의 보증금 미반환 위험을 낮추고 청년·무주택 가구의 전월세 부담을 줄이는 제도 도입을 긍정적으로 다뤘다. [출처](https://news.tf.co.kr/read/economy/2354486.htm)
-- [전세사기 피해 지원과 임대차 분쟁 대응]( /people/housing-jeonse-crisis-2026 ) — **지지**: 전세사기 피해자 긴급생계비 지원과 임대차 분쟁·보증금 반환 법률상담 등 피해자 보호 조치를 소개했다. [출처](http://www.jeonmin.co.kr/news/articleView.html?idxno=445255)
-- [청년 주거비 부담 완화와 공공임대 활용]( /people/housing-jeonse-crisis-2026 ) — **지지**: 비싼 주거비를 줄이기 위해 공공임대와 저렴한 월세를 활용해야 한다는 취지의 제안을 전했다. [출처](https://www.asiatime.co.kr/article/20260814500400)
-- [경실련](/people/gyeongsilryeon) — **지지**: 공공분양보다 토지임대부·공공주택 확대와 부동산대책 재검토를 촉구하며 주거 불안 완화 필요성을 강조했다. [출처](https://www.news1.kr/society/incident-accident/6261652)
-- [방효창](/people/bang-hyo-chang) — **지지**: 집 없는 서민과 전월세 등 주거 불안에 시달리는 사람들을 우선하는 공공주택 중심 정책을 주문했다. [출처](https://www.news1.kr/society/incident-accident/6261652)
-- [최종부](/people/choe-jong-bu) — **지지**: 시장 친화적 공급 대책 확대가 무주택자와 청년의 주거 불안을 해소하는 길이라고 말했다. [출처](https://www.mediapen.com/news/view/1117002)
 - [김영배](/people/gim-yeong-bae) — **지지**: 서울 부동산 불안 해소를 위해 다주택자의 전월세 공급 역할을 강화해야 한다고 말했다. [출처](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545605)
-- [권대중](/people/gwon-dae-jung) — **혼합**: 전세의 월세화가 서민 가처분소득을 줄여 내 집 마련을 어렵게 할 수 있다고 우려하면서도, 전세 구조의 문제점도 함께 짚었다. [출처](https://www.segye.com/newsView/20260817515919?OutUrl=naver)
 <!-- /agent:stances -->

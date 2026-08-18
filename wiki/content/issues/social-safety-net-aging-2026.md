@@ -173,5 +173,4 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [최대호](/people/choe-dae-ho) — **지지**: 폭염 취약가구 지원 전달식에서 취약계층 보호 의지를 밝혔다. [출처](http://www.globalepic.co.kr/view.php?ud=2026081415374331515f69d33b22_29)
 - [서은영](/people/seo-eun-yeong) — **지지**: 위기청소년과 범죄피해자 지원을 위한 지역사회 안전망 구축에 나섰다. [출처](https://www.kpanews.co.kr/news/articleView.html?idxno=540809)
 - [김재섭](/people/gim-jae-seop) — **지지**: 자영업자인 피보험자의 수급자격 예외를 통해 사회안전망을 강화하자는 입법안을 발의했다. [출처](https://www.jeonmae.co.kr/news/articleView.html?idxno=1284069)
-- [임종룡](/people/im-jong-ryong) — **지지**: 초고령화 사회에 대응한 요양사업을 미래 성장동력으로 제시하며 보험사 통합을 추진했다. [출처](http://www.ftoday.co.kr/news/articleView.html?idxno=363764)
 <!-- /agent:stances -->

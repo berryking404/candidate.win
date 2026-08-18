@@ -69,12 +69,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [이준석](/people/i-jun-seok) — **혼합**: 젠더 갈등을 둘러싼 정치적 논쟁에서 성별 갈등을 조장했다는 비판과 반대 진영의 문제 제기가 함께 언급됐다. [출처](https://www.ibabynews.com/news/articleView.html?idxno=153710)
 - [배인규](/people/bae-in-gyu) — **지지**: 신남성연대를 이끌며 ‘악성 페미니즘’과 젠더 갈등을 사회적 문제로 규정했다. [출처](https://www.joongang.co.kr/article/25451250)
 - [이재명](/people/i-jae-myeong) — **지지**: 남성·여성 혐오와 차별적 표현을 문제로 보고 갈등 완화 필요성을 언급했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8568848&ref=A)
-- (/people/i-jae-myeong) **입장**: gender conflict / gender issue response remains unclear in corpus; stance extracted as unknown.
-- [유효상](/people/yuhyoshang) — **중립**: 클릭베이트가 젠더 갈등을 자극하는 프레임을 생산한다고 비판했다. [출처](https://www.mt.co.kr/opinion/2026/08/18/2026081313280677587)
-- [프란체스카 홍](/people/francesca-hong) — **지지**: 요식업계 성차별에 항의하며 정치를 시작했다고 소개됐다. [출처](https://h21.hani.co.kr/arti/politics/politics_general/59763.html)
-- [국제앰네스티 한국지부](/people/international-amnesty-korea) — **지지**: 디지털 성폭력을 구조적 젠더기반폭력으로 보고 예방·삭제·차단·처벌까지의 대응 강화를 요구했다. [출처](https://www.womennews.co.kr/news/articleView.html?idxno=281125)
-- [명숙](/people/myeongsuk) — **지지**: 지역혐오와 여성혐오 등 소수자 혐오에 맞서 연대하겠다고 밝혔다. [출처](https://vop.co.kr/A00001696255.html)
-- [일베](/people/ilbe) — **반대**: 여성 혐오와 지역 비하 게시물을 양산해 온 커뮤니티로 소개됐다. [출처](https://www.wikitree.co.kr/articles/1152903)
-- [엘리엇 페이지](/people/elliot-page) — **중립**: 트랜스젠더 배우로 언급되며 젠더 관련 공격의 대상이 됐다. [출처](https://www.sisain.co.kr/news/articleView.html?idxno=58324)
-- [국가인권위원회](/people/national-human-rights-commission) — **지지**: 여자만 수건 유료인 관행을 성차별로 보고 개선을 권고했다. [출처](https://www.ggilbo.com/news/articleView.html?idxno=1175382)
+- [유효상](/people/yu-hyo-sang) — **중립**: 클릭베이트가 젠더 갈등을 자극하는 프레임을 생산한다고 비판했다. [출처](https://www.mt.co.kr/opinion/2026/08/18/2026081313280677587)
 <!-- /agent:stances -->

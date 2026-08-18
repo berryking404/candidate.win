@@ -1,0 +1,16 @@
+---
+title: 최시원
+slug: choe-si-won
+role: 가수
+status: stub
+---
+
+## 행적
+
+<!-- agent:events -->
+<!-- /agent:events -->
+
+## 이슈별 입장
+
+<!-- agent:stances -->
+<!-- /agent:stances -->

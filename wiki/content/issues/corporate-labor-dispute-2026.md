@@ -55,8 +55,4 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [최승호](/people/choe-seung-ho) — **중립**: 삼성전자 노조가 호남 반도체 클러스터 투자 문제를 교섭 의제로 볼 수 있다고 설명했지만, 메가프로젝트 자체에는 반대하지 않는다고 선을 그었다. [출처](https://www.hani.co.kr/arti/society/labor/1272758.html)
 - [권오현](/people/gwon-o-hyeon) — **반대**: 영업이익 연동 성과급 요구를 비판하며 단기 실적 배분보다 기업의 장기 경쟁력과 반도체 미래 투자를 강조했다. [출처](http://www.00news.co.kr/news/articleView.html?idxno=105868)
 - [김지형](/people/gim-ji-hyeong) — **중립**: 대기업 단위 노조의 영업이익 비례 성과급 갈등을 법만으로 해결하기 어렵다며 사회적 대화의 필요성을 제기했다. [출처](https://www.greened.kr/news/articleView.html?idxno=347370)
-- [삼성전자 동행노조](/people/samsung-electronics-donghaeng-union) — **반대**: 사내 익명게시판 실명제 도입을 직원 의견 위축과 경영진 비판 봉쇄로 보고 반발했다. [출처](https://www.mediawatch.kr/news/article.html?no=260698)
-- [삼성전자 초기업노조](/people/samsung-electronics-supra-enterprise-union) — **지지**: 호남권 반도체 메가프로젝트를 단체교섭 의제로 삼겠다고 밝히며 반도체 공장 설립 논의에 개입하겠다는 입장을 보였다. [출처](https://www.koreajoongangdaily.com/bilingual-news/government-must-resolve-labor-disputes-over-yellow-envelope-act-and-more-kor/12829188)
-- [삼성전자 노조](/people/samsung-electronics-union) — **반대**: 호남 반도체 프로젝트에 대한 조합원 반대 설문 결과를 근거로 프로젝트를 교섭 의제로 삼겠다고 하며 반대 입장을 드러냈다. [출처](https://www.khan.co.kr/article/202608171500001)
-- [삼성전자 동행노조](/people/samsung-electronics-donghaeng-union) — **지지**: 보상체계 개선과 성과급 문제 해결을 요구하며 서초사옥 앞 대규모 집회를 예고했다. [출처](https://www.ilovepc.co.kr/news/articleView.html?idxno=60343)
 <!-- /agent:stances -->
