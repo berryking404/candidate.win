@@ -139,4 +139,9 @@ summary: 2026년 선거 과정의 투표용지 부족·관리 부실 논란과 �
 - [장동혁](/people/jang-dong-hyeok) — **혼합**: 선관위 특검과 장외 집회를 주도하며 강경 대응을 이어갔지만, 부정선거 의혹과 관리 부실을 함께 거론해 단일 입장으로 보기 어렵다. [출처](https://www.donga.com/news/Politics/article/all/20260814/134482284/2)
 - [김용민](/people/gim-yong-min) — **지지**: 선관위 개혁을 헌법 개편 의제와 함께 언급하며 제도 개혁 필요성을 제기했다. [출처](https://www.newspim.com/news/view/20260814000902)
 - [정청래](/people/jeong-cheong-rae) — **혼합**: 선관위의 잘못을 강하게 비판했지만, 직접적 제도개혁안보다 당내 선관위 결정과 관련한 반발이 중심이었다. [출처](https://www.pressian.com/pages/articles/2026081411321559648?utm_source=naver&utm_medium=search)
+- [성일종](/people/seong-il-jong) — **지지**: 투표용지 부족 문제를 선관위의 관리 책임으로 지적하며 특검을 통한 오해 해소와 진상 규명을 촉구했다. [출처](https://n.news.naver.com/mnews/article/214/0001518457?sid=100)
+- [이준석](/people/i-jun-seok) — **지지**: 지방선거 투표용지 부족 사태를 참정권 침해 진상규명과 선거관리 개혁의 대상으로 언급했다. [출처](https://www.newspim.com/news/view/20260818000571)
+- [홍태용](/people/hong-tae-yong) — **중립**: 지방선거 투표용지 부족 사태와 선관위 관리 부실을 거론하며 선거 제도와 정치의 순서를 함께 짚었다. [출처](https://www.straightnews.co.kr/news/articleView.html?idxno=309072)
+- [조갑제](/people/jo-gap-je) — **지지**: 투표용지 부족 사태를 부정선거가 아닌 부실관리로 규정하며 선관위 개혁 필요성을 강조했다. [출처](https://www.mk.co.kr/article/12129933)
+- [최민희](/people/choe-min-hui) — **지지**: 선관위 개혁과 이중당적 금지법 취지에 선관위의 확인 기능을 활용해야 한다고 밝혔다. [출처](https://www.nocutnews.co.kr/news/6564037?utm_source=naver&utm_medium=article&utm_campaign=20260818112117)
 <!-- /agent:stances -->
