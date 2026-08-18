@@ -34,4 +34,5 @@ party: 국민의힘
 - [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원·해임건의안 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **반대**: 안규백 장관 관련 의혹과 대통령 행보를 함께 거론하며 탄핵 사유가 명백하다고 주장했다. [출처](https://news.tf.co.kr/read/ptoday/2343974.htm)
 - [정치권의 민생 집중도 논쟁 (2026)](/issues/politics-livelihood-focus-2026) — **혼합**: 당내 갈등보다 대여 투쟁과 민생 현안 대응을 우선해야 한다고 하면서도, 주로 당내 사퇴 요구 방어에 방점이 찍혀 있었다. [출처](https://www.newsfreezone.co.kr/news/articleView.html?idxno=702670)
 - [선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)](/issues/election-commission-management-controversy-2026) — **혼합**: 선관위 특검과 장외 집회를 주도하며 강경 대응을 이어갔지만, 부정선거 의혹과 관리 부실을 함께 거론해 단일 입장으로 보기 어렵다. [출처](https://www.donga.com/news/Politics/article/all/20260814/134482284/2)
+- [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **반대**: 김건희 재판 지연을 둘러싼 탄핵 주장과 특검 공세를 정면 비판했습니다. [출처](https://www.sedaily.com/article/20080287?ref=naver)
 <!-- /agent:stances -->
