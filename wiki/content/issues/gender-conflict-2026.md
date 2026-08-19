@@ -70,4 +70,9 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [배인규](/people/bae-in-gyu) — **지지**: 신남성연대를 이끌며 ‘악성 페미니즘’과 젠더 갈등을 사회적 문제로 규정했다. [출처](https://www.joongang.co.kr/article/25451250)
 - [이재명](/people/i-jae-myeong) — **지지**: 남성·여성 혐오와 차별적 표현을 문제로 보고 갈등 완화 필요성을 언급했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8568848&ref=A)
 - [유효상](/people/yu-hyo-sang) — **중립**: 클릭베이트가 젠더 갈등을 자극하는 프레임을 생산한다고 비판했다. [출처](https://www.mt.co.kr/opinion/2026/08/18/2026081313280677587)
+- [멜라니 그라디크](/people/mel-lani-geu-ra-di-keu) — **지지**: 공중화장실 이용료의 성차별성을 문제 삼아 빈시를 상대로 법적 절차에 나섰다. [출처](https://www.ajunews.com/view/20260818175254086)
+- [박미옥](/people/bak-mi-ok) — **중립**: 혐오보다 이해와 공존을 강조하며 젠더 갈등을 직접 겨냥한 발언은 아니었지만 성차별 논쟁을 경계하는 메시지를 냈다. [출처](https://www.newsen.com/news_view.php?uid=202608190831440310)
+- [서미화](/people/seo-mi-hwa) — **지지**: 혐오와 차별, 갈라치기를 뿌리 뽑겠다고 말하며 약자를 향한 성차별·혐오 대응 의지를 밝혔다. [출처](https://www.beminor.com/news/articleView.html?idxno=30293)
+- [김재섭](/people/gim-jae-seop) — **반대**: 여성혐오·여성차별이 당적과 권력에 따라 다르게 적용된다고 비판했다. [출처](https://www.jibs.co.kr/news/articles/articlesDetail/63530?feed=na)
+- [신지영](/people/sin-ji-yeong) — **중립**: ‘무섭노’ 논란을 혐오 표현으로 단정하기 어렵다고 보며 과잉 해석 가능성을 지적했다. [출처](https://www.seoul.co.kr/news/society/2026/07/09/20260709500110?wlog_tag3=naver)
 <!-- /agent:stances -->
