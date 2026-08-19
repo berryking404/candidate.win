@@ -38,4 +38,5 @@ party: 더불어민주당
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **반대**: 삼성전자 노조의 광주 반도체 공장 관련 교섭 주장에 대해 분쟁이 끝없이 확장될 수 있다며 엄격한 대응 필요성을 시사했다. [출처](https://www.munhwa.com/article/11608689?ref=naver)
 - (/issues/gender-conflict-2026) **입장**: 젠더 관련 현안에 대한 직접적 입장은 코퍼스에서 확인되지 않음.
 - [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원·해임건의안 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **지지**: 국군사관학교 통합과 전작권 환수를 국방력 강화를 위한 과제로 제시하며 추진을 지시했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639733&ref=A)
+- [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **중립**: 호르무즈 이슈에 대한 직접 입장은 기사에서 확인되지 않았다. [출처](https://www.cbci.co.kr/news/articleView.html?idxno=594122)
 <!-- /agent:stances -->
