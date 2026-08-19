@@ -68,4 +68,5 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [박찬대](/people/bak-chan-dae) — **중립**: 윤석열 정부 탄핵 이후 정치 지형과 관련한 경력 소개가 있었지만, 이번 이슈에 대한 직접 입장은 확인되지 않았다. [출처](http://www.jeollailbo.com/news/articleView.html?idxno=808307)
 - [장동혁](/people/jang-dong-hyeok) — **반대**: 김건희 재판 지연과 이재명 대통령 재판 중지를 함께 언급하며 탄핵·특검 공세를 비판했습니다. [출처](https://www.sedaily.com/article/20080287?ref=naver)
 - [김승수](/people/gim-seung-su) — **반대**: 김민석 대표에게 조희대 대법원장 탄핵과 이재명 대통령 공소 취소를 포기하라고 촉구하며 여권의 사법 공세에 반대했습니다. [출처](https://www.biz.heraldcorp.com/article/10843822?ref=naver)
+- [명태균](/people/myeong-tae-gyun) — **중립**: 명태균 게이트와 공천 개입 의혹의 핵심 관련자로 보도됐다. [출처](https://www.nocutnews.co.kr/news/6564640?utm_source=naver&utm_medium=article&utm_campaign=20260819104229)
 <!-- /agent:stances -->
