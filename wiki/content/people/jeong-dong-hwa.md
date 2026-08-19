@@ -2,7 +2,7 @@
 title: 정동화
 slug: jeong-dong-hwa
 role: 상명대 대학일자리본부장
-status: stub
+status: curated
 ---
 
 ## 행적

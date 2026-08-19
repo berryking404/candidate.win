@@ -1,8 +1,8 @@
 ---
 title: 홍태용
 slug: hong-tae-yong
-role: 전 시장
-status: stub
+role: 전 김해시장
+status: curated
 ---
 
 ## 행적

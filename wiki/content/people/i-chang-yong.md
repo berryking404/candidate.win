@@ -1,8 +1,8 @@
 ---
 title: 이창용
 slug: i-chang-yong
-role: 한국은행 총재
-status: stub
+role: 전 한국은행 총재
+status: curated
 ---
 
 ## 행적

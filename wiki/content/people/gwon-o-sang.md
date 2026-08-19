@@ -1,8 +1,8 @@
 ---
 title: 권오상
 slug: gwon-o-sang
-role: 정치인
-status: stub
+role: 대구 서구청장
+status: curated
 ---
 
 ## 행적

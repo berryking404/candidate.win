@@ -2,7 +2,7 @@
 title: 윤한홍
 slug: yun-han-hong
 role: 국민의힘 의원
-status: stub
+status: curated
 ---
 
 ## 행적

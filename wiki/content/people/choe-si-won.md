@@ -2,7 +2,7 @@
 title: 최시원
 slug: choe-si-won
 role: 가수
-status: stub
+status: curated
 ---
 
 ## 행적

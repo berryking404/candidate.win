@@ -2,7 +2,7 @@
 title: 류연승
 slug: ryu-yeon-seung
 role: 명지대 교수
-status: stub
+status: curated
 ---
 
 ## 행적

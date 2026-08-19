@@ -2,8 +2,8 @@ slug: i-chang-yong
 name_ko: 이창용
 name_en: null
 party: null
-role: 한국은행 총재
-status: stub
+role: 전 한국은행 총재
+status: curated
 aliases:
 - 한은 총재
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이창용
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260420036751002

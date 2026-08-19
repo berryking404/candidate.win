@@ -2,8 +2,8 @@ slug: gwon-o-sang
 name_ko: 권오상
 name_en: null
 party: null
-role: 정치인
-status: stub
+role: 대구 서구청장
+status: curated
 aliases:
 - 권오상 서구청장
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 권오상
   youtube_channels: []
+  official_urls:
+  - https://dgs.go.kr/mayor/contents.do?mid=0102000000

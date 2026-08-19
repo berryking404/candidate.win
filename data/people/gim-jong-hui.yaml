@@ -3,7 +3,7 @@ name_ko: 김종희
 name_en: null
 party: null
 role: 상명대 총장
-status: stub
+status: curated
 aliases:
 - 상명대 총장 김종희
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김종희
   youtube_channels: []
+  official_urls:
+  - https://www.smu.ac.kr/kor/intro/presidentOffice.do

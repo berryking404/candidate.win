@@ -3,7 +3,7 @@ name_ko: 정동화
 name_en: null
 party: null
 role: 상명대 대학일자리본부장
-status: stub
+status: curated
 aliases:
 - 정동화 본부장
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 정동화
   youtube_channels: []
+  official_urls:
+  - https://computer.smu.ac.kr/webzine/today.do?articleNo=767354&mode=view

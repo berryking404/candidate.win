@@ -2,8 +2,8 @@ slug: choe-yeong-jung
 name_ko: 최영중
 name_en: null
 party: null
-role: 전 청주시의원
-status: stub
+role: 청주시의원
+status: curated
 aliases:
 - 최영중
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최영중
   youtube_channels: []
+  official_urls:
+  - https://council.cheongju.go.kr/memberHome/main.html?f_code=4200

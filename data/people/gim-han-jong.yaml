@@ -2,8 +2,8 @@ slug: gim-han-jong
 name_ko: 김한종
 name_en: null
 party: null
-role: 정치인
-status: stub
+role: 장성군수
+status: curated
 aliases:
 - 김한종 장성군수
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김한종
   youtube_channels: []
+  official_urls:
+  - https://www.jangseong.go.kr/home/headman/intro/profile

@@ -2,7 +2,7 @@
 title: 김종희
 slug: gim-jong-hui
 role: 상명대 총장
-status: stub
+status: curated
 ---
 
 ## 행적

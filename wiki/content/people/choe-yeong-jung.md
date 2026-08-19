@@ -1,8 +1,8 @@
 ---
 title: 최영중
 slug: choe-yeong-jung
-role: 전 청주시의원
-status: stub
+role: 청주시의원
+status: curated
 ---
 
 ## 행적

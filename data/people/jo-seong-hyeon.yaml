@@ -3,7 +3,7 @@ name_ko: 조성현
 name_en: null
 party: null
 role: 전 수도방위사령부 제1경비단장
-status: stub
+status: curated
 aliases:
 - 조성현 전 대령
 - 조성현 대령
@@ -13,3 +13,5 @@ sources:
   news_keywords:
   - 조성현
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260819147200004

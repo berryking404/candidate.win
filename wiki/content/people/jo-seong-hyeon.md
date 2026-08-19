@@ -2,7 +2,7 @@
 title: 조성현
 slug: jo-seong-hyeon
 role: 전 수도방위사령부 제1경비단장
-status: stub
+status: curated
 ---
 
 ## 행적

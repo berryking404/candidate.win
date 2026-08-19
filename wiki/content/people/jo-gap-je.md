@@ -2,7 +2,7 @@
 title: 조갑제
 slug: jo-gap-je
 role: 언론인
-status: stub
+status: curated
 ---
 
 ## 행적

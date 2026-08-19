@@ -1,8 +1,8 @@
 ---
 title: 김한종
 slug: gim-han-jong
-role: 정치인
-status: stub
+role: 장성군수
+status: curated
 ---
 
 ## 행적

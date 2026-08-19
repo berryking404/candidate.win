@@ -3,7 +3,7 @@ name_ko: 최시원
 name_en: null
 party: null
 role: 가수
-status: stub
+status: curated
 aliases:
 - 최시원
 discovered_via_issue: election-commission-management-controversy-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최시원
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20230410131500504
