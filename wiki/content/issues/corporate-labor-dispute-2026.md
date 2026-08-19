@@ -55,4 +55,5 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [최승호](/people/choe-seung-ho) — **중립**: 삼성전자 노조가 호남 반도체 클러스터 투자 문제를 교섭 의제로 볼 수 있다고 설명했지만, 메가프로젝트 자체에는 반대하지 않는다고 선을 그었다. [출처](https://www.hani.co.kr/arti/society/labor/1272758.html)
 - [권오현](/people/gwon-o-hyeon) — **반대**: 영업이익 연동 성과급 요구를 비판하며 단기 실적 배분보다 기업의 장기 경쟁력과 반도체 미래 투자를 강조했다. [출처](http://www.00news.co.kr/news/articleView.html?idxno=105868)
 - [김지형](/people/gim-ji-hyeong) — **중립**: 대기업 단위 노조의 영업이익 비례 성과급 갈등을 법만으로 해결하기 어렵다며 사회적 대화의 필요성을 제기했다. [출처](https://www.greened.kr/news/articleView.html?idxno=347370)
+- [김영훈](/people/gim-yeong-hun) — **혼합**: 성과급 쟁의대상 확대 검토를 언급하는 한편, 정부 차원의 시행령·시행규칙 검토와 조정도 병행했다. [출처](https://www.news.mtn.co.kr/news-detail/2026081813272628831)
 <!-- /agent:stances -->

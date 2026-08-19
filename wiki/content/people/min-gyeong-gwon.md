@@ -15,4 +15,5 @@ party: 가가호호공명선거대한당
 ## 이슈별 입장
 
 <!-- agent:stances -->
+- [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **반대**: 삼성전자·SK하이닉스 성과급 협약을 무효라고 주장하며 주주환원을 요구했다. [출처](https://www.news1.kr/finance/general-stock/6262955)
 <!-- /agent:stances -->
