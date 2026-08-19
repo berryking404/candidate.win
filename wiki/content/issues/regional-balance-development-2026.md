@@ -232,4 +232,9 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [황영모](/people/hwang-yeong-mo) — **지지**: 농어촌기본소득 재원을 지방소멸대응기금 등으로 별도 마련해야 한다며 농촌 소멸 대응 정책 확대를 주장했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638418&ref=A)
 - [김중남](/people/gim-jung-nam) — **지지**: 영동권 균형발전의 핵심 거점으로 천연물바이오 산업단지의 기회발전특구 지정을 강조했다. [출처](https://www.jeonmae.co.kr/news/articleView.html?idxno=1284326)
 - [이만희](/people/i-man-hui) — **지지**: 경북 의료인력 부족과 수도권-비수도권 의료격차 해소를 지방소멸 대응의 핵심 과제로 보고, 지역 의료인력 직접 양성을 강조했다. [출처](https://www.imaeil.com/page/view/2026081811184997083)
+- [최재구](/people/choe-jae-gu) — **지지**: 예산군 인구감소 대응 기본계획을 바탕으로 지방소멸대응기금과 연계한 정책 실행을 추진했다. [출처](https://www.jeonmae.co.kr/news/articleView.html?idxno=1285107)
+- [조승래](/people/jo-seung-rae) — **지지**: 대전 유성의 현안 해결과 지역균형발전 요구를 정부 부처에 연쇄 면담으로 전달했다. [출처](https://www.wikitree.co.kr/articles/1153352)
+- [김종훈](/people/gim-jong-hun) — **혼합**: 메가프로젝트가 지역균형발전 취지에서 추진돼야 하지만 노동권 후퇴 수단이 되어서는 안 된다고 비판했다. [출처](https://imnews.imbc.com/news/2026/politics/article/6845734_36911.html)
+- [전희경](/people/jeon-hui-gyeong) — **중립**: 이슈 관련 기사에서 지역균형발전 논의의 배경 인물로 언급됐다. [출처](https://www.mk.co.kr/article/12130786)
+- [조찬형](/people/jo-chan-hyeong) — **중립**: 이슈 관련 기사에서 지역균형발전 논의의 배경 인물로 언급됐다. [출처](https://www.mk.co.kr/article/12130786)
 <!-- /agent:stances -->
