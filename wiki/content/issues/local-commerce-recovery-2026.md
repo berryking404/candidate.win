@@ -189,4 +189,9 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [김기재](/people/gimgijae) — **지지**: 합덕전통시장을 찾아 시민·소상공인 목소리를 듣고 지역 상권 활성화를 위한 지원과 개선사항을 논의했다. [출처](http://www.chungnamilbo.co.kr/news/articleView.html?idxno=904277)
 - [추경호](/people/chu-gyeong-ho) **입장**: 지역 상권 회복과 경제 부양을 위해 추가경정예산 편성 등 정책 대응을 제시함. (source: https://www.breaknews.com/1205892)
 - [김장호](/people/gim-jang-ho) — **지지**: 골목상권과 소상공인 지원을 민생 최우선 가치로 삼고, 지역경기살리기위원회와 골목상권지원단 신설을 추진했다. [출처](https://www.kbsm.net/news/view.php?idx=530632)
+- [강성휘](/people/gang-seong-hwi) — **지지**: 집중호우 피해 지역의 일상 회복과 지역 상권 활력 회복을 위한 지원을 언급했다. [출처](https://www.incheontoday.com/news/articleView.html?idxno=322468)
+- [정성주](/people/jeong-seong-ju) — **지지**: 민생경제 회복과 지역 상권·소상공인 지원을 강조했다. [출처](https://www.wikitree.co.kr/articles/1153286)
+- [손배찬](/people/son-bae-chan) — **지지**: 지역경제 활성화와 소상공인 지원을 위한 3차 추경 편성을 추진했다. [출처](https://www.kyeonggi.com/article/20260819580056)
+- [김용판](/people/gim-yong-pan) — **지지**: 소상공인 지원과 생활밀착형 주거 혁신의 연계를 강조했다. [출처](https://www.hankooki.com/news/articleView.html?idxno=1397010)
+- [허전](/people/heo-jeon) — **지지**: 소상공인 온라인 판로·마케팅 지원이 실질적 경영 역량 강화로 이어져야 한다고 말했다. [출처](https://www.discoverynews.kr/news/articleView.html?idxno=1098949)
 <!-- /agent:stances -->
