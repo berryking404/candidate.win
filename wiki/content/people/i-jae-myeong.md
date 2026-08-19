@@ -35,4 +35,5 @@ party: 더불어민주당
 - [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 서남권 첨단산업을 새 성장 거점으로 육성하고 대규모 AI·반도체 투자를 통해 지역 청년 일자리와 균형발전을 함께 추진하겠다는 입장을 밝혔다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=06825686645486968)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **반대**: 삼성전자 노조의 광주 반도체 공장 관련 교섭 주장에 대해 분쟁이 끝없이 확장될 수 있다며 엄격한 대응 필요성을 시사했다. [출처](https://www.munhwa.com/article/11608689?ref=naver)
 - (/issues/gender-conflict-2026) **입장**: 젠더 관련 현안에 대한 직접적 입장은 코퍼스에서 확인되지 않음.
+- [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원·해임건의안 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **지지**: 국군사관학교 통합과 전작권 환수를 국방력 강화를 위한 과제로 제시하며 추진을 지시했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639733&ref=A)
 <!-- /agent:stances -->
