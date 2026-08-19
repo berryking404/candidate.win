@@ -190,4 +190,5 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [양기대](/people/yang-gi-dae) — **중립**: 기사에서 세제개편과 민생 논의를 둘러싼 당내 발언맥락으로 거론됐다. [출처](https://www.news1.kr/politics/assembly/6260270)
 - [조용술](/people/jo-yong-sul) — **반대**: 소모적인 정쟁에 몰두해 대안 야당 이미지가 부족하다고 국민의힘을 비판했다. [출처](https://www.ekn.kr/web/view.php?key=20260816025533258)
 - [이청형](/people/i-cheong-hyeong) — **중립**: 민생 중심의 의정과 현장 정치를 강조하는 문맥에서 거론됐다. [출처](https://www.nocutnews.co.kr/news/6562918?utm_source=naver&utm_medium=article&utm_campaign=20260817050102)
+- [안도걸](/people/an-do-geol) — **지지**: 지역 민생정치와 성과 중심 플랫폼을 만들겠다며 협력과 견제를 민생 기준으로 풀겠다고 밝혔다. [출처](https://www.newsis.com/view/NISX20260819_0003754385)
 <!-- /agent:stances -->
