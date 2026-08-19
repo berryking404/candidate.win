@@ -1,76 +1,144 @@
-generated_at: '2026-08-18T23:02:18+00:00'
-source_date: 2026-08-18T230209Z
+generated_at: '2026-08-19T23:02:04+00:00'
+source_date: 2026-08-19T230200Z
 window_hours: 72
 items:
 - rank: 1
-  title: '[사설] 노봉법·메가특구법 등 노사 갈등 현안은 정부가 해결해야'
+  title: 국회 과방위 이진숙 ‘5·18’논란으로 파행
   status: 정식 검토
   score: 9
-  summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 20건, 매체 15곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 4
-    outlet_count: 4
-    public_actor: 대표, 정부
+    news_count: 20
+    outlet_count: 15
+    public_actor: 국회, 민주당, 의원
   sources:
-  - title: 조선소가 알던 위험, 감독은 장례 뒤에 왔다
-    url: https://newscham.net/articles/117075
-  - title: '[오늘의 사설]"김민석 대표, 국민 목소리에 귀 기울이길..."'
-    url: http://www.nongaek.com/news/articleView.html?idxno=96436
-  - title: '[전국 주요 신문 사설](18일 조간)'
-    url: https://www.yna.co.kr/view/AKR20260818012700011?input=1195m
+  - title: 과방위, 이진숙 주최 '5·18토론회' 논란에 '파행'…사과 요구에 이진숙...
+    url: https://news.tvchosun.com/site/data/html_dir/2026/08/20/2026082090022.html
+  - title: '"의원 자격 없다" 난타전‥첫 회의부터 파행'
+    url: https://imnews.imbc.com/replay/2026/nwtoday/article/6845942_37012.html
+  - title: “5·18 모욕 사퇴해야” “범죄라도 저질렀나”…‘이진숙 충돌’로 과...
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641143&ref=A
 - rank: 2
-  title: 국힘·서울시, '8·13 부동산 대책 문제점' 토론회…오세훈 참석
+  title: 국회 과방위, '5·18 폄훼 논란' 이진숙 놓고 충돌
   status: 정식 검토
   score: 9
-  summary: 최근 보도 11건, 매체 11곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 18건, 매체 9곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 11
-    outlet_count: 11
-    public_actor: 국회, 정부
+    news_count: 18
+    outlet_count: 9
+    public_actor: 국회, 의원
   sources:
-  - title: 국힘, '8·13 부동산대책' 국회 토론회…오세훈도 참석
-    url: http://www.joseilbo.com/news/news_read.php?uid=574014&class=32&grp=
-  - title: 김민석, 봉하마을 참배·文 예방…부산서 첫 공개 최고위[오늘아침]
-    url: https://www.nocutnews.co.kr/news/6564502?utm_source=naver&utm_medium=article&utm_campaign=20260819070027
-  - title: 국힘·서울시, '8·13 부동산 대책 문제점' 토론회…오세훈 참석
-    url: https://www.yna.co.kr/view/AKR20260818154600001?input=1195m
+  - title: '"중대범죄자와 같이 못 앉아" "내가 왜?"…이진숙 놓고 과방위 파행'
+    url: http://weekly.chosun.com/news/articleView.html?idxno=54452
+  - title: '''이진숙 5·18 토론회'' 놓고 여야 충돌'
+    url: https://www.hankyung.com/article/2026081903861
+  - title: '"사퇴해야" "표현의 자유" 충돌…이진숙 ''5·18 토론회''에 과방위 파행'
+    url: https://www.kado.net/news/articleView.html?idxno=2067453
 - rank: 3
-  title: 국힘 서울시당, ‘8·13 부동산 대책’ 토론회 개최…오세훈 참석
+  title: '[정국풍향계] 여야 의원들, 벌써 ‘2028 공천’으로 뛴다…국회는 정책보다 공천, 당권보다 생존'
   status: 정식 검토
   score: 9
   summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
     outlet_count: 18
-    public_actor: 국회, 민주당, 정부
+    public_actor: 국민의힘, 국회, 대변인, 더불어민주당, 민주당, 의원
   sources:
-  - title: 국힘, '8·13 부동산대책' 국회 토론회…오세훈도 참석
-    url: http://www.joseilbo.com/news/news_read.php?uid=574014&class=32&grp=
-  - title: 고양시 덕양구·일산동구 GB 109.03㎢, 토지거래허가구역 지정
-    url: https://www.joongangenews.com/news/articleView.html?idxno=540835
-  - title: 오늘 국토위 당정협의…'용산공원 개발' 논의 주목
-    url: http://www.yonhapnewstv.co.kr/news/MYH20260819073018JHI
+  - title: '[손병관의 뉴스프레소] 자신이 위촉한 국민통합위원장의 탈당 요구받은...'
+    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260437&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+  - title: '[양준서의 정조준] "김민석이 되면 연말쯤 더 크게 망한다"…무수한 고...'
+    url: https://www.pennmike.com/news/articleView.html?idxno=125983
+  - title: '[정치 프리즘] 역대급 분열 양상 보인 더불어민주당 8·17 전당대회'
+    url: https://monthly.chosun.com/news/articleView.html?idxno=71113
 - rank: 4
-  title: '[단독] 국감 앞두고 대응 높인 정부…전 부처 ‘상황반’ 꾸린다'
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  title: 윤리위엔 친한계·비당권파 4명, 당협은 전면 재선출…국민의힘 갈등의 본질은 ‘2028 공천권’
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 15곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
+    news_count: 20
+    outlet_count: 15
+    public_actor: 국민의힘, 국회, 대표, 더불어민주당, 민주당, 의원
   sources:
-  - title: '[단독] 국감 앞두고 대응 높인 정부…전 부처 ‘상황반’ 꾸린다'
-    url: https://news.mtn.co.kr/news-detail/2026081816471787971
+  - title: '[정치 프리즘] 역대급 분열 양상 보인 더불어민주당 8·17 전당대회'
+    url: https://monthly.chosun.com/news/articleView.html?idxno=71113
+  - title: '"중진 희생·당협 물갈이"…장동혁, 총선 승부수 던졌다'
+    url: https://www.thepublic.kr/news/articleView.html?idxno=315478
+  - title: '[정치문법] ''정점식 중심론'' 띄운 국민의힘 중진들, ''우회적 권력 재편...'
+    url: https://www.ntoday.co.kr/news/articleView.html?idxno=128835
 - rank: 5
-  title: 삼성바이오로직스 노조, 정부 비판 거세지자 '사후조정' 합의
+  title: 국회 과방위 파행…이진숙 ‘5·18 토론회’ 논란으로 충돌
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 17
+    public_actor: 국회
+  sources:
+  - title: “5·18 모욕 사퇴해야” “범죄라도 저질렀나”…‘이진숙 충돌’로 과...
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641143&ref=A
+  - title: “5·18 모욕 사퇴해야” “범죄라도 저질렀나”…‘이진숙 충돌’로 과...
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641063&ref=A
+  - title: '"중대범죄자와 같이 못 앉아" "내가 왜?"…이진숙 놓고 과방위 파행'
+    url: http://weekly.chosun.com/news/articleView.html?idxno=54452
+- rank: 6
+  title: ‘靑패싱 대법관 제청 논란’ 조희대 출석요구안, 與 주도로 국회 법사위 의결
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 국회
+  sources:
+  - title: 김민석, 서면 제청 조희대에 “퇴학 구걸하는 불량학생” 사퇴 압박
+    url: https://www.donga.com/news/Politics/article/all/20260820/134508522/2
+  - title: ‘靑패싱 대법관 제청 논란’ 조희대 출석요구안, 與 주도로 국회 법사...
+    url: https://www.seoul.co.kr/news/politics/congress/2026/08/19/20260819500200?wlog_tag3=naver
+- rank: 7
+  title: 국회 과방위 거듭된 파행, 이진숙 의원 '5·18 토론회' 논란 정면충돌
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 0
+    outlet_count: 0
+    public_actor: 국회, 의원
+  sources: []
+- rank: 8
+  title: 국회 과방위, 이진숙 '5.18 폄훼' 논란으로 파행…국민의힘은 '李 감싸기'
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 0
+    outlet_count: 0
+    public_actor: 국민의힘, 국회
+  sources: []
+- rank: 9
+  title: 국회서 국립의전원 ‘서울·남원 이원화’ 논란…“지역의료 인력인데 서울서 교육”
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
+    public_actor: 국회
+  sources:
+  - title: 국회서 국립의전원 '서울·남원 이원화' 논란…"지역의료 인력인데 서울...
+    url: https://www.bosa.co.kr/news/articleView.html?idxno=3010454
+- rank: 10
+  title: 이재명 정부 용산공원 '닥공' 실효성 논란, 반환·정화·특별법 개정 '산 넘어 산'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 2건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 1
     public_actor: 정부
   sources:
-  - title: 삼성바이오로직스 노조, 정부 비판 거세지자 '사후조정' 합의
-    url: https://www.sisaweek.com/news/articleView.html?idxno=237338
+  - title: '[8월20일자] 비즈니스포스트 아침의 주요기사'
+    url: https://www.businesspost.co.kr/BP?command=article_view&num=445133
+  - title: 이재명 정부 용산공원 '닥공' 실효성 논란, 반환·정화·특별법 개정 '산...
+    url: https://www.businesspost.co.kr/BP?command=article_view&num=445113
