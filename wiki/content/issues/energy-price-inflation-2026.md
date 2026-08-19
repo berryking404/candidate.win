@@ -84,7 +84,6 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - [송기헌](/people/song-gi-heon) — **지지**: AIDC 전력 해법을 챙기겠다며 PPA 논쟁 조율을 요청했고, 전력 부담 해소 방향의 제도 개선에 관여하겠다는 입장을 보였다. [출처](https://www.ddaily.co.kr/page/view/2026071616512100439)
 - [이재명](/people/i-jae-myeong) — **지지**: 산업용 전기요금 지역별 차등 인하와 같은 전력정책을 통해 지방 경쟁력을 높이겠다는 정부 방침을 뒷받침했다. [출처](https://www.segye.com/newsView/20260804518859?OutUrl=naver)
 - [조지연](/people/jo-ji-yeon) — **지지**: 폭염 등 자연재난이 장기화될 때 취약계층·전통시장·농축산업 종사자의 전기요금 부담을 덜어주는 법 개정을 추진했다. [출처](https://www.hidomin.com/news/articleView.html?idxno=716218)
-- [물가 안정과 에너지 요금 부담 (2026)](/issues/energy-price-inflation-2026) — **중립**: 기사들은 전기요금 인상, 차등요금제, 물가 안정 고려를 다루며 관련 논의를 소개했지만 특정 인물의 명시적 찬반 입장은 확인되지 않았다. [출처](https://www.m-i.kr/news/articleView.html?idxno=1399604)
 - [이재명](/people/i-jae-myeong) — **지지**: 폭염을 기후 재난으로 보고 폭염 대응과 민생법안 속도를 강조하며, 에너지 부담 완화와 물가 안정 대응 기조를 시사했다. [출처](https://www.naeil.com/news/read/598070?ref=naver)
 - [조지연](/people/jo-ji-yeon) — **지지**: 폭염 등 자연재난이 지속될 경우 전기요금 감면 지원이 필요하다고 주장했다. [출처](https://www.jeonmae.co.kr/news/articleView.html?idxno=1281485)
 - [구윤철](/people/gu-yun-cheol) — **지지**: 폭염에 따른 물가 상방 압력을 낮추기 위해 범부처 물가안정 노력을 강화하겠다고 밝혔다. [출처](https://www.mt.co.kr/economy/2026/08/11/2026081110235859965)
@@ -102,7 +101,5 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - [한정애](/people/han-jeong-ae) — **중립**: 폭염에 따른 전기요금 충격 완화와 물가 영향 대응을 언급했으나, 에너지 가격 인플레이션 자체에 대한 직접 입장은 명확하지 않았다. [출처](https://news.einfomax.co.kr/news/articleView.html?idxno=4429288)
 - [김성환](/people/gim-seong-hwan) — **중립**: 산업용 전기요금 지역별 차등화와 재생에너지 확대를 언급했지만, 물가와 전기요금 전반에 대한 찬반은 기사에서 분명히 갈리지 않았다. [출처](http://www.metroseoul.co.kr/article/20260804500421)
 - [윤영희](/people/yun-yeong-hui) — **중립**: 전기요금 누진세 완화가 실질 부담을 줄였다고 설명했으나, 해당 이슈에 대한 별도의 찬반 입장은 보이지 않았다. [출처](https://www.kgnews.co.kr/news/article.html?no=906340)
-- [국가데이터처 경제조사팀장](/people/gukga-data-cheo-gyeongje-josa-timjang) — **중립**: 물가 지표 설명만 있었고 개인의 정책 입장은 확인되지 않았다. [출처](https://www.kgnews.co.kr/news/article.html?no=906340)
-- [이승한?](/people/i-seung-han) — **중립**: 기사에서 소비자물가 상승 배경을 설명했지만 개인의 정책 입장은 확인되지 않았다. [출처](https://www.news1.kr/economy/trend/6248347)
 - [유창범](/people/yu-chang-beom) — **중립**: 전력망 투자와 물가 안정 대책을 함께 거론한 칼럼이었으나 명시적 찬반은 없었다. [출처](https://news.einfomax.co.kr/news/articleView.html?idxno=4428701)
 <!-- /agent:stances -->

@@ -157,9 +157,9 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [류연승](/people/ryu-yeon-seung) — **지지**: 반도체·ICT 분야 국제협력을 통해 전문 인재 양성을 추진했다. [출처](https://edu.donga.com/news/articleView.html?idxno=110984)
 - [정동화](/people/jeong-dong-hwa) — **지지**: 엔터 산업 취업을 희망하는 청년들의 진로 설정과 일경험 연계를 지원했다. [출처](https://news.bbsi.co.kr/news/articleView.html?idxno=4101268)
 - [박준희](/people/pak-jun-hui) — **지지**: 관악 청년과 G밸리 일자리를 잇는 공동 취업지원 모델을 통해 청년 취업과 기업 인재 확보의 선순환을 기대했다. [출처](https://www.yna.co.kr/view/AKR20260818104700004?input=1195m)
-- [이억원](/people/lee-youngwon) — **지지**: 금융권이 AI 시대에 맞춰 양질의 청년 일자리를 적극 확대하고 인턴·직무체험 기회를 늘려야 한다고 당부했다. [출처](https://www.nocutnews.co.kr/news/6564727?utm_source=naver&utm_medium=article&utm_campaign=20260819120630)
-- [유동수](/people/yudongsu) — **지지**: 청년 실업률이 높은 상황에서 참여 기관들이 청년의 가능성과 잠재력을 믿고 더 많은 기회를 제공해야 한다고 말했다. [출처](http://www.newsprime.co.kr/news/article.html?no=744287)
-- [박찬대](/people/park-chan-dae) — **지지**: 인하대 반도체·바이오 교육동을 지역 첨단산업 핵심 인재 양성 거점으로 평가하며 인재 육성 필요성을 강조했다. [출처](https://www.discoverynews.kr/news/articleView.html?idxno=1098945)
-- [민형배](/people/min-hyung-bae) — **지지**: AI 데이터센터와 첨단산업 운영을 뒷받침할 냉난방공조 거점 투자가 지역 제조업의 고부가가치 전환에 중요하다고 말했다. [출처](https://www.namdonews.com/news/articleView.html?idxno=920435)
+- [이억원](/people/i-eok-won) — **지지**: 금융권이 AI 시대에 맞춰 양질의 청년 일자리를 적극 확대하고 인턴·직무체험 기회를 늘려야 한다고 당부했다. [출처](https://www.nocutnews.co.kr/news/6564727?utm_source=naver&utm_medium=article&utm_campaign=20260819120630)
+- [유동수](/people/yu-dong-su) — **지지**: 청년 실업률이 높은 상황에서 참여 기관들이 청년의 가능성과 잠재력을 믿고 더 많은 기회를 제공해야 한다고 말했다. [출처](http://www.newsprime.co.kr/news/article.html?no=744287)
+- [박찬대](/people/bak-chan-dae) — **지지**: 인하대 반도체·바이오 교육동을 지역 첨단산업 핵심 인재 양성 거점으로 평가하며 인재 육성 필요성을 강조했다. [출처](https://www.discoverynews.kr/news/articleView.html?idxno=1098945)
+- [민형배](/people/min-hyeong-bae) — **지지**: AI 데이터센터와 첨단산업 운영을 뒷받침할 냉난방공조 거점 투자가 지역 제조업의 고부가가치 전환에 중요하다고 말했다. [출처](https://www.namdonews.com/news/articleView.html?idxno=920435)
 - [양오봉](/people/yang-o-bong) — **지지**: 금융·농생명·미래첨단산업 공공기관의 전북 이전이 글로컬 인재 양성과 지역 산업 육성에 필요하다고 주장했다. [출처](https://www.veritas-a.com/news/articleView.html?idxno=623632)
 <!-- /agent:stances -->

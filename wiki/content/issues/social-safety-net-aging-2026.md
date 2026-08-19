@@ -174,7 +174,6 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [서은영](/people/seo-eun-yeong) — **지지**: 위기청소년과 범죄피해자 지원을 위한 지역사회 안전망 구축에 나섰다. [출처](https://www.kpanews.co.kr/news/articleView.html?idxno=540809)
 - [김재섭](/people/gim-jae-seop) — **지지**: 자영업자인 피보험자의 수급자격 예외를 통해 사회안전망을 강화하자는 입법안을 발의했다. [출처](https://www.jeonmae.co.kr/news/articleView.html?idxno=1284069)
 - [장석영](/people/jang-seok-yeong) — **지지**: 초고령사회에서 24시간 시니어 안심 돌봄은 개인이 아니라 사회 전체의 안전망이라고 강조했다. [출처](https://www.youthdaily.co.kr/news/article.html?no=225309)
-- [재외동포 심포지엄 발언자](/people/none) — **지지**: 2세 자녀 돌봄과 교육까지 포괄하는 사회적 안전망이 필요하다고 강조했다. [출처](https://www.ziksir.com/news/articleView.html?idxno=143519)
 - [소병훈](/people/so-byeong-hun) — **지지**: 통합돌봄 현장 인력의 겸직 문제를 지적하며 제도 실효성을 위한 전담인력 확충을 촉구했다. [출처](https://www.bosa.co.kr/news/articleView.html?idxno=3010407)
 - [이주영](/people/i-ju-yeong) — **지지**: 검체검사 위탁·수탁기관의 인증과 제재 근거를 법제화해 의료 안전망을 보완하려고 했다. [출처](https://www.bosa.co.kr/news/articleView.html?idxno=3010409)
 - [강숙희](/people/gang-suk-hui) — **지지**: 밀양형 통합돌봄 홍보와 복지 사각지대 발굴을 통해 소외 주민을 줄이겠다고 밝혔다. [출처](https://www.pressian.com/pages/articles/2026081911251962944?utm_source=naver&utm_medium=search)
