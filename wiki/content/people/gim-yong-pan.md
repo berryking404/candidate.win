@@ -2,7 +2,7 @@
 title: 김용판
 slug: gim-yong-pan
 role: 달서구청장
-status: stub
+status: curated
 ---
 
 ## 행적

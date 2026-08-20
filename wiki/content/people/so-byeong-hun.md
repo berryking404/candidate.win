@@ -1,8 +1,8 @@
 ---
 title: 소병훈
 slug: so-byeong-hun
-role: null
-status: stub
+role: 국회의원
+status: curated
 ---
 
 ## 행적

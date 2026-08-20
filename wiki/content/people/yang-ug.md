@@ -1,8 +1,8 @@
 ---
 title: 양욱
 slug: yang-ug
-role: null
-status: stub
+role: 아산정책연구원 연구위원
+status: curated
 ---
 
 ## 행적

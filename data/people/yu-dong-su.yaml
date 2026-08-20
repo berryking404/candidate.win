@@ -2,8 +2,8 @@ slug: yu-dong-su
 name_ko: 유동수
 name_en: null
 party: null
-role: null
-status: stub
+role: 국회의원
+status: curated
 aliases: []
 discovered_via_issue: publication-safety-2026-08-20
 discovered_at: '2026-08-19'
@@ -11,3 +11,5 @@ sources:
   news_keywords:
   - 유동수
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260630180000001

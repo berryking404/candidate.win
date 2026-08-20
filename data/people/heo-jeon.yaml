@@ -3,7 +3,7 @@ name_ko: 허전
 name_en: null
 party: null
 role: 전주정보문화산업진흥원장
-status: stub
+status: curated
 aliases:
 - 전주정보문화산업진흥원장
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 허전
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20241125115500055

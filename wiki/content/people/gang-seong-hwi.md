@@ -2,7 +2,7 @@
 title: 강성휘
 slug: gang-seong-hwi
 role: 목포시장
-status: stub
+status: curated
 ---
 
 ## 행적

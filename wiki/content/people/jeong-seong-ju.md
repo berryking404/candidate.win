@@ -2,7 +2,7 @@
 title: 정성주
 slug: jeong-seong-ju
 role: 김제시장
-status: stub
+status: curated
 ---
 
 ## 행적

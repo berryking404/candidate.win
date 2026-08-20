@@ -3,7 +3,7 @@ name_ko: 손현규
 name_en: null
 party: null
 role: 경북도 기후환경정책과장
-status: stub
+status: curated
 aliases:
 - 손현규
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 손현규
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260805146800053

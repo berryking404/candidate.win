@@ -2,7 +2,7 @@
 title: 손현규
 slug: son-hyeon-gyu
 role: 경북도 기후환경정책과장
-status: stub
+status: curated
 ---
 
 ## 행적

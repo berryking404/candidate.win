@@ -1,8 +1,8 @@
 ---
 title: 유동수
 slug: yu-dong-su
-role: null
-status: stub
+role: 국회의원
+status: curated
 ---
 
 ## 행적

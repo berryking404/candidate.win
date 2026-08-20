@@ -2,7 +2,7 @@
 title: 허전
 slug: heo-jeon
 role: 전주정보문화산업진흥원장
-status: stub
+status: curated
 ---
 
 ## 행적

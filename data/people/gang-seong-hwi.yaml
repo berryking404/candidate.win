@@ -3,7 +3,7 @@ name_ko: 강성휘
 name_en: null
 party: null
 role: 목포시장
-status: stub
+status: curated
 aliases:
 - 목포시장
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 강성휘
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260604011800054

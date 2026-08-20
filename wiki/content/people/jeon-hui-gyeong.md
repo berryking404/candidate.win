@@ -1,8 +1,8 @@
 ---
 title: 전희경
 slug: jeon-hui-gyeong
-role: null
-status: stub
+role: 전 국회의원
+status: curated
 ---
 
 ## 행적

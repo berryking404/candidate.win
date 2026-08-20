@@ -1,8 +1,8 @@
 ---
 title: 양오봉
 slug: yang-o-bong
-role: null
-status: stub
+role: 전북대 총장
+status: curated
 ---
 
 ## 행적

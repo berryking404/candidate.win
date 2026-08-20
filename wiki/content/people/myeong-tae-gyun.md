@@ -1,8 +1,8 @@
 ---
 title: 명태균
 slug: myeong-tae-gyun
-role: null
-status: stub
+role: 정치 브로커
+status: curated
 ---
 
 ## 행적

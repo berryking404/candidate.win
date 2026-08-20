@@ -2,8 +2,8 @@ slug: myeong-tae-gyun
 name_ko: 명태균
 name_en: null
 party: null
-role: null
-status: stub
+role: 정치 브로커
+status: curated
 aliases: []
 discovered_via_issue: publication-safety-2026-08-20
 discovered_at: '2026-08-19'
@@ -11,3 +11,5 @@ sources:
   news_keywords:
   - 명태균
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260713116900004
