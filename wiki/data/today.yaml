@@ -1,144 +1,134 @@
-generated_at: '2026-08-19T23:02:04+00:00'
-source_date: 2026-08-19T230200Z
+generated_at: '2026-08-20T23:02:14+00:00'
+source_date: 2026-08-20T230207Z
 window_hours: 72
 items:
 - rank: 1
-  title: 국회 과방위 이진숙 ‘5·18’논란으로 파행
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 15곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 15
-    public_actor: 국회, 민주당, 의원
-  sources:
-  - title: 과방위, 이진숙 주최 '5·18토론회' 논란에 '파행'…사과 요구에 이진숙...
-    url: https://news.tvchosun.com/site/data/html_dir/2026/08/20/2026082090022.html
-  - title: '"의원 자격 없다" 난타전‥첫 회의부터 파행'
-    url: https://imnews.imbc.com/replay/2026/nwtoday/article/6845942_37012.html
-  - title: “5·18 모욕 사퇴해야” “범죄라도 저질렀나”…‘이진숙 충돌’로 과...
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641143&ref=A
-- rank: 2
-  title: 국회 과방위, '5·18 폄훼 논란' 이진숙 놓고 충돌
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 18건, 매체 9곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 18
-    outlet_count: 9
-    public_actor: 국회, 의원
-  sources:
-  - title: '"중대범죄자와 같이 못 앉아" "내가 왜?"…이진숙 놓고 과방위 파행'
-    url: http://weekly.chosun.com/news/articleView.html?idxno=54452
-  - title: '''이진숙 5·18 토론회'' 놓고 여야 충돌'
-    url: https://www.hankyung.com/article/2026081903861
-  - title: '"사퇴해야" "표현의 자유" 충돌…이진숙 ''5·18 토론회''에 과방위 파행'
-    url: https://www.kado.net/news/articleView.html?idxno=2067453
-- rank: 3
-  title: '[정국풍향계] 여야 의원들, 벌써 ‘2028 공천’으로 뛴다…국회는 정책보다 공천, 당권보다 생존'
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 18
-    public_actor: 국민의힘, 국회, 대변인, 더불어민주당, 민주당, 의원
-  sources:
-  - title: '[손병관의 뉴스프레소] 자신이 위촉한 국민통합위원장의 탈당 요구받은...'
-    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260437&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
-  - title: '[양준서의 정조준] "김민석이 되면 연말쯤 더 크게 망한다"…무수한 고...'
-    url: https://www.pennmike.com/news/articleView.html?idxno=125983
-  - title: '[정치 프리즘] 역대급 분열 양상 보인 더불어민주당 8·17 전당대회'
-    url: https://monthly.chosun.com/news/articleView.html?idxno=71113
-- rank: 4
-  title: 윤리위엔 친한계·비당권파 4명, 당협은 전면 재선출…국민의힘 갈등의 본질은 ‘2028 공천권’
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 15곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 15
-    public_actor: 국민의힘, 국회, 대표, 더불어민주당, 민주당, 의원
-  sources:
-  - title: '[정치 프리즘] 역대급 분열 양상 보인 더불어민주당 8·17 전당대회'
-    url: https://monthly.chosun.com/news/articleView.html?idxno=71113
-  - title: '"중진 희생·당협 물갈이"…장동혁, 총선 승부수 던졌다'
-    url: https://www.thepublic.kr/news/articleView.html?idxno=315478
-  - title: '[정치문법] ''정점식 중심론'' 띄운 국민의힘 중진들, ''우회적 권력 재편...'
-    url: https://www.ntoday.co.kr/news/articleView.html?idxno=128835
-- rank: 5
-  title: 국회 과방위 파행…이진숙 ‘5·18 토론회’ 논란으로 충돌
+  title: 신천지예수교회, 국민의힘 정당 가입 논란 사과…“정치권과 일절 연계 차단”
   status: 정식 검토
   score: 7
-  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 3
+    public_actor: 국민의힘
+  sources:
+  - title: 신천지예수교회, 최근 정치적 논란 관련 공식 사과
+    url: https://www.inews365.com/news/article.html?no=932530
+  - title: '[전문] 신천지, 국민의힘 당원 5만여명 집단가입 공식 사과…"정치권과...'
+    url: https://www.polinews.co.kr/news/articleView.html?idxno=740754
+  - title: 신천지, 국민의힘 당원 가입 논란 공식 사과…“정치권과 일절 연계 차...
+    url: https://www.viva100.com/article/20260820500832
+- rank: 2
+  title: 정부, '독파모' 2차 평가 투명성 논란에 세부 지표 공개
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 9건, 매체 8곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 9
+    outlet_count: 8
+    public_actor: 정부
+  sources:
+  - title: '[독파모 2차전 진단①] 벤치마크 1위도 탈락… ‘국대 AI’ 점수 공개 놓...'
+    url: https://www.ddaily.co.kr/page/view/2026081916510321197
+  - title: '[안광섭 AI 진테제] 독파모 2차 평가가 남긴 것'
+    url: https://zdnet.co.kr/view/?no=20260820204530
+  - title: 논란의 '독파모 성적표' 꺼냈으나 전체 점수·순위 끝내 비공개
+    url: https://www.newscj.com/news/articleView.html?idxno=3426671
+- rank: 3
+  title: 與 일부 의원들 "조희대 폭주 탄핵으로 끝내야" 친전
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 3
+    public_actor: 의원
+  sources:
+  - title: 범與권 "조희대 사법 폭주…이제 탄핵으로 끝내야" 친전
+    url: https://news.tvchosun.com/site/data/html_dir/2026/08/20/2026082090215.html
+  - title: 與일각, 조희대 탄핵안 다시 추진…"사법 폭주 방치 안 돼"
+    url: https://www.news1.kr/politics/assembly/6264679
+  - title: 與 일부 의원들 "조희대 폭주 탄핵으로 끝내야" 친전
+    url: https://www.newsis.com/view/NISX20260820_0003756027
+- rank: 4
+  title: 지방선거 비례대표 공천 개입 의혹… 경찰, 전 민주당 관계자 수사
+  status: 기존 이슈와 함께 검토
+  score: 7
+  summary: 최근 보도 9건, 매체 9곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 9
+    outlet_count: 9
+    public_actor: 대표, 민주당
+  sources:
+  - title: 경찰, 전 민주당 부산시당 관계자 '비례대표 공천 개입 의혹' 수사
+    url: http://www.breaknews.com/1230457
+  - title: 공천 개입 의혹 전 민주당 부산시당 관계자 수사
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642217&ref=A
+  - title: 전 민주당 부산시당 관계자, 지선 공천개입 의혹 경찰 수사
+    url: http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260821.22002005898
+  related_issue: special-counsel-investigation-2026
+- rank: 5
+  title: 경찰, 지방선거 공천개입 의혹 전 민주당 부산시당 관계자 조사
+  status: 기존 이슈와 함께 검토
+  score: 7
+  summary: 최근 보도 9건, 매체 9곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 9
+    outlet_count: 9
+    public_actor: 대표, 민주당
+  sources:
+  - title: 경찰, 전 민주당 부산시당 관계자 '비례대표 공천 개입 의혹' 수사
+    url: http://www.breaknews.com/1230457
+  - title: 공천 개입 의혹 전 민주당 부산시당 관계자 수사
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642217&ref=A
+  - title: 전 민주당 부산시당 관계자, 지선 공천개입 의혹 경찰 수사
+    url: http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260821.22002005898
+  related_issue: local-election-nomination-2026
+- rank: 6
+  title: 민간 인증기관 해킹에 靑 인사 등 개인정보 유출…경찰 수사
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 17
-    public_actor: 국회
+    outlet_count: 16
+    public_actor: 확인 중
   sources:
-  - title: “5·18 모욕 사퇴해야” “범죄라도 저질렀나”…‘이진숙 충돌’로 과...
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641143&ref=A
-  - title: “5·18 모욕 사퇴해야” “범죄라도 저질렀나”…‘이진숙 충돌’로 과...
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641063&ref=A
-  - title: '"중대범죄자와 같이 못 앉아" "내가 왜?"…이진숙 놓고 과방위 파행'
-    url: http://weekly.chosun.com/news/articleView.html?idxno=54452
-- rank: 6
-  title: ‘靑패싱 대법관 제청 논란’ 조희대 출석요구안, 與 주도로 국회 법사위 의결
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 국회
-  sources:
-  - title: 김민석, 서면 제청 조희대에 “퇴학 구걸하는 불량학생” 사퇴 압박
-    url: https://www.donga.com/news/Politics/article/all/20260820/134508522/2
-  - title: ‘靑패싱 대법관 제청 논란’ 조희대 출석요구안, 與 주도로 국회 법사...
-    url: https://www.seoul.co.kr/news/politics/congress/2026/08/19/20260819500200?wlog_tag3=naver
+  - title: '[사사건건] 서울 강남서 전 수사팀장 상습 사건 거래 드러났다 外'
+    url: https://www.segye.com/newsView/20260820523791?OutUrl=naver
+  - title: 민간 인증기관 해킹에 靑인사 명함 유출…경찰 수사
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260821052619iSy
+  - title: 민간기관 우회공격에 靑인사 정보 노출… “추가 해킹에 악용 우려, 대...
+    url: https://www.donga.com/news/Society/article/all/20260821/134516258/2
 - rank: 7
-  title: 국회 과방위 거듭된 파행, 이진숙 의원 '5·18 토론회' 논란 정면충돌
+  title: 조정식 국회의장 만난 김민석 대표, "이진숙 5·18 폄훼 논란은 제명 사안"
   status: 추가 확인
   score: 5
   summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 0
     outlet_count: 0
-    public_actor: 국회, 의원
+    public_actor: 국회, 대표
   sources: []
 - rank: 8
-  title: 국회 과방위, 이진숙 '5.18 폄훼' 논란으로 파행…국민의힘은 '李 감싸기'
+  title: 장애영향평가 도입 2년째 서랍 속… 최보윤 의원, 정부 대응 질타
   status: 추가 확인
   score: 5
   summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 0
     outlet_count: 0
-    public_actor: 국민의힘, 국회
+    public_actor: 의원, 정부
   sources: []
 - rank: 9
-  title: 국회서 국립의전원 ‘서울·남원 이원화’ 논란…“지역의료 인력인데 서울서 교육”
+  title: 국힘 윤리위,비당권파 현역 의원 4인에 총선 공천 영향끼칠 '당원권 정지' 중징계
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 국회
+    public_actor: 의원
   sources:
-  - title: 국회서 국립의전원 '서울·남원 이원화' 논란…"지역의료 인력인데 서울...
-    url: https://www.bosa.co.kr/news/articleView.html?idxno=3010454
-- rank: 10
-  title: 이재명 정부 용산공원 '닥공' 실효성 논란, 반환·정화·특별법 개정 '산 넘어 산'
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 2건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: '[8월20일자] 비즈니스포스트 아침의 주요기사'
-    url: https://www.businesspost.co.kr/BP?command=article_view&num=445133
-  - title: 이재명 정부 용산공원 '닥공' 실효성 논란, 반환·정화·특별법 개정 '산...
-    url: https://www.businesspost.co.kr/BP?command=article_view&num=445113
+  - title: 국힘 윤리위,비당권파 현역 의원 4인에 총선 공천 영향끼칠 '당원권 정...
+    url: https://www.ngonews.kr/news/articleView.html?idxno=235953
