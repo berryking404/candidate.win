@@ -2,7 +2,7 @@
 title: 유효상
 slug: yu-hyo-sang
 role: 칼럼니스트
-status: stub
+status: curated
 ---
 
 ## 행적

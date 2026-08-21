@@ -3,7 +3,7 @@ name_ko: 서은영
 name_en: null
 party: null
 role: 중랑구약사회 회장
-status: stub
+status: curated
 aliases:
 - 서은영
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 서은영
   youtube_channels: []
+  official_urls:
+  - https://www.khan.co.kr/article/201803151805002

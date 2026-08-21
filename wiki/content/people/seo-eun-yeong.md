@@ -2,7 +2,7 @@
 title: 서은영
 slug: seo-eun-yeong
 role: 중랑구약사회 회장
-status: stub
+status: curated
 ---
 
 ## 행적

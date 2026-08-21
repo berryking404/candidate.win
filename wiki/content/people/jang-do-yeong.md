@@ -1,8 +1,8 @@
 ---
 title: 장도영
 slug: jang-do-yeong
-role: null
-status: stub
+role: 합동참모본부 공보실장
+status: curated
 ---
 
 ## 행적

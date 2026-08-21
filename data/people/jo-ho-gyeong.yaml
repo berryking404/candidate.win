@@ -3,7 +3,7 @@ name_ko: 조호경
 name_en: null
 party: null
 role: 거창군 가조면장
-status: stub
+status: curated
 aliases:
 - 조호경
 discovered_via_issue: social-safety-net-aging-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 조호경
   youtube_channels: []
+  official_urls:
+  - https://www.gccl.go.kr/record/recordView.do?key=3ca6c6372b798bd911ee68393bd242d10197f62f044ff3c520bbeb26956fac6da36e04787ac4bf3a

@@ -2,7 +2,7 @@
 title: 조호경
 slug: jo-ho-gyeong
 role: 거창군 가조면장
-status: stub
+status: curated
 ---
 
 ## 행적
