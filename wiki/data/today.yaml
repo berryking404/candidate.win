@@ -1,9 +1,89 @@
-generated_at: '2026-08-20T23:02:14+00:00'
-source_date: 2026-08-20T230207Z
+generated_at: '2026-08-21T23:02:08+00:00'
+source_date: 2026-08-21T230202Z
 window_hours: 72
 items:
 - rank: 1
-  title: 신천지예수교회, 국민의힘 정당 가입 논란 사과…“정치권과 일절 연계 차단”
+  title: “李정부 대응은?” 총선 1년8개월 남았는데…벌써 ‘공천’만 골몰하는...
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 18
+    public_actor: 국민의힘, 정부
+  sources:
+  - title: “36년 숙원 스스로 걷어찼다”…‘李대통령 공약’ 전남의대 무산 위기
+    url: https://www.joongang.co.kr/article/25455282
+  - title: 李 대통령 "부패 청산에 여야 있을 수 없어" [청와대오늘]
+    url: https://www.sisaon.co.kr/news/articleView.html?idxno=203698
+  - title: 李대통령 “반부패보다 헌정질서 파괴 더 심각…가짜뉴스·극단화 대책...
+    url: https://www.etoday.co.kr/news/view/2616997
+- rank: 2
+  title: '[''대법관 서면 제청'' 논란] 이재명 대통령의 선택은?'
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 18
+    public_actor: 개혁신당, 대표, 민주당, 정부
+  sources:
+  - title: 조희대 사태, 靑의 딜레마…3가지 선택지 모두 부담
+    url: https://www.nocutnews.co.kr/news/6566360?utm_source=naver&utm_medium=article&utm_campaign=20260822050104
+  - title: '[단독] 현직 부장판사 "대법관 제청 반려·재제청, 초법적 발상"'
+    url: https://news.tf.co.kr/read/life/2356749.htm
+  - title: 받자니…막자니…조희대가 던진 '기습 제청'에 딜레마 빠진 여권
+    url: https://ilyo.co.kr/?ac=article_view&entry_id=512408
+- rank: 3
+  title: '[위클리오늘] 창원시, 낙동강 녹조독소 논란에 “정부 공동조사 결과 토대로”'
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 12건, 매체 11곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 12
+    outlet_count: 11
+    public_actor: 민주당, 의원, 정부
+  sources:
+  - title: 녹조독소 역학조사 요구에 창원시 "정부 공동조사 토대로 대응"
+    url: https://www.ziksir.com/news/articleView.html?idxno=143949
+  - title: '[Who Is ?] 이병철 다올금융그룹 회장'
+    url: https://www.businesspost.co.kr/BP?command=article_view&num=444913
+  - title: 사천시, 민선 9기 해양수산정책 결과로 해양도시 미래 연다
+    url: http://www.gnmaeil.com/news/articleView.html?idxno=593176
+- rank: 4
+  title: 국민의힘 윤리위 '비당권파 4인' 중징계에 당내 갈등 재점화
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 3
+    public_actor: 국민의힘, 의원
+  sources:
+  - title: 국민의힘 윤리위 '비당권파 4인' 중징계에 당내 갈등 재점화
+    url: http://www.metroseoul.co.kr/article/20260821500076
+  - title: 국힘 윤리위, 비당권파 현역 의원 4인 징계
+    url: https://www.m-i.kr/news/articleView.html?idxno=1404408
+  - title: 국힘 윤리위, 현역 4인 '당원권 정지' 징계…조경태 2년6개월·진종오 2...
+    url: https://www.kyeonggi.com/article/20260820580549
+- rank: 5
+  title: 與, ‘5·18 왜곡 논란’ 이진숙 징계안 국회 제출
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 4
+    outlet_count: 4
+    public_actor: 국회
+  sources:
+  - title: 與, ‘5·18 폄훼’ 이진숙에 징계안 제출…“유족에 2차 피해”
+    url: https://www.sedaily.com/article/20082046?ref=naver
+  - title: 與, 이진숙 징계안 제출…김민석 “반드시 최소 활동 정지”
+    url: https://www.seoul.co.kr/news/politics/2026/08/21/20260821500239?wlog_tag3=naver
+  - title: 與, 이진숙 징계안 국회 제출..."5·18 희생자 모독, 헌법정신 도전"
+    url: http://www.joseilbo.com/news/news_read.php?uid=574266&class=32&grp=
+- rank: 6
+  title: 국민의힘 현역 4명 무더기 징계…장동혁 체제 당내 갈등 격화
   status: 정식 검토
   score: 7
   summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
@@ -12,123 +92,59 @@ items:
     outlet_count: 3
     public_actor: 국민의힘
   sources:
-  - title: 신천지예수교회, 최근 정치적 논란 관련 공식 사과
-    url: https://www.inews365.com/news/article.html?no=932530
-  - title: '[전문] 신천지, 국민의힘 당원 5만여명 집단가입 공식 사과…"정치권과...'
-    url: https://www.polinews.co.kr/news/articleView.html?idxno=740754
-  - title: 신천지, 국민의힘 당원 가입 논란 공식 사과…“정치권과 일절 연계 차...
-    url: https://www.viva100.com/article/20260820500832
-- rank: 2
-  title: 정부, '독파모' 2차 평가 투명성 논란에 세부 지표 공개
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 9건, 매체 8곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 9
-    outlet_count: 8
-    public_actor: 정부
-  sources:
-  - title: '[독파모 2차전 진단①] 벤치마크 1위도 탈락… ‘국대 AI’ 점수 공개 놓...'
-    url: https://www.ddaily.co.kr/page/view/2026081916510321197
-  - title: '[안광섭 AI 진테제] 독파모 2차 평가가 남긴 것'
-    url: https://zdnet.co.kr/view/?no=20260820204530
-  - title: 논란의 '독파모 성적표' 꺼냈으나 전체 점수·순위 끝내 비공개
-    url: https://www.newscj.com/news/articleView.html?idxno=3426671
-- rank: 3
-  title: 與 일부 의원들 "조희대 폭주 탄핵으로 끝내야" 친전
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 의원
-  sources:
-  - title: 범與권 "조희대 사법 폭주…이제 탄핵으로 끝내야" 친전
-    url: https://news.tvchosun.com/site/data/html_dir/2026/08/20/2026082090215.html
-  - title: 與일각, 조희대 탄핵안 다시 추진…"사법 폭주 방치 안 돼"
-    url: https://www.news1.kr/politics/assembly/6264679
-  - title: 與 일부 의원들 "조희대 폭주 탄핵으로 끝내야" 친전
-    url: https://www.newsis.com/view/NISX20260820_0003756027
-- rank: 4
-  title: 지방선거 비례대표 공천 개입 의혹… 경찰, 전 민주당 관계자 수사
-  status: 기존 이슈와 함께 검토
-  score: 7
-  summary: 최근 보도 9건, 매체 9곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 9
-    outlet_count: 9
-    public_actor: 대표, 민주당
-  sources:
-  - title: 경찰, 전 민주당 부산시당 관계자 '비례대표 공천 개입 의혹' 수사
-    url: http://www.breaknews.com/1230457
-  - title: 공천 개입 의혹 전 민주당 부산시당 관계자 수사
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642217&ref=A
-  - title: 전 민주당 부산시당 관계자, 지선 공천개입 의혹 경찰 수사
-    url: http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260821.22002005898
-  related_issue: special-counsel-investigation-2026
-- rank: 5
-  title: 경찰, 지방선거 공천개입 의혹 전 민주당 부산시당 관계자 조사
-  status: 기존 이슈와 함께 검토
-  score: 7
-  summary: 최근 보도 9건, 매체 9곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 9
-    outlet_count: 9
-    public_actor: 대표, 민주당
-  sources:
-  - title: 경찰, 전 민주당 부산시당 관계자 '비례대표 공천 개입 의혹' 수사
-    url: http://www.breaknews.com/1230457
-  - title: 공천 개입 의혹 전 민주당 부산시당 관계자 수사
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642217&ref=A
-  - title: 전 민주당 부산시당 관계자, 지선 공천개입 의혹 경찰 수사
-    url: http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260821.22002005898
-  related_issue: local-election-nomination-2026
-- rank: 6
-  title: 민간 인증기관 해킹에 靑 인사 등 개인정보 유출…경찰 수사
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 16
-    public_actor: 확인 중
-  sources:
-  - title: '[사사건건] 서울 강남서 전 수사팀장 상습 사건 거래 드러났다 外'
-    url: https://www.segye.com/newsView/20260820523791?OutUrl=naver
-  - title: 민간 인증기관 해킹에 靑인사 명함 유출…경찰 수사
-    url: http://www.yonhapnewstv.co.kr/news/MYH20260821052619iSy
-  - title: 민간기관 우회공격에 靑인사 정보 노출… “추가 해킹에 악용 우려, 대...
-    url: https://www.donga.com/news/Society/article/all/20260821/134516258/2
+  - title: 국힘, 윤리위 징계 반발...민주 최고위원 지명 갈등 노출 [포커스]
+    url: https://www.ytn.co.kr/_ln/0101_202608212228389014
+  - title: 국힘 '무더기 현역 중징계'후폭풍…구주류도 "張, 누구와 싸우는가"
+    url: http://www.tjb.co.kr/sub0301/bodo/view/id/102670
+  - title: 국힘 윤리위, 무더기 중징계 후폭풍…당내 갈등 다시 폭발하나
+    url: https://www.mk.co.kr/article/12133010
 - rank: 7
-  title: 조정식 국회의장 만난 김민석 대표, "이진숙 5·18 폄훼 논란은 제명 사안"
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 0
-    outlet_count: 0
-    public_actor: 국회, 대표
-  sources: []
-- rank: 8
-  title: 장애영향평가 도입 2년째 서랍 속… 최보윤 의원, 정부 대응 질타
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 0
-    outlet_count: 0
-    public_actor: 의원, 정부
-  sources: []
-- rank: 9
-  title: 국힘 윤리위,비당권파 현역 의원 4인에 총선 공천 영향끼칠 '당원권 정지' 중징계
+  title: 하영 증조부 친일 논란 국회서도 언급 “대규모 땅 발견 됐는데…” [현장영상]
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 의원
+    public_actor: 국회
   sources:
-  - title: 국힘 윤리위,비당권파 현역 의원 4인에 총선 공천 영향끼칠 '당원권 정...
-    url: https://www.ngonews.kr/news/articleView.html?idxno=235953
+  - title: 하영 증조부 친일 논란 국회서도 언급 “대규모 땅 발견 됐는데…” [현...
+    url: https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546322
+- rank: 8
+  title: 與, 5·18 폄훼 논란 이진숙 징계안 국회 제출…“유족들 2차 가해”
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회
+  sources:
+  - title: 與, 5·18 폄훼 논란 이진숙 징계안 국회 제출…“유족들 2차 가해”
+    url: https://www.donga.com/news/Politics/article/all/20260821/134519897/1
+- rank: 9
+  title: 법사위 여당 간사 김승원, ‘조희대 논란’에 “법원행정처 폐지해야”
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 확인 중
+  sources:
+  - title: 與 “법원행정처 폐지해야”…靑은 대법관 제청 재요구 검토
+    url: https://www.donga.com/news/Politics/article/all/20260821/134521633/1
+  - title: 법사위 여당 간사 김승원, ‘조희대 논란’에 “법원행정처 폐지해야”
+    url: https://www.hani.co.kr/arti/politics/politics_general/1274052.html
+- rank: 10
+  title: 반도체 세수100兆, 국회 모르게 쓴다? … 미래대응기금, 통제 밖 재정 될라
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회
+  sources:
+  - title: 반도체 세수100兆, 국회 모르게 쓴다? … 미래대응기금, 통제 밖 재정 될...
+    url: https://biz.newdaily.co.kr/site/data/html/2026/08/21/2026082100242.html
