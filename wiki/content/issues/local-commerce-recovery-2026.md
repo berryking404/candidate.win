@@ -196,4 +196,5 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [허전](/people/heo-jeon) — **지지**: 소상공인 온라인 판로·마케팅 지원이 실질적 경영 역량 강화로 이어져야 한다고 말했다. [출처](https://www.discoverynews.kr/news/articleView.html?idxno=1098949)
 - [이기형](/people/i-gi-hyeong) — **지지**: 홈플러스 재개장 현장을 찾아 영업 정상화와 지역상권 회복을 응원했다. [출처](https://www.ajunews.com/view/20260821161424359)
 - [조재구](/people/jo-jae-gu) — **지지**: 지역 관광 활성화와 함께 주변 상권 회복에 보탬이 되도록 하겠다고 밝혔다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=740906)
+- [신장식](/people/sin-jang-sik) — **지지**: 전통시장을 찾아 상인들의 경영난과 시장 활성화 현안을 듣고 당 차원의 지원을 약속했다. [출처](https://www.kwangju.co.kr/article.php?aid=1787368800802536372)
 <!-- /agent:stances -->
