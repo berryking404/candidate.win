@@ -75,4 +75,6 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [서미화](/people/seo-mi-hwa) — **지지**: 혐오와 차별, 갈라치기를 뿌리 뽑겠다고 말하며 약자를 향한 성차별·혐오 대응 의지를 밝혔다. [출처](https://www.beminor.com/news/articleView.html?idxno=30293)
 - [김재섭](/people/gim-jae-seop) — **반대**: 여성혐오·여성차별이 당적과 권력에 따라 다르게 적용된다고 비판했다. [출처](https://www.jibs.co.kr/news/articles/articlesDetail/63530?feed=na)
 - [신지영](/people/sin-ji-yeong) — **중립**: ‘무섭노’ 논란을 혐오 표현으로 단정하기 어렵다고 보며 과잉 해석 가능성을 지적했다. [출처](https://www.seoul.co.kr/news/society/2026/07/09/20260709500110?wlog_tag3=naver)
+- [위성곤](/people/wi-seong-gon) — **중립**: 제주 시민사회와의 간담회에서 인권·성평등 현안을 함께 논의했지만, 젠더 갈등에 대한 찬반 입장은 드러나지 않았다. [출처](https://www.mediajeju.com/news/articleView.html?idxno=365841)
+- [홍영철](/people/hong-yeong-cheol) — **중립**: 지역 갈등의 공론화와 도정 신뢰 회복을 강조했지만, 젠더 갈등 자체에 대한 명시적 입장은 확인되지 않았다. [출처](https://www.mediajeju.com/news/articleView.html?idxno=365841)
 <!-- /agent:stances -->

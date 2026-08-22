@@ -9,6 +9,8 @@ party: 더불어민주당
 ## 행적
 
 <!-- agent:events -->
+- 2026-08-21: 제주 시민사회와 간담회를 열어 제2공항, 환경, 인권·성평등 현안을 두고 대화를 이어갔다. [출처](https://www.mediajeju.com/news/articleView.html?idxno=365841)
+- 2026-08-21: 제2공항 갈등과 관련해 민관협력기구를 구성하면 도민 의견을 반영하겠다고 밝혔다. [출처](https://www.headlinejeju.co.kr/news/articleView.html?idxno=597780)
 <!-- /agent:events -->
 
 ## 이슈별 입장
