@@ -165,4 +165,9 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [길종성](/people/gil-jong-seong) — **지지**: 반도체 인재양성과 지역 정착을 연결하는 선순환 구조 구축을 촉구했다. [출처](https://www.job-post.co.kr/news/articleView.html?idxno=224720)
 - [KB금융](/people/kbfinancial) — **지지**: 청년 일자리 연계와 AI 핵심인재 양성, 자립준비청년 지원을 통해 청년 고용 기반 강화에 나섰다. [출처](http://www.worktoday.co.kr/news/articleView.html?idxno=88252)
 - [전남광주특별시 청년 해외취업 지원사업](/people/youth-overseas-employment-support-jeonnam-gwangju) — **지지**: 청년 해외취업 기회를 제공해 청년 일자리 문제 해결과 글로벌 인재 양성을 목표로 한다. [출처](https://www.ikbc.co.kr/article/view/kbc202608220007)
+- [박홍근](/people/park-honggeun) — **지지**: 미래대응기금을 통해 반도체 호황으로 생긴 재원을 이공계 인재 양성과 미래 자본에 투입하자고 밝혔다. [출처](https://www.joongangenews.com/news/articleView.html?idxno=541912)
+- [김대중](/people/kim-daejung) — **지지**: AI 교육과 학생 맞춤형 교육 등 교육투자를 지속해야 한다고 말했다. [출처](https://www.jnilbo.com/news/articleView.html?idxno=90000058681)
+- [길종성](/people/gil-jongseong) — **지지**: 반도체 인재 양성과 지역 교육·연구 기반 확충을 강조했다. [출처](https://www.mhns.co.kr/news/articleView.html?idxno=757267)
+- [임동진](/people/im-dongjin) — **지지**: 외국인 유학생을 AI·반도체 미래산업을 이끌 전략적 인재로 봐야 한다고 밝혔다. [출처](https://www.joongangenews.com/news/articleView.html?idxno=539604)
+- [박수현](/people/park-su-hyeon) — **지지**: 로봇·반도체 산업 발전만이 아니라 사람 중심의 AI 정책을 추진해야 한다고 말했다. [출처](https://www.lifein.news/news/articleView.html?idxno=20383)
 <!-- /agent:stances -->
