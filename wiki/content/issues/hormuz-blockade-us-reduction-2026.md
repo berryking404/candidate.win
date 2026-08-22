@@ -24,4 +24,9 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [트럼프](/people/donald-trump) — **미확인**: 호르무즈 해협 통항을 지원하는 ‘프로젝트 프리덤’을 띄웠다가 곧바로 철회했고, 이후 재개방 협상과 해상 봉쇄 재개를 오가며 정책 방향이 흔들렸다. [출처](https://www.newsis.com/view/NISX20260728_0003726065)
 - [JD 밴스](/people/jd-vance) — **지지**: 이란이 호르무즈 해협 통제를 내세워 미국의 제재·봉쇄 해제를 요구하는 협상 국면을 설명하며 타결 가능성을 언급했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8631651&ref=A)
 - [헤그세스](/people/pete-hegseth) — **지지**: 대이란 해상봉쇄를 무기한 이어갈 수 있다고 강조하며 장기 압박 태세를 공개적으로 시사했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637139&ref=A)
+- [스콧 베선트](/people/scott-bessent) — **지지**: 해상 봉쇄와 사상 가장 강력한 제재를 결합한 '원투 펀치'로 이란 정권을 압박하겠다고 밝혔다. [출처](https://imnews.imbc.com/replay/2026/nwtoday/article/6846496_37012.html)
+- [이란 대통령](/people/iran-president) — **반대**: 미국의 봉쇄·제재 해제와 군사적 위협 중단이 선행돼야 호르무즈 재개방이 가능하다는 조건부 입장을 고수했다. [출처](https://www.news1.kr/world/middleeast-africa/6266189)
+- [이란 외무장관](/people/iran-foreign-minister) — **반대**: 호르무즈 해협 재개방의 전제 조건으로 미국의 대이란 봉쇄 해제와 제재 완화를 요구했다. [출처](https://www.news1.kr/world/middleeast-africa/6266189)
+- [오만 외무장관](/people/oman-foreign-minister) — **중립**: 호르무즈 항행 문제를 두고 이란과 협상을 이어가며 안전한 진입·진출 항로 마련을 논의했다. [출처](https://www.news1.kr/world/middleeast-africa/6266189)
+- [신재웅](/people/sin-jae-ung) — **중립**: 호르무즈 해협 긴장과 미국의 제재·봉쇄 강화가 국제유가와 경제에 미칠 영향을 해설했다. [출처](https://imnews.imbc.com/replay/2026/nwtoday/article/6846496_37012.html)
 <!-- /agent:stances -->
