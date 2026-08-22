@@ -162,4 +162,7 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [박찬대](/people/bak-chan-dae) — **지지**: 인하대 반도체·바이오 교육동을 지역 첨단산업 핵심 인재 양성 거점으로 평가하며 인재 육성 필요성을 강조했다. [출처](https://www.discoverynews.kr/news/articleView.html?idxno=1098945)
 - [민형배](/people/min-hyeong-bae) — **지지**: AI 데이터센터와 첨단산업 운영을 뒷받침할 냉난방공조 거점 투자가 지역 제조업의 고부가가치 전환에 중요하다고 말했다. [출처](https://www.namdonews.com/news/articleView.html?idxno=920435)
 - [양오봉](/people/yang-o-bong) — **지지**: 금융·농생명·미래첨단산업 공공기관의 전북 이전이 글로컬 인재 양성과 지역 산업 육성에 필요하다고 주장했다. [출처](https://www.veritas-a.com/news/articleView.html?idxno=623632)
+- [길종성](/people/gil-jong-seong) — **지지**: 반도체 인재양성과 지역 정착을 연결하는 선순환 구조 구축을 촉구했다. [출처](https://www.job-post.co.kr/news/articleView.html?idxno=224720)
+- [KB금융](/people/kbfinancial) — **지지**: 청년 일자리 연계와 AI 핵심인재 양성, 자립준비청년 지원을 통해 청년 고용 기반 강화에 나섰다. [출처](http://www.worktoday.co.kr/news/articleView.html?idxno=88252)
+- [전남광주특별시 청년 해외취업 지원사업](/people/youth-overseas-employment-support-jeonnam-gwangju) — **지지**: 청년 해외취업 기회를 제공해 청년 일자리 문제 해결과 글로벌 인재 양성을 목표로 한다. [출처](https://www.ikbc.co.kr/article/view/kbc202608220007)
 <!-- /agent:stances -->
