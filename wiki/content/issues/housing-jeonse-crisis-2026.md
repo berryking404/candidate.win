@@ -91,4 +91,5 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [오세훈](/people/o-se-hun) — **혼합**: 공급 공백 해소를 위해 재건축·재개발과 세제 전환이 필요하다고 주장하면서, 세 부담 확대는 주거 불안을 키운다고 비판했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008705422&plink=ORI&cooper=NAVER)
 - [김영배](/people/gim-yeong-bae) — **지지**: 서울 부동산 불안 해소를 위해 다주택자의 전월세 공급 역할을 강화해야 한다고 말했다. [출처](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545605)
 - [박용갑](/people/bak-yong-gap) — **지지**: 미성년 임대인의 전세보증금 반환 책임을 법정대리인에게 연대보증하게 하는 제도 개선을 추진해 세입자 보호를 강화했다. [출처](https://www.news1.kr/local/daejeon-chungnam/6262196)
+- [주진우](/people/ju-jin-u) — **지지**: 전세사기 피해자 지원 확대와 청년 보호를 위한 법안 발의를 통해 주거불안 완화에 나섰다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=315699)
 <!-- /agent:stances -->
