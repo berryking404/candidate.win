@@ -1,150 +1,158 @@
-generated_at: '2026-08-21T23:02:08+00:00'
-source_date: 2026-08-21T230202Z
+generated_at: '2026-08-22T23:02:07+00:00'
+source_date: 2026-08-22T230204Z
 window_hours: 72
 items:
 - rank: 1
-  title: “李정부 대응은?” 총선 1년8개월 남았는데…벌써 ‘공천’만 골몰하는...
+  title: 하영 증조부 ‘친일 재산’ 논란 국회로…박은정 “국가 환수대상 조사해야”
   status: 정식 검토
   score: 9
   summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
     outlet_count: 18
-    public_actor: 국민의힘, 정부
+    public_actor: 국회, 의원, 조국혁신당
   sources:
-  - title: “36년 숙원 스스로 걷어찼다”…‘李대통령 공약’ 전남의대 무산 위기
-    url: https://www.joongang.co.kr/article/25455282
-  - title: 李 대통령 "부패 청산에 여야 있을 수 없어" [청와대오늘]
-    url: https://www.sisaon.co.kr/news/articleView.html?idxno=203698
-  - title: 李대통령 “반부패보다 헌정질서 파괴 더 심각…가짜뉴스·극단화 대책...
-    url: https://www.etoday.co.kr/news/view/2616997
+  - title: 급기야 국회의원 입에서 “배우 하영 집안 재산, 국가가 환수해야”
+    url: https://www.wikitree.co.kr/articles/1154216
+  - title: “군포 2700평 땅 소유”…국회 등장한 하영 증조부, 친일재산 논란
+    url: https://www.mk.co.kr/article/12133877
+  - title: 하영 증조부, 2700평 땅 어떻게 샀나…국회서 '친일 재산' 조사 촉구
+    url: https://www.etoday.co.kr/news/view/2617060
 - rank: 2
-  title: '[''대법관 서면 제청'' 논란] 이재명 대통령의 선택은?'
+  title: ‘친일 논란’ 하영 증조부 2700평 땅 환수되나…국회서도 언급
   status: 정식 검토
   score: 9
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 20건, 매체 20곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 18
-    public_actor: 개혁신당, 대표, 민주당, 정부
+    outlet_count: 20
+    public_actor: 국회, 의원
   sources:
-  - title: 조희대 사태, 靑의 딜레마…3가지 선택지 모두 부담
-    url: https://www.nocutnews.co.kr/news/6566360?utm_source=naver&utm_medium=article&utm_campaign=20260822050104
-  - title: '[단독] 현직 부장판사 "대법관 제청 반려·재제청, 초법적 발상"'
-    url: https://news.tf.co.kr/read/life/2356749.htm
-  - title: 받자니…막자니…조희대가 던진 '기습 제청'에 딜레마 빠진 여권
-    url: https://ilyo.co.kr/?ac=article_view&entry_id=512408
+  - title: 급기야 국회의원 입에서 “배우 하영 집안 재산, 국가가 환수해야”
+    url: https://www.wikitree.co.kr/articles/1154216
+  - title: “군포 2700평 땅 소유”…국회 등장한 하영 증조부, 친일재산 논란
+    url: https://www.mk.co.kr/article/12133877
+  - title: 하영 증조부, 2700평 땅 어떻게 샀나…국회서 '친일 재산' 조사 촉구
+    url: https://www.etoday.co.kr/news/view/2617060
 - rank: 3
-  title: '[위클리오늘] 창원시, 낙동강 녹조독소 논란에 “정부 공동조사 결과 토대로”'
+  title: 탄핵할 수 있다고, 지금 탄핵해야 하는가?
   status: 정식 검토
   score: 9
-  summary: 최근 보도 12건, 매체 11곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 12
-    outlet_count: 11
-    public_actor: 민주당, 의원, 정부
-  sources:
-  - title: 녹조독소 역학조사 요구에 창원시 "정부 공동조사 토대로 대응"
-    url: https://www.ziksir.com/news/articleView.html?idxno=143949
-  - title: '[Who Is ?] 이병철 다올금융그룹 회장'
-    url: https://www.businesspost.co.kr/BP?command=article_view&num=444913
-  - title: 사천시, 민선 9기 해양수산정책 결과로 해양도시 미래 연다
-    url: http://www.gnmaeil.com/news/articleView.html?idxno=593176
-- rank: 4
-  title: 국민의힘 윤리위 '비당권파 4인' 중징계에 당내 갈등 재점화
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 국민의힘, 의원
-  sources:
-  - title: 국민의힘 윤리위 '비당권파 4인' 중징계에 당내 갈등 재점화
-    url: http://www.metroseoul.co.kr/article/20260821500076
-  - title: 국힘 윤리위, 비당권파 현역 의원 4인 징계
-    url: https://www.m-i.kr/news/articleView.html?idxno=1404408
-  - title: 국힘 윤리위, 현역 4인 '당원권 정지' 징계…조경태 2년6개월·진종오 2...
-    url: https://www.kyeonggi.com/article/20260820580549
-- rank: 5
-  title: 與, ‘5·18 왜곡 논란’ 이진숙 징계안 국회 제출
-  status: 정식 검토
-  score: 7
   summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 4
     outlet_count: 4
-    public_actor: 국회
+    public_actor: 국민의힘, 대표, 조국혁신당
   sources:
-  - title: 與, ‘5·18 폄훼’ 이진숙에 징계안 제출…“유족에 2차 피해”
-    url: https://www.sedaily.com/article/20082046?ref=naver
-  - title: 與, 이진숙 징계안 제출…김민석 “반드시 최소 활동 정지”
-    url: https://www.seoul.co.kr/news/politics/2026/08/21/20260821500239?wlog_tag3=naver
-  - title: 與, 이진숙 징계안 국회 제출..."5·18 희생자 모독, 헌법정신 도전"
-    url: http://www.joseilbo.com/news/news_read.php?uid=574266&class=32&grp=
-- rank: 6
-  title: 국민의힘 현역 4명 무더기 징계…장동혁 체제 당내 갈등 격화
+  - title: 국힘, 윤리위 징계 반발...민주, 최고위원 지명 갈등
+    url: https://www.ytn.co.kr/_ln/0101_202608221608309745
+  - title: 조희대 탄핵? 제도 개혁으로 논점 옮겨야
+    url: https://www.mediaus.co.kr/news/articleView.html?idxno=317900
+  - title: 장동혁 국민의힘 당 대표, 제정신?...“오너 총재 시대는 오래 전 끝났다...
+    url: http://www.breaknews.com/1230578
+- rank: 4
+  title: 하영 증조부 '2700평 땅' 논란 국회로… "친일재산 환수해야"
   status: 정식 검토
   score: 7
   summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 3
     outlet_count: 3
-    public_actor: 국민의힘
+    public_actor: 국회
   sources:
-  - title: 국힘, 윤리위 징계 반발...민주 최고위원 지명 갈등 노출 [포커스]
-    url: https://www.ytn.co.kr/_ln/0101_202608212228389014
-  - title: 국힘 '무더기 현역 중징계'후폭풍…구주류도 "張, 누구와 싸우는가"
-    url: http://www.tjb.co.kr/sub0301/bodo/view/id/102670
-  - title: 국힘 윤리위, 무더기 중징계 후폭풍…당내 갈등 다시 폭발하나
-    url: https://www.mk.co.kr/article/12133010
+  - title: 하영 증조부 '2700평 땅' 논란 국회로… "친일재산 환수해야"
+    url: https://www.hankookilbo.com/news/article/A2026082218200001622?did=NA
+  - title: ‘친일 논란’ 하영 증조부 2700평 땅 환수되나…국회서도 언급
+    url: https://www.segye.com/newsView/20260822504152?OutUrl=naver
+  - title: 배우 하영 증조부 '2700평 땅'…국회서 "친일재산 환수해야"
+    url: http://weekly.chosun.com/news/articleView.html?idxno=54561
+- rank: 5
+  title: 하영 증조부 친일 논란, 국회까지…2700평 땅 조사 촉구
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 14건, 매체 14곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 14
+    outlet_count: 14
+    public_actor: 국회
+  sources:
+  - title: “군포 2700평 땅 소유”…국회 등장한 하영 증조부, 친일재산 논란
+    url: https://www.mk.co.kr/article/12133877
+  - title: 하영 증조부, 2700평 땅 어떻게 샀나…국회서 '친일 재산' 조사 촉구
+    url: https://www.etoday.co.kr/news/view/2617060
+  - title: '"군포에 2700평 땅"…배우 하영 증조부 친일 재산 조사 국회서 언급'
+    url: https://www.dailian.co.kr/news/view/1681107/?sc=Naver
+- rank: 6
+  title: ‘친일 논란’ 하영 증조부 땅 2700평, 환수되나?…국회서 제기
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 17건, 매체 17곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 17
+    outlet_count: 17
+    public_actor: 국회
+  sources:
+  - title: 하영 증조부, 2700평 땅 어떻게 샀나…국회서 '친일 재산' 조사 촉구
+    url: https://www.etoday.co.kr/news/view/2617060
+  - title: '''친일 논란'' 하영, SBS ''승산'' 하차 압박 →증조부 2700평 땅 "삼대가 떵...'
+    url: https://www.mydaily.co.kr/page/view/2026082220593754590
+  - title: 하영 증조부 ‘2700평 땅’ 논란 국회로…12월 재가동 친일재산조사위서...
+    url: https://weekly.khan.co.kr/article/202608221952001
 - rank: 7
-  title: 하영 증조부 친일 논란 국회서도 언급 “대규모 땅 발견 됐는데…” [현장영상]
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  title: ‘친일 논란’ 하영 증조부 2700평 땅…국회서 환수 가능성 제기
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 10건, 매체 10곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
+    news_count: 10
+    outlet_count: 10
     public_actor: 국회
   sources:
-  - title: 하영 증조부 친일 논란 국회서도 언급 “대규모 땅 발견 됐는데…” [현...
-    url: https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546322
+  - title: '"군포 2700평 땅 조사해야"…하영 증조부 친일 논란, 국회까지 갔다'
+    url: http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608220376&t=NN
+  - title: '"군포에 2700평 땅"…배우 하영 증조부 친일 재산 조사 국회서 언급'
+    url: https://www.dailian.co.kr/news/view/1681107/?sc=Naver
+  - title: 하영 증조부 '친일 재산' 논란 국회로…박은정 "국가 환수대상 조사해야...
+    url: https://www.kado.net/news/articleView.html?idxno=2067931
 - rank: 8
-  title: 與, 5·18 폄훼 논란 이진숙 징계안 국회 제출…“유족들 2차 가해”
+  title: AI 개발에 ‘개인정보 활용’ 가능해져… ‘개인정보 보호법’ 개정안 국회 본회의 통과
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 3
+    public_actor: 국회
+  sources:
+  - title: AI 개발에 '개인정보 활용' 가능해져… '개인정보 보호법' 개정안 국회 ...
+    url: https://www.boannews.com/news/articleView.html?idxno=145323
+  - title: 패스트트랙 단축법 등 73건 국회 본회의 통과
+    url: https://kookbang.dema.mil.kr/newsWeb/20260821/13/ATCE_CTGR_0010010000/view.do
+  - title: 국회 본회의, 73건 안건 처리… 주거·복지·AI·우주 입법 성과
+    url: https://www.gukjenews.com/news/articleView.html?idxno=3670467
+- rank: 9
+  title: 미래대응기금, 국회 문턱 넘어설까…'채무 상환·정부 쌈짓돈' 공방
   status: 추가 확인
-  score: 4
+  score: 6
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 국회
+    public_actor: 국회, 정부
   sources:
-  - title: 與, 5·18 폄훼 논란 이진숙 징계안 국회 제출…“유족들 2차 가해”
-    url: https://www.donga.com/news/Politics/article/all/20260821/134519897/1
-- rank: 9
-  title: 법사위 여당 간사 김승원, ‘조희대 논란’에 “법원행정처 폐지해야”
+  - title: 미래대응기금, 국회 문턱 넘어설까…'채무 상환·정부 쌈짓돈' 공방
+    url: https://www.newsis.com/view/NISX20260822_0003758479
+- rank: 10
+  title: 하영 증조부 ‘2700평 땅’ 논란 국회로…12월 재가동 친일재산조사위서 조사해야
   status: 추가 확인
-  score: 4
+  score: 5
   summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 2
     outlet_count: 2
-    public_actor: 확인 중
-  sources:
-  - title: 與 “법원행정처 폐지해야”…靑은 대법관 제청 재요구 검토
-    url: https://www.donga.com/news/Politics/article/all/20260821/134521633/1
-  - title: 법사위 여당 간사 김승원, ‘조희대 논란’에 “법원행정처 폐지해야”
-    url: https://www.hani.co.kr/arti/politics/politics_general/1274052.html
-- rank: 10
-  title: 반도체 세수100兆, 국회 모르게 쓴다? … 미래대응기금, 통제 밖 재정 될라
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
     public_actor: 국회
   sources:
-  - title: 반도체 세수100兆, 국회 모르게 쓴다? … 미래대응기금, 통제 밖 재정 될...
-    url: https://biz.newdaily.co.kr/site/data/html/2026/08/21/2026082100242.html
+  - title: 하영 증조부 ‘2700평 땅’ 논란 국회로…12월 재가동 친일재산조사위서...
+    url: https://weekly.khan.co.kr/article/202608221952001
+  - title: 하영 증조부 '2700평 땅' 논란 국회로… "친일재산 환수해야"
+    url: https://www.hankookilbo.com/news/article/A2026082218200001622?did=NA
