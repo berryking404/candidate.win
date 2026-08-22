@@ -237,4 +237,9 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [김종훈](/people/gim-jong-hun) — **혼합**: 메가프로젝트가 지역균형발전 취지에서 추진돼야 하지만 노동권 후퇴 수단이 되어서는 안 된다고 비판했다. [출처](https://imnews.imbc.com/news/2026/politics/article/6845734_36911.html)
 - [전희경](/people/jeon-hui-gyeong) — **중립**: 이슈 관련 기사에서 지역균형발전 논의의 배경 인물로 언급됐다. [출처](https://www.mk.co.kr/article/12130786)
 - [조찬형](/people/jo-chan-hyeong) — **중립**: 이슈 관련 기사에서 지역균형발전 논의의 배경 인물로 언급됐다. [출처](https://www.mk.co.kr/article/12130786)
+- [황치환](/people/hwang-chi-hwan) — **지지**: 수도권 초집중과 지방소멸이 국가 지속가능성을 위협한다며 행정수도 운동과 균형발전의 필요성을 강조했다. [출처](https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260819007&PRO_CODE=4)
+- [임지락](/people/im-ji-rak) — **지지**: 광주~화순 광역철도 구축과 반도체기업 유치를 통해 통합시 출범 이후 지역 균형발전을 앞당겨야 한다고 건의했다. [출처](https://www.yna.co.kr/view/AKR20260821151600054?input=1195m)
+- [김한종](/people/gim-han-jong) — **지지**: 북부권 상생협력과 제2혁신도시 지정이 지역 격차 해소에 필요하다고 밝혔다. [출처](https://www.sentv.co.kr/article/view/sentv202608210180)
+- [윤병태](/people/yun-byeong-tae) — **지지**: 핵융합 실증로 유치와 연구개발특구 지정으로 나주를 연구·산업 거점으로 키워 지역경제와 균형발전에 기여하겠다고 밝혔다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=740892)
+- [서영학](/people/seo-yeong-hak) — **지지**: 고용위기 선제대응지역 연장을 계기로 지역경제 회복과 중앙정부 협력을 강화하겠다고 말했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3671344)
 <!-- /agent:stances -->
