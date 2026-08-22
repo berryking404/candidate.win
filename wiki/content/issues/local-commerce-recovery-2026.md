@@ -194,4 +194,6 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [손배찬](/people/son-bae-chan) — **지지**: 지역경제 활성화와 소상공인 지원을 위한 3차 추경 편성을 추진했다. [출처](https://www.kyeonggi.com/article/20260819580056)
 - [김용판](/people/gim-yong-pan) — **지지**: 소상공인 지원과 생활밀착형 주거 혁신의 연계를 강조했다. [출처](https://www.hankooki.com/news/articleView.html?idxno=1397010)
 - [허전](/people/heo-jeon) — **지지**: 소상공인 온라인 판로·마케팅 지원이 실질적 경영 역량 강화로 이어져야 한다고 말했다. [출처](https://www.discoverynews.kr/news/articleView.html?idxno=1098949)
+- [이기형](/people/i-gi-hyeong) — **지지**: 홈플러스 재개장 현장을 찾아 영업 정상화와 지역상권 회복을 응원했다. [출처](https://www.ajunews.com/view/20260821161424359)
+- [조재구](/people/jo-jae-gu) — **지지**: 지역 관광 활성화와 함께 주변 상권 회복에 보탬이 되도록 하겠다고 밝혔다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=740906)
 <!-- /agent:stances -->
