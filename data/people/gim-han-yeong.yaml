@@ -3,7 +3,7 @@ name_ko: 김한영
 name_en: null
 party: null
 role: 광주CBS 기자
-status: stub
+status: curated
 aliases:
 - 김한영
 discovered_via_issue: starbucks-tank-day-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김한영
   youtube_channels: []
+  official_urls:
+  - https://www.nocutnews.co.kr/news/6548877

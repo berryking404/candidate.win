@@ -32,6 +32,9 @@ _SAFE_HOST_HINTS = (
     "yna.co.kr",
     "newsis.com",
     "gukjenews.com",
+    "job-post.co.kr",
+    "nocutnews.co.kr",
+    "mk.co.kr",
 )
 
 
@@ -189,6 +192,18 @@ def test_recent_curation_batch_has_safe_source():
         "jo-ho-gyeong",
         "seo-eun-yeong",
         "yu-hyo-sang",
+        # 2026-08-22
+        "gil-jong-seong",
+        "gim-han-yeong",
+        "gim-sang-hun",
+        "i-cheong-hyeong",
+        "jo-chan-hyeong",
+        "gang-suk-hui",
+        "hwang-chi-hwan",
+        "jang-jeong-hui",
+        "i-gi-hyeong",
+        "jo-jae-gu",
+        "i-dong-hun",
     ]
     for slug in batch:
         data = yaml.safe_load((PEOPLE_DIR / f"{slug}.yaml").read_text(encoding="utf-8"))

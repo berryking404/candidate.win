@@ -3,7 +3,7 @@ name_ko: 김상훈
 name_en: null
 party: null
 role: 연합뉴스 특파원
-status: stub
+status: curated
 aliases:
 - 김상훈
 discovered_via_issue: hormuz-blockade-us-reduction-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김상훈
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260715175000079

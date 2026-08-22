@@ -2,7 +2,7 @@
 title: 김상훈
 slug: gim-sang-hun
 role: 연합뉴스 특파원
-status: stub
+status: curated
 ---
 
 ## 행적

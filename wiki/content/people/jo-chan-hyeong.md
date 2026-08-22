@@ -2,7 +2,7 @@
 title: 조찬형
 slug: jo-chan-hyeong
 role: null
-status: stub
+status: curated
 ---
 
 ## 행적

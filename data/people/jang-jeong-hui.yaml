@@ -3,7 +3,7 @@ name_ko: 장정희
 name_en: null
 party: null
 role: 경기도의원
-status: stub
+status: curated
 aliases:
 - 장정희
 discovered_via_issue: energy-price-inflation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 장정희
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260604060800061

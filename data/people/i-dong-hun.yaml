@@ -2,8 +2,8 @@ slug: i-dong-hun
 name_ko: 이동훈
 name_en: null
 party: null
-role: 시의원 후보
-status: stub
+role: 안양시의회 의원
+status: curated
 aliases:
 - 이동훈
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이동훈
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260515203200061

@@ -1,7 +1,7 @@
 ---
-title: 강숙희
-slug: gang-suk-hui
-role: null
+title: 이기형
+slug: i-gi-hyeong
+role: 김포시장
 status: curated
 ---
 

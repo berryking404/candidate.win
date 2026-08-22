@@ -3,7 +3,7 @@ name_ko: 황치환
 name_en: null
 party: null
 role: 행정수도특별법 제정을 위한 범국민대책위 대표
-status: stub
+status: curated
 aliases:
 - 황치환 대표
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 황치환
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260813073100063

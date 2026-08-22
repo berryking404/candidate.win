@@ -2,7 +2,7 @@
 title: 김한영
 slug: gim-han-yeong
 role: 광주CBS 기자
-status: stub
+status: curated
 ---
 
 ## 행적

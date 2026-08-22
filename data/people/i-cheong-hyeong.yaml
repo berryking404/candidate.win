@@ -3,7 +3,7 @@ name_ko: 이청형
 name_en: null
 party: null
 role: 대변인
-status: stub
+status: curated
 aliases:
 - Lee Chung-hyung
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이청형
   youtube_channels: []
+  official_urls:
+  - https://www.nocutnews.co.kr/news/6562918

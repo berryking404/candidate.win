@@ -1,8 +1,8 @@
 ---
 title: 이동훈
 slug: i-dong-hun
-role: 시의원 후보
-status: stub
+role: 안양시의회 의원
+status: curated
 ---
 
 ## 행적

@@ -1,7 +1,7 @@
 ---
-title: 강숙희
-slug: gang-suk-hui
-role: null
+title: 조재구
+slug: jo-jae-gu
+role: 대구 남구청장
 status: curated
 ---
 

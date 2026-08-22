@@ -2,7 +2,7 @@
 title: 이청형
 slug: i-cheong-hyeong
 role: 대변인
-status: stub
+status: curated
 ---
 
 ## 행적

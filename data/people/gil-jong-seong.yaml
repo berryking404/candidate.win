@@ -3,7 +3,7 @@ name_ko: 길종성
 name_en: null
 party: null
 role: 고양시의원. 반도체 인재양성과 지역 정착 선순환 구조 촉구
-status: stub
+status: curated
 aliases:
 - 길종성 고양시의원
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 길종성
   youtube_channels: []
+  official_urls:
+  - https://www.job-post.co.kr/news/articleView.html?idxno=224720

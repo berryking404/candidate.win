@@ -3,7 +3,7 @@ name_ko: 조찬형
 name_en: null
 party: null
 role: null
-status: stub
+status: curated
 aliases: []
 discovered_via_issue: publication-safety-2026-08-20
 discovered_at: '2026-08-19'
@@ -11,3 +11,5 @@ sources:
   news_keywords:
   - 조찬형
   youtube_channels: []
+  official_urls:
+  - https://www.mk.co.kr/article/12130786

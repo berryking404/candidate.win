@@ -2,8 +2,8 @@ slug: jo-jae-gu
 name_ko: 조재구
 name_en: null
 party: null
-role: 남구청장
-status: stub
+role: 대구 남구청장
+status: curated
 aliases:
 - 조 구청장
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 조재구
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20220928138700004

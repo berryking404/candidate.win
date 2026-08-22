@@ -2,7 +2,7 @@
 title: 길종성
 slug: gil-jong-seong
 role: 고양시의원. 반도체 인재양성과 지역 정착 선순환 구조 촉구
-status: stub
+status: curated
 ---
 
 ## 행적

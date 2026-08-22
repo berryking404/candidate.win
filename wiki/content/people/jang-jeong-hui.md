@@ -2,7 +2,7 @@
 title: 장정희
 slug: jang-jeong-hui
 role: 경기도의원
-status: stub
+status: curated
 ---
 
 ## 행적
