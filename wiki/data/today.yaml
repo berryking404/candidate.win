@@ -1,158 +1,116 @@
-generated_at: '2026-08-22T23:02:07+00:00'
-source_date: 2026-08-22T230204Z
+generated_at: '2026-08-23T23:02:15+00:00'
+source_date: 2026-08-23T230211Z
 window_hours: 72
 items:
 - rank: 1
-  title: 하영 증조부 ‘친일 재산’ 논란 국회로…박은정 “국가 환수대상 조사해야”
+  title: '[부동산현장] ''8·13 부동산대책''과 지방 역차별'
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 18
-    public_actor: 국회, 의원, 조국혁신당
+    outlet_count: 19
+    public_actor: 정부
   sources:
-  - title: 급기야 국회의원 입에서 “배우 하영 집안 재산, 국가가 환수해야”
-    url: https://www.wikitree.co.kr/articles/1154216
-  - title: “군포 2700평 땅 소유”…국회 등장한 하영 증조부, 친일재산 논란
-    url: https://www.mk.co.kr/article/12133877
-  - title: 하영 증조부, 2700평 땅 어떻게 샀나…국회서 '친일 재산' 조사 촉구
-    url: https://www.etoday.co.kr/news/view/2617060
+  - title: 정부 발표-시행령 '제각각'…서울 첫 공공재개발 '흑석2구역' 혼란
+    url: https://www.asiatoday.co.kr/kn/view.php?key=20260804010001186
+  - title: 2금융권 중금리·집단대출 금융사 총량 밖으로…'상호금융 대출' 개방?
+    url: https://www.newswhoplus.com/news/articleView.html?idxno=67679
+  - title: '"백투백 인상"vs"속도조절"…엇갈리는 기준금리 전망'
+    url: https://www.news2day.co.kr/article/20260821500280
 - rank: 2
-  title: ‘친일 논란’ 하영 증조부 2700평 땅 환수되나…국회서도 언급
+  title: 김민석 취임 뒤 첫 고위당정...부동산 대책 논의
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 20곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 5건, 매체 4곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 20
-    public_actor: 국회, 의원
-  sources:
-  - title: 급기야 국회의원 입에서 “배우 하영 집안 재산, 국가가 환수해야”
-    url: https://www.wikitree.co.kr/articles/1154216
-  - title: “군포 2700평 땅 소유”…국회 등장한 하영 증조부, 친일재산 논란
-    url: https://www.mk.co.kr/article/12133877
-  - title: 하영 증조부, 2700평 땅 어떻게 샀나…국회서 '친일 재산' 조사 촉구
-    url: https://www.etoday.co.kr/news/view/2617060
-- rank: 3
-  title: 탄핵할 수 있다고, 지금 탄핵해야 하는가?
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 4
+    news_count: 5
     outlet_count: 4
-    public_actor: 국민의힘, 대표, 조국혁신당
+    public_actor: 의원
   sources:
-  - title: 국힘, 윤리위 징계 반발...민주, 최고위원 지명 갈등
-    url: https://www.ytn.co.kr/_ln/0101_202608221608309745
-  - title: 조희대 탄핵? 제도 개혁으로 논점 옮겨야
-    url: https://www.mediaus.co.kr/news/articleView.html?idxno=317900
-  - title: 장동혁 국민의힘 당 대표, 제정신?...“오너 총재 시대는 오래 전 끝났다...
-    url: http://www.breaknews.com/1230578
-- rank: 4
-  title: 하영 증조부 '2700평 땅' 논란 국회로… "친일재산 환수해야"
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 국회
-  sources:
-  - title: 하영 증조부 '2700평 땅' 논란 국회로… "친일재산 환수해야"
-    url: https://www.hankookilbo.com/news/article/A2026082218200001622?did=NA
-  - title: ‘친일 논란’ 하영 증조부 2700평 땅 환수되나…국회서도 언급
-    url: https://www.segye.com/newsView/20260822504152?OutUrl=naver
-  - title: 배우 하영 증조부 '2700평 땅'…국회서 "친일재산 환수해야"
-    url: http://weekly.chosun.com/news/articleView.html?idxno=54561
-- rank: 5
-  title: 하영 증조부 친일 논란, 국회까지…2700평 땅 조사 촉구
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 14건, 매체 14곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 14
-    outlet_count: 14
-    public_actor: 국회
-  sources:
-  - title: “군포 2700평 땅 소유”…국회 등장한 하영 증조부, 친일재산 논란
-    url: https://www.mk.co.kr/article/12133877
-  - title: 하영 증조부, 2700평 땅 어떻게 샀나…국회서 '친일 재산' 조사 촉구
-    url: https://www.etoday.co.kr/news/view/2617060
-  - title: '"군포에 2700평 땅"…배우 하영 증조부 친일 재산 조사 국회서 언급'
-    url: https://www.dailian.co.kr/news/view/1681107/?sc=Naver
-- rank: 6
-  title: ‘친일 논란’ 하영 증조부 땅 2700평, 환수되나?…국회서 제기
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 17건, 매체 17곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 17
-    outlet_count: 17
-    public_actor: 국회
-  sources:
-  - title: 하영 증조부, 2700평 땅 어떻게 샀나…국회서 '친일 재산' 조사 촉구
-    url: https://www.etoday.co.kr/news/view/2617060
-  - title: '''친일 논란'' 하영, SBS ''승산'' 하차 압박 →증조부 2700평 땅 "삼대가 떵...'
-    url: https://www.mydaily.co.kr/page/view/2026082220593754590
-  - title: 하영 증조부 ‘2700평 땅’ 논란 국회로…12월 재가동 친일재산조사위서...
-    url: https://weekly.khan.co.kr/article/202608221952001
-- rank: 7
-  title: ‘친일 논란’ 하영 증조부 2700평 땅…국회서 환수 가능성 제기
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 10건, 매체 10곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 10
-    outlet_count: 10
-    public_actor: 국회
-  sources:
-  - title: '"군포 2700평 땅 조사해야"…하영 증조부 친일 논란, 국회까지 갔다'
-    url: http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608220376&t=NN
-  - title: '"군포에 2700평 땅"…배우 하영 증조부 친일 재산 조사 국회서 언급'
-    url: https://www.dailian.co.kr/news/view/1681107/?sc=Naver
-  - title: 하영 증조부 '친일 재산' 논란 국회로…박은정 "국가 환수대상 조사해야...
-    url: https://www.kado.net/news/articleView.html?idxno=2067931
-- rank: 8
-  title: AI 개발에 ‘개인정보 활용’ 가능해져… ‘개인정보 보호법’ 개정안 국회 본회의 통과
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 국회
-  sources:
-  - title: AI 개발에 '개인정보 활용' 가능해져… '개인정보 보호법' 개정안 국회 ...
-    url: https://www.boannews.com/news/articleView.html?idxno=145323
-  - title: 패스트트랙 단축법 등 73건 국회 본회의 통과
-    url: https://kookbang.dema.mil.kr/newsWeb/20260821/13/ATCE_CTGR_0010010000/view.do
-  - title: 국회 본회의, 73건 안건 처리… 주거·복지·AI·우주 입법 성과
-    url: https://www.gukjenews.com/news/articleView.html?idxno=3670467
-- rank: 9
-  title: 미래대응기금, 국회 문턱 넘어설까…'채무 상환·정부 쌈짓돈' 공방
+  - title: '[사설] 당정 “비거주 1주택 폭넓게 인정”… 부동산 정책 원점 재검토...'
+    url: https://www.sedaily.com/article/20082282?ref=naver
+  - title: 비거주 1주택자 세금 더 내라더니…김민석 첫 당정서 '속도조절'
+    url: https://www.jnilbo.com/news/articleView.html?idxno=90000058827
+  - title: 김민석 체제 첫 고위당정...2차 특검 내일 결과 발표
+    url: https://www.ytn.co.kr/_ln/0101_202608231245201489
+- rank: 3
+  title: 정부 '묘수'인 미래대응기금, 국회엔 '꼼수'…상시추경·쌈짓돈 논란 - 머니투데이
   status: 추가 확인
-  score: 6
+  score: 5
+  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 0
+    outlet_count: 0
+    public_actor: 국회, 정부
+  sources: []
+- rank: 4
+  title: '[8·13 부동산대책 여파] “남양주 와부읍 광역교통망부터”… 국토장관 만난 최현덕 시장·김용민 의원'
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 0
+    outlet_count: 0
+    public_actor: 의원, 장관
+  sources: []
+- rank: 5
+  title: '''역대급 갈등'' 대법관 서면제청 논란…윤 정부 때부터 조짐'
+  status: 추가 확인
+  score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 국회, 정부
+    public_actor: 정부
   sources:
-  - title: 미래대응기금, 국회 문턱 넘어설까…'채무 상환·정부 쌈짓돈' 공방
-    url: https://www.newsis.com/view/NISX20260822_0003758479
-- rank: 10
-  title: 하영 증조부 ‘2700평 땅’ 논란 국회로…12월 재가동 친일재산조사위서 조사해야
+  - title: '''역대급 갈등'' 대법관 서면제청 논란…윤 정부 때부터 조짐'
+    url: https://news.tf.co.kr/read/life/2356941.htm
+- rank: 6
+  title: 논란 터진 민주당 ‘90도 단체 인사’…김민석 “곧 다듬을 것”
   status: 추가 확인
-  score: 5
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 국회
+    news_count: 1
+    outlet_count: 1
+    public_actor: 민주당
   sources:
-  - title: 하영 증조부 ‘2700평 땅’ 논란 국회로…12월 재가동 친일재산조사위서...
-    url: https://weekly.khan.co.kr/article/202608221952001
-  - title: 하영 증조부 '2700평 땅' 논란 국회로… "친일재산 환수해야"
-    url: https://www.hankookilbo.com/news/article/A2026082218200001622?did=NA
+  - title: 논란 터진 민주당 ‘90도 단체 인사’…김민석 “곧 다듬을 것”
+    url: https://www.joongang.co.kr/article/25455400
+- rank: 7
+  title: 반도체 세수로 100조+α… “재정 저수지” vs “정부 쌈짓돈” [미래대응기금 조성 논란]
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 반도체 세수로 100조+α… “재정 저수지” vs “정부 쌈짓돈” [미래대...
+    url: https://www.segye.com/newsView/20260823508282?OutUrl=naver
+- rank: 8
+  title: 정부의 지방교육재정교부금 내국세 연동 폐지 논란 일파만파 커져
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 정부의 지방교육재정교부금 내국세 연동 폐지 논란 일파만파 커져
+    url: http://www.jjn.co.kr/news/articleView.html?idxno=1049989
+- rank: 9
+  title: “집 팔 거면 2028년까지 파세요”…부동산 대책에 숨겨진 정부의 ‘집값 시간표’ [나현준의 뉴스해부]
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: “집 팔 거면 2028년까지 파세요”…부동산 대책에 숨겨진 정부의 ‘집...
+    url: https://www.mk.co.kr/article/12134252
