@@ -2,8 +2,8 @@ slug: hong-yeong-cheol
 name_ko: 홍영철
 name_en: null
 party: null
-role: 상임공동대표
-status: stub
+role: 제주참여환경연대 공동대표
+status: curated
 aliases:
 - 홍영철 상임공동대표
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 홍영철
   youtube_channels: []
+  official_urls:
+  - https://jj.nec.go.kr/jj/bbs/B0000283/list.do?menuNo=1800018
