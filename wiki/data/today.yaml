@@ -1,109 +1,119 @@
-generated_at: '2026-08-23T23:02:15+00:00'
-source_date: 2026-08-23T230211Z
+generated_at: '2026-08-24T23:02:11+00:00'
+source_date: 2026-08-24T230208Z
 window_hours: 72
 items:
 - rank: 1
-  title: '[부동산현장] ''8·13 부동산대책''과 지방 역차별'
+  title: 정부여당, 오세훈 패싱 논란
   status: 정식 검토
-  score: 7
-  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
+  score: 9
+  summary: 최근 보도 6건, 매체 4곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 19
-    public_actor: 정부
-  sources:
-  - title: 정부 발표-시행령 '제각각'…서울 첫 공공재개발 '흑석2구역' 혼란
-    url: https://www.asiatoday.co.kr/kn/view.php?key=20260804010001186
-  - title: 2금융권 중금리·집단대출 금융사 총량 밖으로…'상호금융 대출' 개방?
-    url: https://www.newswhoplus.com/news/articleView.html?idxno=67679
-  - title: '"백투백 인상"vs"속도조절"…엇갈리는 기준금리 전망'
-    url: https://www.news2day.co.kr/article/20260821500280
-- rank: 2
-  title: 김민석 취임 뒤 첫 고위당정...부동산 대책 논의
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 5건, 매체 4곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 5
+    news_count: 6
     outlet_count: 4
-    public_actor: 의원
+    public_actor: 국민의힘, 정부
   sources:
-  - title: '[사설] 당정 “비거주 1주택 폭넓게 인정”… 부동산 정책 원점 재검토...'
-    url: https://www.sedaily.com/article/20082282?ref=naver
-  - title: 비거주 1주택자 세금 더 내라더니…김민석 첫 당정서 '속도조절'
-    url: https://www.jnilbo.com/news/articleView.html?idxno=90000058827
-  - title: 김민석 체제 첫 고위당정...2차 특검 내일 결과 발표
-    url: https://www.ytn.co.kr/_ln/0101_202608231245201489
+  - title: “구청장 바뀌자 인허가 표류”…정비사업 ‘절대 갑’ 엇박자에 주민들...
+    url: https://www.mk.co.kr/article/12135356
+  - title: 구청장 바뀌자 재개발 멈췄는데…與 "권한 더 주자"
+    url: https://www.mk.co.kr/article/12135011
+  - title: '[사사건건] “수시로 만나자” 했지만 조희대 얘기 나오니…'
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644335&ref=A
+- rank: 2
+  title: 미국 민주당 의원, 트럼프 탄핵소추안 또 발의..."각종 범죄 저질러"
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 3
+    public_actor: 민주당, 의원
+  sources:
+  - title: 美 야당의원 “트럼프, 각종 범죄 저질러”…탄핵소추안 또 발의 [1일1트...
+    url: https://biz.heraldcorp.com/article/10850659?ref=naver
+  - title: 미국 민주당 의원, 트럼프 탄핵소추안 또 발의..."각종 범죄 저질러"
+    url: https://www.ytn.co.kr/_ln/0104_202608250533406149
+  - title: 美 야당의원, 트럼프 탄핵소추안 또 발의…"각종 범죄 저질러"
+    url: https://www.yna.co.kr/view/AKR20260825006500071?input=1195m
 - rank: 3
-  title: 정부 '묘수'인 미래대응기금, 국회엔 '꼼수'…상시추경·쌈짓돈 논란 - 머니투데이
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
+  title: 美민주당 그린 의원, 트럼프 탄핵소추안 또 발의
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 0
-    outlet_count: 0
-    public_actor: 국회, 정부
-  sources: []
+    news_count: 3
+    outlet_count: 3
+    public_actor: 민주당, 의원
+  sources:
+  - title: 美 야당의원 “트럼프, 각종 범죄 저질러”…탄핵소추안 또 발의 [1일1트...
+    url: https://biz.heraldcorp.com/article/10850659?ref=naver
+  - title: 美민주당 그린 의원, 트럼프 탄핵소추안 또 발의
+    url: https://www.nocutnews.co.kr/news/6567328?utm_source=naver&utm_medium=article&utm_campaign=20260825063243
+  - title: 美 야당의원, 트럼프 탄핵소추안 또 발의…"각종 범죄 저질러"
+    url: https://www.yna.co.kr/view/AKR20260825006500071?input=1195m
 - rank: 4
-  title: '[8·13 부동산대책 여파] “남양주 와부읍 광역교통망부터”… 국토장관 만난 최현덕 시장·김용민 의원'
+  title: '"日정부, 美 ICC 일본인 소장 제재 대응 미흡"…日여야의원 성명(종합)'
   status: 추가 확인
-  score: 5
-  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
+  score: 6
+  summary: 최근 보도 2건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 0
-    outlet_count: 0
-    public_actor: 의원, 장관
-  sources: []
+    news_count: 2
+    outlet_count: 1
+    public_actor: 의원, 정부
+  sources:
+  - title: '"日정부, 美 ICC 일본인 소장 제재 대응 미흡"…日여야의원 성명(종합)'
+    url: https://www.yna.co.kr/view/AKR20260824162551073?input=1195m
+  - title: '"日정부, 美 ICC 일본인소장 제재 대응 미흡"…日여야의원 성명'
+    url: https://www.yna.co.kr/view/AKR20260824162500073?input=1195m
 - rank: 5
-  title: '''역대급 갈등'' 대법관 서면제청 논란…윤 정부 때부터 조짐'
+  title: '''미래대응기금'' 정부 쌈짓돈 논란에…박홍근 "국회 심의 거쳐 집행"'
   status: 추가 확인
-  score: 4
+  score: 6
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 정부
+    public_actor: 국회, 정부
   sources:
-  - title: '''역대급 갈등'' 대법관 서면제청 논란…윤 정부 때부터 조짐'
-    url: https://news.tf.co.kr/read/life/2356941.htm
+  - title: '''미래대응기금'' 정부 쌈짓돈 논란에…박홍근 "국회 심의 거쳐 집행"'
+    url: https://www.dailian.co.kr/news/view/1681539/?sc=Naver
 - rank: 6
-  title: 논란 터진 민주당 ‘90도 단체 인사’…김민석 “곧 다듬을 것”
+  title: 삼전·닉스 레버리지 졸속 도입 논란 격화…이억원, 국회서 '뭇매'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 민주당
+    public_actor: 국회
   sources:
-  - title: 논란 터진 민주당 ‘90도 단체 인사’…김민석 “곧 다듬을 것”
-    url: https://www.joongang.co.kr/article/25455400
+  - title: 삼전·닉스 레버리지 졸속 도입 논란 격화…이억원, 국회서 '뭇매'
+    url: https://www.newsway.co.kr/news/view?ud=2026082416432057774
 - rank: 7
-  title: 반도체 세수로 100조+α… “재정 저수지” vs “정부 쌈짓돈” [미래대응기금 조성 논란]
+  title: 100조 미래대응기금 논란..범여권마저 "국회 통제해야"
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 정부
+    public_actor: 국회
   sources:
-  - title: 반도체 세수로 100조+α… “재정 저수지” vs “정부 쌈짓돈” [미래대...
-    url: https://www.segye.com/newsView/20260823508282?OutUrl=naver
+  - title: 100조 미래대응기금 논란..범여권마저 "국회 통제해야"
+    url: http://www.fnnews.com/news/202608241148229921
 - rank: 8
-  title: 정부의 지방교육재정교부금 내국세 연동 폐지 논란 일파만파 커져
+  title: 200조 미래대응기금 두고 여야 시각차…'대통령실 특활비'도 논란
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 정부
+    public_actor: 대통령실
   sources:
-  - title: 정부의 지방교육재정교부금 내국세 연동 폐지 논란 일파만파 커져
-    url: http://www.jjn.co.kr/news/articleView.html?idxno=1049989
+  - title: 200조 미래대응기금 두고 여야 시각차…'대통령실 특활비'도 논란
+    url: https://www.imaeil.com/page/view/2026082417502851532
 - rank: 9
-  title: “집 팔 거면 2028년까지 파세요”…부동산 대책에 숨겨진 정부의 ‘집값 시간표’ [나현준의 뉴스해부]
+  title: 한성숙, '이진숙 포럼' 논란에 "참담한 기분…정부 차원 대응"
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -112,5 +122,17 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: “집 팔 거면 2028년까지 파세요”…부동산 대책에 숨겨진 정부의 ‘집...
-    url: https://www.mk.co.kr/article/12134252
+  - title: 한성숙, '이진숙 포럼' 논란에 "참담한 기분…정부 차원 대응"
+    url: http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5214474
+- rank: 10
+  title: 국민의힘 충남도당, "당진시 의정활동 방해 의혹…진상 낱낱이 밝혀라"
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국민의힘
+  sources:
+  - title: 국민의힘 충남도당, "당진시 의정활동 방해 의혹…진상 낱낱이 밝혀라"
+    url: https://www.gukjenews.com/news/articleView.html?idxno=3673242
