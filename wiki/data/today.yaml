@@ -1,138 +1,158 @@
-generated_at: '2026-08-24T23:02:11+00:00'
-source_date: 2026-08-24T230208Z
+generated_at: '2026-08-25T23:02:00+00:00'
+source_date: 2026-08-25T230157Z
 window_hours: 72
 items:
 - rank: 1
-  title: 정부여당, 오세훈 패싱 논란
+  title: 국회 운영위, '5·18 폄훼 논란' 이진숙 제명촉구안 與주도 의결
   status: 정식 검토
   score: 9
-  summary: 최근 보도 6건, 매체 4곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 9건, 매체 9곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 6
-    outlet_count: 4
-    public_actor: 국민의힘, 정부
+    news_count: 9
+    outlet_count: 9
+    public_actor: 국회, 의원
   sources:
-  - title: “구청장 바뀌자 인허가 표류”…정비사업 ‘절대 갑’ 엇박자에 주민들...
-    url: https://www.mk.co.kr/article/12135356
-  - title: 구청장 바뀌자 재개발 멈췄는데…與 "권한 더 주자"
-    url: https://www.mk.co.kr/article/12135011
-  - title: '[사사건건] “수시로 만나자” 했지만 조희대 얘기 나오니…'
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8644335&ref=A
+  - title: 무늬만있는 의원 징계, 이진숙은?…실효성 부활 '촉각'
+    url: https://news.tf.co.kr/read/ptoday/2357964.htm
+  - title: ‘5·18 포럼’ 이진숙 제명촉구안 與 주도 의결
+    url: https://www.segye.com/newsView/20260825515552?OutUrl=naver
+  - title: '''5·18 폄훼 논란'' 이진숙 제명 촉구 결의안 ''가결''…운영위 與주도'
+    url: https://www.mhj21.com/news/articleView.html?idxno=253682
 - rank: 2
-  title: 미국 민주당 의원, 트럼프 탄핵소추안 또 발의..."각종 범죄 저질러"
+  title: 국회 운영위, '5·18 폄훼 논란' 이진숙 제명 촉구 결의안 의결
   status: 정식 검토
   score: 9
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 3
-    outlet_count: 3
+    news_count: 20
+    outlet_count: 18
+    public_actor: 국회, 의원
+  sources:
+  - title: 국회 운영위, '5·18 폄훼 논란' 이진숙 제명촉구안 의결
+    url: https://kjmbc.co.kr/NewsArticle/1533955
+  - title: 무늬만있는 의원 징계, 이진숙은?…실효성 부활 '촉각'
+    url: https://news.tf.co.kr/read/ptoday/2357964.htm
+  - title: 국힘 반발 속 '이진숙 제명촉구' 의결...실제 징계는?
+    url: https://www.ytn.co.kr/_ln/0101_202608252258364811
+- rank: 3
+  title: '''5·18 폄훼 논란'' 이진숙 제명 결의안 국회 운영위 통과'
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 18
+    public_actor: 국회, 민주당, 의원
+  sources:
+  - title: 국회 운영위, '5·18 폄훼 논란' 이진숙 제명촉구안 의결
+    url: https://kjmbc.co.kr/NewsArticle/1533955
+  - title: 국힘 반발 속 '이진숙 제명촉구' 의결...실제 징계는?
+    url: https://www.ytn.co.kr/_ln/0101_202608252258364811
+  - title: '''5·18 포럼'' 논란 이진숙 제명 촉구안, 운영위 통과'
+    url: https://www.idaegu.co.kr/news/articleView.html?idxno=557635
+- rank: 4
+  title: 국회 운영위원회, 여당 주도로 '5·18 폄훼 논란' 이진숙 의원 제명촉구안 통과
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 20곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 20
+    public_actor: 국회, 민주당, 의원
+  sources:
+  - title: '''5·18 폄훼 논란'' 이진숙 징계촉구안 가결‥"직무정지 법 개정까지"'
+    url: https://imnews.imbc.com/replay/2026/nwdesk/article/6847285_37004.html
+  - title: ‘5·18 포럼’ 이진숙 제명촉구안 與 주도 의결
+    url: https://www.segye.com/newsView/20260825515552?OutUrl=naver
+  - title: 민주당, ‘5·18 폄훼’ 이진숙 제명 촉구 결의안 처리
+    url: http://www.jndn.com/article.php?aid=1787651413438439093
+- rank: 5
+  title: 미 민주당 의원, 트럼프 탄핵소추안 또 발의
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 7건, 매체 6곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 7
+    outlet_count: 6
     public_actor: 민주당, 의원
   sources:
-  - title: 美 야당의원 “트럼프, 각종 범죄 저질러”…탄핵소추안 또 발의 [1일1트...
-    url: https://biz.heraldcorp.com/article/10850659?ref=naver
-  - title: 미국 민주당 의원, 트럼프 탄핵소추안 또 발의..."각종 범죄 저질러"
-    url: https://www.ytn.co.kr/_ln/0104_202608250533406149
-  - title: 美 야당의원, 트럼프 탄핵소추안 또 발의…"각종 범죄 저질러"
-    url: https://www.yna.co.kr/view/AKR20260825006500071?input=1195m
-- rank: 3
+  - title: 美 민주당 앨 그린 의원, 트럼프 탄핵소추안 또 발의
+    url: https://www.asiatoday.co.kr/kn/view.php?key=20260825010008352
+  - title: 미 민주당 의원, 트럼프 탄핵소추안 또 발의
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260825083913qoD
+  - title: 美민주당 앨 그린, 트럼프 탄핵안 또 발의…실현 가능성 적어
+    url: https://www.news1.kr/world/usa-canada/6268183
+- rank: 6
   title: 美민주당 그린 의원, 트럼프 탄핵소추안 또 발의
   status: 정식 검토
   score: 9
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 5건, 매체 5곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 3
-    outlet_count: 3
+    news_count: 5
+    outlet_count: 5
     public_actor: 민주당, 의원
   sources:
+  - title: 美 민주당 앨 그린 의원, 트럼프 탄핵소추안 또 발의
+    url: https://www.asiatoday.co.kr/kn/view.php?key=20260825010008352
+  - title: 美민주당 앨 그린, 트럼프 탄핵안 또 발의…실현 가능성 적어
+    url: https://www.news1.kr/world/usa-canada/6268183
   - title: 美 야당의원 “트럼프, 각종 범죄 저질러”…탄핵소추안 또 발의 [1일1트...
     url: https://biz.heraldcorp.com/article/10850659?ref=naver
-  - title: 美민주당 그린 의원, 트럼프 탄핵소추안 또 발의
-    url: https://www.nocutnews.co.kr/news/6567328?utm_source=naver&utm_medium=article&utm_campaign=20260825063243
-  - title: 美 야당의원, 트럼프 탄핵소추안 또 발의…"각종 범죄 저질러"
-    url: https://www.yna.co.kr/view/AKR20260825006500071?input=1195m
-- rank: 4
-  title: '"日정부, 美 ICC 일본인 소장 제재 대응 미흡"…日여야의원 성명(종합)'
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 2건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 1
-    public_actor: 의원, 정부
-  sources:
-  - title: '"日정부, 美 ICC 일본인 소장 제재 대응 미흡"…日여야의원 성명(종합)'
-    url: https://www.yna.co.kr/view/AKR20260824162551073?input=1195m
-  - title: '"日정부, 美 ICC 일본인소장 제재 대응 미흡"…日여야의원 성명'
-    url: https://www.yna.co.kr/view/AKR20260824162500073?input=1195m
-- rank: 5
-  title: '''미래대응기금'' 정부 쌈짓돈 논란에…박홍근 "국회 심의 거쳐 집행"'
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회, 정부
-  sources:
-  - title: '''미래대응기금'' 정부 쌈짓돈 논란에…박홍근 "국회 심의 거쳐 집행"'
-    url: https://www.dailian.co.kr/news/view/1681539/?sc=Naver
-- rank: 6
-  title: 삼전·닉스 레버리지 졸속 도입 논란 격화…이억원, 국회서 '뭇매'
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
-  sources:
-  - title: 삼전·닉스 레버리지 졸속 도입 논란 격화…이억원, 국회서 '뭇매'
-    url: https://www.newsway.co.kr/news/view?ud=2026082416432057774
 - rank: 7
-  title: 100조 미래대응기금 논란..범여권마저 "국회 통제해야"
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  title: 미국 민주당 의원, 트럼프 탄핵소추안 또 발의
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 10건, 매체 9곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
+    news_count: 10
+    outlet_count: 9
+    public_actor: 민주당, 의원
+  sources:
+  - title: 미국 민주당 의원, 트럼프 탄핵소추안 또 발의
+    url: https://www.obsnews.co.kr/news/articleView.html?idxno=1535255
+  - title: 美 민주당 앨 그린 의원, 트럼프 탄핵소추안 또 발의
+    url: https://www.asiatoday.co.kr/kn/view.php?key=20260825010008352
+  - title: 미 민주당 의원, 트럼프 탄핵소추안 또 발의
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260825083913qoD
+- rank: 8
+  title: 국회 운영위, '5·18 폄훼 논란' 이진숙 제명 촉구안 의결…국힘 불참
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 4
+    outlet_count: 4
     public_actor: 국회
   sources:
-  - title: 100조 미래대응기금 논란..범여권마저 "국회 통제해야"
-    url: http://www.fnnews.com/news/202608241148229921
-- rank: 8
-  title: 200조 미래대응기금 두고 여야 시각차…'대통령실 특활비'도 논란
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 대통령실
-  sources:
-  - title: 200조 미래대응기금 두고 여야 시각차…'대통령실 특활비'도 논란
-    url: https://www.imaeil.com/page/view/2026082417502851532
+  - title: 이진숙 "5·18 성역화 완성되나", 제명 촉구안에 반발
+    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261823&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+  - title: '''5·18 폄훼 논란'' 이진숙 제명 촉구안 운영위 통과'
+    url: https://www.sisajournal.com/news/articleView.html?idxno=384707
+  - title: 국회 운영위, '5·18 폄훼 논란' 이진숙 제명 촉구안 의결…국힘 불참
+    url: https://news.einfomax.co.kr/news/articleView.html?idxno=4431659
 - rank: 9
-  title: 한성숙, '이진숙 포럼' 논란에 "참담한 기분…정부 차원 대응"
+  title: 대구경찰, 홍준표 연루 ‘명태균 의혹’ 다시 수사 중···‘또 다른 의혹’도 조사
   status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  score: 6
+  summary: 최근 보도 6건, 매체 6곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
+    news_count: 6
+    outlet_count: 6
+    public_actor: 확인 중
   sources:
-  - title: 한성숙, '이진숙 포럼' 논란에 "참담한 기분…정부 차원 대응"
-    url: http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5214474
+  - title: 경찰, 홍준표 관련 명태균 여론조사비 대납의혹 재이첩 수사
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8645585&ref=A
+  - title: 대구경찰, 홍준표 연루 ‘명태균 의혹’ 사건 재이첩받아 수사 중
+    url: https://www.chosun.com/national/national_general/2026/08/25/RIMCQM6BJ5BFXN2PKNJHUVGFCY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+  - title: 대구경찰, 홍준표 연루 ‘명태균 의혹’ 다시 수사 중···‘또 다른 의...
+    url: https://www.khan.co.kr/article/202608251820001
 - rank: 10
-  title: 국민의힘 충남도당, "당진시 의정활동 방해 의혹…진상 낱낱이 밝혀라"
+  title: '[서울시의회] “시민 혜택은 줄이고 특정 단체 일자리는 늘리나”…서울시의회 국민의힘, 민주당·전장연 ‘사회적 대타협’ 정면 비판'
   status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  score: 5
+  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국민의힘
-  sources:
-  - title: 국민의힘 충남도당, "당진시 의정활동 방해 의혹…진상 낱낱이 밝혀라"
-    url: https://www.gukjenews.com/news/articleView.html?idxno=3673242
+    news_count: 0
+    outlet_count: 0
+    public_actor: 국민의힘, 민주당
+  sources: []
