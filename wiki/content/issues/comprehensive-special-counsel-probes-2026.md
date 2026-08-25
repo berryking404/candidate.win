@@ -86,9 +86,8 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [김오진](/people/gim-o-jin) — **반대**: 관저 이전 의혹과 관련해 재판에 넘겨진 것으로 보도됐다. [출처](https://www.slist.kr/news/articleView.html?idxno=760411)
 - [윤재순](/people/yun-jae-sun) — **반대**: 관저 이전 의혹과 관련해 재판에 넘겨진 것으로 보도됐다. [출처](https://www.slist.kr/news/articleView.html?idxno=760411)
 - [추경호](/people/chu-gyeong-ho) — **중립**: 관저 예산 전용 의혹에서 불입건 처분을 받은 것으로 보도됐다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260822091156ugN)
-- [김완섭](/people/gim-wan-seob) — **중립**: 관저 예산 전용 의혹에서 기소유예 처분을 받은 것으로 보도됐다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260822091156ugN)
+- [김완섭](/people/gim-wan-seop) — **중립**: 관저 예산 전용 의혹에서 기소유예 처분을 받은 것으로 보도됐다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260822091156ugN)
 - [이진우](/people/i-jin-u) — **반대**: '수호신 TF' 의혹과 관련해 재판에 넘겨진 것으로 보도됐다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260822085145AUb)
 - [여인형](/people/yeo-in-hyeong) — **반대**: '수호신 TF' 의혹과 관련해 재판에 넘겨진 것으로 보도됐다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260822085145AUb)
 - [황유성](/people/hwang-yu-seong) — **반대**: 'VIP 격노 은폐' 관련 의혹으로 재판에 넘겨진 것으로 보도됐다. [출처](https://www.khan.co.kr/article/202608211905001)
-- [김계환](/people/gim-gye-hwan) — **반대**: 'VIP 격노 은폐' 관련 의혹으로 재판에 넘겨진 것으로 보도됐다. [출처](https://www.joongang.co.kr/article/25455163)
 <!-- /agent:stances -->

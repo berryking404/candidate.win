@@ -1,8 +1,8 @@
 ---
 title: 윤영희
 slug: yun-yeong-hui
-role: 국가데이터처 경제조사팀장
-status: stub
+role: 경인지방데이터청 경제조사과 팀장
+status: curated
 ---
 
 ## 행적

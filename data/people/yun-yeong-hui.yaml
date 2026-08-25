@@ -2,8 +2,8 @@ slug: yun-yeong-hui
 name_ko: 윤영희
 name_en: null
 party: null
-role: 국가데이터처 경제조사팀장
-status: stub
+role: 경인지방데이터청 경제조사과 팀장
+status: curated
 aliases:
 - 윤영희 국가데이터처 경제조사팀장
 discovered_via_issue: energy-price-inflation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 윤영희
   youtube_channels: []
+  official_urls:
+  - https://mods.go.kr/board.es?act=view&bid=5107&list_no=445704&mid=a30301010300&nPage=1&ref_bid=&tag=

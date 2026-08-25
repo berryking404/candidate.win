@@ -1,8 +1,8 @@
 ---
 title: 안진숙
 slug: an-jin-suk
-role: 제주시 통합돌봄과장
-status: stub
+role: 제주시 여성가족과장
+status: curated
 ---
 
 ## 행적

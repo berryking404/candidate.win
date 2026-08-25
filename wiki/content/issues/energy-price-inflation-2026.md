@@ -102,8 +102,5 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - [김성환](/people/gim-seong-hwan) — **중립**: 산업용 전기요금 지역별 차등화와 재생에너지 확대를 언급했지만, 물가와 전기요금 전반에 대한 찬반은 기사에서 분명히 갈리지 않았다. [출처](http://www.metroseoul.co.kr/article/20260804500421)
 - [윤영희](/people/yun-yeong-hui) — **중립**: 전기요금 누진세 완화가 실질 부담을 줄였다고 설명했으나, 해당 이슈에 대한 별도의 찬반 입장은 보이지 않았다. [출처](https://www.kgnews.co.kr/news/article.html?no=906340)
 - [유창범](/people/yu-chang-beom) — **중립**: 전력망 투자와 물가 안정 대책을 함께 거론한 칼럼이었으나 명시적 찬반은 없었다. [출처](https://news.einfomax.co.kr/news/articleView.html?idxno=4428701)
-- [기름값 상한 동결 논의](/people/unknown-oil-cap) — **중립**: 정부가 유가 상승과 물가 안정을 함께 고려하며 석유 최고가격제 동결을 연장했다. [출처](https://www.hankyung.com/article/202608215002i)
-- [산업용 지역 전기요금제](/people/unknown-regional-tariff) — **지지**: 지역별 전기요금 차등 적용을 통해 산업계 부담 완화를 추진하고 있다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643092&ref=A)
-- [김해시](/people/gimhae-si) — **지지**: 고유가와 대중교통비 부담을 줄이기 위해 유가보조금과 교통비 환급 예산을 늘렸다. [출처](https://www.cnbnews.com/news/articleView.html?idxno=1012334)
-- [장정희](/people/jang-jeonghee) — **지지**: 에너지 전환의 혜택을 전기요금 절감과 소득 창출로 체감해야 한다며 주민참여형 태양광 확대를 주장했다. [출처](https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/21/20260821500284?wlog_tag3=naver)
+- [장정희](/people/jang-jeong-hui) — **지지**: 에너지 전환의 혜택을 전기요금 절감과 소득 창출로 체감해야 한다며 주민참여형 태양광 확대를 주장했다. [출처](https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/21/20260821500284?wlog_tag3=naver)
 <!-- /agent:stances -->
