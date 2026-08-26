@@ -92,4 +92,11 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [김영배](/people/gim-yeong-bae) — **지지**: 서울 부동산 불안 해소를 위해 다주택자의 전월세 공급 역할을 강화해야 한다고 말했다. [출처](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000545605)
 - [박용갑](/people/bak-yong-gap) — **지지**: 미성년 임대인의 전세보증금 반환 책임을 법정대리인에게 연대보증하게 하는 제도 개선을 추진해 세입자 보호를 강화했다. [출처](https://www.news1.kr/local/daejeon-chungnam/6262196)
 - [주진우](/people/ju-jin-u) — **지지**: 전세사기 피해자 지원 확대와 청년 보호를 위한 법안 발의를 통해 주거불안 완화에 나섰다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=315699)
+- [주무열](/people/ju-muyeol) — **지지**: 청년 전세사기 피해 지원과 관악 지역 주거·민생 예산을 챙기겠다고 밝혔다. [출처](https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/08/26/20260826500078?wlog_tag3=naver)
+- [신한은행](/people/shinhan-eunhaeng) — **중립**: 전세사기·보이스피싱 피해자 등 취약계층에 대한 금융지원과 금융교육을 상생금융의 한 축으로 추진해왔다. [출처](https://www.newstnt.com/news/articleView.html?idxno=715293)
+- [김미경](/people/gim-migyeong) — **지지**: 전월세 계약 준비 청년을 위해 전세사기 예방과 임대차 이해도 제고를 지원했다. [출처](https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/08/26/20260826019003?wlog_tag3=naver)
+- [서명옥](/people/seo-myeongok) — **혼합**: 정부의 주거정책이 국민의 주거불안을 키운다고 비판하면서도 부동산과 돌봄 정책의 조정을 요구했다. [출처](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000547022)
+- [조지연](/people/jo-jiyeon) — **지지**: 청년의 주거비 부담을 낮추기 위해 월세 세액공제 확대와 취득세 감면 확대를 추진했다. [출처](https://www.kbmaeil.com/article/20260826500172)
+- [전주시](/people/jeonjusi) — **지지**: 전세사기 피해 임차인에 주거비와 긴급생계비를 지원하기로 했다. [출처](https://www.newsis.com/view/NISX20260826_0003763241)
+- [서울시의회 국민의힘](/people/seoul-siuihoe-gukmin-uihim) — **반대**: 전월세 부담 증가와 주거불안을 이유로 정부 주택정책의 재검토를 요구했다. [출처](https://www.ppss.kr/news/articleView.html?idxno=307264)
 <!-- /agent:stances -->
