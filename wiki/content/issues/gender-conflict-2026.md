@@ -78,7 +78,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [위성곤](/people/wi-seong-gon) — **중립**: 제주 시민사회와의 간담회에서 인권·성평등 현안을 함께 논의했지만, 젠더 갈등에 대한 찬반 입장은 드러나지 않았다. [출처](https://www.mediajeju.com/news/articleView.html?idxno=365841)
 - [홍영철](/people/hong-yeong-cheol) — **중립**: 지역 갈등의 공론화와 도정 신뢰 회복을 강조했지만, 젠더 갈등 자체에 대한 명시적 입장은 확인되지 않았다. [출처](https://www.mediajeju.com/news/articleView.html?idxno=365841)
 - [미확인] 기록 없음
-- [J.K. 롤링](/people/jk-rolling) — **혼합**: 트랜스젠더를 혐오하는 것이 아니라 여성의 권리와 생물학적 성별에 관한 입장을 지킨다고 주장하며 관련 논란이 지속됐다. [출처](https://www.segye.com/newsView/20260825509750?OutUrl=naver)
-- [홍혜걸](/people/hong-hyegeol) — **중립**: 제주 실종 사건을 계기로 “혼자 다니지 말라”고 경고하며 성별에 따라 주의를 당부했다. [출처](https://www.hankyung.com/article/202608251908H)
-- [멜라니 그라디크](/people/melanie-gradik) — **지지**: 공중화장실 요금 차이가 성차별이라며 오스트리아 시 당국을 상대로 소송을 냈다. [출처](https://www.tvchosun.com/site/data/html_dir/2026/08/26/2026082690077.html)
+- [멜라니 그라디크](/people/mel-lani-geu-ra-di-keu) — **지지**: 공중화장실 요금 차이가 성차별이라며 오스트리아 시 당국을 상대로 소송을 냈다. [출처](https://www.tvchosun.com/site/data/html_dir/2026/08/26/2026082690077.html)
 <!-- /agent:stances -->

@@ -2,8 +2,8 @@ slug: jeong-da-eun
 name_ko: 정다은
 name_en: null
 party: null
-role: 채널A 특파원
-status: stub
+role: 채널A 워싱턴 특파원
+status: curated
 aliases:
 - 정다은
 discovered_via_issue: hormuz-blockade-us-reduction-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 정다은
   youtube_channels: []
+  official_urls:
+  - https://www.donga.com/news/article/all/20260105/133090592/2

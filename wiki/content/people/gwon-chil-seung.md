@@ -2,7 +2,8 @@
 title: 권칠승
 slug: gwon-chil-seung
 role: 더불어민주당 정책위의장
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

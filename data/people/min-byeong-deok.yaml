@@ -1,9 +1,9 @@
 slug: min-byeong-deok
 name_ko: 민병덕
 name_en: null
-party: null
+party: 더불어민주당
 role: 국회의원
-status: stub
+status: curated
 aliases:
 - 민병덕 의원
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 민병덕
   youtube_channels: []
+  official_urls:
+  - https://watch.peoplepower21.org/Member?member_seq=1100

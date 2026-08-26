@@ -248,8 +248,5 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [박용갑](/people/bak-yong-gap) — **지지**: 대전 중부권 중입자 치료센터 구축을 촉구하며 수도권 집중 의료 인프라의 분산 필요성을 제기했다. [출처](http://www.chungnamilbo.co.kr/news/articleView.html?idxno=905904)
 - [김윤](/people/gim-yun) — **지지**: 과천 경마공원 이천 유치를 건의하며 지역 산업 기반을 활용한 지역경제 활성화를 요구했다. [출처](https://www.asiatime.co.kr/article/20260826500050)
 - [이상휘](/people/i-sang-hwi) — **지지**: 인구감소지역 농·축협 보호와 공공 판로 확보를 통해 지방소멸 위기 대응과 지역사회 유지 필요성을 강조했다. [출처](https://www.kbsm.net/news/view.php?idx=531729)
-- [김동철](/people/gim-dong-cheol) — **지지**: 산업용 지역 전기요금제 공청회에서 지역 균형발전과 산업경쟁력 강화를 위한 전기요금 차등 설계 논의에 참여했다. [출처](https://www.newsis.com/view/NISI20260826_0021411671)
-- [이해찬](/people/i-hae-chan) — **지지**: 지역균형발전과 국가균형성장 강화를 위한 산업·교통 인프라 확충 필요성을 강조했다. [출처](https://www.etoday.co.kr/news/view/2618397)
-- [강문성](/people/gang-mun-seong) — **지지**: 교육과 돌봄을 통한 지역소멸 대응과 지방자치단체의 역할 강화를 논의했다. [출처](https://daily.hankooki.com/news/articleView.html?idxno=1399450)
-- [이장우](/people/i-jang-u) — **지지**: 수도권 공공기관 2차 이전과 공공기관 유치가 지방소멸 대응의 핵심 해법이라고 강조했다. [출처](https://www.dkilbo.com/news/articleView.html?idxno=552362)
+- [이장우](/people/lee-jangwoo) — **지지**: 수도권 공공기관 2차 이전과 공공기관 유치가 지방소멸 대응의 핵심 해법이라고 강조했다. [출처](https://www.dkilbo.com/news/articleView.html?idxno=552362)
 <!-- /agent:stances -->

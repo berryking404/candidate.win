@@ -2,7 +2,8 @@
 title: 민병덕
 slug: min-byeong-deok
 role: 국회의원
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

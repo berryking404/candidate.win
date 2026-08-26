@@ -1,9 +1,9 @@
 slug: gim-yun
 name_ko: 김윤
 name_en: null
-party: null
-role: 의원
-status: stub
+party: 더불어민주당
+role: 국회의원(비례)
+status: curated
 aliases:
 - 김윤 의원
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김윤
   youtube_channels: []
+  official_urls:
+  - https://www.pressian.com/pages/articles/2026042412471741279

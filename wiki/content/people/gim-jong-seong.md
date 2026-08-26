@@ -2,7 +2,8 @@
 title: 김종성
 slug: gim-jong-seong
 role: 가평군의회 의장
-status: stub
+status: curated
+party: 국민의힘
 ---
 
 ## 행적

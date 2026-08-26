@@ -1,8 +1,8 @@
 ---
 title: 정다은
 slug: jeong-da-eun
-role: 채널A 특파원
-status: stub
+role: 채널A 워싱턴 특파원
+status: curated
 ---
 
 ## 행적

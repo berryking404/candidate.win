@@ -1,9 +1,9 @@
 slug: gim-jeong-ho
 name_ko: 김정호
 name_en: null
-party: null
+party: 더불어민주당
 role: 국회의원
-status: stub
+status: curated
 aliases:
 - 김정호 의원
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김정호
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260406098200001

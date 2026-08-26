@@ -2,7 +2,8 @@
 title: 김정호
 slug: gim-jeong-ho
 role: 국회의원
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

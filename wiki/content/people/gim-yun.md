@@ -1,8 +1,9 @@
 ---
 title: 김윤
 slug: gim-yun
-role: 의원
-status: stub
+role: 국회의원(비례)
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

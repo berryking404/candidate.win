@@ -2,7 +2,7 @@
 title: 김기범
 slug: gim-gi-beom
 role: BNK경남은행 울산영업그룹장
-status: stub
+status: curated
 ---
 
 ## 행적

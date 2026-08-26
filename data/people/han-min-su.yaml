@@ -1,9 +1,9 @@
 slug: han-min-su
 name_ko: 한민수
 name_en: null
-party: null
+party: 더불어민주당
 role: 더불어민주당 최고위원
-status: stub
+status: curated
 aliases:
 - Han Min-soo
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 한민수
   youtube_channels: []
+  official_urls:
+  - https://www.newsis.com/view/NISX20260817_0003751487

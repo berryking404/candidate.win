@@ -1,8 +1,8 @@
 ---
 title: 강두식
 slug: gang-du-sik
-role: 논산시 융복합지원과장
-status: stub
+role: 논산시 농업기술센터 융복합지원과장
+status: curated
 ---
 
 ## 행적

@@ -1,9 +1,9 @@
 slug: gim-jong-seong
 name_ko: 김종성
 name_en: null
-party: null
+party: 국민의힘
 role: 가평군의회 의장
-status: stub
+status: curated
 aliases:
 - 김종성 가평군의회 의장
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김종성
   youtube_channels: []
+  official_urls:
+  - https://www.gpassem.go.kr/kr/chairman/greetingsCnts.do

@@ -50,6 +50,6 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - [안규백](/people/an-gyu-baek) — **중립**: 연합훈련 축소 논란 속에서 전작권 FOC 검증 완료를 위해 노력해 달라고 당부하며 절차 관리에 무게를 뒀다. [출처](https://www.fnnews.com/news/202608190906048824)
 - [장도영](/people/jang-do-yeong) — **중립**: 한미 합의 기준을 달성하면 올해 SCM에서 FOC 검증과 전환 시기를 건의할 수 있다고 설명했다. [출처](https://www.ytn.co.kr/_ln/0101_202608190553261572)
 - [양욱](/people/yang-ug) — **반대**: 연합훈련 축소로 전작권 환수 검증이 충분히 이뤄지지 못할 수 있다고 우려하며 서두르는 데 회의적 시각을 보였다. [출처](https://www.hankookilbo.com/news/article/A2026081817080000144?did=NA)
-- [김병주](/people/kim-byeong-ju) — **지지**: 전작권 환수를 차질 없이 추진해야 한다는 취지의 입장을 드러냈다. [출처](https://www.g-enews.com/view.php?ud=202608251400101446fbbec65dfb_1)
-- [유용원](/people/yoo-yongwon) — **지지**: 전작권 전환과 연계된 K방산 수출강화 패키지법을 공동 발의하며 안보 역량 강화 필요성을 강조했다. [출처](https://kookbang.dema.mil.kr/newsWeb/20260826/5/ATCE_CTGR_0010010000/view.do)
+- [김병주](/people/gim-byeong-ju) — **지지**: 전작권 환수를 차질 없이 추진해야 한다는 취지의 입장을 드러냈다. [출처](https://www.g-enews.com/view.php?ud=202608251400101446fbbec65dfb_1)
+- [유용원](/people/yu-yong-won) — **지지**: 전작권 전환과 연계된 K방산 수출강화 패키지법을 공동 발의하며 안보 역량 강화 필요성을 강조했다. [출처](https://kookbang.dema.mil.kr/newsWeb/20260826/5/ATCE_CTGR_0010010000/view.do)
 <!-- /agent:stances -->

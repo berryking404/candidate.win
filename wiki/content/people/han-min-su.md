@@ -2,7 +2,8 @@
 title: 한민수
 slug: han-min-su
 role: 더불어민주당 최고위원
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적
