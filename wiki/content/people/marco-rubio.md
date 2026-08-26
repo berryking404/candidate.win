@@ -15,4 +15,5 @@ party: 공화당
 
 <!-- agent:stances -->
 - [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **지지**: 나토 동맹국들의 이란 전쟁 비협조에 실망을 공개적으로 드러내며 주둔 미군 감축 기조를 뒷받침했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8568427&ref=A)
+- [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **중립**: 미국은 당분간 이란에 대한 추가 공습을 피하고 호르무즈 해협 봉쇄와 경제제재를 통한 압박에 집중한다는 방침을 동맹국들에 설명한 것으로 전해졌다. [출처](https://www.joongangenews.com/news/articleView.html?idxno=542809)
 <!-- /agent:stances -->

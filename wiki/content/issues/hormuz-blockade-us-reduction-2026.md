@@ -25,4 +25,5 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [JD 밴스](/people/jd-vance) — **지지**: 이란이 호르무즈 해협 통제를 내세워 미국의 제재·봉쇄 해제를 요구하는 협상 국면을 설명하며 타결 가능성을 언급했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8631651&ref=A)
 - [헤그세스](/people/pete-hegseth) — **지지**: 대이란 해상봉쇄를 무기한 이어갈 수 있다고 강조하며 장기 압박 태세를 공개적으로 시사했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8637139&ref=A)
 - [신재웅](/people/sin-jae-ung) — **중립**: 호르무즈 해협 긴장과 미국의 제재·봉쇄 강화가 국제유가와 경제에 미칠 영향을 해설했다. [출처](https://imnews.imbc.com/replay/2026/nwtoday/article/6846496_37012.html)
+- [루비오](/people/marco-rubio) — **중립**: 미국은 당분간 이란에 대한 추가 공습을 피하고 호르무즈 해협 봉쇄와 경제제재를 통한 압박에 집중한다는 방침을 동맹국들에 설명한 것으로 전해졌다. [출처](https://www.joongangenews.com/news/articleView.html?idxno=542809)
 <!-- /agent:stances -->
