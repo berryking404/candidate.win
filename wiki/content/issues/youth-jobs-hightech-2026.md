@@ -178,4 +178,7 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [이재명](/people/leejaemyung) — **지지**: AI 대전환과 첨단산업 성장을 국가 경제의 새 여건으로 언급하며 AI와 첨단산업 육성을 강조했다. [출처](https://www.munhwa.com/article/11612204?ref=naver)
 - [정원대](/people/jeongwondae) — **지지**: 청년 실업 해법으로 산업·고용 구조 개선을 거론하며 청년 고용 문제 대응을 촉구했다. [출처](https://www.hankyung.com/article/202608252519i)
 - [최문석](/people/choimunseok) — **중립**: 일본 사례를 들어 청년 고용 구조를 비교 분석했을 뿐, 해당 이슈에 대한 명시적 찬반은 드러나지 않았다. [출처](https://www.labortoday.co.kr/news/articleView.html?idxno=236429)
+- [장동혁](/people/jang-dong-hyeok) — **지지**: 청년의 일할 권리를 되찾고 AI 시대에 맞는 노동개혁과 일자리 TF를 추진하겠다고 밝혔다. [출처](https://www.ngonews.kr/news/articleView.html?idxno=236404)
+- [진보당](/people/jeinbodae? ) — **미확인**: 반도체특위 출범을 통해 청년 일자리 특구와 전주기 반도체 생태계 구축을 강조했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262071&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
+- [이재준](/people/i-jae-jun) — **지지**: 첨단산업 육성과 관광·지역경제를 연결해 청년 일자리 창출을 강조했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262073&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 <!-- /agent:stances -->
