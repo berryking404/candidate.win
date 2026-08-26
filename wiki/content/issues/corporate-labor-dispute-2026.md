@@ -56,4 +56,6 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [권오현](/people/gwon-o-hyeon) — **반대**: 영업이익 연동 성과급 요구를 비판하며 단기 실적 배분보다 기업의 장기 경쟁력과 반도체 미래 투자를 강조했다. [출처](http://www.00news.co.kr/news/articleView.html?idxno=105868)
 - [김지형](/people/gim-ji-hyeong) — **중립**: 대기업 단위 노조의 영업이익 비례 성과급 갈등을 법만으로 해결하기 어렵다며 사회적 대화의 필요성을 제기했다. [출처](https://www.greened.kr/news/articleView.html?idxno=347370)
 - [김영훈](/people/gim-yeong-hun) — **혼합**: 성과급 쟁의대상 확대 검토를 언급하는 한편, 정부 차원의 시행령·시행규칙 검토와 조정도 병행했다. [출처](https://www.news.mtn.co.kr/news-detail/2026081813272628831)
+- [삼성전자](/people/samseongjeonja) — **혼합**: 반도체 DS부문 성과급 합의로 총파업을 앞둔 갈등은 봉합했지만, DX부문은 자사주 지급과 전사 성과 공유를 요구하며 별도 갈등이 이어졌다. [출처](https://www.joongang.co.kr/article/25456021)
+- [방준원](/people/bang-jun-won) — **중립**: SK하이닉스 임단협 부결 소식을 전하며 삼성전자 노사 협상에도 영향이 있을 수 있다고 설명했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646110&ref=A)
 <!-- /agent:stances -->
