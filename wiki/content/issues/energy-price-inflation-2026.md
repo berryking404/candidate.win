@@ -103,4 +103,9 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - [윤영희](/people/yun-yeong-hui) — **중립**: 전기요금 누진세 완화가 실질 부담을 줄였다고 설명했으나, 해당 이슈에 대한 별도의 찬반 입장은 보이지 않았다. [출처](https://www.kgnews.co.kr/news/article.html?no=906340)
 - [유창범](/people/yu-chang-beom) — **중립**: 전력망 투자와 물가 안정 대책을 함께 거론한 칼럼이었으나 명시적 찬반은 없었다. [출처](https://news.einfomax.co.kr/news/articleView.html?idxno=4428701)
 - [장정희](/people/jang-jeong-hui) — **지지**: 에너지 전환의 혜택을 전기요금 절감과 소득 창출로 체감해야 한다며 주민참여형 태양광 확대를 주장했다. [출처](https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/21/20260821500284?wlog_tag3=naver)
+- [이형일](/people/?) — **지지**: 추석 전 먹거리·유류 가격을 안정적으로 관리하겠다는 물가 안정 기조를 설명했다. [출처](https://www.yna.co.kr/view/AKR20260826068900009?input=1195m)
+- [홍의락](/people/?) — **혼합**: 민수용 가스요금 동결로 소비자 부담은 줄었지만, 미수금 확대와 재무 정상화 지연이라는 부담도 함께 커졌다고 설명됐다. [출처](https://www.yna.co.kr/view/AKR20260826068900009?input=1195m)
+- [이재명](/people/?) — **지지**: 전기요금 동결과 물가 안정 우선 기조의 배경이 되는 정책 방향으로 거론됐다. [출처](https://www.yna.co.kr/view/AKR20260826068900009?input=1195m)
+- [안재균](/people/?) — **반대**: 근원물가와 에너지 요금의 재상승 가능성을 경고하며 물가 안정 낙관론에 신중론을 제기했다. [출처](https://www.yna.co.kr/view/AKR20260826068900009?input=1195m)
+- [한승훈](/people/?) — **혼합**: 에너지 가격 상승과 요금 왜곡 문제를 짚으면서도, 정책 필요성과 시장 부담을 함께 보여주는 분석을 내놨다. [출처](https://www.gasnews.com/news/articleView.html?idxno=126504)
 <!-- /agent:stances -->
