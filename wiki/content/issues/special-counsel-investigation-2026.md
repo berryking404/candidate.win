@@ -71,4 +71,8 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [명태균](/people/myeong-tae-gyun) — **중립**: 명태균 게이트와 공천 개입 의혹의 핵심 관련자로 보도됐다. [출처](https://www.nocutnews.co.kr/news/6564640?utm_source=naver&utm_medium=article&utm_campaign=20260819104229)
 - [오세훈](/people/o-se-hun) — **중립**: 명태균 여론조사 의혹 항소심에서 무죄를 주장하며 특검의 기소를 다투는 입장으로 보도됐다. [출처](https://www.ytn.co.kr/_ln/0103_202608211812066192)
 - [권성동](/people/gwon-seong-dong) — **반대**: 통일교 관련 특검 수사에서 유죄 확정과 변호사 등록 취소가 보도됐다. [출처](https://www.mk.co.kr/article/12133582)
+- [박균택](/people/bak-gyun-taek) — **지지**: 윤석열 정부 조작 수사·기소 의혹 특검법에 특별검사의 공소취소권을 넣어야 한다고 말했다. [출처](https://www.yna.co.kr/view/AKR20260826079000001?input=1195m)
+- [김태효](/people/gim-tae-hyo) — **중립**: 계엄과 탄핵소추 기간의 내란 행위 지속 여부를 둘러싼 특검 공방의 당사자로 거론됐다. [출처](https://www.yna.co.kr/view/AKR20260826079000001?input=1195m)
+- [유시민](/people/yu-si-min) — **지지**: 조작기소 특검 추진에 비판적이던 상대 진영을 향해 윤석열과 같다고 언급하며 특검 추진을 옹호하는 취지로 말했다. [출처](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000547039)
+- [김민석](/people/gim-min-seok) — **지지**: 인요한의 탄핵 표결 불참 전력을 들어 적십자사 회장 인준을 재고해야 한다고 요청했다. [출처](https://www.news1.kr/politics/assembly/6269838)
 <!-- /agent:stances -->
