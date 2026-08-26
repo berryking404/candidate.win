@@ -191,4 +191,7 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [조용술](/people/jo-yong-sul) — **반대**: 소모적인 정쟁에 몰두해 대안 야당 이미지가 부족하다고 국민의힘을 비판했다. [출처](https://www.ekn.kr/web/view.php?key=20260816025533258)
 - [이청형](/people/i-cheong-hyeong) — **중립**: 민생 중심의 의정과 현장 정치를 강조하는 문맥에서 거론됐다. [출처](https://www.nocutnews.co.kr/news/6562918?utm_source=naver&utm_medium=article&utm_campaign=20260817050102)
 - [안도걸](/people/an-do-geol) — **지지**: 지역 민생정치와 성과 중심 플랫폼을 만들겠다며 협력과 견제를 민생 기준으로 풀겠다고 밝혔다. [출처](https://www.newsis.com/view/NISX20260819_0003754385)
+- [조경태](/people/jo-gyeong-tae) — **지지**: 징계를 수용하면서도 의정활동과 민생정치에 매진하겠다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260826082800001?input=1195m)
+- [권칠승](/people/gwon-chil-seung) — **지지**: 정기국회에서 민생 현안 법안 처리가 최우선이라고 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646341&ref=A)
+- [한민수](/people/han-min-su) — **중립**: 반도체와 대미 투자 논란을 정쟁 소재로 삼지 말라고 하며 경제 현안의 정치화에 선을 그었다. [출처](https://www.edaily.co.kr/News/Read?newsId=02942166645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article)
 <!-- /agent:stances -->
