@@ -197,4 +197,11 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이기형](/people/i-gi-hyeong) — **지지**: 홈플러스 재개장 현장을 찾아 영업 정상화와 지역상권 회복을 응원했다. [출처](https://www.ajunews.com/view/20260821161424359)
 - [조재구](/people/jo-jae-gu) — **지지**: 지역 관광 활성화와 함께 주변 상권 회복에 보탬이 되도록 하겠다고 밝혔다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=740906)
 - [신장식](/people/sin-jang-sik) — **지지**: 전통시장을 찾아 상인들의 경영난과 시장 활성화 현안을 듣고 당 차원의 지원을 약속했다. [출처](https://www.kwangju.co.kr/article.php?aid=1787368800802536372)
+- [박상용](/people/bak-sang-yong) — **지지**: 소상공인이 지원 제도를 놓치지 않도록 현장 접점을 강화하고 경영위기 극복 상담회를 전국 14곳에서 운영한다는 입장을 밝혔다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260826071800030)
+- [김기범](/people/gim-gi-beom) — **지지**: 화재 피해를 입은 방어진 활어센터 소상공인의 조속한 영업 재개와 경영 안정을 위한 긴급 금융지원을 강조했다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=316270)
+- [박종원](/people/bak-jong-won) — **지지**: 추석을 앞둔 상품권 특별할인이 군민의 가계 부담을 덜고 골목상권에 활력을 불어넣는 마중물이 되길 기대한다고 밝혔다. [출처](https://daily.hankooki.com/news/articleView.html?idxno=1399380)
+- [조용호](/people/jo-yong-ho) — **지지**: 오산오색시장 디지털 배송센터 개소를 통해 전통시장과 배송 편의를 함께 높이는 상권 지원에 나섰다. [출처](https://gg.newdaily.co.kr/site/data/html/2026/08/26/2026082600172.html)
+- [이상훈](/people/i-sang-hun) — **지지**: 홍성사랑상품권 확대 발행이 전통시장과 골목상권으로 자금이 다시 돌아가는 지역경제 선순환의 마중물이라고 설명했다. [출처](https://view.asiae.co.kr/article/2026082610493452554)
+- [오태완](/people/o-tae-wan) — **지지**: 관광객의 동선을 전통시장과 음식점, 농특산물 소비로 연결해 지역축제 효과를 지역경제로 확산하겠다는 뜻을 밝혔다. [출처](https://daily.hankooki.com/news/articleView.html?idxno=1399361)
+- [김종성](/people/gim-jong-seong) — **지지**: 현장 우선 원칙 아래 농촌과 전통시장, 소상공인 사업장을 직접 찾아 판로·홍보·관광 연계를 고민하겠다고 말했다. [출처](https://www.kyeonggi.com/article/20260826580091)
 <!-- /agent:stances -->
