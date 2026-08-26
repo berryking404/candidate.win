@@ -1,7 +1,7 @@
 ---
 title: 윤성식
 slug: yun-seong-sik
-role: 서울고등법원 부장판사
+role: 부장판사
 status: curated
 ---
 
