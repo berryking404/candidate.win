@@ -242,4 +242,9 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [김한종](/people/gim-han-jong) — **지지**: 북부권 상생협력과 제2혁신도시 지정이 지역 격차 해소에 필요하다고 밝혔다. [출처](https://www.sentv.co.kr/article/view/sentv202608210180)
 - [윤병태](/people/yun-byeong-tae) — **지지**: 핵융합 실증로 유치와 연구개발특구 지정으로 나주를 연구·산업 거점으로 키워 지역경제와 균형발전에 기여하겠다고 밝혔다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=740892)
 - [서영학](/people/seo-yeong-hak) — **지지**: 고용위기 선제대응지역 연장을 계기로 지역경제 회복과 중앙정부 협력을 강화하겠다고 말했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3671344)
+- [구자열](/people/gu-jayeol) — **지지**: 수도권 공공기관 2차 이전을 지역 성장 기반을 만드는 국가균형성장의 핵심 축으로 제시했다. [출처](https://www.yna.co.kr/view/AKR20260826072400062?input=1195m)
+- [민병덕](/people/min-byeong-deok) — **지지**: 수도권에 집중된 금융자원을 지역 산업과 기업으로 연결하는 국가균형발전 실험을 지지했다. [출처](https://www.etoday.co.kr/news/view/2618319)
+- [김정호](/people/gim-jeong-ho) — **지지**: 수도권 금융자원을 지역 산업·기업으로 돌리는 동남권투자공사법 추진에 뜻을 같이했다. [출처](https://www.etoday.co.kr/news/view/2618319)
+- [박용갑](/people/bak-yong-gap) — **지지**: 대전 중부권 중입자 치료센터 구축을 촉구하며 수도권 집중 의료 인프라의 분산 필요성을 제기했다. [출처](http://www.chungnamilbo.co.kr/news/articleView.html?idxno=905904)
+- [김윤](/people/gim-yun) — **지지**: 과천 경마공원 이천 유치를 건의하며 지역 산업 기반을 활용한 지역경제 활성화를 요구했다. [출처](https://www.asiatime.co.kr/article/20260826500050)
 <!-- /agent:stances -->
