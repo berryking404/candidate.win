@@ -79,4 +79,12 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [홍영철](/people/hong-yeong-cheol) — **중립**: 지역 갈등의 공론화와 도정 신뢰 회복을 강조했지만, 젠더 갈등 자체에 대한 명시적 입장은 확인되지 않았다. [출처](https://www.mediajeju.com/news/articleView.html?idxno=365841)
 - [미확인] 기록 없음
 - [멜라니 그라디크](/people/mel-lani-geu-ra-di-keu) — **지지**: 공중화장실 요금 차이가 성차별이라며 오스트리아 시 당국을 상대로 소송을 냈다. [출처](https://www.tvchosun.com/site/data/html_dir/2026/08/26/2026082690077.html)
+- [이준석](/people/lee-junseok) — **반대**: 방송 인터뷰와 소셜미디어에서 “85년생 여성이 변호사가 되는 데 어떤 제도적 불평등과 차별이 있느냐”고 말하며 구조적 성차별의 존재를 부인하는 취지의 발언을 했다. [출처](https://www.pressian.com/pages/articles/2026082613383302914?utm_source=naver&utm_medium=search)
+- [멜라니 그라딕](/people/melani-gradiq) — **지지**: 오스트리아 빈의 여성 전용 공중화장실 요금이 성차별이라며 시 당국을 상대로 손해배상 소송을 제기했다. [출처](https://www.hani.co.kr/arti/international/international_general/1274740.html)
+- [차태환](/people/cha-taehwan) — **지지**: 상호 존중과 차별·편견 없는 조직문화, 성별과 관계없는 공정한 일터 조성, 성차별·성희롱적 언행 근절을 담은 성평등 조직문화 선언문에 서명했다. [출처](https://www.ccdn.co.kr/news/articleView.html?idxno=1095948)
+- [온지구](/people/onjigu) — **지지**: 진주 편의점 여성혐오 범죄에 대응해 문제를 제기하고 여성혐오 범죄로 규정하는 데 기여했다. [출처](http://www.gndomin.com/news/articleView.html?idxno=486842)
+- [이경하](/people/lee-gyeongha) — **지지**: 진주 편의점 여성혐오 범죄에 대응해 최초의 유의미한 판례 마련에 기여한 것으로 소개됐다. [출처](http://www.gndomin.com/news/articleView.html?idxno=486842)
+- [정윤정](/people/jeong-yunjeong) — **지지**: 진주 편의점 여성혐오 범죄 대응과 관련해 여성혐오 관점의 문제 제기와 상담소 활동에 참여했다. [출처](http://www.gndomin.com/news/articleView.html?idxno=486842)
+- [장윤기](/people/jang-yun-gi) — **지지**: 여성단체가 장윤기 판결문에 여성혐오범죄임을 명시해야 한다고 촉구하며, 그의 범행을 여성을 성적 대상화한 명백한 여성혐오 범죄로 규정했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646404&ref=A)
+- [홍혜걸](/people/hong-hyegeol) — **중립**: 제주 관련 발언이 여성과 남성 모두에게 조심하자는 취지였다고 해명되며, 혐오 조장 논란의 맥락에서 언급됐다. [출처](http://www.yonhapnewstv.co.kr/news/AKR20260826150504jt0)
 <!-- /agent:stances -->
