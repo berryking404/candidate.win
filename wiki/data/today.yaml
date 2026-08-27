@@ -1,150 +1,144 @@
-generated_at: '2026-08-26T23:02:03+00:00'
-source_date: 2026-08-26T230200Z
+generated_at: '2026-08-27T23:02:43+00:00'
+source_date: 2026-08-27T230233Z
 window_hours: 72
 items:
 - rank: 1
-  title: ‘5·18 포럼 논란’ 이진숙 의원 제명 촉구 결의안, 국회 본회의 통과 [지금뉴스]
+  title: '"부동산대책 효과 없을 것" 57%'
   status: 정식 검토
   score: 9
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 20건, 매체 20곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 국회, 의원
+    news_count: 20
+    outlet_count: 20
+    public_actor: 민주당, 정부
   sources:
-  - title: 與 “이진숙 끝까지 책임 묻겠다” 李 “밉보이면 탄핵…북한 노동당 같...
-    url: https://www.segye.com/newsView/20260826520131?OutUrl=naver
-  - title: ‘5·18 포럼 논란’ 이진숙 의원 제명 촉구 결의안, 국회 본회의 통과 ...
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646671&ref=A
-  - title: 하헌기 "장동혁 1주년 쇄신안, 집권 전략이란 게 있나?"
-    url: https://www.nocutnews.co.kr/news/6568182?utm_source=naver&utm_medium=article&utm_campaign=20260826101957
+  - title: '[NBS] 63% "李대통령 개헌때 출마해선 안돼"'
+    url: https://www.viewsnnews.com/article?q=238187
+  - title: ‘정부에 등돌린 20·30’…“용산 개발보다 재건축 풀어야” 60%대 의견
+    url: https://www.munhwa.com/article/11612654?ref=naver
+  - title: 李 국정 긍정평가 50%-부정 43%… 민주 지지 41%-국힘 20%
+    url: https://www.donga.com/news/Politics/article/all/20260828/134560562/2
 - rank: 2
-  title: ‘5·18 폄훼 논란’ 이진숙 제명 촉구 결의안 국회 본회의 통과
+  title: 5·18 단체 "국회, 폄훼 논란 국힘 이진숙 의원 징계 즉각해야"
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 17
-    public_actor: 국회, 민주당, 의원
-  sources:
-  - title: ‘5·18 토론회’ 이진숙 ‘제명 촉구 결의안’ 가결…이진숙 “민주당...
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647286&ref=A
-  - title: 與 “이진숙 끝까지 책임 묻겠다” 李 “밉보이면 탄핵…북한 노동당 같...
-    url: https://www.segye.com/newsView/20260826520131?OutUrl=naver
-  - title: '[출근길 브리핑-8월 27일] 엔비디아 실적 발표·吳 "용산공원 대신 탄천...'
-    url: https://www.newsworks.co.kr/news/articleView.html?idxno=851648
-- rank: 3
-  title: '''5·18 왜곡 논란'' 이진숙 제명 촉구 결의안 국회 통과'
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 20곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 20
+    news_count: 2
+    outlet_count: 2
     public_actor: 국회, 의원
   sources:
-  - title: '[출근길 브리핑-8월 27일] 엔비디아 실적 발표·吳 "용산공원 대신 탄천...'
-    url: https://www.newsworks.co.kr/news/articleView.html?idxno=851648
-  - title: 이진숙 제명 촉구안, 헌정 첫 본회의 통과
-    url: https://www.joongang.co.kr/article/25456504
-  - title: 여야 합의한 민생법안 35건 심의·의결
-    url: https://www.ksilbo.co.kr/news/articleView.html?idxno=1065561
+  - title: “당을 살리고 나라를 살려라”
+    url: https://www.bigtanews.co.kr/article/view/big202608270016
+  - title: 5·18 단체 "국회, 폄훼 논란 국힘 이진숙 의원 징계 즉각해야"
+    url: https://www.globale.co.kr/news/articleView.html?idxno=40073
+- rank: 3
+  title: 정부 합동 신속대응팀, 네팔 도착…수색·구조 지원
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 16
+    public_actor: 정부
+  sources:
+  - title: 구조 9명 오늘 카트만두로...공군 공중급유기 투입 결정
+    url: https://www.ytn.co.kr/_ln/0101_202608280754579439
+  - title: 네팔·티베트 대홍수 사망자 400명 육박...실종자 1,400명 넘어
+    url: https://www.ytn.co.kr/_ln/0104_202608280753033878
+  - title: 네팔 대홍수 사망·실종 1900여 명…정부, 군 수송기 띄운다
+    url: https://news.jtbc.co.kr/article/NB12315500?influxDiv=NAVER
 - rank: 4
-  title: '''5·18 폄훼논란'' 이진숙 제명촉구안 與 주도 국회 본회의 통과'
+  title: 경기 7개 도로 사업, 정부 예비타당성 조사 통과
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 19
-    public_actor: 국회, 민주당, 의원
+    outlet_count: 18
+    public_actor: 정부
   sources:
-  - title: 與 “이진숙 끝까지 책임 묻겠다” 李 “밉보이면 탄핵…북한 노동당 같...
-    url: https://www.segye.com/newsView/20260826520131?OutUrl=naver
-  - title: '[출근길 브리핑-8월 27일] 엔비디아 실적 발표·吳 "용산공원 대신 탄천...'
-    url: https://www.newsworks.co.kr/news/articleView.html?idxno=851648
-  - title: ‘중수청장 인사청문회법’ 본회의 통과… 용산공원특별법은 제외
-    url: https://www.donga.com/news/Politics/article/all/20260827/134552299/2
+  - title: 이상일 용인특례시장, 청와대서 반도체 메가클러스터 조기 가동 '속도전...
+    url: http://www.newsroad.co.kr/news/articleView.html?idxno=63496
+  - title: 이상일 용인특례시장, 용인 반도체 산단 조기 가동...정부에 적극 지원...
+    url: https://www.siminilbo.co.kr/news/newsview.php?ncode=1160289267339152
+  - title: 경기도 도로 7개 사업 정부 예타 통과…1조4천689억원 규모
+    url: https://www.m-economynews.com/news/article.html?no=70174
 - rank: 5
-  title: 5·18 폄훼 논란 이진숙 제명 촉구 결의안…與 주도 국회 본회의 통과
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 19
-    public_actor: 국회, 민주당, 의원
-  sources:
-  - title: 與 “이진숙 끝까지 책임 묻겠다” 李 “밉보이면 탄핵…북한 노동당 같...
-    url: https://www.segye.com/newsView/20260826520131?OutUrl=naver
-  - title: '[출근길 브리핑-8월 27일] 엔비디아 실적 발표·吳 "용산공원 대신 탄천...'
-    url: https://www.newsworks.co.kr/news/articleView.html?idxno=851648
-  - title: ‘중수청장 인사청문회법’ 본회의 통과… 용산공원특별법은 제외
-    url: https://www.donga.com/news/Politics/article/all/20260827/134552299/2
-- rank: 6
-  title: 국회, '5·18 포럼 논란' 이진숙 제명 촉구 결의안 가결
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 20곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 20
-    public_actor: 국회, 민주당, 의원
-  sources:
-  - title: 與 “이진숙 끝까지 책임 묻겠다” 李 “밉보이면 탄핵…북한 노동당 같...
-    url: https://www.segye.com/newsView/20260826520131?OutUrl=naver
-  - title: 본회의장 떠난 이진숙…"다수당에 밉보이면 국회의원도 잘라내"
-    url: https://www.wolyo.co.kr/news/articleView.html?idxno=316935
-  - title: 이진숙, 제명촉구안 가결에 ‘폭풍 페북’…“끝까지 싸운다”
-    url: https://www.edaily.co.kr/News/Read?newsId=05684246645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
-- rank: 7
-  title: 국회 통제 덜 받는 ‘미래대응기금’ 논란…청와대 “정부 쌈짓돈 될 수 없다” 반박
+  title: 안도걸 국회의원, 미래대응기금 논란 반박… “용도 제한·국회 통제 받는다”
   status: 추가 확인
   score: 6
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 국회, 정부
+    public_actor: 국회, 의원
   sources:
-  - title: 국회 통제 덜 받는 ‘미래대응기금’ 논란…청와대 “정부 쌈짓돈 될 수...
-    url: https://www.khan.co.kr/article/202608262126005
-- rank: 8
-  title: '[속보]국회, ''5·18 왜곡 논란'' 이진숙 제명촉구 결의안 가결…李 "민주당 독재"'
+  - title: 안도걸 국회의원, 미래대응기금 논란 반박… “용도 제한·국회 통제 받...
+    url: https://gj.newdaily.co.kr/site/data/html/2026/08/27/2026082700210.html
+- rank: 6
+  title: 李, 차기 불출마 입장 밝혀야 63%…부동산 대책, 부정 평가 57% [NBS]
   status: 추가 확인
-  score: 5
-  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
+  score: 6
+  summary: 최근 보도 15건, 매체 15곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 0
-    outlet_count: 0
-    public_actor: 국회, 민주당
-  sources: []
-- rank: 9
-  title: 靑, 미래대응기금 '쌈짓돈 논란'에 "국회 허락 없이 못 써"
+    news_count: 15
+    outlet_count: 15
+    public_actor: 확인 중
+  sources:
+  - title: '[NBS] 63% "李대통령 개헌때 출마해선 안돼"'
+    url: https://www.viewsnnews.com/article?q=238187
+  - title: 李 대통령, 차기 불출마 입장 밝혀야 63% [NBS]
+    url: https://www.hankyung.com/article/202608276730H
+  - title: 李대통령 지지율 50% 반등…국민 63% "차기 대선 불출마 밝혀야"
+    url: https://news.tvchosun.com/site/data/html_dir/2026/08/27/2026082790112.html
+- rank: 7
+  title: 정부, '독파모' 2차 평가 논란에 전체 점수 공개…총점 1위 SKT
   status: 추가 확인
   score: 5
   summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 2
     outlet_count: 2
+    public_actor: 정부
+  sources:
+  - title: 정부, 독파모 2차 평가 점수 공개…SKT 1위
+    url: https://www.mk.co.kr/article/12138268
+  - title: 정부, '독파모' 2차 평가 논란에 전체 점수 공개…총점 1위 SKT
+    url: https://www.news1.kr/it-science/internet-platform/6272022
+- rank: 8
+  title: 미래대응기금, ‘30% 재량권‘ 논란… 국회 통제 벗어나나
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
     public_actor: 국회
   sources:
-  - title: 靑, 미래대응기금 '쌈짓돈 논란'에 "국회 허락 없이 못 써"
-    url: https://www.dailian.co.kr/news/view/1682873/?sc=Naver
-  - title: 靑, '쌈짓돈 논란' 100조 이상 미래대응기금에 "국회 허락 없이 못 써"
-    url: https://www.hankookilbo.com/news/article/A2026082617380000095?did=NA
-- rank: 10
-  title: 진보당 "2028년 총선 울산 6개 선거구 모두 공천"
+  - title: 미래대응기금, ‘30% 재량권‘ 논란… 국회 통제 벗어나나
+    url: https://www.kmib.co.kr/article/view.asp?arcid=9000006934&cp=nv
+- rank: 9
+  title: 민주당 ‘AI 고발장’ 논란 따져보니
   status: 추가 확인
-  score: 5
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 대표
+    news_count: 1
+    outlet_count: 1
+    public_actor: 민주당
   sources:
-  - title: 진보당 "2028년 총선 울산 6개 선거구 모두 공천"
-    url: https://www.ulsanpress.net/news/articleView.html?idxno=581785
-  - title: 진보당 김종훈 대표 "2028년 총선, 울산 6개 선거구 모두 공천"
-    url: https://www.iusm.co.kr/news/articleView.html?idxno=1067049
+  - title: 민주당 ‘AI 고발장’ 논란 따져보니
+    url: https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000547388
+- rank: 10
+  title: 이재명 정부, 윤 정부 졸속 발표한 5개 ‘기후대응댐’ 건설하기로
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 이재명 정부, 윤 정부 졸속 발표한 5개 ‘기후대응댐’ 건설하기로
+    url: https://www.hani.co.kr/arti/society/environment/1274896.html
