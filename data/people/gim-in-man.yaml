@@ -3,7 +3,7 @@ name_ko: 김인만
 name_en: null
 party: null
 role: 부동산경제연구소 소장
-status: stub
+status: curated
 aliases:
 - 김인만 소장
 discovered_via_issue: housing-jeonse-crisis-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김인만
   youtube_channels: []
+  official_urls:
+  - https://www.newsis.com/view/NISX20260627_0003685975

@@ -1,7 +1,7 @@
 ---
-title: 박경미
-slug: bak-gyeong-mi
-role: 더불어민주당 국제대변인
+title: 김인만
+slug: gim-in-man
+role: 부동산경제연구소 소장
 status: curated
 ---
 

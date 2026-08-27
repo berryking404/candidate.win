@@ -3,7 +3,7 @@ name_ko: 장영진
 name_en: null
 party: null
 role: 무보 사장
-status: stub
+status: curated
 aliases:
 - 장영진 무보 사장
 discovered_via_issue: hormuz-blockade-us-reduction-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 장영진
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260827026700003

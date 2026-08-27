@@ -3,7 +3,7 @@ name_ko: 윤석구
 name_en: null
 party: null
 role: 위원장
-status: stub
+status: curated
 aliases:
 - 윤석구 금융노조 위원장
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 윤석구
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260827079600004

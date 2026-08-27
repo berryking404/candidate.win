@@ -1,8 +1,8 @@
 ---
-title: 박경미
-slug: bak-gyeong-mi
-role: 더불어민주당 국제대변인
-status: curated
+title: 송원배
+slug: song-won-bae
+role: 대한부동산학회 대구경북지회 부회장
+status: stub
 ---
 
 ## 행적

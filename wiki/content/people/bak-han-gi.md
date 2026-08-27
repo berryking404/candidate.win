@@ -2,7 +2,7 @@
 title: 박한기
 slug: bak-han-gi
 role: 전 합참의장
-status: stub
+status: curated
 ---
 
 ## 행적

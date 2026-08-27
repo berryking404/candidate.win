@@ -3,7 +3,7 @@ name_ko: 박한기
 name_en: null
 party: null
 role: 전 합참의장
-status: stub
+status: curated
 aliases:
 - 박한기
 discovered_via_issue: opcon-transfer-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 박한기
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20200923163051504

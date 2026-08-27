@@ -2,7 +2,7 @@
 title: 장영진
 slug: jang-yeong-jin
 role: 무보 사장
-status: stub
+status: curated
 ---
 
 ## 행적

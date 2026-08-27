@@ -1,7 +1,7 @@
 ---
-title: 박경미
-slug: bak-gyeong-mi
-role: 더불어민주당 국제대변인
+title: 윤석구
+slug: yun-seok-gu
+role: 위원장
 status: curated
 ---
 

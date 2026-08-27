@@ -1,7 +1,7 @@
 ---
-title: 박경미
-slug: bak-gyeong-mi
-role: 더불어민주당 국제대변인
+title: 임성훈
+slug: im-seong-hun
+role: 나주시 전남광주통합특별시청사유치 비대위 공동대표
 status: curated
 ---
 

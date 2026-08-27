@@ -176,7 +176,7 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [장동혁](/people/jang-dong-hyeok) — **지지**: 청년의 일할 권리를 되찾고 AI 시대에 맞는 노동개혁과 일자리 TF를 추진하겠다고 밝혔다. [출처](https://www.ngonews.kr/news/articleView.html?idxno=236404)
 - [진보당](/people/jeinbodae? ) — **미확인**: 반도체특위 출범을 통해 청년 일자리 특구와 전주기 반도체 생태계 구축을 강조했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262071&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [이재준](/people/i-jae-jun) — **지지**: 첨단산업 육성과 관광·지역경제를 연결해 청년 일자리 창출을 강조했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262073&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
-- [안근옥](/people/pending) — **지지**: AI 기반 취업 교육으로 청년들의 디지털 채용환경 적응과 취업 준비 역량을 높이겠다고 밝혔다. [출처](https://www.ccreview.co.kr/news/articleView.html?idxno=355991)
+- 안근옥 — **지지**: AI 기반 취업 교육으로 청년들의 디지털 채용환경 적응과 취업 준비 역량을 높이겠다고 밝혔다. [출처](https://www.ccreview.co.kr/news/articleView.html?idxno=355991)
 - [정명근](/people/jeong-myeong-geun) — **지지**: 반도체·미래모빌리티·바이오를 축으로 기업과 인재가 모이는 산업 생태계를 키워 청년 일자리와 지역 성장의 기반을 만들겠다고 밝혔다. [출처](http://www.fieldnews.kr/news/articleView.html?idxno=31071)
-- [김성환](/people/kim-seong-hwan) — **지지**: 국가첨단산업단지에 필요한 용수를 안정적으로 공급해 첨단산업 육성과 일자리 기반을 뒷받침하겠다고 밝혔다. [출처](https://www.cctoday.co.kr/news/articleView.html?idxno=2235636)
+- [김성환](/people/gim-seong-hwan) — **지지**: 국가첨단산업단지에 필요한 용수를 안정적으로 공급해 첨단산업 육성과 일자리 기반을 뒷받침하겠다고 밝혔다. [출처](https://www.cctoday.co.kr/news/articleView.html?idxno=2235636)
 <!-- /agent:stances -->

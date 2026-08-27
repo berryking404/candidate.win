@@ -2,7 +2,7 @@
 title: 멜라니 그라디크
 slug: mel-lani-geu-ra-di-keu
 role: null
-status: stub
+status: curated
 ---
 
 ## 행적
