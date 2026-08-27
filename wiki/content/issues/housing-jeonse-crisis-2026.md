@@ -94,4 +94,8 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [주진우](/people/ju-jin-u) — **지지**: 전세사기 피해자 지원 확대와 청년 보호를 위한 법안 발의를 통해 주거불안 완화에 나섰다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=315699)
 - [김미경](/people/gim-mi-gyeong) — **지지**: 전월세 계약 준비 청년을 위해 전세사기 예방과 임대차 이해도 제고를 지원했다. [출처](https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/08/26/20260826019003?wlog_tag3=naver)
 - [조지연](/people/jo-ji-yeon) — **지지**: 청년의 주거비 부담을 낮추기 위해 월세 세액공제 확대와 취득세 감면 확대를 추진했다. [출처](https://www.kbmaeil.com/article/20260826500172)
+- [김인만](/people/gim-in-man) — **반대**: 전세대출 보증 축소와 주거 불안 심화 가능성을 비판했다. [출처](https://www.newsis.com/view/NISX20260826_0003762693)
+- [송원배](/people/song-won-bae) — **혼합**: 공급 부족과 입주 절벽이 전세·월세 불안을 키운다고 우려하면서 지역 시장 교란을 지적했다. [출처](https://www.imaeil.com/page/view/2026082511261117502)
+- [이광훈](/people/i-gwang-hun) — **지지**: 장기전세와 공공임대의 주거사다리 기능을 강화해야 한다는 취지로 제도 개선을 요구했다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=315908)
+- [김종호](/people/gim-jong-ho) — **지지**: 전세사기와 불법중개를 막기 위한 자정 강화와 정보 연계를 강조했다. [출처](https://www.news1.kr/realestate/general/6270419)
 <!-- /agent:stances -->
