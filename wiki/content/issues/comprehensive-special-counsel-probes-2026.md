@@ -90,4 +90,5 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [이진우](/people/i-jin-u) — **반대**: '수호신 TF' 의혹과 관련해 재판에 넘겨진 것으로 보도됐다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260822085145AUb)
 - [여인형](/people/yeo-in-hyeong) — **반대**: '수호신 TF' 의혹과 관련해 재판에 넘겨진 것으로 보도됐다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260822085145AUb)
 - [황유성](/people/hwang-yu-seong) — **반대**: 'VIP 격노 은폐' 관련 의혹으로 재판에 넘겨진 것으로 보도됐다. [출처](https://www.khan.co.kr/article/202608211905001)
+- [윤희근](/people/yun-hui-geun) — **반대**: 통일교 수사무마 의혹을 두고 종합특검의 수사·이첩이 정치적 의도와 무책임한 처사라고 공개 비판했다. [출처](https://www.yna.co.kr/view/AKR20260826106200064?input=1195m)
 <!-- /agent:stances -->
