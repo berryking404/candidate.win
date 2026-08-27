@@ -194,4 +194,7 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [조경태](/people/jo-gyeong-tae) — **지지**: 징계를 수용하면서도 의정활동과 민생정치에 매진하겠다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260826082800001?input=1195m)
 - [권칠승](/people/gwon-chil-seung) — **지지**: 정기국회에서 민생 현안 법안 처리가 최우선이라고 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646341&ref=A)
 - [한민수](/people/han-min-su) — **중립**: 반도체와 대미 투자 논란을 정쟁 소재로 삼지 말라고 하며 경제 현안의 정치화에 선을 그었다. [출처](https://www.edaily.co.kr/News/Read?newsId=02942166645551256&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article)
+- [박선원](/people/bak-seon-won) — **지지**: 지지율 하락과 관련해 여론보다 민심과 민생·치안 체감이 중요하다고 강조했다. [출처](https://www.mt.co.kr/politics/2026/08/27/2026082709055756858)
+- [김승원](/people/gim-seung-won) — **반대**: 조희대 대법원장이 사법부를 정쟁의 한가운데로 몰아넣고 있다고 비판했다. [출처](https://www.donga.com/news/Politics/article/all/20260827/134552312/2)
+- [박성민](/people/bak-seong-min) — **중립**: 중도층을 잡으려면 정책 효능감이 중요하다고 진단하며 민생·경제 관리의 필요성을 언급했다. [출처](https://www.munhwa.com/article/11612512?ref=naver)
 <!-- /agent:stances -->
