@@ -138,4 +138,6 @@ summary: 2026년 선거 과정의 투표용지 부족·관리 부실 논란과 �
 - [이태한](/people/i-tae-han) — **지지**: 특검으로서 투표용지 부족 사태의 원인과 선관위의 의사결정·관리 과정을 철저히 확인하고, 선거관리제도 개선에 도움이 되도록 하겠다고 밝혔다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640231&ref=A)
 - [정청래](/people/jeong-cheong-rae) — **중립**: 선관위의 부실 관리와 참정권 침해 문제를 논의하면서도, 부정선거 음모론과는 선을 그어 제도개선과 정치적 공방을 구분했다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1263884.html)
 - [이주희](/people/i-ju-hui) — **지지**: 투표용지 부족 사태와 선관위 부실 선거관리로 인한 참정권 침해를 수사할 특검법안을 당론으로 발의했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=0030088865&code=61111111&cp=nv)
+- [김태규](/people/gim-tae-gyu) — **지지**: 중앙선관위의 선거소청 기각에 유감을 표하며 선거관리 부실 문제를 지적했다. [출처](https://www.yna.co.kr/view/AKR20260827112926mkB)
+- [국민의힘](/people/na) — **지지**: 선관위의 부실 관리를 이유로 선거무효소송을 제기하며 제도적 책임을 문제 삼았다. [출처](https://www.yna.co.kr/view/AKR20260827112926mkB)
 <!-- /agent:stances -->
