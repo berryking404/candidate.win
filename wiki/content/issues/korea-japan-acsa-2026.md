@@ -23,4 +23,8 @@ summary: 일본 측의 한일 ACSA 체결 요구와 한국 정부의 신중론�
 - [박경선](/people/bak-gyeong-seon) — **반대**: 한반도를 전쟁기지화하는 구상과 함께 한일상호군수지원협정(ACSA)을 거부해야 한다고 말했다. [출처](http://news.inochong.org/detail.php?number=6526&thread=22r14)
 - [박규용](/people/bak-gyu-yong) — **반대**: 정부가 추진 중인 한일 군수지원협정 체결 움직임을 규탄하며 반대 입장을 드러냈다. [출처](http://www.tongilnews.com/news/articleView.html?idxno=216978)
 - [김선호](/people/gim-seon-ho) — **지지**: 일본 참석자들이 한일 상호군수지원협정(ACSA) 체결을 강하게 제기한 사실을 전하며 협정 논의가 안보·군수 협력의 흐름 속에 있음을 보여줬다. [출처](https://www.pressian.com/pages/articles/2026081214152226144?utm_source=naver&utm_medium=search)
+- [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **지지**: 한일 ACSA 체결이 한미일 안보협력 강화의 맥락에서 거론되고 있다고 전했다. [출처](https://www.newsis.com/view/NISX20260619_0003675338)
+- [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **중립**: 일본 측 질문에 대해 “현 시점에서 정해진 것은 없다”고 답하며 체결 여부를 유보했다. [출처](https://www.newsis.com/view/NISX20260619_0003676075)
+- [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **혼합**: 국제 정세와 안보 환경상 검토 필요성을 인정하면서도 국내 수용성과 시간을 두고 신중히 봐야 한다는 입장이다. [출처](https://www.newsis.com/view/NISX20260622_0003678304)
+- [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **반대**: 한일 ACSA 추진이 자위대의 한반도 진출 발판이 될 수 있다는 우려와 함께 즉각 중단을 촉구했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596456&ref=A)
 <!-- /agent:stances -->
