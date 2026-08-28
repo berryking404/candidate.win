@@ -55,4 +55,5 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - [조비연](/people/jo-bi-yeon) — **중립**: 전시작전통제권(전작권) 전환이 현실적으로 쉽지 않을 수 있다는 취지의 의견을 개진했다. [출처](https://www.munhwa.com/article/11612217?ref=naver)
 - [박한기](/people/bak-han-gi) — **지지**: '한미동맹과 전시 작전권 전환' 강의를 통해 전작권 전환의 필요성과 맥락을 설명했다. [출처](https://www.pointe.co.kr/news/articleView.html?idxno=83563)
 - 참여연대 — **지지**: 전시작전통제권 환수와 해외 파병에 대한 국회의 통제 강화를 22대 국회 후반기 입법과제로 제시했다. [출처](https://www.ngonews.kr/news/articleView.html?idxno=236482)
+- [정성장](/people/jeong-seong-jang) — **중립**: 전작권 전환과 연합작전 준비의 연계를 설명하는 분석 맥락에서 언급됐다. [출처](http://www.ddanzi.com/892536377)
 <!-- /agent:stances -->
