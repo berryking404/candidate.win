@@ -116,4 +116,6 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - 철강업계 — **지지**: 산업용 전기요금 인하가 원가 부담을 덜어줄 수 있다며 지역 차등요금제를 환영했다. [출처](https://biz.newdaily.co.kr/site/data/html/2026/08/27/2026082700103.html)
 - 정부 — **지지**: 추석 민생안정대책과 고유가 피해지원금 등으로 물가 안정과 취약계층 부담 완화를 추진했다. [출처](https://www.newspim.com/news/view/20260827000604)
 - 국가데이터처 — **중립**: 고유가 피해지원금이 소득분배 지표를 개선했다고 설명했지만, 전기요금·에너지 가격 정책에 대한 찬반 입장은 아니었다. [출처](https://www.hani.co.kr/arti/economy/economy_general/1274895.html)
+- [주철현](/people/ju-cheol-hyeon) — **지지**: 지역 전기요금제 도입이 지방 산업 경쟁력과 전력 불균형 해소에 도움이 된다고 환영했다. [출처](https://www.m-economynews.com/news/article.html?no=70179)
+- [이동업](/people/i-dong-eop) — **지지**: 산업계가 요구한 전기요금 직접 감면 공백을 지방자치단체 차원의 지원으로 보완해야 한다는 조례안 발의 배경을 밝혔다. [출처](http://www.metroseoul.co.kr/article/20260827500638)
 <!-- /agent:stances -->
