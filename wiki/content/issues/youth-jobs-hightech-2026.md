@@ -179,4 +179,7 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - 안근옥 — **지지**: AI 기반 취업 교육으로 청년들의 디지털 채용환경 적응과 취업 준비 역량을 높이겠다고 밝혔다. [출처](https://www.ccreview.co.kr/news/articleView.html?idxno=355991)
 - [정명근](/people/jeong-myeong-geun) — **지지**: 반도체·미래모빌리티·바이오를 축으로 기업과 인재가 모이는 산업 생태계를 키워 청년 일자리와 지역 성장의 기반을 만들겠다고 밝혔다. [출처](http://www.fieldnews.kr/news/articleView.html?idxno=31071)
 - [김성환](/people/gim-seong-hwan) — **지지**: 국가첨단산업단지에 필요한 용수를 안정적으로 공급해 첨단산업 육성과 일자리 기반을 뒷받침하겠다고 밝혔다. [출처](https://www.cctoday.co.kr/news/articleView.html?idxno=2235636)
+- [박주민](/people/bak-ju-min) — **중립**: 지역에 일자리와 새로운 산업을 만들어 청년이 머물 기반을 넓혀야 한다고 말했다. [출처](https://www.koscaj.com/news/articleView.html?idxno=326124)
+- [안근옥](/people/an-geun-ok) — **지지**: 청년들이 관심 직무를 현장에서 직접 경험하며 진로를 구체화할 수 있는 일경험 사업의 필요성을 강조했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3677725)
+- [국민의힘](/people/pending) — **지지**: 청년에게 일자리와 자산 형성의 기회를 넓히겠다고 밝혔다. [출처](https://www.news1.kr/politics/assembly/6272538)
 <!-- /agent:stances -->
