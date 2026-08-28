@@ -98,4 +98,9 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [송원배](/people/song-won-bae) — **혼합**: 공급 부족과 입주 절벽이 전세·월세 불안을 키운다고 우려하면서 지역 시장 교란을 지적했다. [출처](https://www.imaeil.com/page/view/2026082511261117502)
 - [이광훈](/people/i-gwang-hun) — **지지**: 장기전세와 공공임대의 주거사다리 기능을 강화해야 한다는 취지로 제도 개선을 요구했다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=315908)
 - [김종호](/people/gim-jong-ho) — **지지**: 전세사기와 불법중개를 막기 위한 자정 강화와 정보 연계를 강조했다. [출처](https://www.news1.kr/realestate/general/6270419)
+- [심동석](/people/sim-dong-seok) — **중립**: 전세보증금 반환과 임차권등기명령 등 계약 종료 시점에 관한 법률 해석을 설명했다. [출처](https://lawtalknews.co.kr/article/LI85PUMAL691)
+- [연수구](/people/__issue__housing-jeonse-crisis-2026__news) — **지지**: 저소득 무주택 임차인을 대상으로 전세보증금 반환보증 보증료 지원사업을 추진했다. [출처](https://www.ngonews.kr/news/articleView.html?idxno=236604)
+- [광진구의회](/people/__issue__housing-jeonse-crisis-2026__news) — **지지**: 전세보증금 미반환 피해 주민 간담회를 열고 피해자 결정 신청률 제고 등 지원 대책을 논의했다. [출처](https://www.hg-times.com/news/articleView.html?idxno=304790)
+- [KB국민은행](/people/__issue__housing-jeonse-crisis-2026__news) — **지지**: 전세사기 예방과 전세 거래 위험 점검을 돕는 '전세안심 Check' 서비스를 출시했다. [출처](https://www.munhwa.com/article/11612820?ref=naver)
+- [HUG](/people/__issue__housing-jeonse-crisis-2026__news) — **중립**: 전세보증금 반환보증 사고가 감소했다는 통계와 함께 전세 관련 보증 제도의 운용이 언급됐다. [출처](https://www.betanews.net/article/view/beta202608270051)
 <!-- /agent:stances -->
