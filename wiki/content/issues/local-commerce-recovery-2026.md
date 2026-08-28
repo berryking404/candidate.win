@@ -204,4 +204,10 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이상훈](/people/i-sang-hun) — **지지**: 홍성사랑상품권 확대 발행이 전통시장과 골목상권으로 자금이 다시 돌아가는 지역경제 선순환의 마중물이라고 설명했다. [출처](https://view.asiae.co.kr/article/2026082610493452554)
 - [오태완](/people/o-tae-wan) — **지지**: 관광객의 동선을 전통시장과 음식점, 농특산물 소비로 연결해 지역축제 효과를 지역경제로 확산하겠다는 뜻을 밝혔다. [출처](https://daily.hankooki.com/news/articleView.html?idxno=1399361)
 - [김종성](/people/gim-jong-seong) — **지지**: 현장 우선 원칙 아래 농촌과 전통시장, 소상공인 사업장을 직접 찾아 판로·홍보·관광 연계를 고민하겠다고 말했다. [출처](https://www.kyeonggi.com/article/20260826580091)
+- [구윤철](/people/gu-yuncheol) — **지지**: 코로나19로 누적된 자영업자·소상공인 연체 채무에 대해 적극적인 채무조정과 경제활동 역량 회복을 강조했다. [출처](https://www.munhwa.com/article/11612850?ref=naver)
+- [허준영](/people/heo-junyeong) — **혼합**: 소상공인 지원 필요성에는 공감하지만 채무 감면 반복의 형평성과 도덕적 해이를 우려하며, 채무 감면을 넘어 영업 여건 개선이 필요하다고 봤다. [출처](https://www.munhwa.com/article/11612861?ref=naver)
+- [조용호](/people/jo-yongho) — **지지**: 지역화폐 인센티브 확대가 시민의 장바구니 부담을 덜고 소상공인 매출과 골목상권 활력에 도움이 되길 바란다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260828070100061?input=1195m)
+- [최재훈](/people/choe-jaehun) — **지지**: 농어촌 기본소득이 지역 가맹점 사용을 통해 골목상권과 지역경제로 재유입되도록 가맹점 확대와 사용 과정을 살피겠다고 말했다. [출처](https://www.yna.co.kr/view/AKR20260828066700064?input=1195m)
+- [안재민](/people/an-jaemin) — **지지**: 상주화폐 캐시백 상향을 통해 시민 혜택과 소상공인 매출 증대를 동시에 기대하며 지역 소비 촉진 정책을 지속하겠다고 밝혔다. [출처](https://www.kbsm.net/news/view.php?idx=531966)
+- [인태연](/people/in-taeyeon) — **지지**: 소상공인·골목상권을 지키기 위해 지자체 협력을 강화하고 지역별 수요를 반영한 밀착형 지원이 필요하다고 강조했다. [출처](https://www.cstimes.com/news/articleView.html?idxno=718381)
 <!-- /agent:stances -->
