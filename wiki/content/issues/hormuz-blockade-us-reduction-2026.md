@@ -27,4 +27,8 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [신재웅](/people/sin-jae-ung) — **중립**: 호르무즈 해협 긴장과 미국의 제재·봉쇄 강화가 국제유가와 경제에 미칠 영향을 해설했다. [출처](https://imnews.imbc.com/replay/2026/nwtoday/article/6846496_37012.html)
 - [루비오](/people/marco-rubio) — **중립**: 미국은 당분간 이란에 대한 추가 공습을 피하고 호르무즈 해협 봉쇄와 경제제재를 통한 압박에 집중한다는 방침을 동맹국들에 설명한 것으로 전해졌다. [출처](https://www.joongangenews.com/news/articleView.html?idxno=542809)
 - [장영진](/people/jang-yeong-jin) — **중립**: 호르무즈 해협 봉쇄 같은 지정학적 위기 속에서 원자재 공급망 안정화와 거래선 다변화의 필요성을 강조했다. [출처](https://www.yna.co.kr/view/AKR20260827026700003?input=1195m)
+- [카롤라인 레빗](/people/caroline-levitt) — **중립**: 백악관 대변인으로서 트럼프 대통령이 모든 선택지를 검토 중이며 미국의 해상 봉쇄도 유지된다고 설명했다. [출처](https://www.fntoday.co.kr/news/articleView.html?idxno=391431)
+- [댄 케인](/people/dan-caine) — **지지**: 미 중부사령부의 ‘프로젝트 프리덤’과 호르무즈 항로 복구 지원을 설명하며 상선의 자유로운 통항 회복 필요성을 강조했다. [출처](https://www.tokenpost.kr/news/breaking/399423)
+- [이란 혁명수비대](/people/iran-revolutionary-guard-corps) — **반대**: 미국의 봉쇄 해제와 제재 철회, 배상금 지급이 없으면 호르무즈 해협 재개방이 불가하다고 못박았다. [출처](https://www.news1.kr/world/middleeast-africa/6272314)
+- [모흐센 레자이](/people/mohsen-rezaee) — **반대**: 미국이 대이란 조건을 먼저 이행해야 호르무즈 해협을 재개방할 수 있다는 입장을 반복하며 봉쇄 해제 조건을 제시했다. [출처](https://www.insight.co.kr/news/570564)
 <!-- /agent:stances -->
