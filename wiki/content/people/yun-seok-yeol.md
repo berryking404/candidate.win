@@ -26,4 +26,5 @@ party: 국민의힘
 - [도이치모터스 주가 조작 의혹 및 김건희 여사 연루 논란 (2023)](/issues/deutsch-motors-stock-2023) — **반대**: 김건희 씨의 도이치모터스 주가조작 연루 의혹을 부인하는 발언을 했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008659661&plink=ORI&cooper=NAVER)
 - [도이치모터스 주가 조작 의혹 및 김건희 여사 연루 논란 (2023)](/issues/deutsch-motors-stock-2023) — **중립**: 김건희 여사 도이치모터스 사건 보도에서 전 대통령으로 함께 언급됐지만, 직접적인 입장은 확인되지 않았다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260526095200H69)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 우방국에 계엄 정당화 메시지를 전달하라고 지시한 의혹으로 직권남용 혐의 기소됐다. [출처](https://www.kukinews.com/article/view/kuk202608130004)
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **지지**: 2차 종합특검의 수사와 기소를 정치적 공세로 보는 보도가 있었다. [출처](https://www.newsis.com/view/NISX20260827_0003765993)
 <!-- /agent:stances -->
