@@ -2,13 +2,16 @@ slug: song-won-bae
 name_ko: 송원배
 name_en: null
 party: null
-role: 대한부동산학회 대구경북지회 부회장
-status: stub
+role: 대구경북부동산분석학회 이사
+status: curated
 aliases:
-- 송원배 부회장
+- 송원배 이사
+- 송원배
 discovered_via_issue: housing-jeonse-crisis-2026
 discovered_at: '2026-08-27'
 sources:
   news_keywords:
   - 송원배
   youtube_channels: []
+  official_urls:
+  - https://www.mk.co.kr/news/realestate/10989897

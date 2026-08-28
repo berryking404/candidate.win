@@ -1,8 +1,8 @@
 ---
 title: 조비연
 slug: jo-bi-yeon
-role: 세종연구소 연구위원
-status: stub
+role: 세종연구소 안보전략센터 연구위원
+status: curated
 ---
 
 ## 행적

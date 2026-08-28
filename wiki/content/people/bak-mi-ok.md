@@ -1,8 +1,8 @@
 ---
 title: 박미옥
 slug: bak-mi-ok
-role: null
-status: stub
+role: 전 경찰 경정
+status: curated
 ---
 
 ## 행적

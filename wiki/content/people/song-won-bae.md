@@ -1,8 +1,8 @@
 ---
 title: 송원배
 slug: song-won-bae
-role: 대한부동산학회 대구경북지회 부회장
-status: stub
+role: 대구경북부동산분석학회 이사
+status: curated
 ---
 
 ## 행적

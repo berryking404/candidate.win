@@ -2,7 +2,7 @@
 title: 김종호
 slug: gim-jong-ho
 role: 한국공인중개사협회 회장
-status: stub
+status: curated
 ---
 
 ## 행적

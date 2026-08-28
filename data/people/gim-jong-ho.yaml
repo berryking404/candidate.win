@@ -3,8 +3,9 @@ name_ko: 김종호
 name_en: null
 party: null
 role: 한국공인중개사협회 회장
-status: stub
+status: curated
 aliases:
+- 김종호 회장
 - 김종호
 discovered_via_issue: housing-jeonse-crisis-2026
 discovered_at: '2026-08-27'
@@ -12,3 +13,5 @@ sources:
   news_keywords:
   - 김종호
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260826163700003
