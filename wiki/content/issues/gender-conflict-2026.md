@@ -87,4 +87,10 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - 정윤정 — **지지**: 진주 편의점 여성혐오 범죄 대응과 관련해 여성혐오 관점의 문제 제기와 상담소 활동에 참여했다. [출처](http://www.gndomin.com/news/articleView.html?idxno=486842)
 - 장윤기 — **지지**: 여성단체가 장윤기 판결문에 여성혐오범죄임을 명시해야 한다고 촉구하며, 그의 범행을 여성을 성적 대상화한 명백한 여성혐오 범죄로 규정했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646404&ref=A)
 - 홍혜걸 — **중립**: 제주 관련 발언이 여성과 남성 모두에게 조심하자는 취지였다고 해명되며, 혐오 조장 논란의 맥락에서 언급됐다. [출처](http://www.yonhapnewstv.co.kr/news/AKR20260826150504jt0)
+- [이준석](/people/lee-junseok) — **반대**: 방송 인터뷰와 소셜미디어에서 “구조적 성차별은 없다”는 취지로 성차별의 존재 자체를 부인하는 인식을 보였다. [출처](https://www.pressian.com/pages/articles/2026082613383302914?utm_source=naver&utm_medium=search&utm_campaign=20260826105603)
+- [고민정](/people/go-minjeong) — **지지**: 젊은 남성들의 역차별 인식을 언급하면서도 젠더 이슈를 회피하지 말고 청년 세대의 실망을 풀어야 한다는 취지로 성평등 의제를 강조했다. [출처](https://www.sisain.co.kr/news/articleView.html?idxno=58236)
+- [황수영](/people/hwang-suyeong) — **중립**: 도민의 부름에 응답하는 의정활동을 말하며 구인난과 역차별 심화, 작은도서관 지원 등 지역 현안을 함께 언급했다. [출처](https://www.kgnews.co.kr/article/202608270748003)
+- [홍성수](/people/hong-seongsu) — **지지**: 혐오표현의 대표적 표적 집단으로 여성과 성소수자를 함께 언급하며 차별 자료에서 성소수자를 제외한 교육부 조치를 비판했다. [출처](https://www.hani.co.kr/arti/society/schooling/1275063.html)
+- [양이현경](/people/yang-i-hyeongyeong) — **지지**: 남성 차별 언급과 역차별 조사 지시를 비판하며 청년들이 겪는 어려움은 경제·노동·복지 문제라고 강조했다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/07/21/2026072190258.html)
+- [김홍신](/people/kim-hongsin) — **중립**: 문학공모전 심사평에서 정치·이념, 세대·지역, 양극화와 젠더 등 사회 갈등 전반을 문학적으로 풀어냈다고 평가했다. [출처](https://www.newsworks.co.kr/news/articleView.html?idxno=851624)
 <!-- /agent:stances -->
