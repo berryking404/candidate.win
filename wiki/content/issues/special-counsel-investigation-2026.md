@@ -76,4 +76,8 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [유시민](/people/yu-si-min) — **지지**: 조작기소 특검 추진에 비판적이던 상대 진영을 향해 윤석열과 같다고 언급하며 특검 추진을 옹호하는 취지로 말했다. [출처](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000547039)
 - [김민석](/people/gim-min-seok) — **지지**: 인요한의 탄핵 표결 불참 전력을 들어 적십자사 회장 인준을 재고해야 한다고 요청했다. [출처](https://www.news1.kr/politics/assembly/6269838)
 - [주진우](/people/ju-jin-u) — **지지**: 박상용 검사 수사를 이재명 대통령 탄핵으로 이어지는 과정으로 규정하며, 이를 저지해야 한다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260827056300001?input=1195m)
+- [김승원](/people/gim-seung-won) — **지지**: 윤석열 검찰의 조작기소와 윤석열 감사원의 불법 감사 의혹을 밝히기 위한 특검 출범이 필요하다고 말했다. [출처](https://www.hani.co.kr/arti/politics/politics_general/1275104.html)
+- [유영하](/people/yu-yeong-ha) — **반대**: 박근혜 전 대통령 탄핵의 정당성을 부정하며 탄핵에 앞장섰다는 평가를 받아야 한다고 주장했다. [출처](https://www.news1.kr/politics/assembly/6272456)
+- [김민수](/people/gim-min-su) — **반대**: 박근혜 전 대통령 탄핵을 정치적 탄핵으로 규정하고 명예 회복이 필요하다고 말했다. [출처](https://www.mk.co.kr/article/12138662)
+- [한덕수](/people/han-deok-su) — **미확인**: 윤석열 전 대통령 탄핵소추 이후 헌법재판관 임명 문제로 재판을 받고 있다. [출처](https://www.news1.kr/society/court-prosecution/6271948)
 <!-- /agent:stances -->

@@ -9,9 +9,8 @@ party: 국민의힘
 ## 행적
 
 <!-- agent:events -->
-- 2026-08-16: '명태균 게이트' 관련 정치자금법 위반 혐의 항소심이 시작된다고 보도됐다. [출처](https://www.hankookilbo.com/news/article/A2026081611300004470?did=NA)
-- 2026-08-16: 윤석열 전 대통령에 대한 수사기관의 체포영장 집행을 방해한 혐의로 관련 사건이 검찰에 넘겨졌다고 보도됐다. [출처](https://www.sedaily.com/article/20079631?ref=naver)
-- 2026-08-16: 특검팀이 윤석열 전 대통령을 포함한 다수 인물을 추가 기소할 것으로 전망된다고 보도됐다. [출처](https://www.jnilbo.com/news/articleView.html?idxno=90000057263)
+- 2026-08-21: '명태균 게이트' 관련 정치자금법 위반 혐의 항소심 첫 공판이 시작됐다. [출처](https://www.ytn.co.kr/_ln/0103_202608211133418950)
+- 2026-08-24: 특검 수사 관련 보도에서 윤석열·김건희 등 58명이 재판에 넘겨졌다는 내용이 전해졌다. [출처](https://www.edaily.co.kr/News/Read?newsId=02154966645550272&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article)
 <!-- /agent:events -->
 
 ## 이슈별 입장

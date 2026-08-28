@@ -9,6 +9,7 @@ party: 무소속
 ## 행적
 
 <!-- agent:events -->
+- 2026-08-27: 윤석열 전 대통령 탄핵소추 이후 국회가 추천한 헌법재판관 후보자 임명 거부 혐의로 재판을 받았다. [출처](https://www.news1.kr/society/court-prosecution/6271948)
 <!-- /agent:events -->
 
 ## 이슈별 입장
