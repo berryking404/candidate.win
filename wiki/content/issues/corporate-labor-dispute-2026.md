@@ -57,4 +57,5 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [김지형](/people/gim-ji-hyeong) — **중립**: 대기업 단위 노조의 영업이익 비례 성과급 갈등을 법만으로 해결하기 어렵다며 사회적 대화의 필요성을 제기했다. [출처](https://www.greened.kr/news/articleView.html?idxno=347370)
 - [김영훈](/people/gim-yeong-hun) — **혼합**: 성과급 쟁의대상 확대 검토를 언급하는 한편, 정부 차원의 시행령·시행규칙 검토와 조정도 병행했다. [출처](https://www.news.mtn.co.kr/news-detail/2026081813272628831)
 - [방준원](/people/bang-jun-won) — **중립**: SK하이닉스 임단협 부결 소식을 전하며 삼성전자 노사 협상에도 영향이 있을 수 있다고 설명했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646110&ref=A)
+- [삼성전자 초기업노조](/people/samsung-electronics-super-enterprise-union) — **지지**: 영업이익 연동 성과급과 호남 반도체 투자 계획을 교섭·쟁의 대상으로 포함하라고 요구했다. [출처](https://www.hani.co.kr/arti/society/labor/1275135.html)
 <!-- /agent:stances -->
