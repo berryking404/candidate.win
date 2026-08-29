@@ -76,4 +76,5 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [유시민](/people/yu-si-min) — **지지**: 조작기소 특검 추진에 비판적이던 상대 진영을 향해 윤석열과 같다고 언급하며 특검 추진을 옹호하는 취지로 말했다. [출처](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000547039)
 - [김민석](/people/gim-min-seok) — **지지**: 인요한의 탄핵 표결 불참 전력을 들어 적십자사 회장 인준을 재고해야 한다고 요청했다. [출처](https://www.news1.kr/politics/assembly/6269838)
 - [주진우](/people/ju-jin-u) — **지지**: 박상용 검사 수사를 이재명 대통령 탄핵으로 이어지는 과정으로 규정하며, 이를 저지해야 한다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260827056300001?input=1195m)
+- [한동훈](/people/han-dong-hun) — **미확인**: 야권에 권한쟁의 청구를 해야 한다고 했지만, 이 사안에 대한 직접 찬반 입장은 텍스트에 없다. [출처](https://www.inews24.com/view/1999536)
 <!-- /agent:stances -->
