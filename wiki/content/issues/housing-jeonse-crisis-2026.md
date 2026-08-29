@@ -98,4 +98,7 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [송원배](/people/song-won-bae) — **혼합**: 공급 부족과 입주 절벽이 전세·월세 불안을 키운다고 우려하면서 지역 시장 교란을 지적했다. [출처](https://www.imaeil.com/page/view/2026082511261117502)
 - [이광훈](/people/i-gwang-hun) — **지지**: 장기전세와 공공임대의 주거사다리 기능을 강화해야 한다는 취지로 제도 개선을 요구했다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=315908)
 - [김종호](/people/gim-jong-ho) — **지지**: 전세사기와 불법중개를 막기 위한 자정 강화와 정보 연계를 강조했다. [출처](https://www.news1.kr/realestate/general/6270419)
+- [이재명](/people/lee-jaemyung) — **지지**: 청년 주거 불안을 낮추기 위해 전세보증금 반환보증 보증료와 월세 지원 확대를 포함한 종합 청년 주거 지원을 추진했다. [출처](https://www.korea.kr/news/policyNewsView.do?newsId=148970791&call_from=naver_news)
+- [오세훈](/people/oh-sehoon) — **중립**: 서울의 주거비 상승과 전월세 불안을 언급하며 공급 확대와 주거 안정 해법을 강조했다. [출처](https://www.khan.co.kr/article/202608290600091)
+- [김민석](/people/kim-minseok) — **지지**: 주거 불안 해소를 정기국회 민생 성과 과제로 제시하며 당 차원의 대응을 주문했다. [출처](https://www.obsnews.co.kr/news/articleView.html?idxno=1535664)
 <!-- /agent:stances -->
