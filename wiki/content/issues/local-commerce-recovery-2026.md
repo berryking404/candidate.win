@@ -204,4 +204,11 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이상훈](/people/i-sang-hun) — **지지**: 홍성사랑상품권 확대 발행이 전통시장과 골목상권으로 자금이 다시 돌아가는 지역경제 선순환의 마중물이라고 설명했다. [출처](https://view.asiae.co.kr/article/2026082610493452554)
 - [오태완](/people/o-tae-wan) — **지지**: 관광객의 동선을 전통시장과 음식점, 농특산물 소비로 연결해 지역축제 효과를 지역경제로 확산하겠다는 뜻을 밝혔다. [출처](https://daily.hankooki.com/news/articleView.html?idxno=1399361)
 - [김종성](/people/gim-jong-seong) — **지지**: 현장 우선 원칙 아래 농촌과 전통시장, 소상공인 사업장을 직접 찾아 판로·홍보·관광 연계를 고민하겠다고 말했다. [출처](https://www.kyeonggi.com/article/20260826580091)
+- [유동균](/people/yu-dong-gyun) — **지지**: 전통시장과 골목상권을 지역경제의 핵심 기반으로 보고 활성화 필요성을 강조했다. [출처](https://www.edaily.co.kr/News/Read?newsId=05244726645551912&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article)
+- [조성칠](/people/jo-seong-chil) — **지지**: 태평시장 야시장을 찾아 차별화된 콘텐츠가 전통시장 활로의 본보기가 된다고 평가했다. [출처](https://www.news1.kr/local/daejeon-chungnam/6273290)
+- [김태한](/people/gim-tae-han) — **지지**: 전통시장 상품권 지원으로 지역 내 소비를 유도하고 소상공인 매출을 돕겠다고 밝혔다. [출처](https://www.g-enews.com/view.php?ud=202608281621461298bb91c46fcd_1)
+- [김광철](/people/gim-gwang-cheol) — **지지**: 올림픽공원 음악분수가 관광객 체류시간과 지역상권 활성화에 기여할 관광 인프라라고 주장했다. [출처](https://www.cnbizm.com/news/articleView.html?idxno=313108)
+- [유명현](/people/yu-myeong-hyeon) — **지지**: 산청형 기본소득 시범사업이 침체된 지역경제 회복에 도움이 된다고 설명했다. [출처](https://www.newspim.com/news/view/20260828000587)
+- [최재형](/people/choe-jae-hyeong) — **지지**: 농어촌 기본소득 첫 지급이 전통시장과 골목상권에 자금이 흘러 들어가는 촉매제가 되길 기대했다. [출처](https://www.breaknews.com/1232515)
+- [소상공인연합회](/people/pending) — **반대**: 플랫폼의 무료배달 정책이 골목상권을 위협한다며 강하게 비판했다. [출처](https://www.ceoscoredaily.com/page/view/2026082816413180361)
 <!-- /agent:stances -->

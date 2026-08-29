@@ -1,0 +1,14 @@
+slug: gim-tae-han
+name_ko: 김태한
+name_en: null
+party: null
+role: BNK경남은행장
+status: stub
+aliases:
+- 은행장
+discovered_via_issue: local-commerce-recovery-2026
+discovered_at: '2026-08-29'
+sources:
+  news_keywords:
+  - 김태한
+  youtube_channels: []
