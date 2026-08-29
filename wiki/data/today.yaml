@@ -1,25 +1,89 @@
-generated_at: '2026-08-28T23:02:12+00:00'
-source_date: 2026-08-28T230208Z
+generated_at: '2026-08-29T23:02:31+00:00'
+source_date: 2026-08-29T230227Z
 window_hours: 72
 items:
 - rank: 1
-  title: 담합 등 민생 침해 행위 근절 '범정부 합동대응반' 가동
+  title: 한국 정부 헬기, 네팔 대홍수 현장 수색 개시…대응인력 추가 투입
   status: 정식 검토
   score: 7
-  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 7건, 매체 6곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 16
+    news_count: 7
+    outlet_count: 6
     public_actor: 정부
   sources:
-  - title: 생활물가 담합·바가지 근절···9월부터 범정부 합동대응
-    url: https://www.ktv.go.kr/content/view?content_id=760154
-  - title: 정부, 민생침해 범정부 합동대응반 가동...9월부터 민생침해 집중 대응
-    url: https://www.redian.org/news/articleView.html?idxno=257217
-  - title: 구 부총리 "민생이 경제 핵심"…내주 추석민생안정대책 발표
-    url: https://www.korea.kr/news/policyNewsView.do?newsId=148970823&call_from=naver_news
+  - title: 정부, 네팔 현지 한국인 수색 본격 개시...'초유의 재제청' 정치권 공방
+    url: https://www.ytn.co.kr/_ln/0101_202608292305154967
+  - title: 한국 정부 헬기, 네팔 대홍수 현장 수색 개시…대응인력 추가 투입
+    url: https://biz.heraldcorp.com/article/10856211?ref=naver
+  - title: 韓 헬기 2대 네팔 홍수현장 수색 개시…이륙 허가 1대 추가
+    url: https://www.sedaily.com/article/20084770?ref=naver
 - rank: 2
-  title: 정부가 부모 돈 최대 2배 대주는 '자립펀드' … '청년 투자' 탈 쓴 '재정 퍼주기' 논란
+  title: 정부, 네팔 신속대응 위해 9명 추가 현지 파견
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 18
+    public_actor: 정부
+  sources:
+  - title: 대응팀, 드디어 수색 헬기 띄워…추가 인력도 합류
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260830072509zWF
+  - title: 네팔 대홍수 682명 사망·2980명 실종…헬기 띄웠지만 韓 9명 수색 ‘안...
+    url: http://www.joseilbo.com/news/news_read.php?uid=574713&class=42&grp=
+  - title: 네팔 홍수 실종 한국인 9명 수색 난항…"생존자 확인 못해"
+    url: https://www.hankyung.com/article/2026083011857
+- rank: 3
+  title: 여야, 감사원 ‘통계조작·서해사건’ 조사결과 두고 책임 공방
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 4
+    outlet_count: 4
+    public_actor: 정부
+  sources:
+  - title: 정부, 네팔 현지 한국인 수색 본격 개시...'초유의 재제청' 정치권 공방
+    url: https://www.ytn.co.kr/_ln/0101_202608292305154967
+  - title: 감사원 '통계·서해 감사 강압·조작' 조사 결과에 여야 공방
+    url: https://www.daejonilbo.com/news/articleView.html?idxno=2297354
+  - title: 여야, 감사원 ‘통계조작·서해사건’ 조사결과 두고 책임 공방
+    url: https://www.hani.co.kr/arti/politics/assembly/1275233.html
+- rank: 4
+  title: 정부 대응 인력도 확대...수송기·구호대는 '대기'
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 3건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 2
+    public_actor: 정부
+  sources:
+  - title: 정부 대응 인력도 확대...수송기·구호대는 '대기'
+    url: https://www.ytn.co.kr/_ln/0101_202608292213524957
+  - title: 정부 대응 인력도 확대...수송기·구호대는 '대기'
+    url: https://www.ytn.co.kr/_ln/0101_202608291856460936
+  - title: 韓 헬기 2대 본격 수색…연락두절 9명 찾는다 [네팔 대홍수]
+    url: http://www.newsian.co.kr/news/articleView.html?idxno=94447
+- rank: 5
+  title: 경찰, '야자수 목맴사' 의혹에 재현실험…"가능하다" 결론
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 9건, 매체 9곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 9
+    outlet_count: 9
+    public_actor: 확인 중
+  sources:
+  - title: 제주 실종사고 '야자수 목맴사' 의혹…"가능하다" 결론
+    url: https://www.jnilbo.com/news/articleView.html?idxno=90000060605
+  - title: 경찰, 제주 여성 실종 사건 의혹에 재현 실험..."가능하다" 결론
+    url: https://www.edaily.co.kr/News/Read?newsId=02374726645552240&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
+  - title: 무서워했던 야자수농장에 여자 혼자?…경찰 ‘목맴사 재현실험’, 결론...
+    url: https://www.mk.co.kr/article/12139459
+- rank: 6
+  title: ‘정부 쌈짓돈’ 논란, 맞을까…미래대응기금 뜯어보니[청와대 머니워치]
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -28,5 +92,19 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: 정부가 부모 돈 최대 2배 대주는 '자립펀드' … '청년 투자' 탈 쓴 '재정...
-    url: https://biz.newdaily.co.kr/site/data/html/2026/08/28/2026082800268.html
+  - title: ‘정부 쌈짓돈’ 논란, 맞을까…미래대응기금 뜯어보니[청와대 머니워치...
+    url: https://www.edaily.co.kr/News/Read?newsId=01895846645552240&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
+- rank: 7
+  title: '''제주 실종 허위종결'' 둘러싼 타살 의혹에 목맴 재현 실험 나선 경찰'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 확인 중
+  sources:
+  - title: ‘야자수에 목맴 가능한가’ 경찰 재현해보니…“가능” 결론
+    url: https://www.sedaily.com/article/20084746?ref=naver
+  - title: '''제주 실종 허위종결'' 타살 의혹에 목맴 재현 실험 나선 경찰'
+    url: https://www.dailian.co.kr/news/view/1684010/?sc=Naver
