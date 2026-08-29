@@ -117,4 +117,6 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - 정부 — **지지**: 추석 민생안정대책과 고유가 피해지원금 등으로 물가 안정과 취약계층 부담 완화를 추진했다. [출처](https://www.newspim.com/news/view/20260827000604)
 - 국가데이터처 — **중립**: 고유가 피해지원금이 소득분배 지표를 개선했다고 설명했지만, 전기요금·에너지 가격 정책에 대한 찬반 입장은 아니었다. [출처](https://www.hani.co.kr/arti/economy/economy_general/1274895.html)
 - [환경운동연합](/people/pending) — **혼합**: 전기요금 차등제 재설계와 재생에너지 중심 전력자급률 반영, 에너지효율·수요관리 의무 강화를 요구했다. [출처](https://www.newspenguin.com/news/articleView.html?idxno=22095)
+- [한전](/people/pending) — **지지**: 스마트가전 캐시백 시범사업과 전기요금 환급을 통해 가계 부담 완화에 나섰다. [출처](https://www.econonews.co.kr/news/articleView.html?idxno=443524)
+- [케빈 워시](/people/pending) — **중립**: 물가 안정 필요성을 강조하며 추가 금리 인상 가능성을 시사했지만, 에너지 요금 정책에 대한 직접 입장은 아니었다. [출처](https://www.ytn.co.kr/_ln/0104_202608291438406373)
 <!-- /agent:stances -->
