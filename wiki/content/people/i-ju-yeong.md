@@ -1,8 +1,9 @@
 ---
 title: 이주영
 slug: i-ju-yeong
-role: null
-status: stub
+role: 개혁신당 국회의원
+party: 개혁신당
+status: curated
 ---
 
 ## 행적

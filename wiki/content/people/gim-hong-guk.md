@@ -1,8 +1,8 @@
 ---
 title: 김홍국
 slug: gim-hong-guk
-role: 글로벌사이버대 특임교수
-status: stub
+role: 하림그룹 회장
+status: curated
 ---
 
 ## 행적

@@ -1,13 +1,18 @@
 slug: i-ju-yeong
 name_ko: 이주영
 name_en: null
-party: null
-role: null
-status: stub
-aliases: []
+party: 개혁신당
+role: 개혁신당 국회의원
+status: curated
+aliases:
+- 이주영 의원
+- 이주영
 discovered_via_issue: publication-safety-2026-08-20
 discovered_at: '2026-08-19'
 sources:
   news_keywords:
   - 이주영
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20240320089251001
+  - https://www.nocutnews.co.kr/news/6214753
