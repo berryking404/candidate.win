@@ -179,4 +179,8 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - 안근옥 — **지지**: AI 기반 취업 교육으로 청년들의 디지털 채용환경 적응과 취업 준비 역량을 높이겠다고 밝혔다. [출처](https://www.ccreview.co.kr/news/articleView.html?idxno=355991)
 - [정명근](/people/jeong-myeong-geun) — **지지**: 반도체·미래모빌리티·바이오를 축으로 기업과 인재가 모이는 산업 생태계를 키워 청년 일자리와 지역 성장의 기반을 만들겠다고 밝혔다. [출처](http://www.fieldnews.kr/news/articleView.html?idxno=31071)
 - [김성환](/people/gim-seong-hwan) — **지지**: 국가첨단산업단지에 필요한 용수를 안정적으로 공급해 첨단산업 육성과 일자리 기반을 뒷받침하겠다고 밝혔다. [출처](https://www.cctoday.co.kr/news/articleView.html?idxno=2235636)
+- [박일웅](/people/park-ilwoong) — **지지**: AI 연구센터와 첨단산업 투자를 통해 지역 청년 일자리를 만들겠다고 밝혔다. [출처](https://www.nocutnews.co.kr/news/6570049?utm_source=naver&utm_medium=article&utm_campaign=20260829084637)
+- [김동연](/people/kim-dongyeon) — **지지**: 고양시 자족 기반과 미래산업 육성을 통해 청년과 기업이 모여드는 일자리 구조를 강조했다. [출처](https://www.nspna.com/news/?mode=view&newsid=826173)
+- [이재명](/people/lee-jaemyung) — **지지**: 청년정책 대전환 논의에서 일자리·AI·창업·주거·복지 연계를 통해 청년 일자리 확대를 추진했다. [출처](https://www.kyeonggi.com/article/20260829580039)
+- [허태정](/people/heo-taejung) — **지지**: 청년특별시 공약으로 청년 일자리와 창업, 주거, 문화 정책을 통합 추진하겠다고 제시했다. [출처](https://www.cctoday.co.kr/news/articleView.html?idxno=2235760)
 <!-- /agent:stances -->
