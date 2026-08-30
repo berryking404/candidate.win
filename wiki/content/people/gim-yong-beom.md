@@ -21,4 +21,5 @@ party: 더불어민주당
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **중립**: 성과급 논란을 계기로 새로운 룰이 필요하다고 언급했다. [출처](https://economist.co.kr/article/view/ecn202606250006)
 - [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 반도체 클러스터 조성을 통한 청년 일자리 해결과 첨단산업 육성을 강조했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596611&ref=A)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **지지**: 삼성전자 노조의 성과급 논란과 관련해 법정 이익 참여제 같은 제도적 대안을 제시했다. [출처](https://www.danbinews.com/news/articleView.html?idxno=33314)
+- [전세·주거 불안과 지역 민생 (2026)](/issues/housing-jeonse-crisis-2026) — **중립**: 부동산 시장 불안과 높은 생활물가 속에서 국민의 체감경기를 완화하기 위해 주거 부담을 낮춰야 한다고 밝혔다. [출처](https://imnews.imbc.com/news/2026/politics/article/6848292_36911.html)
 <!-- /agent:stances -->

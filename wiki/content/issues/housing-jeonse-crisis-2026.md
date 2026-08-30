@@ -98,10 +98,6 @@ summary: 전세사기, 보증금 반환, 주거비 부담 등으로 인한 주�
 - [송원배](/people/song-won-bae) — **혼합**: 공급 부족과 입주 절벽이 전세·월세 불안을 키운다고 우려하면서 지역 시장 교란을 지적했다. [출처](https://www.imaeil.com/page/view/2026082511261117502)
 - [이광훈](/people/i-gwang-hun) — **지지**: 장기전세와 공공임대의 주거사다리 기능을 강화해야 한다는 취지로 제도 개선을 요구했다. [출처](https://www.thepublic.kr/news/articleView.html?idxno=315908)
 - [김종호](/people/gim-jong-ho) — **지지**: 전세사기와 불법중개를 막기 위한 자정 강화와 정보 연계를 강조했다. [출처](https://www.news1.kr/realestate/general/6270419)
-- [서울시](/people/seoul-city) — **지지**: 전세사기 피해주택의 집 내부 수리비를 최대 500만원까지 지원해 피해 임차인의 주거환경 개선을 돕기로 했다. [출처](https://www.yna.co.kr/view/AKR20260830014200004?input=1195m)
-- [연수구](/people/yeonsu-gu) — **지지**: 전세사기 예방과 무주택 임차인 주거 안정을 위해 전세보증금 반환보증 보증료 지원 대상을 확대했다. [출처](https://www.shinailbo.co.kr/news/articleView.html?idxno=5056249)
-- [청주시](/people/cheongju-city) — **지지**: 무주택 임차인의 전세보증금반환보증 보증료를 지원해 보증 가입을 유도하고 보증금 보호를 강화했다. [출처](https://www.newsis.com/view/NISX20260830_0003768139)
-- [송언석](/people/song-eonseok) — **지지**: 서울 전셋값과 금리 상승으로 무주택 서민의 주거비 부담이 커졌다며 버팀목 전세대출 대상주택 기준과 한도 상향을 요구했다. [출처](https://www.dt.co.kr/article/12080878?ref=naver)
-- [김용범](/people/gim-yongbeom) — **중립**: 부동산 시장 불안과 높은 생활물가 속에서 국민의 체감경기를 완화하기 위해 주거 부담을 낮춰야 한다고 밝혔다. [출처](https://imnews.imbc.com/news/2026/politics/article/6848292_36911.html)
-- [KB국민은행](/people/kb-gukmin-eunhaeng) — **지지**: 전세 거래 전 위험요소를 점검하는 '전세안심 Check' 서비스를 도입해 전세사기 예방에 나섰다. [출처](https://www.public25.com/news/articleView.html?idxno=53579)
+- [송언석](/people/song-eon-seok) — **지지**: 서울 전셋값과 금리 상승으로 무주택 서민의 주거비 부담이 커졌다며 버팀목 전세대출 대상주택 기준과 한도 상향을 요구했다. [출처](https://www.dt.co.kr/article/12080878?ref=naver)
+- [김용범](/people/gim-yong-beom) — **중립**: 부동산 시장 불안과 높은 생활물가 속에서 국민의 체감경기를 완화하기 위해 주거 부담을 낮춰야 한다고 밝혔다. [출처](https://imnews.imbc.com/news/2026/politics/article/6848292_36911.html)
 <!-- /agent:stances -->

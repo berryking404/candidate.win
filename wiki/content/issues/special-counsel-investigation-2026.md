@@ -77,5 +77,5 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [김민석](/people/gim-min-seok) — **지지**: 인요한의 탄핵 표결 불참 전력을 들어 적십자사 회장 인준을 재고해야 한다고 요청했다. [출처](https://www.news1.kr/politics/assembly/6269838)
 - [주진우](/people/ju-jin-u) — **지지**: 박상용 검사 수사를 이재명 대통령 탄핵으로 이어지는 과정으로 규정하며, 이를 저지해야 한다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260827056300001?input=1195m)
 - [박지원](/people/bak-ji-won) — **중립**: 과거 발언이 재인용되며 대통령 탄핵론 공방의 소재로 등장했다. [출처](https://www.ikbc.co.kr/article/view/kbc202608300008)
-- [이재명](/people/lee-jae-myeong) — **혼합**: 대법관 재제청 요구로 야권의 탄핵 공세를 촉발했지만, 동시에 삼권분립 해석을 둘러싼 정치 공방의 중심에 섰다. [출처](https://www.yonhapnewstv.co.kr/news/MYH20260829214137176)
+- [이재명](/people/i-jae-myeong) — **혼합**: 대법관 재제청 요구로 야권의 탄핵 공세를 촉발했지만, 동시에 삼권분립 해석을 둘러싼 정치 공방의 중심에 섰다. [출처](https://www.yonhapnewstv.co.kr/news/MYH20260829214137176)
 <!-- /agent:stances -->
