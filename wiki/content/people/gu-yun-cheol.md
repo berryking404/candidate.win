@@ -21,4 +21,5 @@ party: 더불어민주당
 - [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **지지**: 향후 10년간 재정 투자를 대폭 확대해 지역 균형 발전을 뒷받침하겠다고 밝혔다. [출처](https://imnews.imbc.com/news/2026/econo/article/6830642_36932.html)
 - [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 청년일자리 회복방안과 첨단분야 교육 확대를 통한 청년 고용 지원을 공식 언급했다. [출처](https://www.yna.co.kr/view/AKR20260623110400002?input=1195m)
 - [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **중립**: 호르무즈 봉쇄에 대비해 얌부항, 푸자이라항 등 대체 항로를 검토했다. [출처](https://www.cbci.co.kr/news/articleView.html?idxno=594122)
+- [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **지지**: 호르무즈 봉쇄에 대비해 얌부항·푸자이라항 등 대체 항로와 물류 대응책을 검토해야 한다고 밝혔다. [출처](https://www.cbci.co.kr/news/articleView.html?idxno=514321)
 <!-- /agent:stances -->

@@ -27,4 +27,7 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [신재웅](/people/sin-jae-ung) — **중립**: 호르무즈 해협 긴장과 미국의 제재·봉쇄 강화가 국제유가와 경제에 미칠 영향을 해설했다. [출처](https://imnews.imbc.com/replay/2026/nwtoday/article/6846496_37012.html)
 - [루비오](/people/marco-rubio) — **중립**: 미국은 당분간 이란에 대한 추가 공습을 피하고 호르무즈 해협 봉쇄와 경제제재를 통한 압박에 집중한다는 방침을 동맹국들에 설명한 것으로 전해졌다. [출처](https://www.joongangenews.com/news/articleView.html?idxno=542809)
 - [장영진](/people/jang-yeong-jin) — **중립**: 호르무즈 해협 봉쇄 같은 지정학적 위기 속에서 원자재 공급망 안정화와 거래선 다변화의 필요성을 강조했다. [출처](https://www.yna.co.kr/view/AKR20260827026700003?input=1195m)
+- [홍기원](/people/hong-gi-won) — **지지**: 호르무즈 해협 봉쇄를 푸는 데 군함 파견과 항해의 자유 확보가 필요하다는 취지로 언급했다. [출처](https://www.ytn.co.kr/_ln/0101_202608300901000000)
+- [구윤철](/people/gu-yun-cheol) — **지지**: 호르무즈 봉쇄에 대비해 얌부항·푸자이라항 등 대체 항로와 물류 대응책을 검토해야 한다고 밝혔다. [출처](https://www.cbci.co.kr/news/articleView.html?idxno=514321)
+- [이지언](/people/i-ji-eon) — **중립**: 호르무즈 해협 봉쇄가 원유·가스 공급망 취약성을 드러냈다고 지적하며 에너지 전환과 수급 안정 필요성을 강조했다. [출처](https://www.nocutnews.co.kr/news/6372810)
 <!-- /agent:stances -->
