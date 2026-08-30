@@ -87,4 +87,7 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - 정윤정 — **지지**: 진주 편의점 여성혐오 범죄 대응과 관련해 여성혐오 관점의 문제 제기와 상담소 활동에 참여했다. [출처](http://www.gndomin.com/news/articleView.html?idxno=486842)
 - 장윤기 — **지지**: 여성단체가 장윤기 판결문에 여성혐오범죄임을 명시해야 한다고 촉구하며, 그의 범행을 여성을 성적 대상화한 명백한 여성혐오 범죄로 규정했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646404&ref=A)
 - 홍혜걸 — **중립**: 제주 관련 발언이 여성과 남성 모두에게 조심하자는 취지였다고 해명되며, 혐오 조장 논란의 맥락에서 언급됐다. [출처](http://www.yonhapnewstv.co.kr/news/AKR20260826150504jt0)
+- [이재명](/people/i-jae-myeong) — **중립**: 젠더 갈등을 정치의 잣대로만 소비하지 말아야 한다는 맥락에서 언급됐다. [출처](https://www.khan.co.kr/article/202608112012005)
+- [김정석](/people/gim-jeong-seok) — **중립**: 세대·젠더·계층 갈등이 심화한 한국 사회에서 교회의 치유·화해 역할을 강조했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=0029631949&code=61221111&cp=nv)
+- [김수현](/people/gim-su-hyeon) — **지지**: 성평등 조직문화 컨설팅을 맡아 역차별 우려를 다루며 조직문화 개선 필요성을 제기했다. [출처](https://view.asiae.co.kr/article/2026061708350445489)
 <!-- /agent:stances -->
