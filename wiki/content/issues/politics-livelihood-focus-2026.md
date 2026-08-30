@@ -197,4 +197,6 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [박선원](/people/bak-seon-won) — **지지**: 지지율 하락과 관련해 여론보다 민심과 민생·치안 체감이 중요하다고 강조했다. [출처](https://www.mt.co.kr/politics/2026/08/27/2026082709055756858)
 - [김승원](/people/gim-seung-won) — **반대**: 조희대 대법원장이 사법부를 정쟁의 한가운데로 몰아넣고 있다고 비판했다. [출처](https://www.donga.com/news/Politics/article/all/20260827/134552312/2)
 - [박성민](/people/bak-seong-min) — **중립**: 중도층을 잡으려면 정책 효능감이 중요하다고 진단하며 민생·경제 관리의 필요성을 언급했다. [출처](https://www.munhwa.com/article/11612512?ref=naver)
+- [전은수](/people/jeon-eun-su) — **지지**: 국민의힘의 필리버스터와 민생법안 지연을 비판하며 민생·미래 법안 처리를 촉구했다. [출처](https://www.mt.co.kr/politics/2026/08/30/2026083009491242628)
+- [손금주](/people/son-geum-ju) — **지지**: 주택 공급에 정치의 시간이 없다며 민생 문제를 신속히 풀어야 한다고 주장했다. [출처](https://www.mt.co.kr/politics/2026/08/30/2026083009523913423)
 <!-- /agent:stances -->
