@@ -179,4 +179,9 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - 안근옥 — **지지**: AI 기반 취업 교육으로 청년들의 디지털 채용환경 적응과 취업 준비 역량을 높이겠다고 밝혔다. [출처](https://www.ccreview.co.kr/news/articleView.html?idxno=355991)
 - [정명근](/people/jeong-myeong-geun) — **지지**: 반도체·미래모빌리티·바이오를 축으로 기업과 인재가 모이는 산업 생태계를 키워 청년 일자리와 지역 성장의 기반을 만들겠다고 밝혔다. [출처](http://www.fieldnews.kr/news/articleView.html?idxno=31071)
 - [김성환](/people/gim-seong-hwan) — **지지**: 국가첨단산업단지에 필요한 용수를 안정적으로 공급해 첨단산업 육성과 일자리 기반을 뒷받침하겠다고 밝혔다. [출처](https://www.cctoday.co.kr/news/articleView.html?idxno=2235636)
+- [최형두](/people/choe-hyeong-du) — **지지**: 창원을 피지컬 AI 중심도시로 키워 청년 일자리 기반을 넓히려 했다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/08/28/2026082890181.html)
+- [이주호](/people/i-ju-ho) — **중립**: AI 시대 교육의 중심은 사람이라며 청년의 미래 일자리와 삶을 함께 보자고 말했다. [출처](https://www.sisajournal.com/news/articleView.html?idxno=385089)
+- [양선화](/people/yang-seon-hwa) — **지지**: 실제 기업투자와 산업 성장을 양질의 일자리로 연결해야 한다고 밝혔다. [출처](http://www.jeollailbo.com/news/articleView.html?idxno=809227)
+- [김봉덕](/people/gim-bong-deok) — **지지**: 벤처투자가 청년 일자리 창출과 지역경제 활성화로 이어질 수 있다고 말했다. [출처](https://www.donga.com/news/Economy/article/all/20260819/134504098/1)
+- [나중규](/people/na-jung-gyu) — **지지**: 반도체·이차전지·원전·방산·바이오 기반에 AI를 접목한 미래산업 전략을 제시했다. [출처](https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608190746489650428)
 <!-- /agent:stances -->
