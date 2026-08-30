@@ -178,4 +178,5 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - [이주영](/people/i-ju-yeong) — **지지**: 검체검사 위탁·수탁기관의 인증과 제재 근거를 법제화해 의료 안전망을 보완하려고 했다. [출처](https://www.bosa.co.kr/news/articleView.html?idxno=3010409)
 - [강숙희](/people/gang-suk-hui) — **지지**: 밀양형 통합돌봄 홍보와 복지 사각지대 발굴을 통해 소외 주민을 줄이겠다고 밝혔다. [출처](https://www.pressian.com/pages/articles/2026081911251962944?utm_source=naver&utm_medium=search)
 - 김용란 — **지지**: 치매 환자 실종 예방 인식표 무료 보급을 통해 고령층 안전망을 강화했다. [출처](http://www.cctimes.kr/news/articleView.html?idxno=923858)
+- [용혜인](/people/unknown) — **지지**: 기본소득·돌봄·사회안전망 확대를 주요 의제로 제시해 왔다. [출처](https://www.edaily.co.kr/News/Read?newsId=01666246645552568&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article)
 <!-- /agent:stances -->
