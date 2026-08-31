@@ -2,7 +2,7 @@
 title: 삼성전자 등 주요 기업 노사 분쟁 (2026)
 slug: corporate-labor-dispute-2026
 category: policy
-status: ongoing
+status: closed
 summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·파업·노사 중재 관련 분쟁
 ---
 
@@ -58,3 +58,8 @@ summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·
 - [김영훈](/people/gim-yeong-hun) — **혼합**: 성과급 쟁의대상 확대 검토를 언급하는 한편, 정부 차원의 시행령·시행규칙 검토와 조정도 병행했다. [출처](https://www.news.mtn.co.kr/news-detail/2026081813272628831)
 - [방준원](/people/bang-jun-won) — **중립**: SK하이닉스 임단협 부결 소식을 전하며 삼성전자 노사 협상에도 영향이 있을 수 있다고 설명했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646110&ref=A)
 <!-- /agent:stances -->
+
+<!-- human-edit -->
+## 편집자 노트
+2026-08-31: 이 이슈의 능동 추적을 종료함. 기존 인물별 입장 기록은 역사적 참고로 보존.
+<!-- /human-edit -->
