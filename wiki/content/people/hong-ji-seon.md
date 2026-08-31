@@ -1,7 +1,8 @@
 ---
 title: 홍지선
 slug: hong-ji-seon
-status: stub
+status: curated
+role: 국토교통부 장관 후보자
 ---
 
 ## 행적

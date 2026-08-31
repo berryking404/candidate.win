@@ -1,8 +1,8 @@
 ---
 title: 김봉덕
 slug: gim-bong-deok
-role: 중기부 벤처정책관
-status: stub
+role: 중소벤처기업부 벤처정책관
+status: curated
 ---
 
 ## 행적

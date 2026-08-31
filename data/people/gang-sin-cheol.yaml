@@ -2,8 +2,8 @@ slug: gang-sin-cheol
 name_ko: 강신철
 name_en: null
 party: null
-role: 전 한미연합사령부 부사령관
-status: stub
+role: 전 한미연합사 부사령관·국방부 장관 후보자
+status: curated
 aliases:
 - 강신철 전 부사령관
 discovered_via_issue: opcon-transfer-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 강신철
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260830031000504

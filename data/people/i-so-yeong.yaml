@@ -1,9 +1,9 @@
 slug: i-so-yeong
 name_ko: 이소영
 name_en: null
-party: null
-role: 민주당 의원, 중기부 장관 후보자
-status: stub
+party: 더불어민주당
+role: 더불어민주당 의원·중소벤처기업부 장관 후보자
+status: curated
 aliases:
 - 이소영 의원
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이소영
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260830029900001

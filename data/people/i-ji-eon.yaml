@@ -3,7 +3,7 @@ name_ko: 이지언
 name_en: null
 party: null
 role: 기후넥서스 대표
-status: stub
+status: curated
 aliases:
 - 이지언 대표
 discovered_via_issue: hormuz-blockade-us-reduction-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이지언
   youtube_channels: []
+  official_urls:
+  - https://www.nocutnews.co.kr/news/6549433

@@ -1,8 +1,9 @@
 ---
 title: 이소영
 slug: i-so-yeong
-role: 민주당 의원, 중기부 장관 후보자
-status: stub
+role: 더불어민주당 의원·중소벤처기업부 장관 후보자
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

@@ -1,8 +1,8 @@
 ---
 title: 강신철
 slug: gang-sin-cheol
-role: 전 한미연합사령부 부사령관
-status: stub
+role: 전 한미연합사 부사령관·국방부 장관 후보자
+status: curated
 ---
 
 ## 행적

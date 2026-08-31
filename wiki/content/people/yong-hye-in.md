@@ -1,8 +1,9 @@
 ---
 title: 용혜인
 slug: yong-hye-in
-role: 기본소득당 의원
-status: stub
+role: 기본소득당 의원·성평등가족부 장관 후보자
+status: curated
+party: 기본소득당
 ---
 
 ## 행적

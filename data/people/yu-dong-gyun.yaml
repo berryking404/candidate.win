@@ -3,7 +3,7 @@ name_ko: 유동균
 name_en: null
 party: null
 role: 마포구청장
-status: stub
+status: curated
 aliases:
 - 유동균 구청장
 discovered_via_issue: local-commerce-recovery-2026
@@ -12,3 +12,6 @@ sources:
   news_keywords:
   - 유동균
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260702070900004
+  - https://mapo.go.kr/site/mayor/content/mayor010301

@@ -2,7 +2,7 @@
 title: 유동균
 slug: yu-dong-gyun
 role: 마포구청장
-status: stub
+status: curated
 ---
 
 ## 행적

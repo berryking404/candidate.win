@@ -2,8 +2,8 @@ slug: hong-ji-seon
 name_ko: 홍지선
 name_en: null
 party: null
-role: null
-status: stub
+role: 국토교통부 장관 후보자
+status: curated
 aliases:
 - 홍지선
 discovered_via_issue: housing-jeonse-crisis-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 홍지선
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260830027500003

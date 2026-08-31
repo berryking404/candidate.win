@@ -1,9 +1,9 @@
 slug: i-hae-min
 name_ko: 이해민
 name_en: null
-party: null
-role: 조국혁신당 의원
-status: stub
+party: 조국혁신당
+role: 조국혁신당 의원·청와대 AI미래기획수석
+status: curated
 aliases:
 - 이해민
 discovered_via_issue: opcon-transfer-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이해민
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260830031400001
