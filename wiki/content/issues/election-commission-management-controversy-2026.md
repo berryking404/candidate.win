@@ -2,7 +2,7 @@
 title: 선관위 투표 관리·홍보물 논란과 제도개혁 요구 (2026)
 slug: election-commission-management-controversy-2026
 category: election
-status: ongoing
+status: closed
 summary: 2026년 선거 과정의 투표용지 부족·관리 부실 논란과 선관위 홍보 영상 표현 논란을 둘러싼 책임 규명·제도개혁 요구
 ---
 
@@ -141,3 +141,8 @@ summary: 2026년 선거 과정의 투표용지 부족·관리 부실 논란과 �
 - [김태규](/people/gim-tae-gyu) — **지지**: 중앙선관위의 선거소청 기각에 유감을 표하며 선거관리 부실 문제를 지적했다. [출처](https://www.yna.co.kr/view/AKR20260827112926mkB)
 - 국민의힘 — **지지**: 선관위의 부실 관리를 이유로 선거무효소송을 제기하며 제도적 책임을 문제 삼았다. [출처](https://www.yna.co.kr/view/AKR20260827112926mkB)
 <!-- /agent:stances -->
+
+<!-- human-edit -->
+## 편집자 노트
+2026-08-31: 이 이슈의 능동 추적을 종료함. 기존 인물별 입장 기록은 역사적 참고로 보존.
+<!-- /human-edit -->

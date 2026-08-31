@@ -2,8 +2,9 @@
 title: 방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원·해임건의안 (2026)
 slug: defense-counterintelligence-reform-impeachment-petition-2026
 category: politics
-status: ongoing
-summary: 2026년 6월 국방부의 방첩사 기능 분산과 사관학교 통합·이전 구상을 둘러싸고 국가안보 공백 우려와 국방개혁 필요론이 맞섰으며, 안규백 국방부 장관 탄핵 청원과 해임건의안 추진으로 확대된 사안
+status: closed
+summary: 2026년 6월 국방부의 방첩사 기능 분산과 사관학교 통합·이전 구상을 둘러싸고 국가안보 공백 우려와 국방개혁 필요론이 맞섰으며,
+  안규백 국방부 장관 탄핵 청원과 해임건의안 추진으로 확대된 사안
 ---
 
 ## 인물별 입장
@@ -42,3 +43,8 @@ summary: 2026년 6월 국방부의 방첩사 기능 분산과 사관학교 통�
 - [이재명](/people/i-jae-myeong) — **중립**: 국방부의 육·해·공군 사관학교 통합 추진을 두고 합동성 제고·미래전 대비·인구절벽 대응 논리를 제시했다는 보도가 있었다. [출처](https://www.newdaily.co.kr/site/data/html/2026/08/16/2026081600001.html)
 - [안규백](/people/an-gyu-baek) — **미확인**: 사관학교 통합 공청회에 불참했고, 통합안 관련 메시지가 논란을 낳았다. [출처](https://www.newdaily.co.kr/site/data/html/2026/08/25/2026082500363.html)
 <!-- /agent:stances -->
+
+<!-- human-edit -->
+## 편집자 노트
+2026-08-31: 이 이슈의 능동 추적을 종료함. 기존 인물별 입장 기록은 역사적 참고로 보존.
+<!-- /human-edit -->
