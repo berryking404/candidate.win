@@ -1,62 +1,116 @@
-generated_at: '2026-08-30T23:02:07+00:00'
-source_date: 2026-08-30T230204Z
+generated_at: '2026-08-31T23:02:06+00:00'
+source_date: 2026-08-31T230203Z
 window_hours: 72
 items:
 - rank: 1
-  title: 국회, ‘대법관 후보 서면 제청 논란’ 긴급 현안 질의
+  title: 용혜인 ‘장관-의원 겸직’ 뜻 논란…국힘 “혜택 이해할 2030 있겠나”
   status: 정식 검토
   score: 9
+  summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 4
+    outlet_count: 4
+    public_actor: 의원, 장관
+  sources:
+  - title: 용혜인, 비례의원직 사퇴 거부… 국힘 “年11억 정당보조금 때문”
+    url: https://www.donga.com/news/Politics/article/all/20260901/134579867/2
+  - title: 용혜인, 기본소득당 의원직 유지에…국힘 “가족소득당이냐”
+    url: https://www.joongang.co.kr/article/25457918
+  - title: 용혜인 ‘장관-의원 겸직’ 뜻 논란…국힘 “혜택 이해할 2030 있겠나”
+    url: https://www.hani.co.kr/arti/politics/politics_general/1275514.html
+- rank: 2
+  title: 용혜인, 성평등장관 전문성 논란…소관 법안 대표발의 '0건'
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 13건, 매체 12곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 13
+    outlet_count: 12
+    public_actor: 대표, 의원, 장관
+  sources:
+  - title: '''전문성 있다더니''···용혜인, 성평등위소관 법률 대표발의 ''0건'''
+    url: https://www.womaneconomy.co.kr/news/articleView.html?idxno=258108
+  - title: 용혜인 장관 지명 쏟아지는 비판, 후보자와 기본소득당 해명은?
+    url: https://www.mediatoday.co.kr/news/articleView.html?idxno=336803
+  - title: 장관도 의원도 포기 못 한다는 용혜인… 野 “남편, 소득당 당직자 맞는...
+    url: https://www.segye.com/newsView/20260831515825?OutUrl=naver
+- rank: 3
+  title: 논란의 부동산 세제…국회에 공 넘긴 정부
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 국회, 정부
+  sources:
+  - title: '[전국 주요 신문 톱뉴스](1일 조간)'
+    url: https://www.yna.co.kr/view/AKR20260901015700011?input=1195m
+  - title: 논란의 부동산 세제… 국회에 공 넘긴 정부
+    url: https://www.chosun.com/politics/politics_general/2026/09/01/RFZAPMQ4XJE65AJFJR4ZOKXEKU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+- rank: 4
+  title: 영주시장 춤추는 풍기인삼축제 홍보영상 '선거법 논란'
+  status: 정식 검토
+  score: 7
   summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
     outlet_count: 16
-    public_actor: 국회, 장관
+    public_actor: 의원
   sources:
-  - title: '[투데이 라인업] 국회 법사위, ''대법관 후보 서면 제청 논란'' 긴급 현안...'
-    url: http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5215828
-  - title: 대법관 재제청, 어느 쪽 택해도 부담…조희대 대법원장이 처한 난감한 ...
-    url: https://www.wikitree.co.kr/articles/1156077
-  - title: 국회 법사위, '대법관 서면제청 논란' 긴급 현안질의
-    url: http://www.joseilbo.com/news/news_read.php?uid=574736&class=32&grp=
-- rank: 2
-  title: 국회 법사위, '대법관 서면제청 논란' 긴급 현안질의
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 12곳에서 확인된 공적 쟁점입니다.
+  - title: 경찰, 인천교육감 캠프 '식사제공' 등 선거법 위반사건 수사착수
+    url: https://www.yna.co.kr/view/AKR20260831059600065?input=1195m
+  - title: 용혜인, '비례 재선' 논란→의원직 사퇴 거부...여야·진보 한목소리 비...
+    url: https://www.slist.kr/news/articleView.html?idxno=762666
+  - title: 국힘 ‘용혜인 때리기’ 집중…강선우 ‘의원불패’ 붕괴 이후 검증 주...
+    url: https://biz.heraldcorp.com/article/10857795?ref=naver
+- rank: 5
+  title: “국민이 지켜봅니다”...제주 경찰 부실대응 논란에 CCTV 공익광고 등장
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 12
-    public_actor: 국민의힘, 국회, 민주당
+    outlet_count: 19
+    public_actor: 확인 중
   sources:
-  - title: '[투데이 라인업] 국회 법사위, ''대법관 후보 서면 제청 논란'' 긴급 현안...'
-    url: http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5215828
-  - title: 대법관 재제청, 어느 쪽 택해도 부담…조희대 대법원장이 처한 난감한 ...
-    url: https://www.wikitree.co.kr/articles/1156077
-  - title: 국회 법사위, '대법관 서면제청 논란' 긴급 현안질의
-    url: http://www.joseilbo.com/news/news_read.php?uid=574736&class=32&grp=
-- rank: 3
-  title: 부동산 대책에도 서울 아파트값 상승세
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 10건, 매체 8곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 10
-    outlet_count: 8
-    public_actor: 정부
-  sources:
-  - title: 중랑구, 매매가격지수 전고점 넘었다…중저가 5개구도 추격
-    url: https://www.dt.co.kr/article/12080992?ref=naver
-  - title: 집값·전세 뛰는데 서울시 협상 난항…홍지선 앞 ‘난제들’
-    url: https://www.edaily.co.kr/News/Read?newsId=01777766645552568&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
-  - title: 부동산 대책에도 서울 아파트값 상승세
-    url: https://www.newsis.com/view/NISI20260830_0021416115
-- rank: 4
-  title: 박지혜 국회의원, 글로벌 공급망 규제 대응 위한 ‘인권ㆍ환경 실사법’ 대표 발의
+  - title: “국민이 경찰 지켜봅니다” 제주서부서 앞 광고 눈길
+    url: https://www.munhwa.com/article/11613447?ref=naver
+  - title: 경찰 향해 시선 돌린 CCTV?... 제주서부서 앞에 등장한 공익광고의 정체
+    url: https://www.insight.co.kr/news/571134
+  - title: “국민도 경찰 지켜봅니다”…제주 경찰서 앞에 등장한 의문의 CCTV 정체
+    url: https://www.sedaily.com/article/20085324?ref=naver
+- rank: 6
+  title: 정부 개각 ‘네거티브 카드’ 국힘에 민주당 ‘강력 대응’
   status: 추가 확인
   score: 5
   summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 0
     outlet_count: 0
-    public_actor: 국회, 대표, 의원
+    public_actor: 민주당, 정부
   sources: []
+- rank: 7
+  title: 개혁신당 천하람 “정이한 공천 거듭 사죄…부산 찾아 직접 사과드릴 것”
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 개혁신당
+  sources:
+  - title: 개혁신당 천하람 “정이한 공천 거듭 사죄…부산 찾아 직접 사과드릴 것...
+    url: https://www.busan.com/view/busan/view.php?code=2026083110034969140
+- rank: 8
+  title: 정부 8·13 부동산 공급 대책…"지역 특수성 반영한 맞춤형 대응 절실"
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 정부 8·13 부동산 공급 대책…"지역 특수성 반영한 맞춤형 대응 절실"
+    url: https://www.idaegu.com/news/articleView.html?idxno=665356
