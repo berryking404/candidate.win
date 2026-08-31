@@ -93,4 +93,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [나경원](/people/na-gyeong-won) — **반대**: 용혜인 장관 지명을 두고 포괄적 차별금지법, 동성혼 인정, 젠더 극단주의 등을 문제 삼으며 강하게 비판했다. [출처](https://www.dailian.co.kr/news/view/1684467/?sc=Naver)
 - [안철수](/people/ahn-cheol-soo) — **반대**: 용혜인을 ‘혐오 장사꾼’으로 규정하고, 장관 기용 시 젠더 갈등을 부추길 수 있다고 주장했다. [출처](https://www.fnnews.com/news/202608311051208657)
 - [박성준](/people/park-seong-jun) — **지지**: 용혜인 지명을 폭넓은 인사로 평가하며 내각에 활력을 넣을 수 있다고 말했다. [출처](https://www.nocutnews.co.kr/news/6570432?utm_source=naver&utm_medium=article&utm_campaign=20260831101303)
+- [안철수](/people/an-cheol-su) — **반대**: 2030 남녀 갈등을 조장하고 ‘성차별 장관’이 될 것이라고 비판하며, 성평등 정책에 부정적인 입장을 보였다. [출처](https://www.ekn.kr/web/view.php?key=20260831024018452)
 <!-- /agent:stances -->
