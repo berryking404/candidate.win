@@ -1,8 +1,8 @@
 ---
-title: 명태균
-slug: myeong-tae-gyun
-role: 정치 브로커
-status: curated
+title: 백진숙
+slug: baek-jin-suk
+role: 조국혁신당 충남도당위원장
+status: stub
 ---
 
 ## 행적

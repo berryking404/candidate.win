@@ -78,5 +78,4 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [주진우](/people/ju-jin-u) — **지지**: 박상용 검사 수사를 이재명 대통령 탄핵으로 이어지는 과정으로 규정하며, 이를 저지해야 한다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260827056300001?input=1195m)
 - [박지원](/people/bak-ji-won) — **중립**: 과거 발언이 재인용되며 대통령 탄핵론 공방의 소재로 등장했다. [출처](https://www.ikbc.co.kr/article/view/kbc202608300008)
 - [이재명](/people/i-jae-myeong) — **혼합**: 대법관 재제청 요구로 야권의 탄핵 공세를 촉발했지만, 동시에 삼권분립 해석을 둘러싼 정치 공방의 중심에 섰다. [출처](https://www.yonhapnewstv.co.kr/news/MYH20260829214137176)
-- [명태균](/people/myeong-tae-gyun) — **반대**: 명태균 게이트를 특검 수사와 탄핵 국면의 핵심 의혹으로 연결해 수사를 촉구했다. [출처](https://www.segye.com/newsView/20260830509646?OutUrl=naver)
 <!-- /agent:stances -->

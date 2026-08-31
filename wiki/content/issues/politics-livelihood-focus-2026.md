@@ -205,8 +205,8 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [이소영](/people/i-so-yeong) — **지지**: 혁신성장부터 민생경제까지 폭넓은 정책 경험을 바탕으로 규제개혁과 민생 과제를 함께 풀겠다고 했다. [출처](https://view.asiae.co.kr/article/2026083107362699665)
 - [천하람](/people/cheon-ha-ram) — **지지**: 당의 혼란 속에서도 민생을 챙기고 정치 개혁에 집중하겠다고 밝혔다. [출처](https://www.m-economynews.com/news/article.html?no=70256)
 - [백진숙](/people/baek-jin-suk) — **지지**: 충남의 민생 현안을 스스로 해결하겠다는 실행력을 강조했다. [출처](https://www.goodmorningcc.com/news/articleView.html?idxno=451469)
-- [임이자](/people/im-i-ja) — **지지**: 여야가 뜻을 모을 수 있는 민생 공통 입법을 최우선 처리하자고 제안했다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/08/31/2026083190153.html)
+- 임이자 — **지지**: 여야가 뜻을 모을 수 있는 민생 공통 입법을 최우선 처리하자고 제안했다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/08/31/2026083190153.html)
 - [이장섭](/people/i-jang-seop) — **지지**: 민생 현장에서 해법을 찾고 지역 현안 해결에 정책을 집중하겠다고 밝혔다. [출처](https://www.bzeronews.com/news/articleView.html?idxno=821876)
 - [박성민](/people/bak-seong-min) — **지지**: 정쟁보다 정책 효능감과 민생·경제 관리가 중도층 대응의 핵심이라고 진단했다. [출처](https://www.munhwa.com/article/11612512?ref=naver)
-- [정기국회](/people/jeong-gi-guk-hoe) — **중립**: 여야가 민생법안 처리와 정쟁 공방을 동시에 이어가고 있다. [출처](https://www.cnbnews.com/news/articleView.html?idxno=1013460)
+- 정기국회 — **중립**: 여야가 민생법안 처리와 정쟁 공방을 동시에 이어가고 있다. [출처](https://www.cnbnews.com/news/articleView.html?idxno=1013460)
 <!-- /agent:stances -->

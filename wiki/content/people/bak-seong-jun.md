@@ -1,8 +1,8 @@
 ---
-title: 명태균
-slug: myeong-tae-gyun
-role: 정치 브로커
-status: curated
+title: 박성준
+slug: bak-seong-jun
+role: 더불어민주당 수석대변인
+status: stub
 ---
 
 ## 행적
