@@ -199,4 +199,10 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [박성민](/people/bak-seong-min) — **중립**: 중도층을 잡으려면 정책 효능감이 중요하다고 진단하며 민생·경제 관리의 필요성을 언급했다. [출처](https://www.munhwa.com/article/11612512?ref=naver)
 - [전은수](/people/jeon-eun-su) — **지지**: 국민의힘의 필리버스터와 민생법안 지연을 비판하며 민생·미래 법안 처리를 촉구했다. [출처](https://www.mt.co.kr/politics/2026/08/30/2026083009491242628)
 - [손금주](/people/son-geum-ju) — **지지**: 주택 공급에 정치의 시간이 없다며 민생 문제를 신속히 풀어야 한다고 주장했다. [출처](https://www.mt.co.kr/politics/2026/08/30/2026083009523913423)
+- [박성준](/people/bak-seong-jun) — **지지**: 이번 정기국회에서 민생 법안과 부동산·세제 등 생활 밀착 현안을 처리해야 한다고 밝혔다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8650180&ref=A)
+- [서미화](/people/seo-mi-hwa) — **지지**: 기업 청문회를 정쟁의 제물로 삼아선 안 된다고 말하며 생산과 투자와 관련된 사안을 민생보다 정치화하지 말자고 했다. [출처](https://www.sedaily.com/article/20085163?ref=naver)
+- [이형일](/people/i-hyeong-il) — **지지**: 잠재성장률 반등과 양극화 극복 등 민생을 돌보는 정책에 최선을 다하겠다고 밝혔다. [출처](https://biz.sbs.co.kr/article_hub/20000331701?division=NAVER)
+- [이소영](/people/i-so-yeong) — **지지**: 혁신성장부터 민생경제까지 폭넓은 정책 경험을 바탕으로 규제개혁과 민생 과제를 함께 풀겠다고 했다. [출처](https://view.asiae.co.kr/article/2026083107362699665)
+- [천하람](/people/cheon-ha-ram) — **지지**: 당의 혼란 속에서도 민생을 챙기고 정치 개혁에 집중하겠다고 밝혔다. [출처](https://www.m-economynews.com/news/article.html?no=70256)
+- [백진숙](/people/baek-jin-suk) — **지지**: 충남의 민생 현안을 스스로 해결하겠다는 실행력을 강조했다. [출처](https://www.goodmorningcc.com/news/articleView.html?idxno=451469)
 <!-- /agent:stances -->
