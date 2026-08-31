@@ -116,4 +116,10 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - 철강업계 — **지지**: 산업용 전기요금 인하가 원가 부담을 덜어줄 수 있다며 지역 차등요금제를 환영했다. [출처](https://biz.newdaily.co.kr/site/data/html/2026/08/27/2026082700103.html)
 - 정부 — **지지**: 추석 민생안정대책과 고유가 피해지원금 등으로 물가 안정과 취약계층 부담 완화를 추진했다. [출처](https://www.newspim.com/news/view/20260827000604)
 - 국가데이터처 — **중립**: 고유가 피해지원금이 소득분배 지표를 개선했다고 설명했지만, 전기요금·에너지 가격 정책에 대한 찬반 입장은 아니었다. [출처](https://www.hani.co.kr/arti/economy/economy_general/1274895.html)
+- [정부](/people/jeongbu) — **지지**: 추석 민생안정대책과 고유가 피해지원금 등으로 물가 안정과 취약계층 부담 완화를 추진했다. [출처](https://www.newspim.com/news/view/20260827000604)
+- [한국전력](/people/hanguk-jeonryeok) — **지지**: 스마트가전 캐시백과 산업용 지역 전기요금제를 통해 전기요금 부담 완화와 계통 안정화를 추진했다. [출처](https://www.tf.co.kr/read/economy/2358620.htm)
+- [광주상공회의소](/people/gwangju-sanggonghoesoe) — **지지**: 산업용 지역 전기요금 도입과 인하를 환영하며 기업의 전력비 부담 완화를 요청했다. [출처](https://www.jnilbo.com/news/articleView.html?idxno=90000060070)
+- [서울교통공사](/people/seoul-gyotong-gongsa) — **지지**: 산업용 전기요금 급등과 추가 비용이 안전투자를 위축시킨다며 부담 완화 필요성을 제기했다. [출처](https://www.the-pr.co.kr/news/articleView.html?idxno=62439)
+- [철강업계](/people/cheolgang-eobgye) — **지지**: 산업용 전기요금 인하가 원가 부담을 덜어줄 수 있다며 지역 차등요금제를 환영했다. [출처](https://biz.newdaily.co.kr/site/data/html/2026/08/27/2026082700103.html)
+- [국가데이터처](/people/gukgajaryo-cheo) — **중립**: 고유가 피해지원금이 소득분배 지표를 개선했다고 설명했지만, 전기요금·에너지 가격 정책에 대한 찬반 입장은 아니었다. [출처](https://www.hani.co.kr/arti/economy/economy_general/1274895.html)
 <!-- /agent:stances -->
