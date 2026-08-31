@@ -2,7 +2,7 @@
 title: 삼성전자 등 주요 기업 노사 분쟁 (2026)
 slug: corporate-labor-dispute-2026
 category: policy
-status: ongoing
+status: closed
 summary: 삼성전자와 주요 계열사·대기업에서 벌어진 성과급·파업·노사 중재 관련 분쟁
 ---
 
