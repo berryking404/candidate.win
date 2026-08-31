@@ -2,7 +2,7 @@
 title: 스타벅스 코리아 '탱크데이' 마케팅 역사 폄훼 논란 (2026)
 slug: starbucks-tank-day-2026
 category: scandal
-status: ongoing
+status: closed
 summary: 스타벅스 코리아의 5·18 연상 마케팅 논란과 그에 대한 사회적·정치적 반응
 ---
 
@@ -42,3 +42,8 @@ summary: 스타벅스 코리아의 5·18 연상 마케팅 논란과 그에 대�
 - [한강](/people/han-gang) — **반대**: 5·18 조롱 응원 논란을 두고 "그냥 지나가선 안 된다"며 혐오와 역사희화화에 문제의식을 드러냈다. [출처](https://www.joongang.co.kr/article/25445595)
 - [배재고](/people/bae-jae-go) — **중립**: 학생들이 5·18 비하 구호를 선창해 징계 조치를 받았다. [출처](https://imnews.imbc.com/replay/2026/nw930/article/6842810_36996.html)
 <!-- /agent:stances -->
+
+<!-- human-edit -->
+## 편집자 노트
+2026-08-31: 이 이슈의 능동 추적을 종료함. 기존 인물별 입장 기록은 역사적 참고로 보존.
+<!-- /human-edit -->

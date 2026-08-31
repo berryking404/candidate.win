@@ -2,7 +2,7 @@
 title: 호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)
 slug: hormuz-blockade-us-reduction-2026
 category: foreign
-status: ongoing
+status: closed
 summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을 둘러싼 2026년 이슈.
 ---
 
@@ -31,3 +31,8 @@ summary: 호르무즈 해협 봉쇄와 미국의 병력 감축·동맹 압박을
 - [구윤철](/people/gu-yun-cheol) — **지지**: 호르무즈 봉쇄에 대비해 얌부항·푸자이라항 등 대체 항로와 물류 대응책을 검토해야 한다고 밝혔다. [출처](https://www.cbci.co.kr/news/articleView.html?idxno=514321)
 - [이지언](/people/i-ji-eon) — **중립**: 호르무즈 해협 봉쇄가 원유·가스 공급망 취약성을 드러냈다고 지적하며 에너지 전환과 수급 안정 필요성을 강조했다. [출처](https://www.nocutnews.co.kr/news/6372810)
 <!-- /agent:stances -->
+
+<!-- human-edit -->
+## 편집자 노트
+2026-08-31: 이 이슈의 능동 추적을 종료함. 기존 인물별 입장 기록은 역사적 참고로 보존.
+<!-- /human-edit -->
