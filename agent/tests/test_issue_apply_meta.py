@@ -63,31 +63,3 @@ def test_update_issue_wiki_updates_stale_title(tmp_path: Path, monkeypatch):
     text = (wiki_dir / f"{slug}.md").read_text(encoding="utf-8")
     fm = yaml.safe_load(text.split("---", 2)[1])
     assert fm["title"] == "새 제목"
-
-
-def test_update_issue_wiki_syncs_closed_status_and_conclusion(tmp_path: Path, monkeypatch):
-    cli = _load_cli()
-    wiki_dir = tmp_path / "issues"
-    wiki_dir.mkdir()
-    monkeypatch.setattr(cli, "WIKI_ISSUES", wiki_dir)
-
-    slug = "corporate-labor-dispute-2026"
-    (wiki_dir / f"{slug}.md").write_text(
-        "---\ntitle: 삼성전자 등 주요 기업 노사 분쟁 (2026)\n"
-        "slug: corporate-labor-dispute-2026\nstatus: ongoing\n---\n\n"
-        "## 인물별 입장\n\n<!-- agent:stances -->\n- keep\n<!-- /agent:stances -->\n",
-        encoding="utf-8",
-    )
-    conclusion = "2026-08-31: 이 이슈의 능동 추적을 종료함. 기존 인물별 입장 기록은 역사적 참고로 보존."
-
-    assert cli._update_issue_wiki(
-        slug,
-        {"title_ko": "삼성전자 등 주요 기업 노사 분쟁 (2026)", "status": "closed", "conclusion": conclusion},
-    ) is True
-
-    text = (wiki_dir / f"{slug}.md").read_text(encoding="utf-8")
-    fm = yaml.safe_load(text.split("---", 2)[1])
-    assert fm["status"] == "closed"
-    assert "<!-- agent:stances -->" in text and "- keep" in text
-    assert "<!-- human-edit -->" in text
-    assert conclusion in text

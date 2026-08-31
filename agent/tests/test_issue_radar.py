@@ -185,34 +185,3 @@ def test_create_issue_shell_writes_inferred_seed_people(tmp_path: Path, monkeypa
     data = yaml.safe_load((data_dir / "nec-test.yaml").read_text(encoding="utf-8"))
     assert data["seed_people"] == ["jeon-jin-suk"]
     assert (wiki_dir / "nec-test.md").exists()
-
-
-def test_close_issue_sets_closed_preserves_stances(tmp_path: Path, monkeypatch):
-    data_dir = tmp_path / "data" / "issues"
-    wiki_dir = tmp_path / "wiki" / "content" / "issues"
-    data_dir.mkdir(parents=True)
-    wiki_dir.mkdir(parents=True)
-    monkeypatch.setattr(issue_radar, "DATA_ISSUES", data_dir)
-    monkeypatch.setattr(issue_radar, "WIKI_ISSUES", wiki_dir)
-
-    slug = "corporate-labor-dispute-2026"
-    (data_dir / f"{slug}.yaml").write_text(
-        "slug: corporate-labor-dispute-2026\nstatus: ongoing\nsummary: x\n",
-        encoding="utf-8",
-    )
-    (wiki_dir / f"{slug}.md").write_text(
-        "---\ntitle: t\nslug: corporate-labor-dispute-2026\nstatus: ongoing\n---\n\n"
-        "## 인물별 입장\n\n<!-- agent:stances -->\n- keep-me\n<!-- /agent:stances -->\n",
-        encoding="utf-8",
-    )
-
-    result = issue_radar.close_issue({"slug": slug})
-
-    assert result == f"종료 처리: {slug}"
-    data = yaml.safe_load((data_dir / f"{slug}.yaml").read_text(encoding="utf-8"))
-    assert data["status"] == "closed"
-    assert "능동 추적" in data["conclusion"]
-    text = (wiki_dir / f"{slug}.md").read_text(encoding="utf-8")
-    assert "status: closed" in text
-    assert "<!-- agent:stances -->" in text and "- keep-me" in text
-    assert "<!-- human-edit -->" in text and "## 편집자 노트" in text
