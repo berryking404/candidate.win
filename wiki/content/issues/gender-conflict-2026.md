@@ -90,4 +90,7 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [이재명](/people/i-jae-myeong) — **중립**: 젠더 갈등을 정치의 잣대로만 소비하지 말아야 한다는 맥락에서 언급됐다. [출처](https://www.khan.co.kr/article/202608112012005)
 - [김정석](/people/gim-jeong-seok) — **중립**: 세대·젠더·계층 갈등이 심화한 한국 사회에서 교회의 치유·화해 역할을 강조했다. [출처](https://www.kmib.co.kr/article/view.asp?arcid=0029631949&code=61221111&cp=nv)
 - [김수현](/people/gim-su-hyeon) — **지지**: 성평등 조직문화 컨설팅을 맡아 역차별 우려를 다루며 조직문화 개선 필요성을 제기했다. [출처](https://view.asiae.co.kr/article/2026061708350445489)
+- [나경원](/people/na-gyeong-won) — **반대**: 용혜인 장관 지명을 두고 포괄적 차별금지법, 동성혼 인정, 젠더 극단주의 등을 문제 삼으며 강하게 비판했다. [출처](https://www.dailian.co.kr/news/view/1684467/?sc=Naver)
+- [안철수](/people/ahn-cheol-soo) — **반대**: 용혜인을 ‘혐오 장사꾼’으로 규정하고, 장관 기용 시 젠더 갈등을 부추길 수 있다고 주장했다. [출처](https://www.fnnews.com/news/202608311051208657)
+- [박성준](/people/park-seong-jun) — **지지**: 용혜인 지명을 폭넓은 인사로 평가하며 내각에 활력을 넣을 수 있다고 말했다. [출처](https://www.nocutnews.co.kr/news/6570432?utm_source=naver&utm_medium=article&utm_campaign=20260831101303)
 <!-- /agent:stances -->
