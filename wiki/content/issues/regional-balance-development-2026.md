@@ -253,4 +253,5 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [윤석구](/people/yun-seok-gu) — **반대**: 지역균형발전 필요성에는 공감하지만 국책은행 지방이전은 금융산업 기능을 해칠 수 있다며 반대했다. [출처](https://www.imaeil.com/page/view/2026082711440472037)
 - [손훈모](/people/son-hun-mo) — **지지**: 2차 공공기관의 순천 이전을 통해 국가균형발전과 지역 주력산업 경쟁력 강화를 도모해야 한다고 건의했다. [출처](https://www.seoul.co.kr/news/publicnews/2026/08/27/20260827500088?wlog_tag3=naver)
 - [문대림](/people/mun-dae-rim) — **지지**: 수도권에 집중된 GPU 문제를 지적하며 제주지역 AI 산업 기반 확충을 위한 소규모 데이터센터 구축을 제안했다. [출처](https://www.jejudomin.co.kr/news/articleView.html?idxno=321718)
+- [경북도](/people/regional-balance-development-2026) — **지지**: 산불피해 5개 시·군에 산림경영특구를 지정해 지역 재건과 소득 창출을 추진했다. [출처](https://www.mk.co.kr/article/12140228)
 <!-- /agent:stances -->
