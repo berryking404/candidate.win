@@ -217,4 +217,11 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [삼척시](/people/samcheok-si) — **지지**: 삼척사랑카드 인센티브 상향으로 지역 내 소비를 늘려 전통시장과 골목상권을 지원했다. [출처](https://www.ajunews.com/view/20260831113301465)
 - [포천시](/people/pocheon-si) — **지지**: 카드형 포천사랑상품권 충전한도 확대를 통해 시민 부담 완화와 골목상권 활력을 도모했다. [출처](https://www.newspim.com/news/view/20260831000538)
 - [용인시](/people/yongin-si) — **지지**: 중앙시장 디지털 상권 활성화 사업으로 전통시장 이용과 온라인 홍보를 지원했다. [출처](https://www.newsworks.co.kr/news/articleView.html?idxno=852089)
+- [충남도](/people/chungnam-do) — **지지**: 서천·보령 지역 소상공인에 이자 지원과 특례보증을 제공해 금융 부담 완화를 추진했다. [출처](https://www.econovill.com/news/articleView.html?idxno=749372)
+- [중부발전](/people/jungbubaljeon) — **지지**: 보령·서천 소상공인 금융지원 확대에 참여해 지역 소상공인의 실질 금리 부담을 낮추는 데 힘을 보탰다. [출처](https://www.businesskorea.co.kr/news/articleView.html?idxno=275865)
+- [카카오뱅크](/people/kakaobangkeu) — **지지**: 소상공인 성장 지원과 사업 효율화 아이디어 발굴 공모전을 공동 추진했다. [출처](http://www.smedaily.co.kr/news/articleView.html?idxno=362445)
+- [케이뱅크](/people/keibangkeu) — **지지**: 소상공인 금융 공모전을 카카오뱅크와 함께 진행하며 현장 맞춤형 지원 아이디어를 모았다. [출처](http://www.smedaily.co.kr/news/articleView.html?idxno=362445)
+- [NH농협은행](/people/nhnonghyeop-eunhaeng) — **지지**: 개인사업자 보증서 담보대출 비대면 출시와 이자 지원 이벤트로 소상공인 자금조달 부담을 낮췄다. [출처](https://www.nongmin.com/article/20260831500436)
+- [대전 대덕구](/people/daejeon-daedeok-gu) — **지지**: 골목상권을 무대로 주민과 소상공인이 함께 참여하는 페스티벌을 열어 지역 소비를 촉진했다. [출처](https://www.newstnt.com/news/articleView.html?idxno=715859)
+- [서산시](/people/seosan-si) — **지지**: 서산사랑상품권 확대 발행으로 시민 부담을 덜고 소상공인 매출 증대와 골목상권 활성화를 추진했다. [출처](https://www.shinailbo.co.kr/news/articleView.html?idxno=5056736)
 <!-- /agent:stances -->
