@@ -121,4 +121,7 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - 서울교통공사 — **지지**: 산업용 전기요금 급등과 추가 비용이 안전투자를 위축시킨다며 부담 완화 필요성을 제기했다. [출처](https://www.the-pr.co.kr/news/articleView.html?idxno=62439)
 - 철강업계 — **지지**: 산업용 전기요금 인하가 원가 부담을 덜어줄 수 있다며 지역 차등요금제를 환영했다. [출처](https://biz.newdaily.co.kr/site/data/html/2026/08/27/2026082700103.html)
 - 국가데이터처 — **중립**: 고유가 피해지원금이 소득분배 지표를 개선했다고 설명했지만, 전기요금·에너지 가격 정책에 대한 찬반 입장은 아니었다. [출처](https://www.hani.co.kr/arti/economy/economy_general/1274895.html)
+- [박홍근](/people/bak-hong-geun) — **지지**: 확장 재정이 중장기적으로 물가 안정과 같은 방향이라고 설명하며 정부 예산안을 옹호했다. [출처](https://www.news1.kr/economy/trend/6275405)
+- [한병도](/people/han-byeong-do) — **지지**: 물가 안정과 소상공인·자영업자 지원 법안 처리를 강조하며 민생 비용 부담 완화 입장을 보였다. [출처](http://www.iminju.net/news/articleView.html?idxno=168857)
+- [정부](/people/gov) — **지지**: 추석 민생대책에서 성수품 할인과 고유가 부담 완화, 전기요금 지원을 함께 추진했다. [출처](https://www.yna.co.kr/view/AKR20260901069200002?input=1195m)
 <!-- /agent:stances -->
