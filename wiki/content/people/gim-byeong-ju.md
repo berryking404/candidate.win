@@ -15,4 +15,5 @@ party: 더불어민주당
 
 <!-- agent:stances -->
 - [한미 정보공유 중단 및 정동영 통일부 장관 해임 결의안 논란 (2026)](/issues/us-intel-sharing-crisis-2026) — **반대**: 정동영 장관 발언 이후 미국의 정보 공유가 제한됐다는 주장을 정치 공세로 규정하며 반박했다. [출처](https://www.newstheone.co.kr/news/articleView.html?idxno=27373)
+- [전시작전통제권(전작권) 전환 추진과 안보 논쟁 (2026)](/issues/opcon-transfer-2026) — **지지**: 전시작전통제권 환수 추진단의 단장으로 임명되어 관련 추진을 맡았다. [출처](http://www.jndn.com/article.php?aid=1788169774438767093)
 <!-- /agent:stances -->

@@ -57,4 +57,6 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - 참여연대 — **지지**: 전시작전통제권 환수와 해외 파병에 대한 국회의 통제 강화를 22대 국회 후반기 입법과제로 제시했다. [출처](https://www.ngonews.kr/news/articleView.html?idxno=236482)
 - [강신철](/people/gang-sin-cheol) — **미확인**: 전시작전통제권 환수와 한미연합방위태세 유지·발전이 함께 거론되는 국방 현안 맥락에서 국방부 장관 후보로 지명됐다. [출처](https://www.mk.co.kr/article/12139686)
 - [김민석](/people/gim-min-seok) — **지지**: 전시작전통제권 환수 추진단 TF를 구성하고 김병주 의원을 단장으로 임명하며 추진 의지를 밝혔다. [출처](https://www.kukinews.com/article/view/kuk202608310084)
+- [강신철](/people/gang-sin-cheol) — **중립**: 주한미군의 전략적 유연성을 언급했지만, 전작권 전환 자체에 대한 찬반은 분명히 드러나지 않았다. [출처](https://www.news1.kr/diplomacy/defense-diplomacy/6274627)
+- [김기현](/people/gim-gi-hyeon) — **반대**: 이재명 정부가 미국에 전작권 환수를 강조하는 점을 비판하며 중국 대응과의 형평성을 문제 삼았다. [출처](https://www.newspim.com/news/view/20260901000178)
 <!-- /agent:stances -->
