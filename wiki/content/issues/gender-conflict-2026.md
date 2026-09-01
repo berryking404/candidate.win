@@ -94,4 +94,10 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [안철수](/people/an-cheol-su) — **반대**: 용혜인을 ‘혐오 장사꾼’으로 규정하고, 장관 기용 시 젠더 갈등을 부추길 수 있다고 주장했다. [출처](https://www.fnnews.com/news/202608311051208657)
 - [박성준](/people/bak-seong-jun) — **지지**: 용혜인 지명을 폭넓은 인사로 평가하며 내각에 활력을 넣을 수 있다고 말했다. [출처](https://www.nocutnews.co.kr/news/6570432?utm_source=naver&utm_medium=article&utm_campaign=20260831101303)
 - [안철수](/people/an-cheol-su) — **반대**: 2030 남녀 갈등을 조장하고 ‘성차별 장관’이 될 것이라고 비판하며, 성평등 정책에 부정적인 입장을 보였다. [출처](https://www.ekn.kr/web/view.php?key=20260831024018452)
+- [용혜인](/people/yong-hyein) — **반대**: 시민단체와 야권은 용혜인 장관 지명이 젠더 갈등을 증폭시킬 수 있다고 반발했으며, 용혜인 본인의 구체적 찬반 입장은 이번 수집분에서 확인되지 않았다. [출처](https://www.donga.com/news/Politics/article/all/20260831/134579717/2)
+- [박지현](/people/bak-ji-hyeon) — **반대**: 용혜인 지명에 대해 젠더 갈등 조정 역할에 부적절하다는 비판을 제기했다. [출처](https://www.wikitree.co.kr/articles/1156412)
+- [신현영](/people/sin-hyeon-yeong) — **반대**: 장관직과 의원직 겸직이 사회적 갈등을 초래할 수 있다고 지적했다. [출처](https://www.dt.co.kr/article/12081340?ref=naver)
+- [최민희](/people/choe-min-hui) — **지지**: 용혜인에 대한 겸직 논란은 청문회에서 판단해도 늦지 않다고 말하며 검증과 혐오를 구분해야 한다는 취지로 옹호했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008731365&plink=ORI&cooper=NAVER)
+- [전용기](/people/jeon-yong-gi) — **중립**: 젠더 논란보다 청년 정치 혐오 해소와 검증 절차의 균형을 강조했다. [출처](https://n.news.naver.com/mnews/article/214/0001521195?sid=100)
+- [장혜영](/people/jang-hye-yeong) — **반대**: 용혜인 지명이 성평등가족부 초대 장관의 책무와 어긋난다고 비판했다. [출처](https://www.nocutnews.co.kr/news/6571215?utm_source=naver&utm_medium=article&utm_campaign=20260901105716)
 <!-- /agent:stances -->
