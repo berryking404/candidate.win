@@ -59,4 +59,6 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - [김민석](/people/gim-min-seok) — **지지**: 전시작전통제권 환수 추진단 TF를 구성하고 김병주 의원을 단장으로 임명하며 추진 의지를 밝혔다. [출처](https://www.kukinews.com/article/view/kuk202608310084)
 - [강신철](/people/gang-sin-cheol) — **중립**: 주한미군의 전략적 유연성을 언급했지만, 전작권 전환 자체에 대한 찬반은 분명히 드러나지 않았다. [출처](https://www.news1.kr/diplomacy/defense-diplomacy/6274627)
 - [김기현](/people/gim-gi-hyeon) — **반대**: 이재명 정부가 미국에 전작권 환수를 강조하는 점을 비판하며 중국 대응과의 형평성을 문제 삼았다. [출처](https://www.newspim.com/news/view/20260901000178)
+- [진보당](/people/unknown) — **지지**: 신속한 전시작전통제권 환수를 국방개혁의 최우선 과제로 제시하며 환수 추진을 지지했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3681018)
+- [국방부](/people/unknown) — **중립**: 내년 국방예산과 연합작전체계 구축 사업을 설명하며 전작권 전환 능력 확보를 위한 투자 방침을 제시했다. [출처](https://www.news1.kr/diplomacy/defense-diplomacy/6275773)
 <!-- /agent:stances -->
