@@ -260,4 +260,6 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - 무안군 — **지지**: 목포대 의대 탈락이 지역 의료와 균형발전의 후퇴로 이어질 수 있다며 서남권 대책 마련을 촉구했다. [출처](http://news.lghellovision.net/news/articleView.html?idxno=553063)
 - 공주시의회 — **반대**: 공주대 정체성 사라짐과 지역경제 침체, 청년 유출을 이유로 통합추진 반대결의안을 채택했다. [출처](https://www.goodmorningcc.com/news/articleView.html?idxno=451472)
 - 전북자치도 — **지지**: 전주 도심융합특구 지정을 신청하며 수도권 일극 체제에 대응한 지역 성장거점 조성에 나섰다. [출처](https://www.fnnews.com/news/202608311353211371)
+- [최교진](/people/unknown) — **지지**: 저출생·지역소멸 대응과 AI 대전환에 맞춘 교육예산 편성을 강조했다. [출처](https://www.asiatoday.co.kr/kn/view.php?key=20260901010000148)
+- [최호택](/people/unknown) — **중립**: 공공기관 2차 이전의 성공 조건으로 대덕특구와 지역대학 협업 필요성을 제시했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651337&ref=A)
 <!-- /agent:stances -->
