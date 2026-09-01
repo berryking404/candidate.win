@@ -184,4 +184,10 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [양선화](/people/yang-seon-hwa) — **지지**: 실제 기업투자와 산업 성장을 양질의 일자리로 연결해야 한다고 밝혔다. [출처](http://www.jeollailbo.com/news/articleView.html?idxno=809227)
 - [김봉덕](/people/gim-bong-deok) — **지지**: 벤처투자가 청년 일자리 창출과 지역경제 활성화로 이어질 수 있다고 말했다. [출처](https://www.donga.com/news/Economy/article/all/20260819/134504098/1)
 - [나중규](/people/na-jung-gyu) — **지지**: 반도체·이차전지·원전·방산·바이오 기반에 AI를 접목한 미래산업 전략을 제시했다. [출처](https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608190746489650428)
+- [김용선](/people/kim-yongseon) — **지지**: 해외특허 수익화와 첨단전략산업 기술유출 방지에 예산을 집중하겠다고 밝혔다. [출처](https://www.sedaily.com/article/20085710?ref=naver)
+- [오승철](/people/osungcheol) — **지지**: 산업부 2027년 예산의 핵심과제로 첨단산업 육성과 5극3특 지역주도 성장을 제시했다. [출처](https://www.newsis.com/view/NISX20260831_0003769613)
+- [안세창](/people/ansechang) — **지지**: 첨단산업 성장을 뒷받침하는 전력·용수 인프라 확충에 재정을 집중하겠다고 설명했다. [출처](https://www.newsis.com/view/NISX20260831_0003770149)
+- [박홍근](/people/park-honggeun) — **지지**: 반도체 호황으로 늘어난 세수를 AI·첨단산업과 청년·지방 지원에 집중 투입하겠다고 밝혔다. [출처](https://www.ikbc.co.kr/article/view/kbc202609010029)
+- [이용훈](/people/lee-yonghun) — **지지**: 기술직 신규 채용을 통해 청년 실업 해소와 미래차 생산 대응을 함께 추진하기로 합의했다. [출처](http://www.popcornnews.net/news/articleView.html?idxno=131388)
+- [김강희](/people/kim-ganghui) — **지지**: AI분야 첨단산업인재양성부트캠프사업단 지원을 통해 학생들의 첨단산업 진입을 뒷받침했다. [출처](https://www.veritas-a.com/news/articleView.html?idxno=625538)
 <!-- /agent:stances -->
