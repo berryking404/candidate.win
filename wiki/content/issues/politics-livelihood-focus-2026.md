@@ -209,8 +209,8 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [이장섭](/people/i-jang-seop) — **지지**: 민생 현장에서 해법을 찾고 지역 현안 해결에 정책을 집중하겠다고 밝혔다. [출처](https://www.bzeronews.com/news/articleView.html?idxno=821876)
 - [박성민](/people/bak-seong-min) — **지지**: 정쟁보다 정책 효능감과 민생·경제 관리가 중도층 대응의 핵심이라고 진단했다. [출처](https://www.munhwa.com/article/11612512?ref=naver)
 - 정기국회 — **중립**: 여야가 민생법안 처리와 정쟁 공방을 동시에 이어가고 있다. [출처](https://www.cnbnews.com/news/articleView.html?idxno=1013460)
-- [임이자](/people/im-i-ja) — **지지**: 여야가 뜻을 모을 수 있는 민생 공통 공약부터 빠르게 처리하자고 제안했다. [출처](http://www.inews24.com/view/2000513)
-- [안광률](/people/an-gwang-ryul) — **지지**: 재정위기만 이유로 민생예산을 줄여서는 안 된다며 필요한 민생 예산을 지켜내는 것이 정치의 역할이라고 말했다. [출처](https://www.incheonilbo.com/news/articleView.html?idxno=1330916)
+- 임이자 — **지지**: 여야가 뜻을 모을 수 있는 민생 공통 공약부터 빠르게 처리하자고 제안했다. [출처](http://www.inews24.com/view/2000513)
+- 안광률 — **지지**: 재정위기만 이유로 민생예산을 줄여서는 안 된다며 필요한 민생 예산을 지켜내는 것이 정치의 역할이라고 말했다. [출처](https://www.incheonilbo.com/news/articleView.html?idxno=1330916)
 - [한병도](/people/han-byeong-do) — **반대**: 국민의힘의 흠집내기와 막무가내식 정쟁·몽니가 민생과 예산 심사를 가로막고 있다고 비판했다. [출처](https://www.mk.co.kr/article/12141056)
 - [한병도](/people/han-byeong-do) — **중립**: 내각 인선을 둘러싼 공방 속에서도 민생과 청문회 일정을 함께 관리하겠다고 밝혔다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260901111621odY)
 <!-- /agent:stances -->
