@@ -100,4 +100,12 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [최민희](/people/choe-min-hui) — **지지**: 용혜인에 대한 겸직 논란은 청문회에서 판단해도 늦지 않다고 말하며 검증과 혐오를 구분해야 한다는 취지로 옹호했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008731365&plink=ORI&cooper=NAVER)
 - [전용기](/people/jeon-yong-gi) — **중립**: 젠더 논란보다 청년 정치 혐오 해소와 검증 절차의 균형을 강조했다. [출처](https://n.news.naver.com/mnews/article/214/0001521195?sid=100)
 - [장혜영](/people/jang-hye-yeong) — **반대**: 용혜인 지명이 성평등가족부 초대 장관의 책무와 어긋난다고 비판했다. [출처](https://www.nocutnews.co.kr/news/6571215?utm_source=naver&utm_medium=article&utm_campaign=20260901105716)
+- [용혜인](/people/yonghyein) — **반대**: 군 복무 경력에 혜택을 부여하는 정책을 여성의 파이를 줄이는 성차별로 보고 반대했다. [출처](https://www.mediawatch.kr/news/article.html?no=260853)
+- [주진우](/people/jujinu) — **중립**: 차별금지법과 낙태법 개정 논의 부재를 지적하며 성평등가족부 장관 후보를 비판했다. [출처](https://www.mediawatch.kr/news/article.html?no=260853)
+- [한동훈](/people/handonghun) — **반대**: 보완수사권 폐지가 여성과 사회적 약자에게 불리하다고 보며 후보 지명을 비판했다. [출처](https://www.naeil.com/news/read/600654?ref=naver)
+- [김 구청장](/people/gimgucheongjang) — **지지**: 양성평등주간 행사에서 성차별 해소와 평등 사회 구현의 필요성을 강조했다. [출처](https://www.segye.com/newsView/20260901511521?OutUrl=naver)
+- [지소연](/people/jisoyeon) — **반대**: 심판의 성희롱·성차별 발언과 선수 경고 조치에 문제를 제기했다. [출처](http://www.suwonilbo.kr/news/articleView.html?idxno=317894)
+- [이재명](/people/ijaemyeong) — **지지**: 청년층 성별 인식 격차 완화를 위해 지역 공론장을 확대하라고 지시했다. [출처](https://www.news1.kr/society/general-society/6276143)
+- [지성희](/people/jiseonghui) — **지지**: 모든 차별과 혐오를 배제하자며 연대와 위로를 호소했다. [출처](http://worknworld.kctu.org/news/articleView.html?idxno=509898)
+- [장혜영](/people/janghyeyeong) — **중립**: 남성 역차별 정책과 차별금지법·낙태법 논의 부재를 문제 삼으며 장관 후보를 비판했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=741832)
 <!-- /agent:stances -->
