@@ -2,7 +2,8 @@
 title: 박성준
 slug: bak-seong-jun
 role: 더불어민주당 수석대변인
-status: stub
+status: curated
+party: 더불어민주당
 ---
 
 ## 행적

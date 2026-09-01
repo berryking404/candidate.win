@@ -1,8 +1,8 @@
 ---
 title: 이주호
 slug: i-ju-ho
-role: 전 장관
-status: stub
+role: 전 부총리 겸 교육부 장관
+status: curated
 ---
 
 ## 행적

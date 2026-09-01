@@ -1,8 +1,8 @@
 ---
 title: 나중규
 slug: na-jung-gyu
-role: 연구본부장
-status: stub
+role: 경북연구원 연구본부장
+status: curated
 ---
 
 ## 행적

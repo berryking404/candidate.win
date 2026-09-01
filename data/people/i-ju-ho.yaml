@@ -2,8 +2,8 @@ slug: i-ju-ho
 name_ko: 이주호
 name_en: null
 party: null
-role: 전 장관
-status: stub
+role: 전 부총리 겸 교육부 장관
+status: curated
 aliases:
 - 이주호
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,6 @@ sources:
   news_keywords:
   - 이주호
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20250729142000530
+  - https://www.moe.go.kr/mnstrHistory.do

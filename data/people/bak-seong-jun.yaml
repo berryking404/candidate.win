@@ -1,14 +1,17 @@
 slug: bak-seong-jun
 name_ko: 박성준
 name_en: null
-party: null
+party: 더불어민주당
 role: 더불어민주당 수석대변인
-status: stub
+status: curated
 aliases:
 - 박성준 수석대변인
+- 박성준 의원
 discovered_via_issue: politics-livelihood-focus-2026
 discovered_at: '2026-08-31'
 sources:
   news_keywords:
   - 박성준
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260817066500001

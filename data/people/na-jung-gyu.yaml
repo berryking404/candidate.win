@@ -2,8 +2,8 @@ slug: na-jung-gyu
 name_ko: 나중규
 name_en: null
 party: null
-role: 연구본부장
-status: stub
+role: 경북연구원 연구본부장
+status: curated
 aliases:
 - 나중규
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 나중규
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260617113600053

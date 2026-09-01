@@ -1,9 +1,9 @@
 slug: baek-jin-suk
 name_ko: 백진숙
 name_en: null
-party: null
+party: 조국혁신당
 role: 조국혁신당 충남도당위원장
-status: stub
+status: curated
 aliases:
 - 백진숙 위원장
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 백진숙
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260515186600063
