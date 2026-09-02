@@ -213,4 +213,6 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - 안광률 — **지지**: 재정위기만 이유로 민생예산을 줄여서는 안 된다며 필요한 민생 예산을 지켜내는 것이 정치의 역할이라고 말했다. [출처](https://www.incheonilbo.com/news/articleView.html?idxno=1330916)
 - [한병도](/people/han-byeong-do) — **반대**: 국민의힘의 흠집내기와 막무가내식 정쟁·몽니가 민생과 예산 심사를 가로막고 있다고 비판했다. [출처](https://www.mk.co.kr/article/12141056)
 - [한병도](/people/han-byeong-do) — **중립**: 내각 인선을 둘러싼 공방 속에서도 민생과 청문회 일정을 함께 관리하겠다고 밝혔다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260901111621odY)
+- [김민석](/people/kim-minseok) — **지지**: 민생경제 회복을 위해 내년 예산안과 민생 입법 대응 전략을 점검하며 민생 우선 기조를 분명히 했다. [출처](https://www.newsis.com/view/NISX20260902_0003772798)
+- [조정식](/people/jo-jungsik) — **지지**: 정기국회 개회사에서 당장 급한 민생부터 해결하자며 민생 법안의 신속 처리와 협치를 강조했다. [출처](https://www.donga.com/news/Politics/article/all/20260902/134587017/2)
 <!-- /agent:stances -->
