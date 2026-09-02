@@ -215,4 +215,8 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [한병도](/people/han-byeong-do) — **중립**: 내각 인선을 둘러싼 공방 속에서도 민생과 청문회 일정을 함께 관리하겠다고 밝혔다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260901111621odY)
 - [김민석](/people/kim-minseok) — **지지**: 민생경제 회복을 위해 내년 예산안과 민생 입법 대응 전략을 점검하며 민생 우선 기조를 분명히 했다. [출처](https://www.newsis.com/view/NISX20260902_0003772798)
 - [조정식](/people/jo-jungsik) — **지지**: 정기국회 개회사에서 당장 급한 민생부터 해결하자며 민생 법안의 신속 처리와 협치를 강조했다. [출처](https://www.donga.com/news/Politics/article/all/20260902/134587017/2)
+- [김민석](/people/kim-minseok-democratic) — **지지**: 국민이 체감할 수 있는 민생 예산 강화와 거시경제 회복의 민생 전달을 강조하며 민생 우선 기조를 보였습니다. [출처](http://www.breaknews.com/1233483)
+- [김장겸](/people/kim-gyeong-geop) — **반대**: 민주당 정부가 부동산을 민생보다 정치와 이념의 관점에서 접근해 왔다고 비판하며 민생보다 정치 논리를 앞세웠다고 주장했습니다. [출처](http://www.sisafocus.co.kr/news/articleView.html?idxno=364493)
+- [김주호](/people/kim-juhob) — **지지**: 국회가 당장 처리할 수 있는 민생 법안으로 집단소송법을 꼽으며 신속한 입법 처리를 촉구했습니다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003263923&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
+- [박선원](/people/park-sunwon) — **지지**: 지금은 정치적 지혜와 진정성으로 민생에 집중해야 한다며 정쟁보다 민생 우선 메시지를 냈습니다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8652403&ref=A)
 <!-- /agent:stances -->
