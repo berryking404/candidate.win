@@ -107,4 +107,8 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [이재명](/people/i-jae-myeong) — **지지**: 청년층 성별 인식 격차 완화를 위해 지역 공론장을 확대하라고 지시했다. [출처](https://www.news1.kr/society/general-society/6276143)
 - 지성희 — **지지**: 모든 차별과 혐오를 배제하자며 연대와 위로를 호소했다. [출처](http://worknworld.kctu.org/news/articleView.html?idxno=509898)
 - 장혜영 — **중립**: 남성 역차별 정책과 차별금지법·낙태법 논의 부재를 문제 삼으며 장관 후보를 비판했다. [출처](https://www.polinews.co.kr/news/articleView.html?idxno=741832)
+- [용혜인](/people/yonghyein) — **반대**: 성평등을 ‘한 성별만 노력해서 되는 것’이 아니라며 여성의 구조적 불평등 해소와 남성의 어려움 반영을 함께 강조했다. [출처](https://www.donga.com/news/Politics/article/all/20260902/134588968/2)
+- [나경원](/people/na-kyungwon) — **반대**: 용혜인의 정치 행보를 두고 극단적 젠더 갈등과 사회적 갈등을 유발했다고 비판했다. [출처](https://www.newsis.com/view/NISX20260902_0003772859)
+- [양경규](/people/yang-gyeonggyu) — **반대**: 진보 진영 내부에서도 용혜인 지명이 사회적 갈등을 키울 수 있다는 이유로 반대 목소리를 냈다. [출처](https://www.hg-times.com/news/articleView.html?idxno=304912)
+- [안철수](/people/an-cheolsu) — **반대**: 시민단체와 함께 용혜인 장관 지명 철회를 촉구하며 젠더 갈등의 당사자를 전면에 배치한 인사라고 비판했다. [출처](https://www.wikitree.co.kr/articles/1156678)
 <!-- /agent:stances -->
