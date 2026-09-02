@@ -40,4 +40,6 @@ party: 더불어민주당
 - [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원·해임건의안 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **지지**: 국군사관학교 통합과 전작권 환수를 국방력 강화를 위한 과제로 제시하며 추진을 지시했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639733&ref=A)
 - [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **중립**: 호르무즈 이슈에 대한 직접 입장은 기사에서 확인되지 않았다. [출처](https://www.cbci.co.kr/news/articleView.html?idxno=594122)
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **혼합**: 대법관 재제청 요구로 야권의 탄핵 공세를 촉발했지만, 동시에 삼권분립 해석을 둘러싼 정치 공방의 중심에 섰다. [출처](https://www.yonhapnewstv.co.kr/news/MYH20260829214137176)
+- (/issues/korea-japan-acsa-2026) **입장**: 한·일 상호 군수 지원 협정에 관해 “남북 관계 더 나빠지기 어려운 상황”이라며 한일관계는 협력하지만 어려운 분야가 남아 있다고 언급했다. [source](https://news.jtbc.co.kr/article/NB12302040?influxDiv=NAVER)
+- (/issues/korea-japan-acsa-2026) **입장**: 상호 군사 지원 협정 질문에 “서로 손해”라고 언급했다. [source](https://www.ytn.co.kr/replay/view.php?idx=21&key=202606081223130283)
 <!-- /agent:stances -->
