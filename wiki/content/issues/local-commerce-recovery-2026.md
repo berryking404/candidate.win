@@ -238,4 +238,6 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [권성동](/people/gwon-seong-dong) — **지지**: 소상공인 보호와 관련한 민생 법안을 신속 처리하자고 강조했다. [출처](https://news.einfomax.co.kr/news/articleView.html?idxno=4432862)
 - [이재명](/people/i-jae-myeong) — **지지**: 소상공인·중소기업 금융 지원과 전통시장·골목상권 소비 진작을 예산안의 핵심으로 제시했다. [출처](https://www.seouleconews.com/news/articleView.html?idxno=93454)
 - [홍석천](/people/hong-seokcheon) — **중립**: 이태원 골목상권 활성화에 기여해 온 인물로 소개됐으나, 이번 수집된 기사들에서는 이슈에 대한 직접 발언은 확인되지 않았다. [출처](https://www.news1.kr/industry/sb-founded/6277323)
+- [김성주](/people/gim-seong-ju) — **지지**: 부산은행이 소상공인 특화 신용평가모형을 도입해 기존 거래정보만으로는 평가가 어려웠던 소상공인의 사업성과 성장 가능성을 더 세밀하게 반영하겠다고 밝혔다. [출처](https://view.asiae.co.kr/article/2026090214571823665)
+- [이형일](/people/i-hyeong-il) — **지지**: 반도체 호황의 성과가 청년·소상공인·중소기업에 고루 돌아가도록 취약부문 지원을 강화하겠다고 말했다. [출처](https://www.ekn.kr/web/view.php?key=20260902026159618)
 <!-- /agent:stances -->
