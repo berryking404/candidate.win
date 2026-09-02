@@ -237,4 +237,5 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - 박희승 — **중립**: 저출생·기후위기와 함께 소상공인 보호 등 양당 공통 현안을 빠르게 처리하자고 제안했다. [출처](https://www.chosun.com/politics/assembly/2026/09/01/FL4J4PFKNBCQFHVC4L5UDIDY5Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
 - [권성동](/people/gwon-seong-dong) — **지지**: 소상공인 보호와 관련한 민생 법안을 신속 처리하자고 강조했다. [출처](https://news.einfomax.co.kr/news/articleView.html?idxno=4432862)
 - [이재명](/people/i-jae-myeong) — **지지**: 소상공인·중소기업 금융 지원과 전통시장·골목상권 소비 진작을 예산안의 핵심으로 제시했다. [출처](https://www.seouleconews.com/news/articleView.html?idxno=93454)
+- [홍석천](/people/hong-seokcheon) — **중립**: 이태원 골목상권 활성화에 기여해 온 인물로 소개됐으나, 이번 수집된 기사들에서는 이슈에 대한 직접 발언은 확인되지 않았다. [출처](https://www.news1.kr/industry/sb-founded/6277323)
 <!-- /agent:stances -->
