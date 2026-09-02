@@ -18,5 +18,5 @@ party: 무소속
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **중립**: 일본 측 질문에 대해 “현 시점에서 정해진 것은 없다”고 답하며 체결 여부를 유보했다. [출처](https://www.newsis.com/view/NISX20260619_0003676075)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **혼합**: 국제 정세와 안보 환경상 검토 필요성을 인정하면서도 국내 수용성과 시간을 두고 신중히 봐야 한다는 입장이다. [출처](https://www.newsis.com/view/NISX20260622_0003678304)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **반대**: 한일 ACSA 추진이 자위대의 한반도 진출 발판이 될 수 있다는 우려와 함께 즉각 중단을 촉구했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596456&ref=A)
-- (/issues/korea-japan-acsa-2026) **입장**: 한일 상호군수지원협정에 대해 “국민 정서상 현재는 받아들이기...”라고 언급했다. [source](https://www.koreareport.co.kr/news/articleView.html?idxno=50816)
+- [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **중립**: 한일 상호군수지원협정에 대해 “국민 정서상 현재는 받아들이기...”라고 언급했다. [출처](https://www.koreareport.co.kr/news/articleView.html?idxno=50816)
 <!-- /agent:stances -->

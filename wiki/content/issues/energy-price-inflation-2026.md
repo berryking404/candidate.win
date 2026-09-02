@@ -124,6 +124,5 @@ summary: 물가 안정, 전기요금·에너지 요금 부담, 고유가 대응�
 - [박홍근](/people/bak-hong-geun) — **지지**: 확장 재정이 중장기적으로 물가 안정과 같은 방향이라고 설명하며 정부 예산안을 옹호했다. [출처](https://www.news1.kr/economy/trend/6275405)
 - [한병도](/people/han-byeong-do) — **지지**: 물가 안정과 소상공인·자영업자 지원 법안 처리를 강조하며 민생 비용 부담 완화 입장을 보였다. [출처](http://www.iminju.net/news/articleView.html?idxno=168857)
 - [정부](/people/jeong-bu) — **지지**: 추석 민생대책에서 성수품 할인과 고유가 부담 완화, 전기요금 지원을 함께 추진했다. [출처](https://www.yna.co.kr/view/AKR20260901069200002?input=1195m)
-- [전재수](/people/unknown) — **지지**: 부산 산업 경쟁력과 전력비 부담 완화를 위해 산업용 전기요금 차등제·지역전기요금제 도입을 논의했다. [출처](https://www.yna.co.kr/view/AKR20260902076900051?input=1195m)
-- [김 연구원](/people/unknown) — **중립**: AI 데이터센터 전용 전기요금 체계 개편 필요성을 설명하며 제도 논의의 배경을 짚었다. [출처](https://www.segye.com/newsView/20260902508880?OutUrl=naver)
+- [전재수](/people/jeon-jae-su) — **지지**: 부산 산업 경쟁력과 전력비 부담 완화를 위해 산업용 전기요금 차등제·지역전기요금제 도입을 논의했다. [출처](https://www.yna.co.kr/view/AKR20260902076900051?input=1195m)
 <!-- /agent:stances -->

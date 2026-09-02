@@ -36,10 +36,9 @@ party: 더불어민주당
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **지지**: 한일 상호군수지원협정의 현실적 필요성을 인정하며 한일 군사협력의 속도를 강조했다. [출처](https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003246239&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news)
 - [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 서남권 첨단산업을 새 성장 거점으로 육성하고 대규모 AI·반도체 투자를 통해 지역 청년 일자리와 균형발전을 함께 추진하겠다는 입장을 밝혔다. [출처](https://www.edaily.co.kr/news/newspath.asp?newsid=06825686645486968)
 - [삼성전자 등 주요 기업 노사 분쟁 (2026)](/issues/corporate-labor-dispute-2026) — **반대**: 삼성전자 노조의 광주 반도체 공장 관련 교섭 주장에 대해 분쟁이 끝없이 확장될 수 있다며 엄격한 대응 필요성을 시사했다. [출처](https://www.munhwa.com/article/11608689?ref=naver)
-- (/issues/gender-conflict-2026) **입장**: 젠더 관련 현안에 대한 직접적 입장은 코퍼스에서 확인되지 않음.
 - [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원·해임건의안 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **지지**: 국군사관학교 통합과 전작권 환수를 국방력 강화를 위한 과제로 제시하며 추진을 지시했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639733&ref=A)
 - [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **중립**: 호르무즈 이슈에 대한 직접 입장은 기사에서 확인되지 않았다. [출처](https://www.cbci.co.kr/news/articleView.html?idxno=594122)
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **혼합**: 대법관 재제청 요구로 야권의 탄핵 공세를 촉발했지만, 동시에 삼권분립 해석을 둘러싼 정치 공방의 중심에 섰다. [출처](https://www.yonhapnewstv.co.kr/news/MYH20260829214137176)
-- (/issues/korea-japan-acsa-2026) **입장**: 한·일 상호 군수 지원 협정에 관해 “남북 관계 더 나빠지기 어려운 상황”이라며 한일관계는 협력하지만 어려운 분야가 남아 있다고 언급했다. [source](https://news.jtbc.co.kr/article/NB12302040?influxDiv=NAVER)
-- (/issues/korea-japan-acsa-2026) **입장**: 상호 군사 지원 협정 질문에 “서로 손해”라고 언급했다. [source](https://www.ytn.co.kr/replay/view.php?idx=21&key=202606081223130283)
+- [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **중립**: 한·일 상호 군수 지원 협정에 관해 “남북 관계 더 나빠지기 어려운 상황”이라며 한일관계는 협력하지만 어려운 분야가 남아 있다고 언급했다. [출처](https://news.jtbc.co.kr/article/NB12302040?influxDiv=NAVER)
+- [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **반대**: 상호 군사 지원 협정 질문에 “서로 손해”라고 언급했다. [출처](https://www.ytn.co.kr/replay/view.php?idx=21&key=202606081223130283)
 <!-- /agent:stances -->

@@ -26,5 +26,5 @@ party: 더불어민주당
 - [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **반대**: 탄핵 청원을 “이재명 정권의 안보 정책에 대한 국민의 탄핵 선언”으로 규정하며, 장관 경질과 안보 파괴 중단을 요구했다. [출처](https://www.hankookilbo.com/news/article/A2026062509510004013?did=NA)
 - [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **혼합**: 방첩사 개편과 사관학교 통합 등 국방개혁을 주도했지만, 동시에 탄핵 청원과 경질 요구의 직접 대상이 됐다. [출처](https://www.yna.co.kr/view/AKR20260625124651504?input=1195m)
 - [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **중립**: 사관학교 통합 정책을 논의하고 동창회장들과 협조를 요청했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635047&ref=A)
-- (/issues/korea-japan-acsa-2026) **입장**: 한미일 군사협력과 한일군수지원협정 추진을 규탄하는 행보가 소개됐다. [source](http://worknworld.kctu.org/news/articleView.html?idxno=509775)
+- [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **반대**: 한미일 군사협력과 한일군수지원협정 추진을 규탄하는 행보가 소개됐다. [출처](http://worknworld.kctu.org/news/articleView.html?idxno=509775)
 <!-- /agent:stances -->

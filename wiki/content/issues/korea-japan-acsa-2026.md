@@ -27,8 +27,8 @@ summary: 일본 측의 한일 ACSA 체결 요구와 한국 정부의 신중론�
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **중립**: 일본 측 질문에 대해 “현 시점에서 정해진 것은 없다”고 답하며 체결 여부를 유보했다. [출처](https://www.newsis.com/view/NISX20260619_0003676075)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **혼합**: 국제 정세와 안보 환경상 검토 필요성을 인정하면서도 국내 수용성과 시간을 두고 신중히 봐야 한다는 입장이다. [출처](https://www.newsis.com/view/NISX20260622_0003678304)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **반대**: 한일 ACSA 추진이 자위대의 한반도 진출 발판이 될 수 있다는 우려와 함께 즉각 중단을 촉구했다. [출처](https://news.kbs.co.kr/news/pc/view/view.do?ncd=8596456&ref=A)
-- (/people/i-jae-myeong) **입장**: 한·일 상호 군수 지원 협정에 관해 “남북 관계 더 나빠지기 어려운 상황”이라며 한일관계는 전반적으로 협력하지만 어려운 분야가 남아 있다고 언급했다. [source](https://news.jtbc.co.kr/article/NB12302040?influxDiv=NAVER)
-- (/people/i-jae-myeong) **입장**: 한·일 상호 군사 지원 협정 관련 질문에 답하며 “서로 손해”라고 언급해, 즉각적 추진에는 신중한 태도를 보였다. [source](https://www.ytn.co.kr/replay/view.php?idx=21&key=202606081223130283)
-- (/people/an-gyu-baek) **입장**: 한미일 군사협력과 한일군수지원협정 추진을 규탄하는 행보가 소개됐다. [source](http://worknworld.kctu.org/news/articleView.html?idxno=509775)
-- (/people/gim-seon-ho) **입장**: 한일 상호군수지원협정에 대해 “국민 정서상 현재는 받아들이기...”라고 언급했다. [source](https://www.koreareport.co.kr/news/articleView.html?idxno=50816)
+- [이재명](/people/i-jae-myeong) — **중립**: 한·일 상호 군수 지원 협정에 관해 “남북 관계 더 나빠지기 어려운 상황”이라며 한일관계는 전반적으로 협력하지만 어려운 분야가 남아 있다고 언급했다. [출처](https://news.jtbc.co.kr/article/NB12302040?influxDiv=NAVER)
+- [이재명](/people/i-jae-myeong) — **반대**: 한·일 상호 군사 지원 협정 관련 질문에 답하며 “서로 손해”라고 언급해, 즉각적 추진에는 신중한 태도를 보였다. [출처](https://www.ytn.co.kr/replay/view.php?idx=21&key=202606081223130283)
+- [안규백](/people/an-gyu-baek) — **반대**: 한미일 군사협력과 한일군수지원협정 추진을 규탄하는 행보가 소개됐다. [출처](http://worknworld.kctu.org/news/articleView.html?idxno=509775)
+- [김선호](/people/gim-seon-ho) — **중립**: 한일 상호군수지원협정에 대해 “국민 정서상 현재는 받아들이기...”라고 언급했다. [출처](https://www.koreareport.co.kr/news/articleView.html?idxno=50816)
 <!-- /agent:stances -->

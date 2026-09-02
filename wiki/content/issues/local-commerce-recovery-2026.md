@@ -187,7 +187,7 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이승로](/people/i-seung-ro) — **지지**: 홈플러스 월곡점 재개장 현장을 점검하며 전통시장·골목상권과의 상생 협력을 강조했다. [출처](https://www.newsis.com/view/NISX20260814_0003750279)
 - [이충우](/people/lee-chung-woo) — **지지**: 여주 고유 음식문화와 관광을 연계해 체류시간과 지역 농산물 소비, 상권 활성화를 함께 높이겠다고 밝혔다. [출처](http://www.beyondpost.co.kr/view.php?ud=2026081420382380994c878f8fa1_30)
 - [김기재](/people/gimgijae) — **지지**: 합덕전통시장을 찾아 시민·소상공인 목소리를 듣고 지역 상권 활성화를 위한 지원과 개선사항을 논의했다. [출처](http://www.chungnamilbo.co.kr/news/articleView.html?idxno=904277)
-- [추경호](/people/chu-gyeong-ho) **입장**: 지역 상권 회복과 경제 부양을 위해 추가경정예산 편성 등 정책 대응을 제시함. (source: https://www.breaknews.com/1205892)
+- [추경호](/people/chu-gyeong-ho) — **중립**: 지역 상권 회복과 경제 부양을 위해 추가경정예산 편성 등 정책 대응을 제시함. [출처](https://www.breaknews.com/1205892)
 - [김장호](/people/gim-jang-ho) — **지지**: 골목상권과 소상공인 지원을 민생 최우선 가치로 삼고, 지역경기살리기위원회와 골목상권지원단 신설을 추진했다. [출처](https://www.kbsm.net/news/view.php?idx=530632)
 - [강성휘](/people/gang-seong-hwi) — **지지**: 집중호우 피해 지역의 일상 회복과 지역 상권 활력 회복을 위한 지원을 언급했다. [출처](https://www.incheontoday.com/news/articleView.html?idxno=322468)
 - [정성주](/people/jeong-seong-ju) — **지지**: 민생경제 회복과 지역 상권·소상공인 지원을 강조했다. [출처](https://www.wikitree.co.kr/articles/1153286)
@@ -237,7 +237,5 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - 박희승 — **중립**: 저출생·기후위기와 함께 소상공인 보호 등 양당 공통 현안을 빠르게 처리하자고 제안했다. [출처](https://www.chosun.com/politics/assembly/2026/09/01/FL4J4PFKNBCQFHVC4L5UDIDY5Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
 - [권성동](/people/gwon-seong-dong) — **지지**: 소상공인 보호와 관련한 민생 법안을 신속 처리하자고 강조했다. [출처](https://news.einfomax.co.kr/news/articleView.html?idxno=4432862)
 - [이재명](/people/i-jae-myeong) — **지지**: 소상공인·중소기업 금융 지원과 전통시장·골목상권 소비 진작을 예산안의 핵심으로 제시했다. [출처](https://www.seouleconews.com/news/articleView.html?idxno=93454)
-- [홍석천](/people/hong-seokcheon) — **중립**: 이태원 골목상권 활성화에 기여해 온 인물로 소개됐으나, 이번 수집된 기사들에서는 이슈에 대한 직접 발언은 확인되지 않았다. [출처](https://www.news1.kr/industry/sb-founded/6277323)
-- [김성주](/people/gim-seong-ju) — **지지**: 부산은행이 소상공인 특화 신용평가모형을 도입해 기존 거래정보만으로는 평가가 어려웠던 소상공인의 사업성과 성장 가능성을 더 세밀하게 반영하겠다고 밝혔다. [출처](https://view.asiae.co.kr/article/2026090214571823665)
 - [이형일](/people/i-hyeong-il) — **지지**: 반도체 호황의 성과가 청년·소상공인·중소기업에 고루 돌아가도록 취약부문 지원을 강화하겠다고 말했다. [출처](https://www.ekn.kr/web/view.php?key=20260902026159618)
 <!-- /agent:stances -->
