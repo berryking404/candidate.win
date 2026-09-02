@@ -190,4 +190,11 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [박홍근](/people/bak-hong-geun) — **지지**: 반도체 호황으로 늘어난 세수를 AI·첨단산업과 청년·지방 지원에 집중 투입하겠다고 밝혔다. [출처](https://www.ikbc.co.kr/article/view/kbc202609010029)
 - 이용훈 — **지지**: 기술직 신규 채용을 통해 청년 실업 해소와 미래차 생산 대응을 함께 추진하기로 합의했다. [출처](http://www.popcornnews.net/news/articleView.html?idxno=131388)
 - 김강희 — **지지**: AI분야 첨단산업인재양성부트캠프사업단 지원을 통해 학생들의 첨단산업 진입을 뒷받침했다. [출처](https://www.veritas-a.com/news/articleView.html?idxno=625538)
+- [우희종](/people/u-hui-jong) — **지지**: 청년 구직자에게 직무 체험 기회를 주고 취업 역량을 높이는 청년인턴 채용을 추진했다. [출처](https://www.nextdaily.co.kr/news/articleView.html?idxno=252725)
+- [정용래](/people/jeong-yong-rae) — **지지**: 창업 활성화를 통해 지역 일자리를 늘리겠다고 밝혔다. [출처](https://www.nocutnews.co.kr/news/6572038?utm_source=naver&utm_medium=article&utm_campaign=20260902113228)
+- [양진석](/people/yang-jin-seok) — **지지**: AI 중소기업 지원 사업을 통해 청년 친화적 채용과 조직문화 형성을 돕겠다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260902088400054?input=1195m)
+- [김경대](/people/gim-gyeong-dae) — **지지**: 청년들이 일자리·주거·자산 형성 정책을 쉽게 접하도록 청년정책 체험 공간을 운영하겠다고 밝혔다. [출처](https://www.hg-times.com/news/articleView.html?idxno=304936)
+- [정재헌](/people/jeong-jae-heon) — **지지**: AI 전환 시대의 국가 경쟁력과 인재 필요성을 강조하며 대학생 대상 AI 교육에서 청년 역량 강화를 제안했다. [출처](http://www.whitepaper.co.kr/news/articleView.html?idxno=266310)
+- [최교진](/people/choe-gyo-jin) — **지지**: 충남대가 중부권 첨단산업과 연계해 산업인력·연구인력을 양성하는 거점이 돼야 한다고 밝혔다. [출처](https://www.tjmbc.co.kr/NewsArticle/860030)
+- [이근배](/people/i-geun-bae) — **지지**: 반도체뿐 아니라 AI·모빌리티·에너지·바이오까지 묶는 첨단산업 혁신클러스터 구상을 제시했다. [출처](https://daily.hankooki.com/news/articleView.html?idxno=1401855)
 <!-- /agent:stances -->
