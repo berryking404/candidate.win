@@ -1,8 +1,8 @@
 ---
 title: 오건호
 slug: o-geon-ho
-role: 복지국가 운동가
-status: stub
+role: 내가만드는복지국가 공동대표
+status: curated
 ---
 
 ## 행적

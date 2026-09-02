@@ -2,7 +2,7 @@
 title: 최인수
 slug: choe-in-su
 role: 기독교한국침례회 총회장
-status: stub
+status: curated
 ---
 
 ## 행적

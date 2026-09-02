@@ -2,7 +2,7 @@
 title: 한학자
 slug: han-hak-ja
 role: 통일교 총재
-status: stub
+status: curated
 ---
 
 ## 행적
