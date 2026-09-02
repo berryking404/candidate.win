@@ -61,4 +61,7 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - [김기현](/people/gim-gi-hyeon) — **반대**: 이재명 정부가 미국에 전작권 환수를 강조하는 점을 비판하며 중국 대응과의 형평성을 문제 삼았다. [출처](https://www.newspim.com/news/view/20260901000178)
 - 진보당 — **지지**: 신속한 전시작전통제권 환수를 국방개혁의 최우선 과제로 제시하며 환수 추진을 지지했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3681018)
 - 국방부 — **중립**: 내년 국방예산과 연합작전체계 구축 사업을 설명하며 전작권 전환 능력 확보를 위한 투자 방침을 제시했다. [출처](https://www.news1.kr/diplomacy/defense-diplomacy/6275773)
+- [이재명](/people/unknown) — **지지**: 전작권의 임기 내 환수를 차질 없이 추진하라고 지시했다. [출처](https://www.hani.co.kr/arti/politics/defense/1275738.html)
+- [박창식](/people/unknown) — **혼합**: 전작권 회복 뒤 한국형 미래연합사령부 구상을 검토할 수 있다고 제안했지만, 전환의 전제 조건과 후속 구상에 신중론을 함께 폈다. [출처](http://www.newstomato.com/ReadNews.aspx?no=1312108&inflow=N)
+- [코리아 패싱 우려를 제기한 기고자](/people/unknown) — **반대**: 미래연합사령부 지휘구조를 문제 삼으며 성급한 전작권 전환이 한미 연합전력의 효율을 해칠 수 있다고 비판했다. [출처](https://www.munhwa.com/article/11613902?ref=naver)
 <!-- /agent:stances -->
