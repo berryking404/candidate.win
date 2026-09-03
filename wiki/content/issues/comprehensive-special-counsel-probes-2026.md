@@ -94,4 +94,5 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [김명수](/people/gim-myeong-su) — **반대**: 2차 종합특검이 적용한 공소사실을 모두 부인했다. [출처](https://www.news1.kr/society/court-prosecution/6276097)
 - [윤한홍](/people/yun-han-hong) — **지지**: 관저 공사 과정에서 김건희 여사와 업체의 특수관계가 드러나지 않도록 다른 업체를 앞세우는 방안을 지시한 것으로 보도됐다. [출처](https://www.joongang.co.kr/article/25457958)
 - [김도형](/people/gim-do-hyeong) — **지지**: 종합특검팀의 판단에 의문을 제기하고 수사 필요성을 낮게 본다는 점에서 특검의 수사·기소를 비판하는 입장으로 읽힌다. [출처](https://www.ilyosisa.co.kr/news/article.html?no=257659)
+- [권창영](/people/gwon-chang-yeong) — **반대**: 내란특검이 충분히 수사하지 않았다고 보고 재수사에 착수해 체포 방해 혐의 관련 기소를 진행했다. [출처](https://www.yna.co.kr/view/AKR20260903075600001?input=1195m)
 <!-- /agent:stances -->
