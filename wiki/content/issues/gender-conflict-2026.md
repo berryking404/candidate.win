@@ -111,4 +111,8 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [나경원](/people/na-gyeong-won) — **반대**: 용혜인의 정치 행보를 두고 극단적 젠더 갈등과 사회적 갈등을 유발했다고 비판했다. [출처](https://www.newsis.com/view/NISX20260902_0003772859)
 - [양경규](/people/yang-gyeong-gyu) — **반대**: 진보 진영 내부에서도 용혜인 지명이 사회적 갈등을 키울 수 있다는 이유로 반대 목소리를 냈다. [출처](https://www.hg-times.com/news/articleView.html?idxno=304912)
 - [안철수](/people/an-cheol-su) — **반대**: 시민단체와 함께 용혜인 장관 지명 철회를 촉구하며 젠더 갈등의 당사자를 전면에 배치한 인사라고 비판했다. [출처](https://www.wikitree.co.kr/articles/1156678)
+- [이재명](/people/i-jae-myeong) — **혼합**: 남성 역차별 사례 개선을 주문하면서도 여성의 구조적 불평등 해소를 함께 강조했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8568848&ref=A)
+- [용혜인](/people/yong-hye-in) — **혼합**: 여성의 구조적 불평등 해소를 유지하면서 남성의 어려움도 정책에 반영하겠다고 밝혔다. [출처](https://www.news1.kr/politics/assembly/6278635)
+- [장동혁](/people/jang-dong-hyeok) — **반대**: 용혜인 지명 철회를 요구하며 성차별 문제와 젠더 갈등을 키울 수 있다고 공격했다. [출처](https://www.mk.co.kr/article/12143218)
+- [박지현](/people/bak-ji-hyeon) — **반대**: 용혜인 지명이 젠더 갈등 조정 역할에 부적절하다고 비판했다. [출처](https://www.wikitree.co.kr/articles/1156412)
 <!-- /agent:stances -->

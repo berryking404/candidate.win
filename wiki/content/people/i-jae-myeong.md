@@ -41,4 +41,5 @@ party: 더불어민주당
 - [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **혼합**: 대법관 재제청 요구로 야권의 탄핵 공세를 촉발했지만, 동시에 삼권분립 해석을 둘러싼 정치 공방의 중심에 섰다. [출처](https://www.yonhapnewstv.co.kr/news/MYH20260829214137176)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **중립**: 한·일 상호 군수 지원 협정에 관해 “남북 관계 더 나빠지기 어려운 상황”이라며 한일관계는 협력하지만 어려운 분야가 남아 있다고 언급했다. [출처](https://news.jtbc.co.kr/article/NB12302040?influxDiv=NAVER)
 - [한일 상호군수지원협정(ACSA) 논의 (2026)](/issues/korea-japan-acsa-2026) — **반대**: 상호 군사 지원 협정 질문에 “서로 손해”라고 언급했다. [출처](https://www.ytn.co.kr/replay/view.php?idx=21&key=202606081223130283)
+- [젠더 갈등 심화 (2026)](/issues/gender-conflict-2026) — **혼합**: 남성 역차별 사례 개선을 주문하면서도 여성의 구조적 불평등 해소를 함께 강조했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8568848&ref=A)
 <!-- /agent:stances -->
