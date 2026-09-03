@@ -1,59 +1,55 @@
-generated_at: '2026-09-02T23:02:34+00:00'
-source_date: 2026-09-02T230229Z
+generated_at: '2026-09-03T23:02:25+00:00'
+source_date: 2026-09-03T230220Z
 window_hours: 72
 items:
 - rank: 1
-  title: 민주당 “비거주1주택 세금부담 수정”… 정부, 세제논란 국회로 공 넘겨
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
+  title: 장관급 박진영, 美출장서 '개인 일정' 논란…국회, "공무와 구분해야" 지...
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 20곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 0
-    outlet_count: 0
-    public_actor: 국회, 민주당, 정부
-  sources: []
+    news_count: 20
+    outlet_count: 20
+    public_actor: 국회, 의원, 장관, 조국혁신당
+  sources:
+  - title: '"무보수에 사비" 박진영 美 출장 지적에 국회 향한 역풍'
+    url: https://www.mediafine.co.kr/news/articleView.html?idxno=88780
+  - title: '[천지일보 이슈종합] 네팔 홍수·공공기관 통합 이전·김승원 논란·티빙...'
+    url: https://www.newscj.com/news/articleView.html?idxno=3430024
+  - title: '[Who Is ?] 이윤수 한국예탁결제원 사장'
+    url: https://www.businesspost.co.kr/BP?command=article_view&num=446320
 - rank: 2
-  title: '[사설] ‘특혜 논란’ 용혜인·‘청탁 의혹’ 김승원, 장관 자격 있나'
+  title: '''위장전입 논란'' 엄승용 보령시장, 공직선거법 위반 혐의 송치'
   status: 추가 확인
-  score: 5
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  score: 6
+  summary: 최근 보도 7건, 매체 7곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 장관
-  sources:
-  - title: '[전국 주요 신문 사설](3일 조간)'
-    url: https://www.yna.co.kr/view/AKR20260903013500011?input=1195m
-  - title: '[사설] ‘특혜 논란’ 용혜인·‘청탁 의혹’ 김승원, 장관 자격 있나'
-    url: https://www.segye.com/newsView/20260902516689?OutUrl=naver
-- rank: 3
-  title: 박진영 미 출장 논란에 국회 '주의'…교류위 "적법하게 처리"
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
-  sources:
-  - title: 박진영 미 출장 논란에 국회 ‘주의’…교류위 “적법하게 처리”
-    url: https://www.mk.co.kr/article/12142809
-- rank: 4
-  title: 김승원 '신약 청탁 의혹'…검찰 '기소유예' 처분에 논란 재점화
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 2
+    news_count: 7
+    outlet_count: 7
     public_actor: 확인 중
   sources:
-  - title: '''내로남불'' 용혜인에 ''공취 의혹'' 김승원까지…인청 난타전 예고'
-    url: http://www.newstomato.com/ReadNews.aspx?no=1312372&inflow=N
-  - title: 김승원 '신약 청탁 의혹'…검찰 '기소유예' 처분에 논란 재점화
-    url: http://www.joseilbo.com/news/news_read.php?uid=574959&class=32&grp=
-- rank: 5
-  title: 손봉기 대법관 재제청 논란.국회서 ‘제청권·임명권’ 정면 공방
+  - title: '''가족 위장전입 의혹'' 엄승용 보령시장, 결국 검찰 넘겨졌다'
+    url: https://www.ngonews.kr/news/articleView.html?idxno=237182
+  - title: '''위장전입 논란'' 엄승용 보령시장, 공직선거법 위반 혐의 송치'
+    url: https://www.yna.co.kr/view/AKR20260903182900063?input=1195m
+  - title: '''위장전입 논란'' 엄승용 보령시장 선거법 위반 혐의로 송치'
+    url: https://tjmbc.co.kr/NewsArticle/860429
+- rank: 3
+  title: 821조원 내년 예산안 국회로..‘162조 미래대응기금’ 최대 쟁점
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 국회
+  sources:
+  - title: 정국 주도권 시험대 선 국힘, 청문회·세제·예산 '총공세'
+    url: https://www.fnnews.com/news/202609021833172763
+  - title: 韓, 2030년엔 '천조국'?! 재정전문가 고개 갸우뚱한 지점
+    url: https://www.ytn.co.kr/_ln/0102_202609021151313290
+- rank: 4
+  title: 국회로 넘어간 레버리지 논란, 몸사리는 증권가는 냉가슴만
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -62,10 +58,10 @@ items:
     outlet_count: 1
     public_actor: 국회
   sources:
-  - title: '"애초에 공정하지 않았다" vs "삼권분립 위배"... 대법관 재제청 두고 폭...'
-    url: https://news.ifm.kr/news/articleView.html?idxno=478388
-- rank: 6
-  title: 부동산 시장 변화 예고, 정부의 86조원 PF 대책이 성공할까?
+  - title: 국회로 넘어간 레버리지 논란, 몸사리는 증권가는 냉가슴만
+    url: https://news.bizwatch.co.kr/article/market/2026/09/03/0016
+- rank: 5
+  title: 정부는 10.1%·교육계는 3.2%…교부금 산정 기준 논란
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -74,5 +70,31 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: 부동산 시장 변화 예고, 정부의 86조원 PF 대책이 성공할까?
-    url: https://www.gokorea.kr/news/articleView.html?idxno=876976
+  - title: 정부는 10.1%·교육계는 3.2%…교부금 산정 기준 논란
+    url: https://www.newspim.com/news/view/20260903001040
+- rank: 6
+  title: 광명 민주당, 총선 공천경쟁 벌써 '꿈틀'...다자구도? 리턴매치?
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 민주당
+  sources:
+  - title: 광명 민주당, 총선 공천경쟁 벌써 '꿈틀'...다자구도? 리턴매치?
+    url: http://www.joygm.com/news/articleView.html?idxno=215457
+- rank: 7
+  title: '''가족 위장전입 의혹'' 엄승용 보령시장, 결국 검찰 넘겨졌다'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 확인 중
+  sources:
+  - title: '''가족 위장전입 의혹'' 엄승용 보령시장, 결국 검찰 넘겨졌다'
+    url: https://www.ngonews.kr/news/articleView.html?idxno=237182
+  - title: 엄승용 보령시장, 선거법 위반 혐의 검찰행… 경찰 "혐의 인정"
+    url: https://www.goodkyung.com/news/articleView.html?idxno=290910
