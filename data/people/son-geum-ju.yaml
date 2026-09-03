@@ -2,8 +2,8 @@ slug: son-geum-ju
 name_ko: 손금주
 name_en: null
 party: null
-role: 더불어민주당 대변인
-status: stub
+role: 전 국회의원
+status: curated
 aliases:
 - 손 대변인
 discovered_via_issue: politics-livelihood-focus-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 손금주
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20240318066301054

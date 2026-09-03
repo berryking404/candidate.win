@@ -1,8 +1,8 @@
 ---
 title: 박형수
 slug: bak-hyeong-su
-role: 국민의힘 의원
-status: stub
+role: 국민의힘 국회의원
+status: curated
 ---
 
 ## 행적

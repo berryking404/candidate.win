@@ -1,8 +1,8 @@
 ---
 title: 최경천
 slug: choe-gyeong-cheon
-role: 청주폴리텍대학 학장
-status: stub
+role: 한국폴리텍대학 청주캠퍼스 학장
+status: curated
 ---
 
 ## 행적

@@ -2,8 +2,8 @@ slug: jo-cheol-gi
 name_ko: 조철기
 name_en: null
 party: null
-role: 정치인 / 공직자
-status: stub
+role: 충청남도의회 의장
+status: curated
 aliases:
 - 조철기
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 조철기
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260831129100063

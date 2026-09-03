@@ -2,8 +2,8 @@ slug: gim-do-gyun
 name_ko: 김도균
 name_en: null
 party: null
-role: 강원랜드 사장
-status: stub
+role: 강원랜드 대표이사
+status: curated
 aliases:
 - 김도균號
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김도균
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260902110100062

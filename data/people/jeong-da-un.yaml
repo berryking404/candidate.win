@@ -1,9 +1,9 @@
 slug: jeong-da-un
 name_ko: 정다운
 name_en: null
-party: null
-role: 제주도의원
-status: stub
+party: 더불어민주당
+role: 제주특별자치도의회 의원
+status: curated
 aliases:
 - 정 의원
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 정다운
   youtube_channels: []
+  official_urls:
+  - https://www.gukjenews.com/news/articleView.html?idxno=3683805

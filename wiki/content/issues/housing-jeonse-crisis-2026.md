@@ -115,5 +115,5 @@ summary: 전세사기·보증금 반환·주거비 부담에 더해 8·13 부동
 - 국토교통부 — **지지**: 선호 입지의 양질 주택을 신속 공급하고 전월세 및 매매시장 안정을 위한 공급 방안을 추진했다. [출처](https://www.kukinews.com/article/view/kuk202608310018)
 - 국회입법조사처 — **중립**: 부동산 세제와 공급대책이 서민층 주거 불안에 미치는 영향을 보고서에서 짚었다. [출처](https://www.munhwa.com/article/11613319?ref=naver)
 - 법무부 — **지지**: 전세사기를 포함해 사회적 약자가 피해자인 범죄의 보호 필요성을 강조하며 민주당안에 반대했다. [출처](https://www.nocutnews.co.kr/news/6570577?utm_source=naver&utm_medium=article&utm_campaign=20260831120106)
-- [주진우](/people/useang) — **반대**: 김성수 대법관 후보자의 전세 특혜·증여세 탈루 의혹을 제기하며 결격 사유라고 강하게 비판했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008735143&plink=ORI&cooper=NAVER)
+- [주진우](/people/ju-jin-u) — **반대**: 김성수 대법관 후보자의 전세 특혜·증여세 탈루 의혹을 제기하며 결격 사유라고 강하게 비판했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008735143&plink=ORI&cooper=NAVER)
 <!-- /agent:stances -->

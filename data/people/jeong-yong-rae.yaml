@@ -2,8 +2,8 @@ slug: jeong-yong-rae
 name_ko: 정용래
 name_en: null
 party: null
-role: 정치인 / 공직자
-status: stub
+role: 대전 유성구청장
+status: curated
 aliases:
 - 정용래
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 정용래
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260804096200063

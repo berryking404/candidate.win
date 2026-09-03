@@ -2,8 +2,8 @@ slug: jeong-jae-heon
 name_ko: 정재헌
 name_en: null
 party: null
-role: 정치인 / 공직자
-status: stub
+role: SK텔레콤 대표이사
+status: curated
 aliases:
 - 정재헌
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 정재헌
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260902032900017

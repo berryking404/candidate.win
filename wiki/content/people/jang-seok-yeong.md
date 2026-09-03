@@ -1,8 +1,8 @@
 ---
 title: 장석영
 slug: jang-seok-yeong
-role: null
-status: stub
+role: 전 과학기술정보통신부 제2차관
+status: curated
 ---
 
 ## 행적

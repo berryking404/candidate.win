@@ -2,8 +2,8 @@ slug: choe-gyeong-cheon
 name_ko: 최경천
 name_en: null
 party: null
-role: 청주폴리텍대학 학장
-status: stub
+role: 한국폴리텍대학 청주캠퍼스 학장
+status: curated
 aliases:
 - 최경천 학장
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 최경천
   youtube_channels: []
+  official_urls:
+  - https://www.gukjenews.com/news/articleView.html?idxno=3683553

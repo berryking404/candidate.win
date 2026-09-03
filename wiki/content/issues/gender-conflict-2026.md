@@ -114,5 +114,5 @@ summary: 젠더 갈등, 성차별, 여성 혐오, 남성 역차별, 페미니즘
 - [이재명](/people/i-jae-myeong) — **혼합**: 남성 역차별 사례 개선을 주문하면서도 여성의 구조적 불평등 해소를 함께 강조했다. [출처](https://www.kbs.co.kr/news/pc/view/view.do?ncd=8568848&ref=A)
 - [용혜인](/people/yong-hye-in) — **혼합**: 여성의 구조적 불평등 해소를 유지하면서 남성의 어려움도 정책에 반영하겠다고 밝혔다. [출처](https://www.news1.kr/politics/assembly/6278635)
 - [장동혁](/people/jang-dong-hyeok) — **반대**: 용혜인 지명 철회를 요구하며 성차별 문제와 젠더 갈등을 키울 수 있다고 공격했다. [출처](https://www.mk.co.kr/article/12143218)
-- [박지현](/people/bak-ji-hyeon) — **반대**: 용혜인 지명이 젠더 갈등 조정 역할에 부적절하다고 비판했다. [출처](https://www.wikitree.co.kr/articles/1156412)
+- 박지현 — **반대**: 용혜인 지명이 젠더 갈등 조정 역할에 부적절하다고 비판했다. [출처](https://www.wikitree.co.kr/articles/1156412)
 <!-- /agent:stances -->

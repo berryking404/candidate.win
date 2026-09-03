@@ -1,8 +1,8 @@
 ---
 title: 김도균
 slug: gim-do-gyun
-role: 강원랜드 사장
-status: stub
+role: 강원랜드 대표이사
+status: curated
 ---
 
 ## 행적

@@ -261,6 +261,27 @@ def test_recent_curation_batch_has_safe_source():
         "yang-seon-hwa",
         "i-gwang-hun",
         "choe-in-su",
+        # 2026-09-03
+        "choe-gyo-jin",
+        "bak-hyeong-su",
+        "yang-gyeong-gyu",
+        "u-hui-jong",
+        "gim-do-gyun",
+        "heo-jang",
+        "jeong-yong-rae",
+        "jeong-da-un",
+        "son-geum-ju",
+        "gim-gyeong-dae",
+        "gim-il-hwan",
+        "gwon-hyeong-taek",
+        "choe-gyeong-cheon",
+        "choe-won-seok",
+        "gim-hyo-suk",
+        "jo-cheol-gi",
+        "song-gyeong-ju",
+        "jeong-jae-heon",
+        "jeong-seon-hwa",
+        "jang-seok-yeong",
     ]
     for slug in batch:
         data = yaml.safe_load((PEOPLE_DIR / f"{slug}.yaml").read_text(encoding="utf-8"))

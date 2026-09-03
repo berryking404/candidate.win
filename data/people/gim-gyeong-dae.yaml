@@ -2,8 +2,8 @@ slug: gim-gyeong-dae
 name_ko: 김경대
 name_en: null
 party: null
-role: 정치인 / 공직자
-status: stub
+role: 서울 용산구청장
+status: curated
 aliases:
 - 김경대
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김경대
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260703064000004

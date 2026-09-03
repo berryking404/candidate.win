@@ -1,9 +1,9 @@
 slug: gim-hyo-suk
 name_ko: 김효숙
 name_en: null
-party: null
-role: 정치인 / 공직자
-status: stub
+party: 더불어민주당
+role: 세종특별자치시의회 의원
+status: curated
 aliases:
 - 김효숙
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김효숙
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260515188200063

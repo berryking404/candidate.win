@@ -1,8 +1,8 @@
 ---
 title: 정다운
 slug: jeong-da-un
-role: 제주도의원
-status: stub
+role: 제주특별자치도의회 의원
+status: curated
 ---
 
 ## 행적

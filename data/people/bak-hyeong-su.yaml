@@ -1,9 +1,9 @@
 slug: bak-hyeong-su
 name_ko: 박형수
 name_en: null
-party: null
-role: 국민의힘 의원
-status: stub
+party: 국민의힘
+role: 국민의힘 국회의원
+status: curated
 aliases:
 - 박형수
 discovered_via_issue: deutsch-motors-stock-2023
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 박형수
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20241212150500001

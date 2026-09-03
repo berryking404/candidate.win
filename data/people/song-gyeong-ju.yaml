@@ -2,8 +2,8 @@ slug: song-gyeong-ju
 name_ko: 송경주
 name_en: null
 party: null
-role: 정치인 / 공직자
-status: stub
+role: 행정안전부 지방재정경제실장
+status: curated
 aliases:
 - 송경주
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 송경주
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260303156600530

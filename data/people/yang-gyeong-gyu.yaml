@@ -1,9 +1,9 @@
 slug: yang-gyeong-gyu
 name_ko: 양경규
 name_en: null
-party: null
-role: 정치인 / 공직자
-status: stub
+party: 정의당
+role: 정의당 대표
+status: curated
 aliases:
 - 양경규
 discovered_via_issue: gender-conflict-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 양경규
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260829044100001
