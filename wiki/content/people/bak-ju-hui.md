@@ -1,8 +1,8 @@
 ---
 title: 박주희
 slug: bak-ju-hui
-role: 서울시 미래청년기획관
-status: stub
+role: 서울특별시 미래청년기획관
+status: curated
 ---
 
 ## 행적

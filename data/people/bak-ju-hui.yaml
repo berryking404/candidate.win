@@ -2,8 +2,8 @@ slug: bak-ju-hui
 name_ko: 박주희
 name_en: null
 party: null
-role: 서울시 미래청년기획관
-status: stub
+role: 서울특별시 미래청년기획관
+status: curated
 aliases:
 - 서울시 미래청년기획관
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 박주희
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260903068600004

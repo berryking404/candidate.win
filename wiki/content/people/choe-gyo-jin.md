@@ -1,7 +1,7 @@
 ---
 title: 최교진
 slug: choe-gyo-jin
-role: 세종특별자치시 교육감·교육부 장관 후보자
+role: 교육부 장관
 status: curated
 ---
 

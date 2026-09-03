@@ -1,8 +1,8 @@
 ---
 title: 손광영
 slug: son-gwang-yeong
-role: 정치인 / 공직자
-status: stub
+role: 안동시의회 부의장
+status: curated
 ---
 
 ## 행적
