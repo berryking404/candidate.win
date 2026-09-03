@@ -62,4 +62,7 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - 진보당 — **지지**: 신속한 전시작전통제권 환수를 국방개혁의 최우선 과제로 제시하며 환수 추진을 지지했다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3681018)
 - 국방부 — **중립**: 내년 국방예산과 연합작전체계 구축 사업을 설명하며 전작권 전환 능력 확보를 위한 투자 방침을 제시했다. [출처](https://www.news1.kr/diplomacy/defense-diplomacy/6275773)
 - [이재명](/people/i-jae-myeong) — **지지**: 전작권의 임기 내 환수를 차질 없이 추진하라고 지시했다. [출처](https://www.hani.co.kr/arti/politics/defense/1275738.html)
+- [이재명](/people/lee-jaemyung) — **지지**: 전시작전통제권 환수를 통해 한국이 한반도 평화의 직접 당사자로서 책임을 다하겠다고 거듭 밝혔다. [출처](https://www.nocutnews.co.kr/news/6572428?utm_source=naver&utm_medium=article&utm_campaign=20260902064032)
+- [강신철](/people/kang-shincheol) — **지지**: 전작권 전환을 한미동맹이 강화되는 방향으로 추진하겠다고 밝혔다. [출처](https://www.mk.co.kr/article/12143149)
+- [김병주](/people/kim-byungjoo) — **지지**: 전작권 환수를 국민 주권의 문제로 규정하고 TF를 맡아 추진 의지를 드러냈다. [출처](https://news.tf.co.kr/read/ptoday/2361302.htm)
 <!-- /agent:stances -->
