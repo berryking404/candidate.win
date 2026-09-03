@@ -197,4 +197,13 @@ summary: 청년 고용 확대와 첨단산업 육성 정책 및 발언을 추적
 - [정재헌](/people/jeong-jae-heon) — **지지**: AI 전환 시대의 국가 경쟁력과 인재 필요성을 강조하며 대학생 대상 AI 교육에서 청년 역량 강화를 제안했다. [출처](http://www.whitepaper.co.kr/news/articleView.html?idxno=266310)
 - [최교진](/people/choe-gyo-jin) — **지지**: 충남대가 중부권 첨단산업과 연계해 산업인력·연구인력을 양성하는 거점이 돼야 한다고 밝혔다. [출처](https://www.tjmbc.co.kr/NewsArticle/860030)
 - [이근배](/people/i-geun-bae) — **지지**: 반도체뿐 아니라 AI·모빌리티·에너지·바이오까지 묶는 첨단산업 혁신클러스터 구상을 제시했다. [출처](https://daily.hankooki.com/news/articleView.html?idxno=1401855)
+- [박주희](/people/bak-ju-hui) — **지지**: 서울시가 청년들의 취업 고민을 덜고 경력 형성 지원 정책을 확대하겠다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260903068600004?input=1195m)
+- [이원준](/people/i-won-jun) — **지지**: 세종대 반도체 공정실습 프로그램 강의를 맡아 청년들의 직무 이해와 실무역량 강화를 지원했다. [출처](https://www.newsfreezone.co.kr/news/articleView.html?idxno=707317)
+- [허총장](/people/heo-chong-jang) — **지지**: 지역 기업 투자와 대학 인재 양성, 청년의 지역 정착이 맞물리는 순환 구조가 중요하다고 강조했다. [출처](https://www.yna.co.kr/view/AKR20260903088900053?input=1195m)
+- [최경천](/people/choe-gyeong-cheon) — **지지**: 현장 맞춤형 반도체 교육을 통해 지역 반도체 산업 인재 양성과 청년 일자리 창출에 힘쓰겠다고 밝혔다. [출처](https://www.gukjenews.com/news/articleView.html?idxno=3683553)
+- [문진석](/people/mun-jin-seok) — **지지**: 청년층 고용난과 학자금 체납 문제를 근거로 상환유예·감면 필요성을 제기했다. [출처](https://www.queen.co.kr/news/articleView.html?idxno=462747)
+- [정다운](/people/jeong-da-un) — **지지**: 제주를 떠나는 청년이 많다며 청년정책 전담 인력 축소를 비판하고 청년 정책 강화를 촉구했다. [출처](https://www.headlinejeju.co.kr/news/articleView.html?idxno=598417)
+- [김도균](/people/gim-do-gyun) — **지지**: 지역 산업 생태계 재편과 청년 정착형 양질의 일자리 창출을 약속했다. [출처](https://www.ekn.kr/web/view.php?key=20260903024549664)
+- [이연희](/people/i-yeon-hui) — **지지**: 바이오산업 규제혁신과 예산 지원 확대, 오송 바이오메가특구 지정을 추진하겠다고 밝혔다. [출처](https://www.cctimes.kr/news/articleView.html?idxno=925200)
+- [육동한] — **지지**: 춘천의 강원과학기술원 설립 구상과 연구인재 유입, 바이오·AI 특화산업 육성을 추진했다. [출처](https://www.kado.net/news/articleView.html?idxno=2070238)
 <!-- /agent:stances -->
