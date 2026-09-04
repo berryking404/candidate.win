@@ -116,4 +116,6 @@ summary: 전세사기·보증금 반환·주거비 부담에 더해 8·13 부동
 - 국회입법조사처 — **중립**: 부동산 세제와 공급대책이 서민층 주거 불안에 미치는 영향을 보고서에서 짚었다. [출처](https://www.munhwa.com/article/11613319?ref=naver)
 - 법무부 — **지지**: 전세사기를 포함해 사회적 약자가 피해자인 범죄의 보호 필요성을 강조하며 민주당안에 반대했다. [출처](https://www.nocutnews.co.kr/news/6570577?utm_source=naver&utm_medium=article&utm_campaign=20260831120106)
 - [주진우](/people/ju-jin-u) — **반대**: 김성수 대법관 후보자의 전세 특혜·증여세 탈루 의혹을 제기하며 결격 사유라고 강하게 비판했다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008735143&plink=ORI&cooper=NAVER)
+- [서울 중구, 공인중개사와 '현장 밀착' 주거정책…청년·신혼부부 지원](/people/housing-jeonse-crisis-2026) — **지지**: 전세보증금 반환보증 보증료 지원, 중개수수료·이사비 지원 등 주거안정 정책을 안내·확대했다. [출처](https://www.hankookilbo.com/news/article/A2026090409350000852?did=NA)
+- [수도권 아파트 전셋값 4.7억 시대⋯가격 부담에 ‘내 집 마련’ 저울질](/people/housing-jeonse-crisis-2026) — **중립**: 전세보증금과 대출이자 부담이 커지면서 임차보다 매매를 비교하는 흐름이 나타난다. [출처](https://www.etoday.co.kr/news/view/2621852)
 <!-- /agent:stances -->
