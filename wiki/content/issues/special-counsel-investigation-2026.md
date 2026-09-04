@@ -81,4 +81,7 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [조응천](/people/jo-eung-cheon) — **중립**: 윤석열 관련 의혹과 김건희 특검 필요성을 언급하며 수사·특검 논의를 제기했다. [출처](https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000465207)
 - [한병도](/people/han-byeong-do) — **반대**: 국민의힘이 탄핵과 유죄 선고를 받은 전직 대통령을 끌어들인다며 레임덕 공세를 반박했다. [출처](https://www.mt.co.kr/politics/2026/09/03/2026090310033943627)
 - 김영진 — **지지**: 이재명 정부가 윤석열 대통령의 계엄을 막고 탄핵연대로 출발했다며 탄핵 국면의 정당성을 강조했다. [출처](https://www.sbs.co.kr/news/endPage.do?news_id=N1008735426&plink=ORI&cooper=NAVER)
+- [나경원](/people/na-gyeong-weon) — **지지**: 증거인멸 우려를 들어 국정조사와 특검을 촉구했다. [출처](https://www.mt.co.kr/politics/2026/09/04/2026090411145878379)
+- [이성윤](/people/i-seong-yun) — **반대**: 특검 요구를 비판하며 반대 입장을 보였다. [출처](https://www.ytn.co.kr/_ln/0101_202609041135519915)
+- [김승원](/people/gim-seung-won) — **지지**: 공소 취소와 '조작 기소 특검' 추진을 공개적으로 주장했다. [출처](https://www.ilyoseoul.co.kr/news/articleView.html?idxno=522105)
 <!-- /agent:stances -->
