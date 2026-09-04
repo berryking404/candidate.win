@@ -190,4 +190,7 @@ summary: 사회안전망 강화와 고령화 대응 관련 이슈
 - 단양군 — **지지**: 고령화와 인구 감소에 대응해 의료·요양·복지·돌봄 서비스를 통합 연계하는 체계를 강화했다. [출처](https://www.news1.kr/local/sejong-chungbuk/6275965)
 - 여주시 — **지지**: 어르신과 장애인을 위한 의료·요양 통합돌봄 주거환경 개선으로 시설·병원 의존도를 낮추려 했다. [출처](https://www.beyondpost.co.kr/view.php?ud=202609011058315734c878f8fa1_30)
 - 국가AI통합돌봄플랫폼 — **지지**: 돌봄 데이터를 국가표준으로 통합 구축해 초고령화에 따른 돌봄 인력 부족에 대응하는 방향이 제시됐다. [출처](https://zdnet.co.kr/view/?no=20260831193636)
+- [유희태](/people/yu-hui-tae) — **지지**: 복지안전망을 더 촘촘하게 구축하고 사회복지 종사자 지원을 강화하겠다고 밝혔다. [출처](https://www.kfenews.co.kr/news/articleView.html?idxno=663808)
+- [김경옥](/people/gim-gyeong-ok) — **지지**: 노인일자리가 지역 돌봄 공백을 채우는 사회안전망이 되도록 하겠다고 말했다. [출처](https://www.hyunbulnews.com/news/articleView.html?idxno=505114)
+- [한대희](/people/han-dae-hui) — **지지**: 재난·재해 대응 속에서 지역사회 안전망 강화 필요성을 강조했다. [출처](https://www.newspim.com/news/view/20260904000329)
 <!-- /agent:stances -->
