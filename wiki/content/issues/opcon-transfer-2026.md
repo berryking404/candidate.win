@@ -65,4 +65,5 @@ summary: 전작권 전환 시기·조건과 한미동맹, 자주국방, 안보 �
 - [이재명](/people/i-jae-myeong) — **지지**: 전시작전통제권 환수를 통해 한국이 한반도 평화의 직접 당사자로서 책임을 다하겠다고 거듭 밝혔다. [출처](https://www.nocutnews.co.kr/news/6572428?utm_source=naver&utm_medium=article&utm_campaign=20260902064032)
 - [강신철](/people/gang-sin-cheol) — **지지**: 전작권 전환을 한미동맹이 강화되는 방향으로 추진하겠다고 밝혔다. [출처](https://www.mk.co.kr/article/12143149)
 - [김병주](/people/gim-byeong-ju) — **지지**: 전작권 환수를 국민 주권의 문제로 규정하고 TF를 맡아 추진 의지를 드러냈다. [출처](https://news.tf.co.kr/read/ptoday/2361302.htm)
+- [강신철](/people/gang-sin-cheol) — **혼합**: 전작권 전환을 한미동맹이 강화되는 방향으로 추진하겠다고 밝혔습니다. [출처](https://www.chosun.com/politics/diplomacy-defense/2026/09/04/57P3T67BHJDAVJB6QOR5NKBU3I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
 <!-- /agent:stances -->
