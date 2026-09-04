@@ -1,7 +1,7 @@
 ---
-title: 이은영
-slug: i-eun-yeong
-role: 홍성군 체육관광과장
+title: 전범일
+slug: jeon-beom-il
+role: 동대문구의회 의원
 status: curated
 ---
 
