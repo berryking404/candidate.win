@@ -214,4 +214,6 @@ summary: 정치권이 민생보다 정쟁에 치우쳤는지, 민생 현안에 �
 - [한병도](/people/han-byeong-do) — **반대**: 국민의힘의 흠집내기와 막무가내식 정쟁·몽니가 민생과 예산 심사를 가로막고 있다고 비판했다. [출처](https://www.mk.co.kr/article/12141056)
 - [한병도](/people/han-byeong-do) — **중립**: 내각 인선을 둘러싼 공방 속에서도 민생과 청문회 일정을 함께 관리하겠다고 밝혔다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260901111621odY)
 - [한덕수](/people/han-deok-su) — **중립**: 검찰 공소유지에서 ‘첫 민생 행보’가 언급됐으나, 민생 집중도 논쟁에 대한 명시적 입장은 확인되지 않았다. [출처](https://news.sbs.co.kr/news/endPage.do?news_id=N1008736037&plink=ORI&cooper=NAVER)
+- [전범일](/people/jeon-beom-il) — **지지**: 의회가 정쟁을 중단하고 민생 현안 해결에 집중해야 한다고 밝혔다. [출처](https://www.jeonmae.co.kr/news/articleView.html?idxno=1290181)
+- [송재봉](/people/song-jae-bong) — **지지**: 국민의 삶과 직결된 민생을 법과 예산으로 해결해야 한다고 말했다. [출처](http://www.ibulgyo.com/news/articleView.html?idxno=441931)
 <!-- /agent:stances -->
