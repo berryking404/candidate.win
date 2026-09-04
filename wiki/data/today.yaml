@@ -1,100 +1,84 @@
-generated_at: '2026-09-03T23:02:25+00:00'
-source_date: 2026-09-03T230220Z
+generated_at: '2026-09-04T23:02:04+00:00'
+source_date: 2026-09-04T230159Z
 window_hours: 72
 items:
 - rank: 1
-  title: 장관급 박진영, 美출장서 '개인 일정' 논란…국회, "공무와 구분해야" 지...
+  title: '노란봉투법 시행지침 발표한 정부: ''N% 성과급·호남 반도체 공장 반대''로는 파업 못 한다? ✉️🧐'
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 20곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 13건, 매체 13곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 20
-    public_actor: 국회, 의원, 장관, 조국혁신당
-  sources:
-  - title: '"무보수에 사비" 박진영 美 출장 지적에 국회 향한 역풍'
-    url: https://www.mediafine.co.kr/news/articleView.html?idxno=88780
-  - title: '[천지일보 이슈종합] 네팔 홍수·공공기관 통합 이전·김승원 논란·티빙...'
-    url: https://www.newscj.com/news/articleView.html?idxno=3430024
-  - title: '[Who Is ?] 이윤수 한국예탁결제원 사장'
-    url: https://www.businesspost.co.kr/BP?command=article_view&num=446320
-- rank: 2
-  title: '''위장전입 논란'' 엄승용 보령시장, 공직선거법 위반 혐의 송치'
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 7건, 매체 7곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 7
-    outlet_count: 7
-    public_actor: 확인 중
-  sources:
-  - title: '''가족 위장전입 의혹'' 엄승용 보령시장, 결국 검찰 넘겨졌다'
-    url: https://www.ngonews.kr/news/articleView.html?idxno=237182
-  - title: '''위장전입 논란'' 엄승용 보령시장, 공직선거법 위반 혐의 송치'
-    url: https://www.yna.co.kr/view/AKR20260903182900063?input=1195m
-  - title: '''위장전입 논란'' 엄승용 보령시장 선거법 위반 혐의로 송치'
-    url: https://tjmbc.co.kr/NewsArticle/860429
-- rank: 3
-  title: 821조원 내년 예산안 국회로..‘162조 미래대응기금’ 최대 쟁점
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 국회
-  sources:
-  - title: 정국 주도권 시험대 선 국힘, 청문회·세제·예산 '총공세'
-    url: https://www.fnnews.com/news/202609021833172763
-  - title: 韓, 2030년엔 '천조국'?! 재정전문가 고개 갸우뚱한 지점
-    url: https://www.ytn.co.kr/_ln/0102_202609021151313290
-- rank: 4
-  title: 국회로 넘어간 레버리지 논란, 몸사리는 증권가는 냉가슴만
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
-  sources:
-  - title: 국회로 넘어간 레버리지 논란, 몸사리는 증권가는 냉가슴만
-    url: https://news.bizwatch.co.kr/article/market/2026/09/03/0016
-- rank: 5
-  title: 정부는 10.1%·교육계는 3.2%…교부금 산정 기준 논란
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
+    news_count: 13
+    outlet_count: 13
     public_actor: 정부
   sources:
-  - title: 정부는 10.1%·교육계는 3.2%…교부금 산정 기준 논란
-    url: https://www.newspim.com/news/view/20260903001040
-- rank: 6
-  title: 광명 민주당, 총선 공천경쟁 벌써 '꿈틀'...다자구도? 리턴매치?
+  - title: '[이슈] 노동부, N% 성과급·호남반도체 반대 파업·의무교섭 불가 지침…...'
+    url: https://www.polinews.co.kr/news/articleView.html?idxno=742134
+  - title: '''N% 성과급''으로 파업 못 한다…"자의적 축소 해석"'
+    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008736876&plink=ORI&cooper=NAVER
+  - title: 공장은 지어도 사람은 못 옮긴다?…호남 반도체에 숨은 '파업 변수'
+    url: https://www.edaily.co.kr/News/Read?newsId=05162726645576512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
+- rank: 2
+  title: '[정치개혁Ⅰ-공천권·선거제 개혁①] 대한민국 국회의원은 누가 만드는가'
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회, 의원
+  sources:
+  - title: '[정치개혁Ⅰ-공천권·선거제 개혁①] 대한민국 국회의원은 누가 만드는...'
+    url: https://www.ilyoseoul.co.kr/news/articleView.html?idxno=522081
+- rank: 3
+  title: 개인정보위 예산 역대 최대… 유출 신고포상금 94억·소송 지원 2배
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 4
+    outlet_count: 4
+    public_actor: 확인 중
+  sources:
+  - title: 개인정보위 예산 역대 최대… 유출 신고포상금 94억·소송 지원 2배
+    url: https://www.chosun.com/national/national_general/2026/09/04/ZO33L32QMJBBFMENVVQGST3OSQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+  - title: 개인정보위 내년 예산 996억…‘역대 최대’ 또 경신, AI·사전예방에 방...
+    url: https://www.edaily.co.kr/News/Read?newsId=03230806645576840&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
+  - title: 개인정보위 내년 예산 996억 ‘역대 최대’…공익신고장려기금에 158억 ...
+    url: https://www.etoday.co.kr/news/view/2621773
+- rank: 4
+  title: 김장겸 의원 "티빙 3954만 개인정보 유출…정부 해킹 대책 또 작동 안 해"
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 0
+    outlet_count: 0
+    public_actor: 의원, 정부
+  sources: []
+- rank: 5
+  title: '"지방재정권 훼손, 국회 통제 약화... 미래대응기금, 재검토해야"'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
+    outlet_count: 1
+    public_actor: 국회
+  sources:
+  - title: '"지방재정권 훼손, 국회 통제 약화... 미래대응기금, 재검토해야"'
+    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003264705&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+- rank: 6
+  title: 민주당, 청문정국 분리 대응… 김승원은 '엄호' 용혜인은 '침묵'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 2건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
     outlet_count: 1
     public_actor: 민주당
   sources:
-  - title: 광명 민주당, 총선 공천경쟁 벌써 '꿈틀'...다자구도? 리턴매치?
-    url: http://www.joygm.com/news/articleView.html?idxno=215457
-- rank: 7
-  title: '''가족 위장전입 의혹'' 엄승용 보령시장, 결국 검찰 넘겨졌다'
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 확인 중
-  sources:
-  - title: '''가족 위장전입 의혹'' 엄승용 보령시장, 결국 검찰 넘겨졌다'
-    url: https://www.ngonews.kr/news/articleView.html?idxno=237182
-  - title: 엄승용 보령시장, 선거법 위반 혐의 검찰행… 경찰 "혐의 인정"
-    url: https://www.goodkyung.com/news/articleView.html?idxno=290910
+  - title: '[천지일보 이슈종합] 환율 1340원대·여수세계섬박람회·폭염 위기경보...'
+    url: https://www.newscj.com/news/articleView.html?idxno=3430217
+  - title: 민주당, 청문정국 분리 대응… 김승원은 '엄호' 용혜인은 '침묵'
+    url: https://www.newscj.com/news/articleView.html?idxno=3430165
