@@ -95,4 +95,10 @@ summary: 2026년 6월 종합특검이 관저 이전 예산 전용, 계엄 정당
 - [윤한홍](/people/yun-han-hong) — **지지**: 관저 공사 과정에서 김건희 여사와 업체의 특수관계가 드러나지 않도록 다른 업체를 앞세우는 방안을 지시한 것으로 보도됐다. [출처](https://www.joongang.co.kr/article/25457958)
 - [김도형](/people/gim-do-hyeong) — **지지**: 종합특검팀의 판단에 의문을 제기하고 수사 필요성을 낮게 본다는 점에서 특검의 수사·기소를 비판하는 입장으로 읽힌다. [출처](https://www.ilyosisa.co.kr/news/article.html?no=257659)
 - [권창영](/people/gwon-chang-yeong) — **반대**: 내란특검이 충분히 수사하지 않았다고 보고 재수사에 착수해 체포 방해 혐의 관련 기소를 진행했다. [출처](https://www.yna.co.kr/view/AKR20260903075600001?input=1195m)
+- [윤한홍](/people/yun-han-hong) — **중립**: 관저 이전 의혹 재판의 피고인으로 보도됐고, 특검 수사 맥락에서 함께 언급됐다. [출처](https://www.newsis.com/view/NISX20260904_0003776166)
+- [김승원](/people/gim-seung-won) — **중립**: 신약 로비 의혹과 공소취소 논란 등으로 특검·수사 필요성이 제기됐고, 본인은 의혹을 부인하며 해명을 이어갔다. [출처](https://www.joongang.co.kr/article/25458911)
+- [용혜인](/people/yong-hye-in) — **중립**: 김승원 관련 논란을 두고 청문회에서 밝히겠다는 취지로 언급돼, 특검 찬반보다 사실 확인 절차를 강조했다. [출처](https://www.ytn.co.kr/_ln/0101_202609031631544212)
+- [이석연](/people/i-seog-yeon) — **반대**: 민주당이 추진한 2차 종합특검법과 보완수사권 폐지에 공개적으로 반대했다. [출처](https://www.jnilbo.com/news/articleView.html?idxno=90000062288)
+- [나경원](/people/na-gyeong-won) — **중립**: 윤 체포방해 관련 재판과 종합특검 수사 맥락에서 피고인으로 언급됐다. [출처](https://www.news1.kr/society/court-prosecution/6280065)
+- [김기현](/people/gim-gi-hyeon) — **중립**: 윤 체포방해 관련 재판과 종합특검 수사 맥락에서 피고인으로 언급됐다. [출처](https://www.news1.kr/society/court-prosecution/6280065)
 <!-- /agent:stances -->
