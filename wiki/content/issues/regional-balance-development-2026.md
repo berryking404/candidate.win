@@ -280,4 +280,11 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [이상호](/people/i-sang-ho) — **지지**: 지역균형발전연구센터장으로서 국가 균형성장 전략 논의에 참여했다. [출처](https://www.todayenergy.kr/news/articleView.html?idxno=302333)
 - [최원석](/people/choe-won-seok) — **지지**: 산학연 전문가로서 지역 균형성장 전략 논의에 참여했다. [출처](https://www.todayenergy.kr/news/articleView.html?idxno=302333)
 - [권형택](/people/gwon-hyeong-taek) — **지지**: 기술 사업화 지원을 통해 지역 기반 산업과 일자리 확산에 기여하는 방향을 밝혔다. [출처](https://www.cnbnews.com/news/articleView.html?idxno=1013953)
+- [김민석](/people/kim-minseok) — **지지**: 대전·충남 행정통합 재추진과 공공기관 이전을 지역균형발전의 수단으로 제시했다. [출처](https://www.ajunews.com/view/20260904100626827)
+- [윤병태](/people/yun-byeongtae) — **지지**: 2차 공공기관 이전을 혁신도시 집적 배치의 기회로 보고 균형성장 전략에 힘을 실었다. [출처](https://www.newsis.com/view/NISX2026090400003776361)
+- [우상호](/people/woo-sangho) — **지지**: 포천~철원 고속도로를 접경지역 교통 개선과 지역균형발전의 국가적 사업으로 강조했다. [출처](https://www.munhwa.com/article/11614530?ref=naver)
+- [문형배](/people/mun-hyeongbae) — **지지**: 지역균형발전을 사회 통합의 핵심 조건으로 제시했다. [출처](https://www.gjdream.com/news/articleView.html?idxno=672407)
+- [박창달](/people/park-changdal) — **지지**: 지역인재 채용 활성화가 지역 균형발전에 기여한다는 입장을 밝혔다. [출처](https://view.asiae.co.kr/article/2026090410134350393)
+- [정용식](/people/jeong-yongsik) — **지지**: 지역 미래 모빌리티 산업 활성화와 지역 균형 발전 강화를 함께 강조했다. [출처](https://www.etnews.com/20260904000149)
+- [한성숙](/people/han-seongsuk) — **지지**: 수도권 과밀과 지방 소멸을 언급하며 균형성장이 필수라는 입장을 밝혔다. [출처](https://news.skbroadband.com/news/articleView.html?idxno=236993)
 <!-- /agent:stances -->
