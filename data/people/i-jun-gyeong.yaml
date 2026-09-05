@@ -1,9 +1,9 @@
 slug: i-jun-gyeong
 name_ko: 이준경
 name_en: null
-party: null
-role: 정치인 / 공직자
-status: stub
+party: 더불어민주당
+role: 전 음성부군수
+status: curated
 aliases:
 - 이준경
 discovered_via_issue: regional-balance-development-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이준경
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260202073600064

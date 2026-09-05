@@ -1,8 +1,8 @@
 ---
 title: 양진석
 slug: yang-jin-seok
-role: 정치인 / 공직자
-status: stub
+role: 미추홀구의회 의원
+status: curated
 ---
 
 ## 행적

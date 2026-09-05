@@ -1,8 +1,8 @@
 ---
 title: 이준경
 slug: i-jun-gyeong
-role: 정치인 / 공직자
-status: stub
+role: 전 음성부군수
+status: curated
 ---
 
 ## 행적

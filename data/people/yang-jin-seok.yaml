@@ -1,9 +1,9 @@
 slug: yang-jin-seok
 name_ko: 양진석
 name_en: null
-party: null
-role: 정치인 / 공직자
-status: stub
+party: 국민의힘
+role: 미추홀구의회 의원
+status: curated
 aliases:
 - 양진석
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 양진석
   youtube_channels: []
+  official_urls:
+  - https://www.michuhol.go.kr/council/introduction/organization.asp

@@ -1,9 +1,9 @@
 slug: no-jeong-hyeon
 name_ko: 노정현
 name_en: null
-party: null
-role: null
-status: stub
+party: 진보당
+role: 진보당 수석대변인
+status: curated
 aliases:
 - 노정현
 discovered_via_issue: housing-jeonse-crisis-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 노정현
   youtube_channels: []
+  official_urls:
+  - https://www.newsis.com/view/NISX20260728_0003726700

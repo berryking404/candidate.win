@@ -2,8 +2,8 @@ slug: i-geun-bae
 name_ko: 이근배
 name_en: null
 party: null
-role: 정치인 / 공직자
-status: stub
+role: 전남대학교 총장
+status: curated
 aliases:
 - 이근배
 discovered_via_issue: youth-jobs-hightech-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 이근배
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20250226119700054

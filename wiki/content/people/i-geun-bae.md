@@ -1,8 +1,8 @@
 ---
 title: 이근배
 slug: i-geun-bae
-role: 정치인 / 공직자
-status: stub
+role: 전남대학교 총장
+status: curated
 ---
 
 ## 행적
