@@ -1,9 +1,9 @@
-generated_at: '2026-09-05T23:02:12+00:00'
-source_date: 2026-09-05T230206Z
+generated_at: '2026-09-06T23:02:11+00:00'
+source_date: 2026-09-06T230206Z
 window_hours: 72
 items:
 - rank: 1
-  title: 정기국회 초반부터 여야 격돌…대정부질문 이어 '청문회 슈퍼위크' 예고
+  title: 정기국회 초반부터 여야 격돌… 대정부질문 이어 인사청문회 슈퍼위크 예고
   status: 정식 검토
   score: 9
   summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
@@ -12,123 +12,21 @@ items:
     outlet_count: 3
     public_actor: 국회, 정부
   sources:
+  - title: 정기국회 초반부터 여야 격돌… 대정부질문 이어 인사청문회 슈퍼위크...
+    url: http://www.ujeil.com/news/articleView.html?idxno=391594
   - title: 정기국회 초반부터 여야 격돌…대정부질문 이어 '청문회 슈퍼위크' 예고
     url: http://www.newsian.co.kr/news/articleView.html?idxno=94851
-  - title: 대정부질문으로 막오르는 정기국회… 청문회 슈퍼위크도 임박
-    url: https://www.newscj.com/news/articleView.html?idxno=3430350
   - title: 인사청문 소용돌이 속 금주 대정부질문…달아오르는 정기국회
     url: https://www.yna.co.kr/view/AKR20260905039100001?input=1195m
 - rank: 2
-  title: 이소영 중기부 장관 후보자, 배우자 김앤장 재직…‘이해충돌’ 청문회...
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 14곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 14
-    public_actor: 국회, 대표, 민주당, 의원, 장관, 정부
-  sources:
-  - title: 홍준표 "한동훈은 윤석열이 만든 허상… 보수의 배신자가 무슨 염치로 ...
-    url: https://www.fntoday.co.kr/news/articleView.html?idxno=392215
-  - title: 비례대표 장관, 의원 겸직…왜 관례됐나 [유경민의 정치여행]
-    url: https://www.sisaon.co.kr/news/articleView.html?idxno=204138
-  - title: 정기국회 초반부터 여야 격돌…대정부질문 이어 '청문회 슈퍼위크' 예고
-    url: http://www.newsian.co.kr/news/articleView.html?idxno=94851
-- rank: 3
-  title: '''90년생'' 장관 후보자 용혜인...벼락출세 등 논란 왜?'
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 장관
-  sources:
-  - title: '''90년생'' 장관 후보자 용혜인...벼락출세 등 논란 왜?'
-    url: https://www.ytn.co.kr/_ln/0101_202609060505212803
-  - title: '[박준규의 이슈 언박싱] ''36세 워킹맘'' 앞세운 용혜인 지명…여성계도 ...'
-    url: https://www.pennmike.com/news/articleView.html?idxno=127180
-- rank: 4
-  title: '[뉴스ON]논란의 성평등가족부 장관 후보자, 용혜인··''서울대 10개 만들기’ TK는 패싱?'
+  title: 국민의힘 "호르무즈 파병 늑장 대응…여론 간 보기"
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 장관
+    public_actor: 국민의힘
   sources:
-  - title: '[뉴스ON]논란의 성평등가족부 장관 후보자, 용혜인··''서울대 10개 만들...'
-    url: https://dgmbc.com/NewsArticle/860608
-- rank: 5
-  title: 문체장관도 “춤은 죄 아니다”…라이브클럽 영업정지 논란, 무슨일
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 장관
-  sources:
-  - title: 문체장관도 “춤은 죄 아니다”…라이브클럽 영업정지 논란, 무슨일
-    url: https://www.joongang.co.kr/article/25459381
-- rank: 6
-  title: 버티면 정부가 알아서 해결해 준다?…반복된 논란[코로나 빚 탕감②]
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: 버티면 정부가 알아서 해결해 준다?…반복된 논란[코로나 빚 탕감②]
-    url: https://www.newsis.com/view/NISX20260903_0003775706
-- rank: 7
-  title: ​9개월 지나 잣대 바꾼 정부… 공공기관 경평 ‘소급 적용’ 논란
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: ​9개월 지나 잣대 바꾼 정부… 공공기관 경평 ‘소급 적용’ 논란
-    url: https://biz.heraldcorp.com/article/10862403?ref=naver
-- rank: 8
-  title: 김승원은 감싸고 용혜인은 선 긋고… 민주당 청문 대응 '온도차'
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 민주당
-  sources:
-  - title: 김승원은 감싸고 용혜인은 선 긋고… 민주당 청문 대응 '온도차'
-    url: https://www.newscj.com/news/articleView.html?idxno=3430228
-- rank: 9
-  title: 초등 1·2학년 3시 하교 논란…정부 “돌봄·사교육 해소” 교원 “본질 외면”
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: 초등 1·2학년 3시 하교 논란…정부 "돌봄·사교육 해소" 교원 "본질 외...
-    url: https://www.thepublic.kr/news/articleView.html?idxno=317586
-- rank: 10
-  title: 강진, 농어촌 기본소득 재도전…국회에 법안 통과·시범사업 지원 요청
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
-  sources:
-  - title: 강진, 농어촌 기본소득 재도전…국회에 법안 통과·시범사업 지원 요청
-    url: https://www.m-i.kr/news/articleView.html?idxno=1410305
+  - title: 국민의힘 "호르무즈 파병 늑장 대응...여론 간 보기"
+    url: https://www.ytn.co.kr/_ln/0101_202609061724598648
