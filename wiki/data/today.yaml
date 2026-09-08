@@ -1,133 +1,86 @@
-generated_at: '2026-09-07T23:02:10+00:00'
-source_date: 2026-09-07T230205Z
+generated_at: '2026-09-08T23:02:21+00:00'
+source_date: 2026-09-08T230214Z
 window_hours: 72
 items:
 - rank: 1
-  title: 국민 10명 중 5명 "호르무즈 파병 정부대응, 잘못하고 있다"[개혁신당 여...
+  title: 과방위, '이해충돌 논란' 이진숙 회피 촉구 결의안 민주당 주도 의결
   status: 정식 검토
   score: 9
   summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
     outlet_count: 18
-    public_actor: 개혁신당, 국민의힘, 대변인, 정부
+    public_actor: 국회, 민주당, 의원
   sources:
-  - title: 국민의힘 장동혁·정점식 “이재명 정부 국정 참사, 개각 철회하라”
-    url: http://www.breaknews.com/1234800
-  - title: 국민 50.9%, 李정부 파병 대응 ‘부정 평가’ [개혁신당 여론조사]
-    url: https://www.dt.co.kr/article/12082614?ref=naver
-  - title: '[뉴스하이킥] 박원석 "한동훈 폭로에도 결론은 기소유예…''김승원 수사...'
-    url: https://n.news.naver.com/mnews/article/214/0001522540?sid=100
+  - title: 과방위 "스컹크" 설전‥'이진숙 회피 결의안' 의결
+    url: https://imnews.imbc.com/replay/2026/nwdesk/article/6850465_37004.html
+  - title: 과방위, '이진숙 회피 촉구' 결의안 민주 주도 의결
+    url: https://www.nocutnews.co.kr/news/6575139?utm_source=naver&utm_medium=article&utm_campaign=20260908074945
+  - title: '''이진숙 이해충돌'' 파행 과방위, 3주 만에 재개하자마자 충돌'
+    url: https://www.idaegu.co.kr/news/articleView.html?idxno=558995
 - rank: 2
-  title: 국민 과반, 여론조사서 "정부, 호르무즈 파병 대응 잘못하고 있다"
+  title: 이헌욱 부동산원장 “정부 공급대책 신속한 현장 실행 지원”
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 18
-    public_actor: 개혁신당, 국민의힘, 대변인, 정부
+    outlet_count: 19
+    public_actor: 정부
   sources:
-  - title: 국민의힘 장동혁·정점식 “이재명 정부 국정 참사, 개각 철회하라”
-    url: http://www.breaknews.com/1234800
-  - title: 국민 50.9%, 李정부 파병 대응 ‘부정 평가’ [개혁신당 여론조사]
-    url: https://www.dt.co.kr/article/12082614?ref=naver
-  - title: '[뉴스하이킥] 박원석 "한동훈 폭로에도 결론은 기소유예…''김승원 수사...'
-    url: https://n.news.naver.com/mnews/article/214/0001522540?sid=100
+  - title: '[Who Is ?] 노동진 수협중앙회 회장'
+    url: https://www.businesspost.co.kr/BP?command=article_view&num=445939
+  - title: 이헌욱 부동산원 원장 “정비사업 병목 해소 집중”
+    url: https://www.seoul.co.kr/news/peoples/2026/09/09/20260909023005?wlog_tag3=naver
+  - title: '"정부 공급대책 현장 신속한 실행 뒷받침"'
+    url: https://www.fnnews.com/news/202609081838237999
 - rank: 3
-  title: 국민 절반 "정부의 호르무즈 파병 대응 잘못"…軍 병력 파병 34.9% [개혁...
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  title: '"김현지·브로커 모두 국회 불러야"…국힘, 與에 ''김승원·용혜인 인사 논란'' 맹공'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 18
-    public_actor: 개혁신당, 국민의힘, 대변인, 정부
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회
   sources:
-  - title: 국민의힘 장동혁·정점식 “이재명 정부 국정 참사, 개각 철회하라”
-    url: http://www.breaknews.com/1234800
-  - title: 국민 50.9%, 李정부 파병 대응 ‘부정 평가’ [개혁신당 여론조사]
-    url: https://www.dt.co.kr/article/12082614?ref=naver
-  - title: '[뉴스하이킥] 박원석 "한동훈 폭로에도 결론은 기소유예…''김승원 수사...'
-    url: https://n.news.naver.com/mnews/article/214/0001522540?sid=100
+  - title: '"김현지·브로커 모두 국회 불러야"…국힘, 與에 ''김승원·용혜인 인사 ...'
+    url: https://www.ikbc.co.kr/article/view/kbc202609080067
 - rank: 4
-  title: ‘가족정당’ 논란 중에…용혜인 남편, 최고위원 입성
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 6건, 매체 6곳에서 확인된 공적 쟁점입니다.
+  title: '[뉴스AS] 정부 거듭 해명에도…미래대응기금 ''쌈짓돈'' 논란 왜 계속'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 6
-    outlet_count: 6
-    public_actor: 장관
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
   sources:
-  - title: '[단독] 與지도부, 靑에 ‘용혜인 부적격’ 의견 전달'
-    url: https://www.chosun.com/politics/politics_general/2026/09/08/AL4AJ2HZCRBCHBBDIQF3JMPWYY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
-  - title: ‘가족정당’ 논란 중에…용혜인 남편, 최고위원 입성
-    url: https://www.joongang.co.kr/article/25459913
-  - title: 기본소득당 새 지도부, '용혜인 장관' 지원 사격…TK 비판 확산
-    url: https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083397
+  - title: '[뉴스AS] 정부 거듭 해명에도…미래대응기금 ‘쌈짓돈’ 논란 왜 계속'
+    url: https://www.hani.co.kr/arti/economy/economy_general/1276904.html
 - rank: 5
-  title: '''집값 잡겠다며 국민 잡는 부동산 대책'' 세미나'
-  status: 기존 이슈와 함께 검토
-  score: 7
-  summary: 최근 보도 13건, 매체 9곳에서 확인된 공적 쟁점입니다.
+  title: 구글, 불법촬영 피해자 정보 외부 노출 논란…정부 "삭제 요청 중단"
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 13
-    outlet_count: 9
-    public_actor: 국회, 장관, 정부
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
   sources:
-  - title: 김준형 교수 “중앙정부, 지자체 도시행정 개입이 엇박자 원인”
-    url: https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609071537278960980
-  - title: '"대출 조이고 공급 늘리면 중산층 집 못 사"…부동산 정책 전환 목소리'
-    url: http://www.newstomato.com/ReadNews.aspx?no=1312860&inflow=N
-  - title: '"집값 잡는다고 세금 올렸더니 월세 뛴다"…규제 역풍 경고'
-    url: https://www.newspim.com/news/view/20260907000934
-  related_issue: housing-jeonse-crisis-2026
+  - title: 구글, 불법촬영 피해자 정보 외부 노출 논란…정부 "삭제 요청 중단"
+    url: https://www.mstoday.co.kr/news/articleView.html?idxno=102532
 - rank: 6
-  title: 경찰, 1년 만에 김병기 구속영장 신청....'늑장수사' 논란 속 민주당 선택 주목
+  title: 여야 7개 정당, 9일 부동산 정책토론…집값·공급대책 논의
   status: 추가 확인
   score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 민주당
+    news_count: 2
+    outlet_count: 2
+    public_actor: 확인 중
   sources:
-  - title: 경찰, 1년 만에 김병기 구속영장 신청....'늑장수사' 논란 속 민주당 선...
-    url: https://www.straightnews.co.kr/news/articleView.html?idxno=310557
-- rank: 7
-  title: 이진숙 논란 이어가는 민주당, 과방위 사보임 촉구
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 민주당
-  sources:
-  - title: 이진숙 논란 이어가는 민주당, 과방위 사보임 촉구
-    url: https://www.kbmaeil.com/article/20260907500425
-- rank: 8
-  title: 정부는 미래대응기금 관련, 지방교부세 관련 조항을 원점에서 재검토하라!
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: '''미래기금 불똥'' 대구·경북, 교부세 6조 깎인다'
-    url: https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083462
-- rank: 9
-  title: LH '사내 대출' 공정성 논란 … 정부 기준과 '엇박자'
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: LH '사내 대출' 공정성 논란 … 정부 기준과 '엇박자'
-    url: https://www.safetimes.co.kr/news/articleView.html?idxno=245497
+  - title: 여야 7개 정당, 내일 부동산 정책토론...집값·공급대책 논의
+    url: https://www.ytn.co.kr/_ln/0101_202609081147314208
+  - title: 여야 7개 정당, 9일 부동산 정책토론…집값·공급대책 논의
+    url: https://www.news1.kr/politics/assembly/6283285
