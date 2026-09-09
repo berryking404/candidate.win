@@ -1,41 +1,49 @@
-generated_at: '2026-09-08T23:02:21+00:00'
-source_date: 2026-09-08T230214Z
+generated_at: '2026-09-09T23:02:37+00:00'
+source_date: 2026-09-09T230231Z
 window_hours: 72
 items:
 - rank: 1
-  title: 과방위, '이해충돌 논란' 이진숙 회피 촉구 결의안 민주당 주도 의결
+  title: '''문신 논란'' 기본소득당 김진서, 긴팔 입고 국회 등장'
   status: 정식 검토
   score: 9
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 18
-    public_actor: 국회, 민주당, 의원
+    news_count: 3
+    outlet_count: 3
+    public_actor: 국회, 대변인
   sources:
-  - title: 과방위 "스컹크" 설전‥'이진숙 회피 결의안' 의결
-    url: https://imnews.imbc.com/replay/2026/nwdesk/article/6850465_37004.html
-  - title: 과방위, '이진숙 회피 촉구' 결의안 민주 주도 의결
-    url: https://www.nocutnews.co.kr/news/6575139?utm_source=naver&utm_medium=article&utm_campaign=20260908074945
-  - title: '''이진숙 이해충돌'' 파행 과방위, 3주 만에 재개하자마자 충돌'
-    url: https://www.idaegu.co.kr/news/articleView.html?idxno=558995
+  - title: '''문신 논란'' 기본소득당 김진서, 긴팔 입고 국회 등장'
+    url: https://www.gukjenews.com/news/articleView.html?idxno=3690301
+  - title: 기본소득당 부대변인 '문신' 논란... "가리고 나왔어야 vs 무슨 상관"
+    url: https://www.insight.co.kr/news/572614
+  - title: 기본소득당 부대변인 꽃 문신 논란…"긴팔 입었어야" vs "개인 선택 존중...
+    url: https://www.news1.kr/politics/general-politics/6284373
 - rank: 2
-  title: 이헌욱 부동산원장 “정부 공급대책 신속한 현장 실행 지원”
+  title: '[현장연결] 국회 대정부질문 첫날…김승원 논란 전방위 충돌'
   status: 정식 검토
   score: 7
-  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 19
-    public_actor: 정부
+    news_count: 2
+    outlet_count: 2
+    public_actor: 국회, 정부
   sources:
-  - title: '[Who Is ?] 노동진 수협중앙회 회장'
-    url: https://www.businesspost.co.kr/BP?command=article_view&num=445939
-  - title: 이헌욱 부동산원 원장 “정비사업 병목 해소 집중”
-    url: https://www.seoul.co.kr/news/peoples/2026/09/09/20260909023005?wlog_tag3=naver
-  - title: '"정부 공급대책 현장 신속한 실행 뒷받침"'
-    url: https://www.fnnews.com/news/202609081838237999
+  - title: '[대정부질문] "한동훈-김승원 수사 자료유출" 정면충돌....윤호중 "경찰...'
+    url: https://www.polinews.co.kr/news/articleView.html?idxno=742672
+  - title: '[현장연결] 국회 대정부질문 첫날…김승원 논란 전방위 충돌'
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260909155818oZ7
 - rank: 3
-  title: '"김현지·브로커 모두 국회 불러야"…국힘, 與에 ''김승원·용혜인 인사 논란'' 맹공'
+  title: 여야, 개각·사법개혁·5·18 논란까지 전면 충돌… 국회 대정부질문 파열음
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 0
+    outlet_count: 0
+    public_actor: 국회, 정부
+  sources: []
+- rank: 4
+  title: 김진서, 국회 회견 문신 노출 사과…"개인 이슈로 논란 송구"
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -44,22 +52,10 @@ items:
     outlet_count: 1
     public_actor: 국회
   sources:
-  - title: '"김현지·브로커 모두 국회 불러야"…국힘, 與에 ''김승원·용혜인 인사 ...'
-    url: https://www.ikbc.co.kr/article/view/kbc202609080067
-- rank: 4
-  title: '[뉴스AS] 정부 거듭 해명에도…미래대응기금 ''쌈짓돈'' 논란 왜 계속'
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: '[뉴스AS] 정부 거듭 해명에도…미래대응기금 ‘쌈짓돈’ 논란 왜 계속'
-    url: https://www.hani.co.kr/arti/economy/economy_general/1276904.html
+  - title: 김진서, 국회 회견 문신 노출 사과…"개인 이슈로 논란 송구"
+    url: https://www.fnnews.com/news/202609092258330323
 - rank: 5
-  title: 구글, 불법촬영 피해자 정보 외부 노출 논란…정부 "삭제 요청 중단"
+  title: 김형동 "미래대응기금, 정부 지지율 더 떨어질 것" 행정통합엔 부정적
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -68,19 +64,29 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: 구글, 불법촬영 피해자 정보 외부 노출 논란…정부 "삭제 요청 중단"
-    url: https://www.mstoday.co.kr/news/articleView.html?idxno=102532
+  - title: 김형동 "미래대응기금, 정부 지지율 더 떨어질 것" 행정통합엔 부정적
+    url: https://www.nocutnews.co.kr/news/6575839?utm_source=naver&utm_medium=article&utm_campaign=20260909073358
 - rank: 6
-  title: 여야 7개 정당, 9일 부동산 정책토론…집값·공급대책 논의
+  title: '[뉴스AS] 정부 해명에도…계속되는 미래대응기금 ‘쌈짓돈 논란’'
   status: 추가 확인
   score: 4
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 확인 중
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
   sources:
-  - title: 여야 7개 정당, 내일 부동산 정책토론...집값·공급대책 논의
-    url: https://www.ytn.co.kr/_ln/0101_202609081147314208
-  - title: 여야 7개 정당, 9일 부동산 정책토론…집값·공급대책 논의
-    url: https://www.news1.kr/politics/assembly/6283285
+  - title: '[뉴스AS] 정부 해명에도…계속되는 미래대응기금 ‘쌈짓돈 논란’'
+    url: https://www.hani.co.kr/arti/economy/economy_general/1276904.html
+- rank: 7
+  title: 유엔 권고 ‘이퀄 어스 지도’ 대부분 동해를 일본해로 표기… 정부 대응 필요
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 유엔이 권고한 새 세계지도…日 ‘영토 색깔’에 발끈
+    url: https://www.kmib.co.kr/article/view.asp?arcid=9000010534&cp=nv
