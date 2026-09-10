@@ -1,49 +1,41 @@
-generated_at: '2026-09-09T23:02:37+00:00'
-source_date: 2026-09-09T230231Z
+generated_at: '2026-09-10T23:02:02+00:00'
+source_date: 2026-09-10T230158Z
 window_hours: 72
 items:
 - rank: 1
-  title: '''문신 논란'' 기본소득당 김진서, 긴팔 입고 국회 등장'
+  title: 국회 외교·안보분야 대정부질문, 호르무즈 파병·한미동맹 등 치열한 공방
   status: 정식 검토
   score: 9
   summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 3
     outlet_count: 3
-    public_actor: 국회, 대변인
+    public_actor: 국회, 정부
   sources:
-  - title: '''문신 논란'' 기본소득당 김진서, 긴팔 입고 국회 등장'
-    url: https://www.gukjenews.com/news/articleView.html?idxno=3690301
-  - title: 기본소득당 부대변인 '문신' 논란... "가리고 나왔어야 vs 무슨 상관"
-    url: https://www.insight.co.kr/news/572614
-  - title: 기본소득당 부대변인 꽃 문신 논란…"긴팔 입었어야" vs "개인 선택 존중...
-    url: https://www.news1.kr/politics/general-politics/6284373
+  - title: 국회 외교·안보분야 대정부질문, 호르무즈 파병·한미동맹 등 치열한 ...
+    url: https://www.ksilbo.co.kr/news/articleView.html?idxno=1066950
+  - title: 여야 대정부질문 이틀째 격돌…“호르무즈 파병 신중”·“골다공증 군...
+    url: https://biz.heraldcorp.com/article/10869692?ref=naver
+  - title: 여야 대정부질문 이틀째 격돌…"파병 신중"·"골다공증 군대"
+    url: https://www.yna.co.kr/view/AKR20260910155500001?input=1195m
 - rank: 2
-  title: '[현장연결] 국회 대정부질문 첫날…김승원 논란 전방위 충돌'
+  title: 국회사무처 “국회가 혐오·갈등의 장으로 변질… 깊은 유감”
   status: 정식 검토
   score: 7
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 국회, 정부
+    news_count: 3
+    outlet_count: 3
+    public_actor: 국회
   sources:
-  - title: '[대정부질문] "한동훈-김승원 수사 자료유출" 정면충돌....윤호중 "경찰...'
-    url: https://www.polinews.co.kr/news/articleView.html?idxno=742672
-  - title: '[현장연결] 국회 대정부질문 첫날…김승원 논란 전방위 충돌'
-    url: http://www.yonhapnewstv.co.kr/news/MYH20260909155818oZ7
+  - title: 국회사무처, 이진숙 주최 집회에 “5·18 왜곡 유감…재발 방지책 강구...
+    url: https://www.segye.com/newsView/20260911500422?OutUrl=naver
+  - title: 국회 사무처 "국회가 극단적 혐오, 갈등 공간 변질된 것 유감"
+    url: https://www.goodmorningcc.com/news/articleView.html?idxno=452192
+  - title: 국회사무처, 이진숙 주최 집회에 “국회, 극단적 혐오·갈등 공간으로 ...
+    url: https://www.joongang.co.kr/article/25460936
 - rank: 3
-  title: 여야, 개각·사법개혁·5·18 논란까지 전면 충돌… 국회 대정부질문 파열음
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 0
-    outlet_count: 0
-    public_actor: 국회, 정부
-  sources: []
-- rank: 4
-  title: 김진서, 국회 회견 문신 노출 사과…"개인 이슈로 논란 송구"
+  title: '[종합] 용혜인, 인청사무실 아닌 국회서 자질 논란 반박..."전문성 부족은 단편적 지적"'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -52,34 +44,58 @@ items:
     outlet_count: 1
     public_actor: 국회
   sources:
-  - title: 김진서, 국회 회견 문신 노출 사과…"개인 이슈로 논란 송구"
-    url: https://www.fnnews.com/news/202609092258330323
+  - title: '[종합] 용혜인, 인청사무실 아닌 국회서 자질 논란 반박..."전문성 부족...'
+    url: https://www.newspim.com/news/view/20260910001093
+- rank: 4
+  title: '''빠루 국회''가 낳은 위성정당의 딜레마…''용혜인 논란''이 던진 질문 [취재파일]'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회
+  sources:
+  - title: '''빠루 국회''가 낳은 위성정당의 딜레마…''용혜인 논란''이 던진 질문 [취...'
+    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008746508&plink=ORI&cooper=NAVER
 - rank: 5
-  title: 김형동 "미래대응기금, 정부 지지율 더 떨어질 것" 행정통합엔 부정적
+  title: '[현장] 한동훈 "총리실이 사찰"...''일반인'' 자처한 총리실 과장에 국회 공방 확산'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 정부
+    public_actor: 국회
   sources:
-  - title: 김형동 "미래대응기금, 정부 지지율 더 떨어질 것" 행정통합엔 부정적
-    url: https://www.nocutnews.co.kr/news/6575839?utm_source=naver&utm_medium=article&utm_campaign=20260909073358
+  - title: '[현장] 한동훈 "총리실이 사찰"...''일반인'' 자처한 총리실 과장에 국회 ...'
+    url: https://www.news2day.co.kr/article/20260911500010
 - rank: 6
-  title: '[뉴스AS] 정부 해명에도…계속되는 미래대응기금 ‘쌈짓돈 논란’'
+  title: 세이브더칠드런, “아동을 가둘 것인가 보호할 것인가”…이주아동 구금 논란 국회로
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 정부
+    public_actor: 국회
   sources:
-  - title: '[뉴스AS] 정부 해명에도…계속되는 미래대응기금 ‘쌈짓돈 논란’'
-    url: https://www.hani.co.kr/arti/economy/economy_general/1276904.html
+  - title: 세이브더칠드런, "아동을 가둘 것인가 보호할 것인가"…이주아동 구금 ...
+    url: https://www.ngonews.kr/news/articleView.html?idxno=237814
 - rank: 7
-  title: 유엔 권고 ‘이퀄 어스 지도’ 대부분 동해를 일본해로 표기… 정부 대응 필요
+  title: '[국회 현장] ‘의혹 공세’ 용혜인, 국회서 작심 반격'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회
+  sources:
+  - title: '[국회 현장] 용혜인, 의혹 총공세에 작심 반격'
+    url: http://www.00news.co.kr/news/articleView.html?idxno=106492
+- rank: 8
+  title: 트럼프 정부 "인구조사서 이민자·유학생 빼야"
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -88,5 +104,29 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: 유엔이 권고한 새 세계지도…日 ‘영토 색깔’에 발끈
-    url: https://www.kmib.co.kr/article/view.asp?arcid=9000010534&cp=nv
+  - title: 트럼프 정부 “인구조사서 이민자·유학생 빼야”
+    url: https://www.chosun.com/international/us/2026/09/11/OBKZ6LVIVJFZ5BF2TXR2QIUT4E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+- rank: 9
+  title: 국회, 부동산 정책과 162조 미래대응기금 논쟁의 전말은?
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회
+  sources:
+  - title: 국회, 부동산 정책과 162조 미래대응기금 논쟁의 전말은?
+    url: https://www.gokorea.kr/news/articleView.html?idxno=877988
+- rank: 10
+  title: '"진선미 의원, 조희대 탄핵에 동참해야"'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 의원
+  sources:
+  - title: '"진선미 의원, 조희대 탄핵에 동참해야"'
+    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003266192&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
