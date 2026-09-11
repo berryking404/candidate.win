@@ -1,25 +1,9 @@
-generated_at: '2026-09-10T23:02:02+00:00'
-source_date: 2026-09-10T230158Z
+generated_at: '2026-09-11T23:02:41+00:00'
+source_date: 2026-09-11T230235Z
 window_hours: 72
 items:
 - rank: 1
-  title: 국회 외교·안보분야 대정부질문, 호르무즈 파병·한미동맹 등 치열한 공방
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 국회, 정부
-  sources:
-  - title: 국회 외교·안보분야 대정부질문, 호르무즈 파병·한미동맹 등 치열한 ...
-    url: https://www.ksilbo.co.kr/news/articleView.html?idxno=1066950
-  - title: 여야 대정부질문 이틀째 격돌…“호르무즈 파병 신중”·“골다공증 군...
-    url: https://biz.heraldcorp.com/article/10869692?ref=naver
-  - title: 여야 대정부질문 이틀째 격돌…"파병 신중"·"골다공증 군대"
-    url: https://www.yna.co.kr/view/AKR20260910155500001?input=1195m
-- rank: 2
-  title: 국회사무처 “국회가 혐오·갈등의 장으로 변질… 깊은 유감”
+  title: 韓총리, 용혜인 질문에 "여러 비판 잘 안다…국회의 시간 남아"
   status: 정식 검토
   score: 7
   summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
@@ -28,50 +12,78 @@ items:
     outlet_count: 3
     public_actor: 국회
   sources:
-  - title: 국회사무처, 이진숙 주최 집회에 “5·18 왜곡 유감…재발 방지책 강구...
-    url: https://www.segye.com/newsView/20260911500422?OutUrl=naver
-  - title: 국회 사무처 "국회가 극단적 혐오, 갈등 공간 변질된 것 유감"
-    url: https://www.goodmorningcc.com/news/articleView.html?idxno=452192
-  - title: 국회사무처, 이진숙 주최 집회에 “국회, 극단적 혐오·갈등 공간으로 ...
-    url: https://www.joongang.co.kr/article/25460936
+  - title: 한 총리, 용혜인 논란 묻자 "여러 비판 잘 안다‥국회의 시간 남아"
+    url: https://imnews.imbc.com/news/2026/politics/article/6851247_36911.html
+  - title: 韓총리, 용혜인 질문에 "여러 비판 잘 안다…국회의 시간 남아"
+    url: https://www.yna.co.kr/view/AKR20260911136900001?input=1195m
+  - title: '''오빠 달려갈게''·''레드팀'' 논란…흔들리는 인사 검증, 현 정권 딜레마...'
+    url: https://news.ifm.kr/news/articleView.html?idxno=479073
+- rank: 2
+  title: 이진숙 국회 집회에 ‘李대통령 영정사진’ 논란
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 12건, 매체 12곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 12
+    outlet_count: 12
+    public_actor: 국회
+  sources:
+  - title: 李 '영정사진' 비판받은 이진숙…'윤석열 참수' 사진 꺼내 맞불
+    url: http://weekly.chosun.com/news/articleView.html?idxno=55221
+  - title: '"살아있는 대통령 영정사진을!" 與 비판에 이진숙, ''윤석열 참수'' 맞불'
+    url: https://www.imaeil.com/page/view/2026091119011640715
+  - title: 이진숙 국회 집회서 '李대통령 영정'…與 "제 정신인가" "그냥 안둘 것"
+    url: https://www.slist.kr/news/articleView.html?idxno=765519
 - rank: 3
-  title: '[종합] 용혜인, 인청사무실 아닌 국회서 자질 논란 반박..."전문성 부족은 단편적 지적"'
+  title: 이 대통령 "개인정보 유출 엄정 책임"
   status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  score: 6
+  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
+    news_count: 20
+    outlet_count: 19
+    public_actor: 확인 중
   sources:
-  - title: '[종합] 용혜인, 인청사무실 아닌 국회서 자질 논란 반박..."전문성 부족...'
-    url: https://www.newspim.com/news/view/20260910001093
+  - title: 李 “韓, 2060년 세계서 노인비율 가장 높아져… 인구정책 전면 전환 필...
+    url: https://www.donga.com/news/Politics/article/all/20260911/134653764/2
+  - title: 李대통령 ‘티빙 개인정보 유출’ 정조준…기업 보안책임 강화되나
+    url: https://www.asiatime.co.kr/article/20260911500369
+  - title: 靑, '용혜인 논란'에 "국민 설명 기회 있어야"
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260911204135RMg
 - rank: 4
-  title: '''빠루 국회''가 낳은 위성정당의 딜레마…''용혜인 논란''이 던진 질문 [취재파일]'
+  title: 李대통령, 티빙 개인정보 유출에 "엄정 책임"…보안 제도개선 주문
   status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  score: 6
+  summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
+    news_count: 4
+    outlet_count: 4
+    public_actor: 확인 중
   sources:
-  - title: '''빠루 국회''가 낳은 위성정당의 딜레마…''용혜인 논란''이 던진 질문 [취...'
-    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008746508&plink=ORI&cooper=NAVER
+  - title: 李 대통령, 인구정책 전면 전환 주문…개인정보 유출엔 "엄정 책임"
+    url: http://www.iminju.net/news/articleView.html?idxno=169419
+  - title: 李대통령, 티빙 개인정보 4000만건 유출에 "법·원칙 따라 엄정 책임"
+    url: https://www.ajunews.com/view/20260911152508308
+  - title: 李대통령, 티빙 개인정보 유출에 "법·원칙 따라 엄정 책임 물어야"
+    url: https://www.newsworks.co.kr/news/articleView.html?idxno=853460
 - rank: 5
-  title: '[현장] 한동훈 "총리실이 사찰"...''일반인'' 자처한 총리실 과장에 국회 공방 확산'
+  title: 李대통령, 티빙 개인정보 유출에 “엄정 책임…국가안보 관점 대응”
   status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  score: 6
+  summary: 최근 보도 19건, 매체 19곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
+    news_count: 19
+    outlet_count: 19
+    public_actor: 확인 중
   sources:
-  - title: '[현장] 한동훈 "총리실이 사찰"...''일반인'' 자처한 총리실 과장에 국회 ...'
-    url: https://www.news2day.co.kr/article/20260911500010
+  - title: 이 대통령 "개인정보 유출 엄정 책임"
+    url: https://www.safetimes.co.kr/news/articleView.html?idxno=245654
+  - title: 李 "개인정보 보안, 국가안보 문제"...기업 책임 강화 주문
+    url: http://www.enewstoday.co.kr/news/articleView.html?idxno=2469641
+  - title: 이 대통령, 티빙 개인정보 유출 사고 겨냥 "엄정한 책임 물어야"
+    url: https://www.wikitree.co.kr/articles/1158912
 - rank: 6
-  title: 세이브더칠드런, “아동을 가둘 것인가 보호할 것인가”…이주아동 구금 논란 국회로
+  title: “살아있는 대통령 영정사진으로 국회서 저주의 굿판”…이진숙 또 논란
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -80,10 +92,10 @@ items:
     outlet_count: 1
     public_actor: 국회
   sources:
-  - title: 세이브더칠드런, "아동을 가둘 것인가 보호할 것인가"…이주아동 구금 ...
-    url: https://www.ngonews.kr/news/articleView.html?idxno=237814
+  - title: “살아있는 대통령 영정사진으로 국회서 저주의 굿판”…이진숙 또 논란
+    url: https://weekly.khan.co.kr/article/202609111708001
 - rank: 7
-  title: '[국회 현장] ‘의혹 공세’ 용혜인, 국회서 작심 반격'
+  title: 또 '5·18 폄훼 논란' 이진숙, 이번엔 국회 본청 앞에서…사무처 "깊은 유감"
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -92,10 +104,22 @@ items:
     outlet_count: 1
     public_actor: 국회
   sources:
-  - title: '[국회 현장] 용혜인, 의혹 총공세에 작심 반격'
-    url: http://www.00news.co.kr/news/articleView.html?idxno=106492
+  - title: 또 '5·18 폄훼 논란' 이진숙, 이번엔 국회 본청 앞에서…사무처 "깊은 ...
+    url: https://www.nocutnews.co.kr/news/6576915?utm_source=naver&utm_medium=article&utm_campaign=20260911033320
 - rank: 8
-  title: 트럼프 정부 "인구조사서 이민자·유학생 빼야"
+  title: 이진숙 국회 집회 논란…5·18·이재명 영정 두고 여야 공방
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회
+  sources:
+  - title: '''영정 집회'' 이진숙에 與 총공세'
+    url: http://www.00news.co.kr/news/articleView.html?idxno=106521
+- rank: 9
+  title: 김윤덕 “尹정부 3~4년간 주택공급 절벽”…부동산 논란 ‘尹탓’
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -104,29 +128,17 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: 트럼프 정부 “인구조사서 이민자·유학생 빼야”
-    url: https://www.chosun.com/international/us/2026/09/11/OBKZ6LVIVJFZ5BF2TXR2QIUT4E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
-- rank: 9
-  title: 국회, 부동산 정책과 162조 미래대응기금 논쟁의 전말은?
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
-  sources:
-  - title: 국회, 부동산 정책과 162조 미래대응기금 논쟁의 전말은?
-    url: https://www.gokorea.kr/news/articleView.html?idxno=877988
+  - title: 김윤덕 “尹정부 3~4년간 주택공급 절벽”…부동산 논란 ‘尹탓’
+    url: https://www.joongang.co.kr/article/25461152
 - rank: 10
-  title: '"진선미 의원, 조희대 탄핵에 동참해야"'
+  title: 정부 '성범죄 피해정보 유출' 구글 고발… "위법 시 법적 책임"
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 의원
+    public_actor: 정부
   sources:
-  - title: '"진선미 의원, 조희대 탄핵에 동참해야"'
-    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003266192&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+  - title: 정부 '성범죄 피해정보 유출' 구글 고발… "위법 시 법적 책임"
+    url: https://www.newscj.com/news/articleView.html?idxno=3431866
