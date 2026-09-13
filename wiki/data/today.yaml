@@ -1,105 +1,113 @@
-generated_at: '2026-09-12T23:06:25+00:00'
-source_date: 2026-09-12T230622Z
+generated_at: '2026-09-13T23:02:06+00:00'
+source_date: 2026-09-13T230201Z
 window_hours: 72
 items:
 - rank: 1
-  title: 경찰 내부망 개인정보 유출하고 금품 받은 현직 경찰관 검거
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 15건, 매체 15곳에서 확인된 공적 쟁점입니다.
+  title: 국회, 교육·사회·문화 분야 대정부 질문…용혜인 사퇴·김승원 의혹 공방
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 15
-    outlet_count: 15
-    public_actor: 확인 중
+    news_count: 3
+    outlet_count: 3
+    public_actor: 국회, 정부
   sources:
-  - title: 현직 경찰관, 내부망 개인정보 팔아 돈 챙긴 혐의로 체포
-    url: https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260912508&PRO_CODE=99
-  - title: '[속보] 돈 받고 개인정보 유출한 현직 경찰관 체포'
-    url: https://www.busan.com/view/busan/view.php?code=2026091215322809794
-  - title: 경찰 내부망 개인정보 유출하고 금품 받은 현직 경찰관 검거
-    url: https://www.kwnews.co.kr/article/20260912500114
+  - title: '[언주로 칼럼] 수첩에 갇힌 정치'
+    url: https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609131533323770793
+  - title: 정기국회 대정부질문 마지막날…'용혜인 낙마' 인사 책임론 공방 전망
+    url: https://www.news1.kr/politics/assembly/6288883
+  - title: 국회, 교육·사회·문화 분야 대정부 질문…용혜인 사퇴·김승원 의혹 공...
+    url: https://www.newsis.com/view/NISX20260913_0003787311
 - rank: 2
-  title: 돈 받고 경찰 내부망 개인정보 유출한 경기북부 경찰관 검거
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 19건, 매체 19곳에서 확인된 공적 쟁점입니다.
+  title: 김승원 법무부 장관 후보자 논란, 이재명 정부 운명 결정하는가
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 19
-    outlet_count: 19
-    public_actor: 확인 중
+    news_count: 3
+    outlet_count: 3
+    public_actor: 장관, 정부
   sources:
-  - title: 현직 경찰관, 내부망 개인정보 팔아 돈 챙긴 혐의로 체포
-    url: https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260912508&PRO_CODE=99
-  - title: '[속보] 돈 받고 개인정보 유출한 현직 경찰관 체포'
-    url: https://www.busan.com/view/busan/view.php?code=2026091215322809794
-  - title: 내부망 개인정보 팔아넘긴 현직 경찰관 체포
-    url: https://view.asiae.co.kr/article/2026091217425569111
+  - title: '[김능구·황장수의 닥터둠의 전망 9월②] ''수평적 당청'' 외친 김민석......'
+    url: https://www.polinews.co.kr/news/articleView.html?idxno=742891
+  - title: 김승원 법무부 장관 후보자 논란, 이재명 정부 운명 결정하는가
+    url: https://www.gokorea.kr/news/articleView.html?idxno=878203
+  - title: '[전운의 세상읽기] 이재명 대통령에게 드리는 고언 -권력을 비추는 15개...'
+    url: https://www.ajunews.com/view/20260913130759986
 - rank: 3
-  title: ‘돈 받고 개인정보 유출 혐의’ 경기북부 경찰관 체포
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 20건, 매체 20곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 20
-    public_actor: 확인 중
-  sources:
-  - title: 현직 경찰관, 내부망 개인정보 팔아 돈 챙긴 혐의로 체포
-    url: https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260912508&PRO_CODE=99
-  - title: '[속보] 돈 받고 개인정보 유출한 현직 경찰관 체포'
-    url: https://www.busan.com/view/busan/view.php?code=2026091215322809794
-  - title: 내부망 개인정보 팔아넘긴 현직 경찰관 체포
-    url: https://view.asiae.co.kr/article/2026091217425569111
-- rank: 4
-  title: 염태영 의원, 다가구주택 전세사기 피해자 보호 위한 '전세사기피해자법' 개정안 대표발의
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 0
-    outlet_count: 0
-    public_actor: 대표, 의원
-  sources: []
-- rank: 5
-  title: 민주당 “용혜인 논란에 청년 여론 들끓어”···13일 고위당정서 ‘대응 논의’
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 민주당
-  sources:
-  - title: 민주당 “용혜인 논란에 청년 여론 들끓어”···13일 고위당정서 ‘대...
-    url: https://www.khan.co.kr/article/202609121332001
-- rank: 6
-  title: 민주당 "용혜인 논란, 청년 여론 들끓어"‥내일 고위당정 논의 가능성
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 민주당
-  sources:
-  - title: 민주당 "용혜인 논란, 청년 여론 들끓어"‥내일 고위당정 논의 가능성
-    url: https://imnews.imbc.com/news/2026/politics/article/6851367_36911.html
-- rank: 7
-  title: 경찰 내부망 개인정보 또 유출‥30대 현직 경찰관 체포
-  status: 추가 확인
-  score: 4
+  title: 강원 의원들, 16일 국회 청문회서 홍지선·강신철 집중 검증
+  status: 정식 검토
+  score: 7
   summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 2
     outlet_count: 2
+    public_actor: 국회, 의원
+  sources:
+  - title: 강원 여야 '인사청문 슈퍼위크' 추석 민심 선점전
+    url: https://www.kado.net/news/articleView.html?idxno=2072328
+  - title: 강원 의원들, 16일 국회 청문회서 홍지선·강신철 집중 검증
+    url: https://www.kwnews.co.kr/article/20260913500967
+- rank: 4
+  title: 162조 미래대응기금,‘정부 쌈짓돈이냐’… 국회서 정면충돌 예고
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회, 정부
+  sources:
+  - title: 162조 미래대응기금,‘정부 쌈짓돈이냐’… 국회서 정면충돌 예고
+    url: https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609111333492620637
+- rank: 5
+  title: 한국고용노동교육원, 민간사업장 대상 노사갈등 예방교육 강화
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 3
     public_actor: 확인 중
   sources:
-  - title: 경찰 내부망서 또 개인정보 유출…현직 경찰관 체포
-    url: http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5218782
-  - title: 경찰 내부망 개인정보 또 유출‥30대 현직 경찰관 체포
-    url: https://imnews.imbc.com/news/2026/society/article/6851372_36918.html
+  - title: 삼성·LG전자·LGD, '노사갈등 예방' 교육…노란봉투법·성과급 대응
+    url: http://www.inews24.com/view/2005003
+  - title: 삼성·LG·포스코 '노사갈등 예방' 나선다…노란봉투법·성과급 대응
+    url: https://www.etnews.com/20260913000045
+  - title: 고용노동교육원, 민간 노사교육 확대…노란봉투법·성과급 갈등 예방
+    url: https://www.dailian.co.kr/news/view/1689683/?sc=Naver
+- rank: 6
+  title: 고용노동교육원, 민간 노사교육 확대…노란봉투법·성과급 갈등 예방
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 3
+    public_actor: 확인 중
+  sources:
+  - title: 삼성·LG전자·LGD, '노사갈등 예방' 교육…노란봉투법·성과급 대응
+    url: http://www.inews24.com/view/2005003
+  - title: 삼성·LG·포스코 '노사갈등 예방' 나선다…노란봉투법·성과급 대응
+    url: https://www.etnews.com/20260913000045
+  - title: 고용노동교육원, 민간 노사교육 확대…노란봉투법·성과급 갈등 예방
+    url: https://www.dailian.co.kr/news/view/1689683/?sc=Naver
+- rank: 7
+  title: '"대통령, 왜 내란 세력에 업혀 전전긍긍하나"…추미애, 현 정부 작심 비판'
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 정부
+  sources:
+  - title: '"대통령, 왜 내란 세력에 업혀 전전긍긍하나"…추미애, 현 정부 작심 비...'
+    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003266932&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+  - title: 추미애 "대통령, 왜 내란세력에 업혀 전전긍긍하나"... 작심발언 쏟아냈...
+    url: https://www.insight.co.kr/news/573206
 - rank: 8
-  title: 北 미사일 발사에 국힘, 정부 안보정책 비판…“가짜 평화가 화 키워”
+  title: 외국인 연금 논란, 사회보장제도 전반 점검…정부, 수급요건 들여다본다
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -108,5 +116,17 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: 北 미사일 발사에 국힘, 정부 안보정책 비판…“가짜 평화가 화 키워”
-    url: https://www.kbmaeil.com/article/20260912500082
+  - title: 외국인 연금 논란, 사회보장제도 전반 점검…정부, 수급요건 들여다본다
+    url: http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260913.99099003939
+- rank: 9
+  title: 오바마 "AI, 제대로 대처 못하면 위험"…민주당에 대응책 촉구
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 민주당
+  sources:
+  - title: 오바마 "AI, 제대로 대처 못하면 위험"…민주당에 대응책 촉구
+    url: https://www.newsis.com/view/NISX20260913_0003787407
