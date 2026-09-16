@@ -1,164 +1,148 @@
-generated_at: '2026-09-15T23:02:22+00:00'
-source_date: 2026-09-15T230215Z
+generated_at: '2026-09-16T23:02:15+00:00'
+source_date: 2026-09-16T230206Z
 window_hours: 72
 items:
 - rank: 1
-  title: 국회, 국토·국방장관 후보 청문회…부동산의혹·정책역량 검증
+  title: 강신철 국방부장관 후보 '철거민 특공' 논란
   status: 정식 검토
   score: 9
-  summary: 최근 보도 16건, 매체 15곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 16
-    outlet_count: 15
-    public_actor: 국민의힘, 국회, 민주당, 장관
+    news_count: 20
+    outlet_count: 17
+    public_actor: 대변인, 장관, 정부
   sources:
-  - title: 여야, 홍지선·강신철 청문회… 부동산 논란 정조준
-    url: https://www.newscj.com/news/articleView.html?idxno=3433046
-  - title: 국회, 국토·국방 장관 청문회…"부동산 의혹·정책 검증"
-    url: https://www.jnilbo.com/news/articleView.html?idxno=90000065874
-  - title: '[연합뉴스 이 시각 헤드라인] - 07:30'
-    url: https://www.yna.co.kr/view/AKR20260916012900011?input=1195m
+  - title: 강신철 "철거민 특공 단어 처음 알아"…18년전 신청서엔 '신청인 강신철...
+    url: https://news.tvchosun.com/site/data/html_dir/2026/09/17/2026091790021.html
+  - title: 강신철 “철거민 특공은 정당… 동맹 강화되는 방향 전작권 전환”
+    url: https://www.seoul.co.kr/news/politics/diplomacy/2026/09/17/20260917003003?wlog_tag3=naver
+  - title: 장남 7억은 “전쟁중이라 몰라”… 철거민 딱지엔 “수십배 손해”
+    url: https://www.donga.com/news/Politics/article/all/20260917/134685091/2
 - rank: 2
-  title: 김민석, ‘탄핵 전조’ 발언 논란 커지자 “탄핵커녕 정부 흔들릴 가능...
+  title: 美하원의장, '헤그세스 탄핵 표결' 부담에 조기 휴회
   status: 정식 검토
   score: 9
-  summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 14건, 매체 10곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 4
-    outlet_count: 4
-    public_actor: 민주당, 정부
+    news_count: 14
+    outlet_count: 10
+    public_actor: 민주당, 의원, 장관
   sources:
-  - title: 김민석, ‘탄핵 전조’ 발언 논란 커지자 “탄핵커녕 정부 흔들릴 가능...
-    url: https://www.donga.com/news/Politics/article/all/20260916/134676534/2
-  - title: 국정 지지율 하락에도…김민석 “곧 바닥 임박”
-    url: https://www.sedaily.com/article/20091306?ref=naver
-  - title: '''조국·추미애''에 민주당, 술렁…''김민석 통합 리더십'' 시험대'
-    url: https://www.dailian.co.kr/news/view/1690249/?sc=Naver
+  - title: 美하원의장, '헤그세스 탄핵 표결' 부담에 조기 휴회
+    url: https://www.news1.kr/world/usa-canada/6293170
+  - title: 反트럼프 공화 의원 매시… 헤그세스 국방 탄핵 발의[지금, 이 사람]
+    url: https://www.donga.com/news/Inter/article/all/20260916/134684750/2
+  - title: 국방장관 탄핵표결 부담됐나…美공화, 하원 조기 휴회
+    url: https://www.yna.co.kr/view/AKR20260917005000071?input=1195m
 - rank: 3
-  title: 검찰개혁 충돌…‘탄핵 전조’까지 번졌다
+  title: 피해자 검찰 '영상진술' 증거능력 배제 논란에 與의원 충돌
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 19
-    public_actor: 국회, 민주당, 의원, 정부
+    news_count: 3
+    outlet_count: 3
+    public_actor: 의원
   sources:
-  - title: '"尹에게 할 극언" vs "檢개혁 맞는 말"…''추미애발 내전'' 번지는 민주당'
-    url: https://www.sisajournal.com/news/articleView.html?idxno=387335
-  - title: '공.소.취.소.포.기. 딱 이 여섯 마디다: 슬로우레터 9월16일.'
-    url: https://slownews.kr/166440
-  - title: '[손병관의 뉴스프레소] 여당 의원들, 기자회견 앞둔 대통령에 ''공소취소...'
-    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003267685&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+  - title: 檢개혁 후속법 놓고 여권 충돌… 與 김남희 “피해자 외면이 개혁이냐”
+    url: https://www.mediawatch.kr/news/article.html?no=261079
+  - title: 피해자 검찰 '영상진술' 증거능력 배제 논란에 與의원 충돌
+    url: https://www.nocutnews.co.kr/news/6579280?utm_source=naver&utm_medium=article&utm_campaign=20260916044226
+  - title: “피해자 외면이 검찰 개혁이냐”... 법사소위 與의원끼리 충돌 파행
+    url: https://www.chosun.com/politics/politics_general/2026/09/16/KRLXEDPYJBAALFNCJ3OG5MV37U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
 - rank: 4
-  title: 증인도 검증도 없었다… ‘맹탕 청문회’
+  title: 산림청, 유관기관·지방정부와 소나무재선충병 대응 강화
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 10건, 매체 10곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 16
-    public_actor: 국회, 민주당, 장관
+    news_count: 10
+    outlet_count: 10
+    public_actor: 정부
   sources:
-  - title: '[전국 주요 신문 톱뉴스](16일 조간)'
-    url: https://www.yna.co.kr/view/AKR20260916013400011?input=1195m
-  - title: '[전국 주요 신문 사설](16일 조간)'
-    url: https://www.yna.co.kr/view/AKR20260916013500011?input=1195m
-  - title: '''주객전도'' 청문회…김승원 "한동훈 자료 감찰해야" "민주주의의 적"'
-    url: https://news.tvchosun.com/site/data/html_dir/2026/09/16/2026091690018.html
+  - title: 소나무재선충병 피해 177만 그루…산림청, 국립공원·고속도로 등 공동...
+    url: https://www.youngnong.co.kr/news/articleView.html?idxno=70421
+  - title: 산림청, 소나무재선충병 막는다···범부처 협의회
+    url: http://www.paxetv.com/news/articleView.html?idxno=282127
+  - title: 산림청, 유관기관-지방정부와 손잡고 소나무재선충병 공동 대응 강화
+    url: https://www.jeonmae.co.kr/news/articleView.html?idxno=1294197
 - rank: 5
-  title: 김승원 '신약 로비 의혹' 여야 청문회 격돌 [김승원 청문회]
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 11건, 매체 8곳에서 확인된 공적 쟁점입니다.
+  title: 토마스 매시 美공화당 의원, 헤그세스 국방장관 탄핵안 표결 강행
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 11
-    outlet_count: 8
-    public_actor: 국민의힘, 민주당
+    news_count: 1
+    outlet_count: 1
+    public_actor: 의원, 장관
   sources:
-  - title: 김승원 청문회 14시간 만에 끝…신약로비·한동훈·공소취소 두고 격돌...
-    url: https://www.news1.kr/politics/assembly/6291727
-  - title: 김승원 '눈물의 청문회'...한동훈, 장외서 맹공 [이슈플러스]
-    url: https://www.ytn.co.kr/_ln/0101_202609151921356311
-  - title: 여야, ‘인사청문 슈퍼위크’ 첫날부터 곳곳서 격돌…김승원 청문회서...
-    url: https://www.kyeonggi.com/article/20260915580469
+  - title: 트럼프에 ‘배신자’ 찍힌 공화당 의원, 美국방 탄핵안 발의 파장
+    url: https://www.joongang.co.kr/article/25462261
 - rank: 6
-  title: '''조지아 구금'' 한국인들, 美정부에 법적대응'
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 19건, 매체 15곳에서 확인된 공적 쟁점입니다.
+  title: 법사위, 검찰개혁 후속법안 처리…본회의 상정
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 6건, 매체 5곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 19
-    outlet_count: 15
-    public_actor: 정부
+    news_count: 6
+    outlet_count: 5
+    public_actor: 확인 중
   sources:
-  - title: '[이시각헤드라인] 9월 16일 라이브투데이'
-    url: http://www.yonhapnewstv.co.kr/news/MYH20260916072757tah
-  - title: '''조지아 구금'' 한국인 300명, 美 정부에 법적 대응 시작'
-    url: http://www.yonhapnewstv.co.kr/news/MYH20260916062125bQV
-  - title: '[핫이슈] "영장엔 이름도 없는데 수갑·족쇄"…美 구금 韓 기술자 300명...'
-    url: https://www.the-today.com/news/articleView.html?idxno=90187
+  - title: 법사위, 검찰개혁 후속 법안 의결… 與 주도로 통과
+    url: https://biz.chosun.com/policy/politics/2026/09/16/7DFEN5W66JHUPN6QFQJI5W45CM/?utm_source=naver&utm_medium=original&utm_campaign=biz
+  - title: 법사위, 검찰개혁 후속법안 처리…본회의 상정
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260916204235GW4
+  - title: 법사위, '7대 범죄 보완수사' 중수청법 개정안 등 '검찰개혁 후속법안'...
+    url: https://www.newsis.com/view/NISX20260916_0003792756
 - rank: 7
-  title: '''조지아 구금사태'' 한국인 300여명, 트럼프 정부에 법적대응'
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 7건, 매체 7곳에서 확인된 공적 쟁점입니다.
+  title: 정책-인사 등 논란의 중심엔 부동산…李정부 주택정책 시험대
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 7
-    outlet_count: 7
+    news_count: 2
+    outlet_count: 2
     public_actor: 정부
   sources:
-  - title: '''조지아 구금사태'' 한국인 300여명, 트럼프 정부에 법적대응'
-    url: https://news.jtbc.co.kr/article/NB12318537?influxDiv=NAVER
-  - title: 수갑·족쇄 채웠던 ‘조지아 구금’…한국인 300명, 트럼프 정부에 손배...
-    url: https://biz.heraldcorp.com/article/10874747?ref=naver
-  - title: 악몽이었던 '조지아 구금'…한국인 300명, 트럼프 행정부에 법적대응
-    url: https://www.nocutnews.co.kr/news/6578768?utm_source=naver&utm_medium=article&utm_campaign=20260916063816
+  - title: 정책-인사 등 논란의 중심엔 부동산…李정부 주택정책 시험대
+    url: http://www.metroseoul.co.kr/article/20260916500250
+  - title: '[이슈] 李대통령 지지율 30%대 추락, ''실용주의 이탈''인가 ''실용주의 한...'
+    url: https://www.polinews.co.kr/news/articleView.html?idxno=743199
 - rank: 8
-  title: 임태희 전 교육감 "사전투표 폐지·현장 수개표"…선거법 개정 국민청원
+  title: 美하원, 여당서 헤그세스 국방장관 탄핵 발의
   status: 추가 확인
-  score: 6
-  summary: 최근 보도 7건, 매체 7곳에서 확인된 공적 쟁점입니다.
+  score: 5
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 7
-    outlet_count: 7
-    public_actor: 확인 중
+    news_count: 2
+    outlet_count: 2
+    public_actor: 장관
   sources:
-  - title: 임태희, 사전투표 폐지·현장 수개표 촉구…“투표한 곳에서 개표”
-    url: https://www.donga.com/news/Society/article/all/20260915/134673212/1
-  - title: “6·3 지방선거 잘못됐다”…임태희, ‘사전투표 폐지’ 국민동의청원...
-    url: https://www.segye.com/newsView/20260915514110?OutUrl=naver
-  - title: 임태희 전 교육감 등 100명, 공직선거법 개정 국민청원
-    url: https://news.ifm.kr/news/articleView.html?idxno=479488
+  - title: '''외모 집착'' 美국방 헤그세스… "이란전쟁 불법 지속" 여당서 탄핵 추진'
+    url: https://www.hankookilbo.com/news/article/A2026091609480002396?did=NA
+  - title: 美하원, 여당서 헤그세스 국방장관 탄핵 발의
+    url: https://www.etoday.co.kr/news/view/2626229
 - rank: 9
-  title: 임태희 전 경기교육감, 공직선거법 개정 국민동의청원 추진
+  title: '[전국+] 전북 여론조작 논란, 국회로 번졌다···''선거 브로커 카르텔'' 의혹까지'
   status: 추가 확인
-  score: 6
-  summary: 최근 보도 15건, 매체 15곳에서 확인된 공적 쟁점입니다.
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 15
-    outlet_count: 15
-    public_actor: 확인 중
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회
   sources:
-  - title: 임태희 전 경기교육감, 공직선거법 개정 국민동의청원 추진
-    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008754720&plink=ORI&cooper=NAVER
-  - title: '"부실이냐, 부정이냐" 임태희, 선거제도 개선 국민청원 돌입'
-    url: https://www.edaily.co.kr/News/Read?newsId=04657606645580448&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article&returntp=election
-  - title: 임태희 전 경기도교육감, 공직선거법 개정·선거제도 개정 국민청원
-    url: https://www.kihoilbo.co.kr/news/articleView.html?idxno=3034843
+  - title: '[전국+] 전북 여론조작 논란, 국회로 번졌다···''선거 브로커 카르텔''...'
+    url: https://www.seoulfn.com/news/articleView.html?idxno=638113
 - rank: 10
-  title: 내부망 통해 개인정보 유출하고 돈 받은 경찰관 구속
+  title: '[단독] 李정부 ‘광주·전남 통합’ 후폭풍…지방중기청 통폐합 논란'
   status: 추가 확인
-  score: 6
-  summary: 최근 보도 11건, 매체 11곳에서 확인된 공적 쟁점입니다.
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 11
-    outlet_count: 11
-    public_actor: 확인 중
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
   sources:
-  - title: 내부망 통해 개인정보 유출하고 돈 받은 경찰관 구속
-    url: http://www.yonhapnewstv.co.kr/news/MYH202609160536048Kw
-  - title: “돈 받고 개인정보 유출”…경기북부 경찰관 구속
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8663981&ref=A
-  - title: 돈 받고 경찰 내부망 개인정보 유출 현직 경찰관 구속
-    url: https://www.obsnews.co.kr/news/articleView.html?idxno=1537531
+  - title: '[단독] 李정부 ‘광주·전남 통합’ 후폭풍…지방중기청 통폐합 논란'
+    url: https://biz.heraldcorp.com/article/10875613?ref=naver
