@@ -1,101 +1,69 @@
-generated_at: '2026-09-16T23:02:15+00:00'
-source_date: 2026-09-16T230206Z
+generated_at: '2026-09-17T23:02:09+00:00'
+source_date: 2026-09-17T230203Z
 window_hours: 72
 items:
 - rank: 1
-  title: 강신철 국방부장관 후보 '철거민 특공' 논란
+  title: ‘친윤검사’ 논란 중수청장 후보에 행안부 "윤 정부 때 좌천"
   status: 정식 검토
   score: 9
+  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 16
+    public_actor: 장관, 정부
+  sources:
+  - title: 개청 겨우 보름 앞인데...중수청, 수장 없는 '개문발차' 위기[여의뷰]
+    url: http://www.inews24.com/view/2006964
+  - title: 중수청장 후보자 '엄호' 나선 정부...비판은 '계속'
+    url: https://www.ytn.co.kr/_ln/0103_202609172145504663
+  - title: 행안부, 직접 나서 ‘김지용 논란’에 조목조목 해명
+    url: https://www.khan.co.kr/article/202609172109005
+- rank: 2
+  title: 김민석이 연 ‘탄핵’ 판도라… 역사 프레임은 왜 자신에게 돌아왔나[허민의 정치카페]
+  status: 정식 검토
+  score: 7
   summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
     outlet_count: 17
-    public_actor: 대변인, 장관, 정부
+    public_actor: 민주당
   sources:
-  - title: 강신철 "철거민 특공 단어 처음 알아"…18년전 신청서엔 '신청인 강신철...
-    url: https://news.tvchosun.com/site/data/html_dir/2026/09/17/2026091790021.html
-  - title: 강신철 “철거민 특공은 정당… 동맹 강화되는 방향 전작권 전환”
-    url: https://www.seoul.co.kr/news/politics/diplomacy/2026/09/17/20260917003003?wlog_tag3=naver
-  - title: 장남 7억은 “전쟁중이라 몰라”… 철거민 딱지엔 “수십배 손해”
-    url: https://www.donga.com/news/Politics/article/all/20260917/134685091/2
-- rank: 2
-  title: 美하원의장, '헤그세스 탄핵 표결' 부담에 조기 휴회
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 14건, 매체 10곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 14
-    outlet_count: 10
-    public_actor: 민주당, 의원, 장관
-  sources:
-  - title: 美하원의장, '헤그세스 탄핵 표결' 부담에 조기 휴회
-    url: https://www.news1.kr/world/usa-canada/6293170
-  - title: 反트럼프 공화 의원 매시… 헤그세스 국방 탄핵 발의[지금, 이 사람]
-    url: https://www.donga.com/news/Inter/article/all/20260916/134684750/2
-  - title: 국방장관 탄핵표결 부담됐나…美공화, 하원 조기 휴회
-    url: https://www.yna.co.kr/view/AKR20260917005000071?input=1195m
+  - title: 강성필 "두 달된 추미애, 좀 조용히 도정 집중해야"[한판승부]
+    url: https://www.nocutnews.co.kr/news/6580190?utm_source=naver&utm_medium=article&utm_campaign=20260918080042
+  - title: 李 힘 빠지자 불붙은 여권 내전…김민석 때리는 정청래·추미애·조국
+    url: https://www.sisajournal.com/news/articleView.html?idxno=387547
+  - title: 국힘 "김승원 사퇴하라" 총공세…추석 앞두고 장외투쟁 예고
+    url: https://news.jtbc.co.kr/article/NB12318944?influxDiv=NAVER
 - rank: 3
-  title: 피해자 검찰 '영상진술' 증거능력 배제 논란에 與의원 충돌
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  title: 교섭단체 '15석 vs 10석'..민주당·혁신당 공방
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 2건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 3
-    outlet_count: 3
+    news_count: 2
+    outlet_count: 1
+    public_actor: 민주당, 장관
+  sources:
+  - title: '"김승원, 장관 적임자" vs "민심이 심판할 것"'
+    url: http://www.yonhapnewstv.co.kr/news/MYH20260916163649qBm
+  - title: '"김승원 임명해야" vs "임명하면 거리로"'
+    url: http://www.yonhapnewstv.co.kr/news/MYH202609161510160Qy
+- rank: 4
+  title: '''박상용 허위고발'' 서영교 의원 논란…경찰 고발인 조사'
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
     public_actor: 의원
   sources:
-  - title: 檢개혁 후속법 놓고 여권 충돌… 與 김남희 “피해자 외면이 개혁이냐”
-    url: https://www.mediawatch.kr/news/article.html?no=261079
-  - title: 피해자 검찰 '영상진술' 증거능력 배제 논란에 與의원 충돌
-    url: https://www.nocutnews.co.kr/news/6579280?utm_source=naver&utm_medium=article&utm_campaign=20260916044226
-  - title: “피해자 외면이 검찰 개혁이냐”... 법사소위 與의원끼리 충돌 파행
-    url: https://www.chosun.com/politics/politics_general/2026/09/16/KRLXEDPYJBAALFNCJ3OG5MV37U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
-- rank: 4
-  title: 산림청, 유관기관·지방정부와 소나무재선충병 대응 강화
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 10건, 매체 10곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 10
-    outlet_count: 10
-    public_actor: 정부
-  sources:
-  - title: 소나무재선충병 피해 177만 그루…산림청, 국립공원·고속도로 등 공동...
-    url: https://www.youngnong.co.kr/news/articleView.html?idxno=70421
-  - title: 산림청, 소나무재선충병 막는다···범부처 협의회
-    url: http://www.paxetv.com/news/articleView.html?idxno=282127
-  - title: 산림청, 유관기관-지방정부와 손잡고 소나무재선충병 공동 대응 강화
-    url: https://www.jeonmae.co.kr/news/articleView.html?idxno=1294197
+  - title: '''박상용 허위고발'' 서영교 의원 논란…경찰 고발인 조사'
+    url: https://www.news1.kr/society/incident-accident/6294172
+  - title: 경찰, 서영교 ‘허위 판례’·용혜인 ‘보좌진 육아’ 의혹 수사 착수
+    url: https://www.edaily.co.kr/News/Read?newsId=04493606645581104&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 - rank: 5
-  title: 토마스 매시 美공화당 의원, 헤그세스 국방장관 탄핵안 표결 강행
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 의원, 장관
-  sources:
-  - title: 트럼프에 ‘배신자’ 찍힌 공화당 의원, 美국방 탄핵안 발의 파장
-    url: https://www.joongang.co.kr/article/25462261
-- rank: 6
-  title: 법사위, 검찰개혁 후속법안 처리…본회의 상정
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 6건, 매체 5곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 6
-    outlet_count: 5
-    public_actor: 확인 중
-  sources:
-  - title: 법사위, 검찰개혁 후속 법안 의결… 與 주도로 통과
-    url: https://biz.chosun.com/policy/politics/2026/09/16/7DFEN5W66JHUPN6QFQJI5W45CM/?utm_source=naver&utm_medium=original&utm_campaign=biz
-  - title: 법사위, 검찰개혁 후속법안 처리…본회의 상정
-    url: http://www.yonhapnewstv.co.kr/news/MYH20260916204235GW4
-  - title: 법사위, '7대 범죄 보완수사' 중수청법 개정안 등 '검찰개혁 후속법안'...
-    url: https://www.newsis.com/view/NISX20260916_0003792756
-- rank: 7
-  title: 정책-인사 등 논란의 중심엔 부동산…李정부 주택정책 시험대
+  title: 정부, 남북 민간접촉 전면허용 추진 논란
   status: 추가 확인
   score: 5
   summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
@@ -104,26 +72,12 @@ items:
     outlet_count: 2
     public_actor: 정부
   sources:
-  - title: 정책-인사 등 논란의 중심엔 부동산…李정부 주택정책 시험대
-    url: http://www.metroseoul.co.kr/article/20260916500250
-  - title: '[이슈] 李대통령 지지율 30%대 추락, ''실용주의 이탈''인가 ''실용주의 한...'
-    url: https://www.polinews.co.kr/news/articleView.html?idxno=743199
-- rank: 8
-  title: 美하원, 여당서 헤그세스 국방장관 탄핵 발의
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 장관
-  sources:
-  - title: '''외모 집착'' 美국방 헤그세스… "이란전쟁 불법 지속" 여당서 탄핵 추진'
-    url: https://www.hankookilbo.com/news/article/A2026091609480002396?did=NA
-  - title: 美하원, 여당서 헤그세스 국방장관 탄핵 발의
-    url: https://www.etoday.co.kr/news/view/2626229
-- rank: 9
-  title: '[전국+] 전북 여론조작 논란, 국회로 번졌다···''선거 브로커 카르텔'' 의혹까지'
+  - title: 정부, 남북 민간접촉 전면허용 추진 논란
+    url: https://www.busan.com/view/busan/view.php?code=2026091715492949892
+  - title: ‘北주민 무제한 접촉’…36년만에 허용 추진한다
+    url: https://www.munhwa.com/article/11617801?ref=naver
+- rank: 6
+  title: '[정책 비하인드] 초과세수 162조, 예산 아닌 ''기금''으로... 국회 통제 밖 곳간 논란'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -132,10 +86,22 @@ items:
     outlet_count: 1
     public_actor: 국회
   sources:
-  - title: '[전국+] 전북 여론조작 논란, 국회로 번졌다···''선거 브로커 카르텔''...'
-    url: https://www.seoulfn.com/news/articleView.html?idxno=638113
-- rank: 10
-  title: '[단독] 李정부 ‘광주·전남 통합’ 후폭풍…지방중기청 통폐합 논란'
+  - title: '[정책 비하인드] 초과세수 162조, 예산 아닌 ''기금''으로... 국회 통제 밖...'
+    url: https://www.meconomynews.com/news/articleView.html?idxno=201479
+- rank: 7
+  title: 행안부, 김지용 수사 지휘 논란 해명…국회에 청문회 통한 검증 당부
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회
+  sources:
+  - title: 행안부, 김지용 수사 지휘 논란 해명…국회에 청문회 통한 검증 당부
+    url: https://www.shinailbo.co.kr/news/articleView.html?idxno=5063308
+- rank: 8
+  title: 삼성전자 파업 막은 정부, 철강·조선 노사갈등 '시험대'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -144,5 +110,5 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: '[단독] 李정부 ‘광주·전남 통합’ 후폭풍…지방중기청 통폐합 논란'
-    url: https://biz.heraldcorp.com/article/10875613?ref=naver
+  - title: 삼성전자 파업 막은 정부, 철강·조선 노사갈등 '시험대'
+    url: https://www.sidae.com/article/2026091715251351082
