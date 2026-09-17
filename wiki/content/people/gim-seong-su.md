@@ -1,8 +1,8 @@
 ---
 title: 김성수
 slug: gim-seong-su
-role: 연구원
-status: stub
+role: 한화투자증권 연구원
+status: curated
 ---
 
 ## 행적

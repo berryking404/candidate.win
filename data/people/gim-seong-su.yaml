@@ -2,8 +2,8 @@ slug: gim-seong-su
 name_ko: 김성수
 name_en: null
 party: null
-role: 연구원
-status: stub
+role: 한화투자증권 연구원
+status: curated
 aliases:
 - 김 연구원
 discovered_via_issue: energy-price-inflation-2026
@@ -12,3 +12,5 @@ sources:
   news_keywords:
   - 김성수
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260723065800008

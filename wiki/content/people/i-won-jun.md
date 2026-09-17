@@ -1,8 +1,8 @@
 ---
 title: 이원준
 slug: i-won-jun
-role: 세종대 대학일자리플러스센터 강사
-status: stub
+role: 세종대학교 나노신소재공학과 교수
+status: curated
 ---
 
 ## 행적
