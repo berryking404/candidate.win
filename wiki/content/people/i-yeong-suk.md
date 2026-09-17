@@ -1,8 +1,8 @@
 ---
 title: 이영숙
 slug: i-yeong-suk
-role: 연구위원
-status: stub
+role: 한국보건사회연구원 연구위원
+status: curated
 ---
 
 ## 행적
