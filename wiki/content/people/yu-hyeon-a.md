@@ -1,8 +1,8 @@
 ---
 title: 유현아
 slug: yu-hyeon-a
-role: 정치인 / 공직자
-status: stub
+role: 국토연구원 부연구위원
+status: curated
 ---
 
 ## 행적

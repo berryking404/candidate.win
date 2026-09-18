@@ -296,6 +296,9 @@ def test_recent_curation_batch_has_safe_source():
         "i-yeong-suk",
         "gim-seong-su",
         "i-won-jun",
+        # 2026-09-18
+        "yu-hyeon-a",
+        "heo-chong-jang",
     ]
     for slug in batch:
         data = yaml.safe_load((PEOPLE_DIR / f"{slug}.yaml").read_text(encoding="utf-8"))

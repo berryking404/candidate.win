@@ -1,8 +1,8 @@
 ---
-title: 허총장
+title: 허영우
 slug: heo-chong-jang
-role: 경북대 총장
-status: stub
+role: 경북대학교 총장
+status: curated
 ---
 
 ## 행적

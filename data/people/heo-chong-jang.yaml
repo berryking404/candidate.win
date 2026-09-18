@@ -1,14 +1,18 @@
 slug: heo-chong-jang
-name_ko: 허총장
+name_ko: 허영우
 name_en: null
 party: null
-role: 경북대 총장
-status: stub
+role: 경북대학교 총장
+status: curated
 aliases:
 - 허 총장
+- 허총장
+- 허영우
 discovered_via_issue: youth-jobs-hightech-2026
 discovered_at: '2026-09-03'
 sources:
   news_keywords:
   - 허총장
   youtube_channels: []
+  official_urls:
+  - https://www.yna.co.kr/view/AKR20260903088900053
