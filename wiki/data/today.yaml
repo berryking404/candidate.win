@@ -1,35 +1,41 @@
-generated_at: '2026-09-18T23:04:05+00:00'
-source_date: 2026-09-18T230335Z
+generated_at: '2026-09-19T23:03:08+00:00'
+source_date: 2026-09-19T230303Z
 window_hours: 72
 items:
 - rank: 1
-  title: 추미애 측 "선거비용 논란 유감…전문업체 계약은 상식"
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 9건, 매체 9곳에서 확인된 공적 쟁점입니다.
+  title: 추미애 측 "때아닌 선거비용 논란에 깊은 유감"
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 15건, 매체 15곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 9
-    outlet_count: 9
-    public_actor: 확인 중
+    news_count: 15
+    outlet_count: 15
+    public_actor: 대변인
   sources:
-  - title: 경기도, 선거 컨설팅비 논란에 "정당한 집행…선관위 지적 없어"
-    url: https://www.kpinews.kr/newsView/1065614221800744
-  - title: 추미애 측 "선거비용 논란 유감…전문업체 계약은 상식"
-    url: https://www.obsnews.co.kr/news/articleView.html?idxno=1537982
-  - title: 김민석 선거비용 저격에 추미애 측 “논란 유감…전문업체 계약은 상식...
-    url: https://www.khan.co.kr/article/202609181519011
+  - title: '''20억 컨설팅'' 정조준한 김민석…추미애 "깊은 유감" [짤e몽땅]'
+    url: http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5220139
+  - title: 김민석, ‘선거비 의혹’ 추미애 정조준…秋 “상식적 계약” 즉각 반발
+    url: https://www.mk.co.kr/article/12156595
+  - title: 잇단 논란에 해명 또 해명…바빠진 경기도 대변인실
+    url: https://www.asiatime.co.kr/article/20260918500253
 - rank: 2
-  title: 뉴스테이 분양전환 입법 공백 논란, 이준석 의원 국회서 투명한 해법 촉구
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
+  title: 추미애 선거비용 논란에 경기도 "유감"
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 0
-    outlet_count: 0
-    public_actor: 국회, 의원
-  sources: []
+    news_count: 20
+    outlet_count: 18
+    public_actor: 대변인
+  sources:
+  - title: 추미애 선거비용 논란에 경기도 "유감"
+    url: https://www.gokorea.kr/news/articleView.html?idxno=879010
+  - title: 김민석, ‘추미애 21억 컨설팅’ 당차원 검토 가능성 언급
+    url: https://www.donga.com/news/Politics/article/all/20260919/134699877/2
+  - title: 추미애 ‘도지사 선거 21억 컨설팅’ 논란 확산
+    url: https://www.sedaily.com/article/20092870?ref=naver
 - rank: 3
-  title: '"불필요한 공소취소 논란" 입 뗀 이 대통령 "국회에 부탁드린다" [현장영상]'
+  title: “개인정보 유출 증거 없애면 최대 ‘매출 3%’ 과징금” [국회 방청석]
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -38,29 +44,5 @@ items:
     outlet_count: 1
     public_actor: 국회
   sources:
-  - title: '"불필요한 공소취소 논란" 입 뗀 이 대통령 "국회에 부탁드린다" [현장영...'
-    url: https://news.jtbc.co.kr/article/NB12318990?influxDiv=NAVER
-- rank: 4
-  title: '[속보] 李대통령, 국회에 “공소취소 논란 발생 않도록 진상규명만 집중해야”'
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
-  sources:
-  - title: '[속보] 李대통령, 국회에 "공소취소 논란 발생 않도록 진상규명만 집중...'
-    url: https://www.sisajournal.com/news/articleView.html?idxno=387701
-- rank: 5
-  title: '"연임 논란은 끝났다"…시민개헌넷, 국회에 개헌특위 구성 촉구'
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
-  sources:
-  - title: '"연임 논란은 끝났다"…시민개헌넷, 국회에 개헌특위 구성 촉구'
-    url: https://www.ngonews.kr/news/articleView.html?idxno=238674
+  - title: “개인정보 유출 증거 없애면 최대 ‘매출 3%’ 과징금” [국회 방청석...
+    url: https://www.mk.co.kr/article/12156495
