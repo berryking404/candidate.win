@@ -21,7 +21,7 @@ party: 더불어민주당
 - [지역 균형 발전과 지방소멸 대응 (2026)](/issues/regional-balance-development-2026) — **지지**: 대기업 유치와 지역경제 활성화를 통한 전북 성장 전략을 제시했다. [출처](https://www.topstarnews.net/news/articleView.html?idxno=16070038)
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **혼합**: 전북 공천 시스템을 비판하면서도 그 구도 안에서 후보 경쟁에 나섰다. [출처](https://www.munhwa.com/article/11590889?ref=naver)
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **중립**: 무소속 출마로 공천 배제와 형평성 논란 속에 전북지사 선거 판세를 흔들었다. [출처](https://www.jjan.kr/article/20260527500003)
-- **청년 일자리와 첨단산업 육성 (2026)** — **지지**: AI·첨단산업과 연계한 양질의 일자리 확대를 통해 청년 정주 여건을 강화해야 한다고 강조했다. [출처](https://www.newspim.com/news/view/20260506000532)
+- [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: AI·첨단산업과 연계한 양질의 일자리 확대를 통해 청년 정주 여건을 강화해야 한다고 강조했다. [출처](https://www.newspim.com/news/view/20260506000532)
 - [지방선거 공천 및 단일화 갈등 (2026)](/issues/local-election-nomination-2026) — **반대**: 공천에서 배제된 뒤 무소속으로 전북지사 선거에 출마했다. [출처](https://www.hankyung.com/article/2026053186187)
 - [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 청년 일자리와 지역경제를 산업·소비·체류와 연결하겠다고 밝히며 미래산업 육성 의지를 드러냈다. [출처](https://www.newsis.com/view/NISX20260527_0003645234)
 <!-- /agent:stances -->

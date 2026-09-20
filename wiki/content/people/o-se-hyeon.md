@@ -19,7 +19,7 @@ party: 더불어민주당
 
 <!-- agent:stances -->
 - [지역 상권 회복과 소상공인 지원 (2026)](/issues/local-commerce-recovery-2026) — **지지**: 아산페이 확대와 특례보증으로 골목상권에 활력을 넣겠다고 말했다. [출처](https://www.cctoday.co.kr/news/articleView.html?idxno=2230672)
-- **지역 상권 회복과 소상공인 지원 (2026)** — **지지**: 규제 완화를 통해 지역 내 투자 유입과 소규모 개발 사업 활성화를 기대하며, 장기적으로 일자리 창출과 지역 상권 회복을 도모하겠다고 밝혔다. [출처](https://www.jbnews.com/news/articleView.html?idxno=1503498)
+- [지역 상권 회복과 소상공인 지원 (2026)](/issues/local-commerce-recovery-2026) — **지지**: 규제 완화를 통해 지역 내 투자 유입과 소규모 개발 사업 활성화를 기대하며, 장기적으로 일자리 창출과 지역 상권 회복을 도모하겠다고 밝혔다. [출처](https://www.jbnews.com/news/articleView.html?idxno=1503498)
 - [물가 안정과 에너지 요금 부담 (2026)](/issues/energy-price-inflation-2026) — **지지**: 고물가 우려 속 국민 생활비 부담을 줄이기 위해 민생 물가 안정에 나서겠다고 밝혔다. [출처](https://www.yna.co.kr/view/AKR20260527014400011?input=1195m)
 - [물가 안정과 에너지 요금 부담 (2026)](/issues/energy-price-inflation-2026) — **중립**: 전기요금 차등제 관련 역차별 문제를 비판하며 소신 행정을 언급했다. [출처](https://www.news1.kr/view/6166037)
 - [물가 안정과 에너지 요금 부담 (2026)](/issues/energy-price-inflation-2026) — **혼합**: 산업용 전기요금 체계로 한전 적자가 누적됐다고 주장하며 이익 공유를 요구했다. [출처](https://news.tvchosun.com/site/data/html_dir/2026/05/24/2026052490169.html)
