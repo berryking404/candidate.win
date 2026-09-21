@@ -1,103 +1,66 @@
-generated_at: '2026-09-20T23:02:19+00:00'
-source_date: 2026-09-20T230212Z
+generated_at: '2026-09-21T23:02:17+00:00'
+source_date: 2026-09-21T230212Z
 window_hours: 72
 items:
 - rank: 1
-  title: 경기도 '경기도지사 선거비용 논란' 반박
+  title: 경북도의회 정부 ‘미래대응기금’ 신설 반대 성명 발표
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 12건, 매체 12곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 12
-    outlet_count: 12
-    public_actor: 국민의힘, 민주당
+    news_count: 3
+    outlet_count: 3
+    public_actor: 정부
   sources:
-  - title: 예산정책협의회 하루 앞두고 또 맞붙은 추미애·김민석
-    url: https://www.edaily.co.kr/News/Read?newsId=02807686645582088&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
-  - title: ‘김민석-추미애’ 이례적 공개 충돌…차기 권력 다툼 서막?
-    url: https://www.hani.co.kr/arti/politics/politics_general/1278721.html
-  - title: 김민석, DMZ영화제 축소 “계약 파기”…추미애 “방만 운영 안 돼”
-    url: https://www.joongang.co.kr/article/25463412
+  - title: '[패트롤]경북개발공사-경북도의회'
+    url: https://www.ekn.kr/web/view.php?key=20260922021087755
+  - title: 경북도의회, 지방 죽이는 미래대응기금 신설 즉각 중단 성명서 발표
+    url: https://biz.heraldcorp.com/article/10881327?ref=naver
+  - title: 경북도의회 정부 ‘미래대응기금’ 신설 반대 성명 발표
+    url: https://www.kbmaeil.com/article/20260921500548
 - rank: 2
-  title: ‘연임 개헌’ 논란 정리하고 ‘내년 개헌’ 추진하는 여당…국민의힘은 ‘연임 의혹’ 제기
+  title: 의원 '장관 겸직' 논란의 미필적 고의 [아침을 열며]
   status: 추가 확인
   score: 6
-  summary: 최근 보도 2건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 2
+    news_count: 1
     outlet_count: 1
-    public_actor: 국민의힘, 민주당
+    public_actor: 의원, 장관
   sources:
-  - title: 민주당 “연임 논란 정리됐다…내년 상반기 개헌 국민투표 추진”
-    url: https://www.khan.co.kr/article/202609202103005
-  - title: ‘연임 개헌’ 논란 정리하고 ‘내년 개헌’ 추진하는 여당…국민의힘...
-    url: https://www.khan.co.kr/article/202609201631001
+  - title: 의원 '장관 겸직' 논란의 미필적 고의 [아침을 열며]
+    url: https://www.hankookilbo.com/news/article/A2026092109440003291?did=NA
 - rank: 3
-  title: 대통령 기자회견·김승원 자진사퇴에도 논란 여전
+  title: '''공소 취소'' 논란 속 잇단 퇴장…李 정부 법무장관 잔혹사'
   status: 추가 확인
   score: 6
-  summary: 최근 보도 8건, 매체 8곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 8
-    outlet_count: 8
-    public_actor: 확인 중
+    news_count: 1
+    outlet_count: 1
+    public_actor: 장관, 정부
   sources:
-  - title: 대통령 기자회견·김승원 자진사퇴에도 논란 여전
-    url: https://www.labortoday.co.kr/news/articleView.html?idxno=236869
-  - title: '[뉴스분석] 연임 종지부, 김승원 정리…여진은 남았다'
-    url: https://www.hani.co.kr/arti/politics/bluehouse/1278737.html
-  - title: 추석 앞 연임·공취 정면돌파에 '반성문'…지지율 반등 분수령
-    url: http://www.newstomato.com/ReadNews.aspx?no=1314335&inflow=N
+  - title: '''공소 취소'' 논란 속 잇단 퇴장…李 정부 법무장관 잔혹사'
+    url: https://www.sisajournal.com/news/articleView.html?idxno=387839
 - rank: 4
-  title: 김승수 "이재명 정부, TK 패싱 도 넘어…지역 의원 공동 대응해야"
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  title: 임이자 "정부, 부동산 대책에서 손 떼라"
+  status: 기존 이슈와 함께 검토
+  score: 5
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 의원, 정부
+    news_count: 3
+    outlet_count: 3
+    public_actor: 정부
   sources:
-  - title: 김승수 "이재명 정부, TK 패싱 도 넘어…지역 의원 공동 대응해야"
-    url: https://www.news1.kr/local/daegu-gyeongbuk/6296605
+  - title: 임이자 "정부, 부동산 대책에서 손 떼라"
+    url: https://www.gukjenews.com/news/articleView.html?idxno=3702118
+  - title: 野 임이자 "李 현실 인식 '딴 나라 세상'…부동산 대책에서 손 떼라"
+    url: https://news.tvchosun.com/site/data/html_dir/2026/09/21/2026092190088.html
+  - title: 임이자 "李정부, 부동산 대책 손 떼라…여야 정책위서 해법 마련"
+    url: https://www.m-i.kr/news/articleView.html?idxno=1416556
+  related_issue: housing-jeonse-crisis-2026
 - rank: 5
-  title: 민주당·조국혁신당 합당… 與 지지층서 '반대' 41%, '찬성' 32% [여론조사]
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 민주당, 조국혁신당
-  sources:
-  - title: 민주당·조국혁신당 합당… 與 지지층서 '반대' 41%, '찬성' 32% [여론조...
-    url: https://www.hankookilbo.com/news/article/A2026092015050003678?did=NA
-- rank: 6
-  title: 김승수 국민의힘 대구시당위원장 취임…"TK 홀대 논란, 함께 대응해야"
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국민의힘
-  sources:
-  - title: 김승수 국민의힘 대구시당위원장 취임…"TK 홀대 논란, 함께 대응해야"
-    url: https://www.kyongbuk.co.kr/news/articleView.html?idxno=4084901
-- rank: 7
-  title: ‘수시 먹통 사태’에 국회 앞서 집회…형평성 논란 장기화 전망
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
-  sources:
-  - title: ‘수시 먹통 사태’에 국회 앞서 집회…형평성 논란 장기화 전망
-    url: https://www.segye.com/newsView/20260920508034?OutUrl=naver
-- rank: 8
-  title: “연임·공소취소 논란 정리는 긍정적…부동산 문제 전임 정부 탓은 아쉬워”
+  title: 경북 시·군 “미래대응기금 도입 땐 교부세 급감”...정부 재정개편안에 공동 우려
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -106,19 +69,53 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: “연임·공소취소 논란 정리는 긍정적…부동산 문제 전임 정부 탓은 아...
-    url: https://www.khan.co.kr/article/202609202104015
-- rank: 9
-  title: 대통령도 털렸나…코스타리카 당국, 대규모 개인정보 유출 수사
+  - title: 경북 시·군 "미래대응기금 도입 땐 교부세 급감"...정부 재정개편안에...
+    url: https://www.hidomin.com/news/articleView.html?idxno=722109
+- rank: 6
+  title: 김민석·추미애 충돌의 본질은 '내부비판'…민주당 최고위서 계파 논쟁
   status: 추가 확인
   score: 4
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 확인 중
+    news_count: 1
+    outlet_count: 1
+    public_actor: 민주당
   sources:
-  - title: 대통령 신상도 다 털렸나…4억 건 넘는 개인정보 유출, 코스타리카 ‘발...
-    url: https://www.mk.co.kr/article/12157726
-  - title: 대통령도 털렸나…코스타리카 당국, 대규모 개인정보 유출 수사
-    url: https://www.yna.co.kr/view/AKR20260921008100087?input=1195m
+  - title: 김민석·추미애 충돌의 본질은 '내부비판'…민주당 최고위서 계파 논쟁
+    url: https://www.topstarnews.net/news/articleView.html?idxno=16204246
+- rank: 7
+  title: '[이상인의 기자수첩] 공천은 했는데 민심은 놓쳤다…박형수 의원, 이제 답할 때다'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 의원
+  sources:
+  - title: '[이상인의 기자수첩] 공천은 했는데 민심은 놓쳤다…박형수 의원, 이제...'
+    url: https://www.kbsm.net/news/view.php?idx=534875
+- rank: 8
+  title: 정부, 개인정보 유출 사고 티빙 한달만에 '우수기업' 공시
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 정부, 개인정보 유출 사고 티빙 한달만에 '우수기업' 공시
+    url: https://news.jtbc.co.kr/article/NB12319461?influxDiv=NAVER
+- rank: 9
+  title: 경북도의회, 정부 미래대응기금 신설 및 지방재정 개편 강력 반대
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 경북도의회, 정부 미래대응기금 신설 및 지방재정 개편 강력 반대
+    url: https://www.straightnews.co.kr/news/articleView.html?idxno=311697
