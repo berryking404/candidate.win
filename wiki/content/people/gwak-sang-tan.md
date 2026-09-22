@@ -1,8 +1,8 @@
 ---
 title: 곽상탄
 slug: gwak-sang-tan
-role: 공직자 / 인물
-status: stub
+role: 현대자동차 전주공장 책임매니저
+status: curated
 ---
 
 ## 행적

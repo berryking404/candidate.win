@@ -1,7 +1,8 @@
 ---
 title: 유창범
 slug: yu-chang-beom
-status: stub
+role: 전 KB국민은행 부행장·WiseFriend 대표
+status: curated
 ---
 
 ## 행적
