@@ -1,121 +1,116 @@
-generated_at: '2026-09-21T23:02:17+00:00'
-source_date: 2026-09-21T230212Z
+generated_at: '2026-09-22T23:02:23+00:00'
+source_date: 2026-09-22T230220Z
 window_hours: 72
 items:
 - rank: 1
-  title: 경북도의회 정부 ‘미래대응기금’ 신설 반대 성명 발표
+  title: 김한슬 경기도의원, 수시 원서접수 '먹통 사태' 정부 대응 비판
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 3
+    public_actor: 의원, 정부
+  sources:
+  - title: 김한슬 경기도의원, 수시 접수 먹통 사태 맹폭… "정부, 사태 본질 회피...
+    url: https://www.kgnews.co.kr/news/article.html?no=912824
+  - title: 김한슬 경기도의원, 수시 원서접수 장애 책임 규명·대책 촉구
+    url: https://www.m-i.kr/news/articleView.html?idxno=1417604
+  - title: 김한슬 경기도의원, 수시 원서접수 '먹통 사태' 정부 대응 비판
+    url: https://www.shinailbo.co.kr/news/articleView.html?idxno=5065343
+- rank: 2
+  title: 국민의힘 '이재명 정권 실정' 보고대회…정책 실패·인사 논란 정조준
   status: 정식 검토
   score: 7
   summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 3
     outlet_count: 3
-    public_actor: 정부
+    public_actor: 국민의힘
   sources:
-  - title: '[패트롤]경북개발공사-경북도의회'
-    url: https://www.ekn.kr/web/view.php?key=20260922021087755
-  - title: 경북도의회, 지방 죽이는 미래대응기금 신설 즉각 중단 성명서 발표
-    url: https://biz.heraldcorp.com/article/10881327?ref=naver
-  - title: 경북도의회 정부 ‘미래대응기금’ 신설 반대 성명 발표
-    url: https://www.kbmaeil.com/article/20260921500548
-- rank: 2
-  title: 의원 '장관 겸직' 논란의 미필적 고의 [아침을 열며]
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 의원, 장관
-  sources:
-  - title: 의원 '장관 겸직' 논란의 미필적 고의 [아침을 열며]
-    url: https://www.hankookilbo.com/news/article/A2026092109440003291?did=NA
+  - title: 국민의힘, 추석 앞 대여 공세 확대…민생·안보·사법 겨냥
+    url: https://www.kyongbuk.co.kr/news/articleView.html?idxno=4085251
+  - title: 추석 앞둔 여야 '민심 잡기' 총력전… 정국 대치 고조
+    url: https://www.jbnews.com/news/articleView.html?idxno=1512170
+  - title: 국민의힘 '이재명 정권 실정' 보고대회…정책 실패·인사 논란 정조준
+    url: https://news.bbsi.co.kr/news/articleView.html?idxno=4108150
 - rank: 3
-  title: '''공소 취소'' 논란 속 잇단 퇴장…李 정부 법무장관 잔혹사'
+  title: 8·29 부동산 대책
+  status: 기존 이슈와 함께 검토
+  score: 7
+  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 17
+    public_actor: 대표, 장관
+  sources:
+  - title: '[사설] 늘 ‘지방’은 빼먹는 대통령의 기울어진 부동산 인식'
+    url: https://www.yeongnam.com/web/view.php?key=20260922021260154
+  - title: ‘85주 내리 상승’ 코앞 서울 아파트, 집 있어도 없어도 불안···누적...
+    url: https://www.khan.co.kr/article/202609230600131
+  - title: '[박근종 칼럼] 끊어진 주거 사다리, 규제의 역설을 넘어 민간·공공의 조...'
+    url: https://www.mhns.co.kr/news/articleView.html?idxno=761525
+  related_issue: housing-jeonse-crisis-2026
+- rank: 4
+  title: 장동혁, 수시 원서접수·농지조사 논란 비판…정부 대응 문제 제기
   status: 추가 확인
   score: 6
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 장관, 정부
+    public_actor: 국민의힘, 정부
   sources:
-  - title: '''공소 취소'' 논란 속 잇단 퇴장…李 정부 법무장관 잔혹사'
-    url: https://www.sisajournal.com/news/articleView.html?idxno=387839
-- rank: 4
-  title: 임이자 "정부, 부동산 대책에서 손 떼라"
-  status: 기존 이슈와 함께 검토
-  score: 5
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 정부
-  sources:
-  - title: 임이자 "정부, 부동산 대책에서 손 떼라"
-    url: https://www.gukjenews.com/news/articleView.html?idxno=3702118
-  - title: 野 임이자 "李 현실 인식 '딴 나라 세상'…부동산 대책에서 손 떼라"
-    url: https://news.tvchosun.com/site/data/html_dir/2026/09/21/2026092190088.html
-  - title: 임이자 "李정부, 부동산 대책 손 떼라…여야 정책위서 해법 마련"
-    url: https://www.m-i.kr/news/articleView.html?idxno=1416556
-  related_issue: housing-jeonse-crisis-2026
+  - title: 국민의힘 장동혁·정점식, 대법원장 재제청 거부 적극지지
+    url: http://www.breaknews.com/1238771
 - rank: 5
-  title: 경북 시·군 “미래대응기금 도입 땐 교부세 급감”...정부 재정개편안에 공동 우려
+  title: 李정부 인사 논란 정조준 국민의힘, 이번엔 '민생' 전면에...추석 민심 공략
   status: 추가 확인
-  score: 4
+  score: 6
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 정부
+    public_actor: 국민의힘, 정부
   sources:
-  - title: 경북 시·군 "미래대응기금 도입 땐 교부세 급감"...정부 재정개편안에...
-    url: https://www.hidomin.com/news/articleView.html?idxno=722109
+  - title: 李정부 인사 논란 정조준 국민의힘, 이번엔 '민생' 전면에...추석 민심 ...
+    url: https://www.pennmike.com/news/articleView.html?idxno=128217
 - rank: 6
-  title: 김민석·추미애 충돌의 본질은 '내부비판'…민주당 최고위서 계파 논쟁
+  title: '[전격시사] 차규근 조국혁신당 의원 - “합당 논란, 평택 선거 이후 양당 갈등 깊어…신뢰 회복이 우선” 민주-혁신, 멀어지는 합당?'
   status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  score: 5
+  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 민주당
-  sources:
-  - title: 김민석·추미애 충돌의 본질은 '내부비판'…민주당 최고위서 계파 논쟁
-    url: https://www.topstarnews.net/news/articleView.html?idxno=16204246
+    news_count: 0
+    outlet_count: 0
+    public_actor: 의원, 조국혁신당
+  sources: []
 - rank: 7
-  title: '[이상인의 기자수첩] 공천은 했는데 민심은 놓쳤다…박형수 의원, 이제 답할 때다'
+  title: ‘인사 논란’에 빨라지는 청와대 인사… 대규모 비판 나선 국민의힘
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 의원
+    public_actor: 국민의힘
   sources:
-  - title: '[이상인의 기자수첩] 공천은 했는데 민심은 놓쳤다…박형수 의원, 이제...'
-    url: https://www.kbsm.net/news/view.php?idx=534875
+  - title: ‘인사 논란’에 빨라지는 청와대 인사… 대규모 비판 나선 국민의힘
+    url: https://www.busan.com/view/busan/view.php?code=2026092213575233148
 - rank: 8
-  title: 정부, 개인정보 유출 사고 티빙 한달만에 '우수기업' 공시
-  status: 추가 확인
+  title: '[사설] 수도권 편중 부동산 대책, 지방 이원화 해법 시급하다'
+  status: 기존 이슈와 함께 검토
   score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
+    news_count: 20
+    outlet_count: 16
+    public_actor: 확인 중
   sources:
-  - title: 정부, 개인정보 유출 사고 티빙 한달만에 '우수기업' 공시
-    url: https://news.jtbc.co.kr/article/NB12319461?influxDiv=NAVER
-- rank: 9
-  title: 경북도의회, 정부 미래대응기금 신설 및 지방재정 개편 강력 반대
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: 경북도의회, 정부 미래대응기금 신설 및 지방재정 개편 강력 반대
-    url: https://www.straightnews.co.kr/news/articleView.html?idxno=311697
+  - title: 사업 전망 불확실한 미국 발전소 투자, 한국이 100% 돈 대고 이익은 반반...
+    url: https://slownews.kr/166796
+  - title: 전세 품귀에 월세 급등...노도강 월세 300만원 시대
+    url: https://www.jasm.co.kr/news/articleView.html?idxno=317865
+  - title: 계획 변경·사업 지연 반복한 1차 이전…비용 6456억 늘었다 [공공기관 ...
+    url: https://www.etoday.co.kr/news/view/2628690
+  related_issue: housing-jeonse-crisis-2026
