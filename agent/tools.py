@@ -1,7 +1,6 @@
-"""DeepAgents 커스텀 도구 함수 모음.
+"""Pass A 파이프라인이 호출하는 수집·추출·wiki I/O 함수 모음.
 
-각 함수는 docstring + 타입 힌트를 갖추고 create_deep_agent(tools=[...]) 에 전달된다.
-빌트인(read_file / edit_file)은 wiki 경로에 사용하지 않는다.
+deep_agent.py 의 deterministic 루프가 이 함수들을 고정 순서로 호출한다.
 """
 
 from __future__ import annotations
@@ -183,8 +182,8 @@ def extract_stance(
     person_slug: str,
     person_name: str,
     issue_slug: str,
-    no_batch: bool = False,
     no_escalate: bool = False,
+    **_deprecated,
 ) -> dict:
     """텍스트에서 인물의 이슈 입장을 추출한다.
 
@@ -193,8 +192,7 @@ def extract_stance(
         person_slug: 인물 slug.
         person_name: 인물 한국어 이름.
         issue_slug: 이슈 slug.
-        no_batch: True 면 Batch 대신 동기 Tier 2 사용.
-        no_escalate: True 면 Tier 2 에스컬레이션 차단.
+        no_escalate: True 면 escalation 큐 enqueue 차단.
 
     Returns:
         {position, summary, quotes, confidence, escalated}
@@ -204,8 +202,7 @@ def extract_stance(
 
     issue_data = _load_issue(issue_slug)
     keywords = issue_data.get("keywords", [issue_slug])
-    
-    # 지지/반대 판정 기준 로드
+
     stances_criteria = issue_data.get("stances", {})
     support_crit = stances_criteria.get("support", "")
     oppose_crit = stances_criteria.get("oppose", "")
@@ -227,7 +224,7 @@ def extract_stance(
     return _extract(
         chunks, person_slug, person_name, issue_slug,
         criteria=criteria,
-        no_batch=no_batch, no_escalate=no_escalate,
+        no_escalate=no_escalate,
     )
 
 

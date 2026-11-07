@@ -6,7 +6,7 @@
     <key>Label</key>
     <string>com.candydate.research</string>
 
-    <!-- Pass A (--all) + Pass B (--batch-submit) : 09:00 KST -->
+    <!-- Pass A (--all deterministic research) : 09:00 KST -->
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>

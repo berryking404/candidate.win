@@ -1,5 +1,5 @@
 #!/bin/bash
-# Pass A (--all research) + Pass B (--batch-submit)
+# Pass A — deterministic research (--all). Escalation 큐는 sw-factory candidate IC 가 처리.
 set -euo pipefail
 
 AGENT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
@@ -10,7 +10,7 @@ mkdir -p "$(dirname "$LOG")"
 
 log() { echo "$(date '+%Y-%m-%d %H:%M:%S') $*" >> "$LOG"; }
 
-log "[Pass A+B] start"
+log "[Pass A] start"
 
 set -a
 # shellcheck source=../.env
@@ -23,7 +23,4 @@ source .venv/bin/activate
 log "[Pass A] --all"
 python deep_agent.py --all >> "$LOG" 2>&1
 
-log "[Pass B] --batch-submit"
-python deep_agent.py --batch-submit >> "$LOG" 2>&1
-
-log "[Pass A+B] done"
+log "[Pass A] done"

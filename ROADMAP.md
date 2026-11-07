@@ -20,25 +20,25 @@
 - [x] 기사·자막 중복 제거 및 저장 (`agent/processors/dedup.py`) — URL + 내용 해시
 - [x] **[Tier 0]** 키워드 ±N문장 청킹 (`agent/processors/chunker.py`)
 - [x] **[Tier 0]** kiwipiepy 한국어 인명 NER (`agent/processors/ner_kr.py`)
-- [x] **[Tier 1]** Ollama 모델 핸들 모듈 (`agent/models.py`) — Tier 2 비용 누적기 포함
+- [x] **[Tier 1]** Ollama 모델 핸들 모듈 (`agent/models.py`)
 - [ ] 크롤러 + 청킹 부피 측정 (자막 1시간 → 청크 합계 토큰 수 벤치마크)
 
 ## Phase 3 — LLM Agent 통합
 
-- [x] DeepAgents 도구 정의 — `tools.py` (crawl_news/youtube, find_participants, register_person, extract_events/stance, read/write_agent_section, commit_changes)
-- [x] **[Tier 2 = OpenAI]** 오케스트레이터 `openai:gpt-5.4-mini` — `deep_agent.py`
-- [x] **[Tier 2-batch]** `extract_stance` → `pending.jsonl` enqueue 분기 — `processors/stance_extractor.py`
-- [x] **[Tier 2-batch]** `publishers/batch_submitter.py` — 제출·polling·결과 캐시 적재
-- [x] **[Tier 2-batch]** Batch 결과 → `agent/.cache/llm/extract_stance/` 동일 키 적재
-- [x] **[2-pass cron]** macOS launchd 잡 분리: Pass A+B (09:00 KST) / Pass D (14:00 KST) — `agent/launchd/` 구현 완료 (2026-05-05)
-- [x] CLI `--no-batch` / `--dry-run` / `--no-escalate` / `--no-youtube` 등 모든 플래그 — `deep_agent.py`
+- [x] 도구 정의 — `tools.py` (crawl_news/youtube, find_participants, register_person, extract_events/stance, read/write_agent_section, commit_changes)
+- [x] **[Pass A deterministic]** DeepAgents/OpenAI 오케스트레이터 제거 — `deep_agent.py` 고정 순서 파이프라인 (2026-11-07)
+- [x] **[Tier 1]** 기본 모델 `gemma4:e2b-mlx` + `think=False` + `processors/llm_json.py`
+- [x] **[Escalation queue]** `extract_stance` → `.cache/escalation/pending.jsonl` (OpenAI Batch 제거)
+- [x] **[Factory]** 저신뢰 재분석·레포 거버넌스 → sw-factory `pm` + `candidate` IC
+- [x] **[cron]** Pass A only (`run_pass_ab.sh`); Pass D stub noop — `agent/launchd/`
+- [x] CLI `--dry-run` / `--no-escalate` / `--no-youtube` 등 — `deep_agent.py`
+
 - [x] **[컨텍스트 격리]** `read_agent_section` / `write_agent_section` 정규식 구현 — `tools.py`
 - [x] **[캐시]** `cache.py` — sha256 키 + VERSION 무효화, Batch 동일 키 스킴
 - [x] **[Circuit Breaker]** `limits.py` — `RunLimits` + `RunCounter` + 종료코드 42
-- [x] **[Tier 2 비용 추적]** `models.py` — 캐시 -90%·Batch -50% 반영 `CostAccumulator`, `limits.py` 연동
-- [x] **[Tier 1]** 행적 추출 프롬프트 — `prompts.py` `EVENTS_PROMPT` (VERSION v1) + `processors/extractor.py`
-- [x] **[Tier 1]** 입장 추출 프롬프트 — `prompts.py` `STANCE_PROMPT` (VERSION v1) + `processors/stance_extractor.py`
-- [x] **[Tier 1→2]** escalation 트리거: confidence < 0.7 / position=mixed / quotes 없음
+- [x] **[Tier 1]** 행적 추출 프롬프트 — `prompts.py` `EVENTS_PROMPT` + `processors/extractor.py`
+- [x] **[Tier 1]** 입장 추출 프롬프트 — `prompts.py` `STANCE_PROMPT` + `processors/stance_extractor.py`
+- [x] **[Tier 1→factory]** escalation 트리거: confidence < 0.7 / position=mixed / quotes 없음 → escalation 큐
 - [X] **[일관성]** 이슈별 명시적 입장 판정 기준(`stances` 필드) 도입 및 프롬프트 주입
 - [x] **[메트릭]** `cache_hit_rate.json`, `limits_tripped.json`, `cost.json` — `.logs/`
 - [x] 이슈 처리 시 발언자 자동 발견 → stub 등록 — `processors/person_registry.py` + `tools.py`
@@ -53,7 +53,7 @@
 - [x] **[발언자 필터 강화]** `PARTICIPANTS_PROMPT` v1→v2 — "이슈 주체(해임·비판 대상) ≠ 발언자" 규칙 명시, mention_count 우회(`matched_slug`) 조건 제거 — `processors/participant_finder.py`, `prompts.py`
 - [x] **[프롬프트 정비]** 시스템 프롬프트에 wiki 마커 형식·금지사항·도구 호출 순서 명시, slug 사용 규칙(`register_person` 반환값 의무 사용) 추가 — `prompts.py`
 - [x] **[git_committer 수정]** `repo.index.add` 가 삭제 파일을 처리 못하던 버그 수정 — 삭제 파일은 `repo.index.remove` 로 별도 처리 — `publishers/git_committer.py`
-- [x] **[Tier 1 모델 교체]** `TIER1_MODEL` `qwen3:8b` → `exaone3.5:7.8b` (한국어 성능 향상) — `models.py`
+- [x] **[Tier 1 모델 교체]** `qwen3:8b` → `exaone3.5:7.8b` → `gemma4:e2b-mlx` — `models.py`
 - [x] `--all` 실행 시 이슈 루프로 통합, 이슈별 Circuit Breaker 카운터 초기화 — `deep_agent.py`
 - [x] 전체 이슈 14건 end-to-end 실행 완료 (2026-05-01~05)
 
@@ -73,7 +73,7 @@
 
 ## Phase 4 — 자동화 & 확장
 
-- [x] macOS launchd 스케줄러 — `agent/launchd/com.candydate.research.plist` (09:00 KST, Pass A+B) + `agent/launchd/com.candydate.apply.plist` (14:00 KST, Pass C+D). 래퍼: `run_pass_ab.sh` / `run_pass_d.sh`. 로그: `/tmp/com.candydate.agent.log`. 등록: `launchctl load ~/Library/LaunchAgents/com.candydate.{research,apply}.plist`
+- [x] macOS launchd 스케줄러 — research 09:00 KST Pass A; apply 14:00 KST noop(factory escalation). 로그: `/tmp/com.candydate.agent.log`
 - [x] 인물 커버리지 확장 (정치인 → 언론인 → 인플루언서)
 - [x] 이슈 커버리지 확장 (정책 이슈 → 사회 화제 → 선거 쟁점)
 - [ ] YouTube quota 증액 트리거 — 7일 평균 사용률 70% 또는 추적 인물 150명 초과 시 Google Cloud 증액 신청

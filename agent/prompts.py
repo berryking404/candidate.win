@@ -138,7 +138,7 @@ STANCE_PROMPT = """\
 - 위 '판단 기준'을 최우선으로 적용하여 분류하라.
 - 근거가 있는 항목만 포함
 - 인용문은 원문 그대로 (요약 금지)
-- confidence 는 0.0~1.0 (Tier 2 에스컬레이션 판단 기준)
+- confidence 는 0.0~1.0 (factory escalation 큐 판단 기준)
 
 출력 형식 (JSON):
 {{

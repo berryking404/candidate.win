@@ -1,7 +1,5 @@
-deepagents>=0.5.1
 langchain-openai>=0.3.0
 langchain-ollama>=0.2.0
-openai>=1.50.0
 kiwipiepy>=0.18.0
 yt-dlp>=2024.1.0
 youtube-transcript-api>=0.6.0
@@ -12,3 +10,4 @@ pyyaml>=6.0.0
 python-dotenv>=1.0.0
 gitpython>=3.1.0
 korean_romanizer>=0.0.4
+pytest>=8.0.0

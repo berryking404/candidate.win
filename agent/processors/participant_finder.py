@@ -57,9 +57,11 @@ def find_participants(
 
     prompt = PARTICIPANTS_PROMPT.format(issue=issue_slug, text=combined[:8000])
     try:
+        from processors.llm_json import extract_json_array
+
         response = model.invoke(prompt)
-        match = re.search(r"\[.*?\]", response.content, re.DOTALL)
-        result = json.loads(match.group()) if match else []
+        parsed = extract_json_array(response.content)
+        result = parsed if isinstance(parsed, list) else []
     except Exception as exc:
         logger.warning("find_participants Tier 1 실패: %s", exc)
         result = [{"name_ko": c.name, "role_hint": "", "mention_count": c.mention_count, "sample_quote": ""} for c in ner_candidates]

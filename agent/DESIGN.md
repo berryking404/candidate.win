@@ -2,67 +2,21 @@
 
 ## 개요
 
-Agent는 LangChain의 [DeepAgents](https://docs.langchain.com/oss/python/deepagents/) 라이브러리(`pip install deepagents`) 기반의 LLM 에이전트이다. 뉴스 기사와 YouTube 자막을 원천으로 두 종류의 wiki post를 생성·갱신한다.
+Agent는 **deterministic Pass A CLI** (`deep_agent.py`)다. 뉴스·YouTube 자막을 수집·Tier1 추출한 뒤 wiki post를 갱신한다.
 
 1. **인물 페이지** — 각 인물의 행적·발언 기록.
 2. **이슈 페이지** — 사람이 정의한 이슈/화제에 대한 인물별 입장(찬성·반대·중립·혼합) 정리.
 
-두 페이지는 양방향으로 링크된다. 인물 페이지에는 "관련 이슈" 섹션, 이슈 페이지에는 "인물별 입장" 섹션이 자동 생성된다.
+두 페이지는 양방향으로 링크된다. OpenAI DeepAgents 오케스트레이터·Batch API는 제거했다. 레포 거버넌스·저신뢰 stance 재분석은 **sw-factory** (`pm` / `candidate` IC)가 담당한다.
 
-## DeepAgents 런타임
+## Pass A 런타임 (deterministic)
 
-LangGraph 위에서 동작하는 에이전트 하네스로, 다음 빌트인 도구를 기본 제공한다.
+진입점: `python deep_agent.py --issue|--person|--all`. LLM이 도구를 고르지 않고, `tools.py` 함수를 **고정 순서**로 호출한다.
 
-| 빌트인 도구 | 용도 |
-|---|---|
-| `ls`, `read_file`, `write_file`, `edit_file` | 파일시스템 (wiki 마크다운 읽기·패치에 직접 사용) |
-| `write_todos` | 작업 분해/계획 (인물·이슈 갱신 단계 추적) |
-| `task` | 서브에이전트 호출 (인물별·이슈별 컨텍스트 격리) |
+이슈 모드: `crawl_*` → `find_participants` → `register_person` → `extract_stance` → `create_wiki_page` → `append_agent_stances` → `commit_changes`  
+인물 모드: `crawl_*` → `extract_events` → `create_wiki_page` → `write_agent_section(events)` → `commit_changes`
 
-따라서 wiki 페이지 입출력은 자체 도구를 만들지 않고 빌트인 `read_file` / `edit_file` 을 그대로 사용한다. 우리가 추가로 정의하는 도구는 외부 데이터 수집·구조화에 한정된다 (아래 "커스텀 도구" 절 참고).
-
-진입점은 `create_deep_agent()` 이다.
-
-```python
-from deepagents import create_deep_agent
-from candydate_agent.tools import (
-    crawl_news, crawl_youtube,
-    find_participants, register_person,
-    extract_events, extract_stance,
-    read_agent_section, write_agent_section,
-    commit_changes,
-)
-
-SYSTEM_PROMPT = """당신은 정치인·언론인·인플루언서의 행적과 이슈별 입장을
-추적하는 위키 편집 에이전트이다. ..."""
-
-# 오케스트레이터는 OpenAI GPT-5.4 mini (sync, auto prompt cache).
-# 도구 내부의 무거운 텍스트 처리는 Tier 1 백엔드(SGLang/Ollama)에서 종료되고,
-# stance escalation 은 Tier 2-batch (GPT-5.4 via Batch API) 로 비동기 처리.
-# 자세한 비용·실행 전략은 "비용·모델 전략" 절 참고.
-agent = create_deep_agent(
-    model="openai:gpt-5.4-mini",
-    tools=[
-        crawl_news, crawl_youtube,
-        find_participants, register_person,
-        extract_events, extract_stance,
-        read_agent_section, write_agent_section,
-        commit_changes,
-    ],
-    system_prompt=SYSTEM_PROMPT,
-)
-
-# Pass A — research (sync). escalation 후보를 batch buffer 로 enqueue.
-agent.invoke({"messages": [{"role": "user", "content": "research lee-jae-myung"}]})
-
-# Phase B/C 는 별도 실행 (publishers/batch_submitter.py 가 OpenAI Batch 제출·polling).
-
-# Pass D — apply (sync). batch 결과가 LLM 캐시에 적재된 상태에서 호출.
-agent.invoke({"messages": [{"role": "user", "content": "apply stances for lee-jae-myung"}]})
-```
-
-> 오케스트레이터는 도구 결과의 **구조화된 요약**(JSON, 짧은 텍스트)만 받는다. 50KB 짜리 자막 원문이 SOTA 컨텍스트에 들어가는 일은 없다.
-
+wiki 입출력은 `read_agent_section` / `write_agent_section` / `append_agent_stances`만 사용한다 (빌트인 파일 도구 없음).
 ## 데이터 흐름
 
 ```
@@ -85,19 +39,17 @@ data/issues/{slug}.yaml          (시드: 이슈/화제 정의 — 사람만 작
   stance_extractor.py → 입장 추출 [Tier 1→2 escalation]   │
         │                                                  │
         ▼                                                  │
-[DeepAgents 런타임 (create_deep_agent)]                    │
+[deterministic Pass A (deep_agent.py)]                    │
   이슈 모드:                                              │
     1. crawl_news/youtube 로 텍스트 수집                  │
     2. find_participants 로 등장한 인물 후보 추출         │
     3. 미등록자는 register_person 으로 stub 생성          │
        (data/people/{slug}.yaml, status: stub)            │
     4. extract_stance 로 인물별 입장 추출                 │
-    5. write_agent_section 으로 이슈/인물 페이지 섹션 갱신│
+    5. append_agent_stances 로 이슈/인물 페이지 갱신      │
   인물 모드:                                              │
     1. crawl_* + extract_events 로 행적 추출              │
     2. write_agent_section 으로 인물 페이지 섹션 갱신     │
-  공통:                                                   │
-    - write_todos 로 단계 추적                            │
     - task 로 인물별 컨텍스트 격리 (선택)                 │
     - <!-- human-edit --> 블록 보존                       │
         │                                                  │
@@ -131,25 +83,20 @@ DeepAgents 빌트인(`read_file` / `write_file` / `edit_file` / `write_todos` / 
 
 > **빌트인 `read_file` / `edit_file` 은 wiki 페이지에 사용하지 않는다.** 페이지 전체를 LLM 컨텍스트에 노출하면 입력 토큰이 폭증하므로, 위키 마크다운 입출력은 위 두 자체 도구로 강제한다. 빌트인 파일 도구는 `data/`(YAML 시드), `agent/.cache/`(캐시 점검) 등 디버깅 용도에만 허용한다.
 
-## 비용·모델 전략 (Tiered Model Architecture)
+## 비용·모델 전략 (Tiered + Factory)
 
-목표: 1시간 자막(약 30k~50k 토큰)이 SOTA 모델에 절대 통째로 들어가지 않도록 한다. 무거운 텍스트는 모두 무료 계층에서 처리하고, SOTA 호출은 (a) 오케스트레이터의 짧은 메시지와 (b) Tier 1 이 자신 없을 때의 escalation 만으로 한정한다.
+목표: 1시간 자막이 SOTA 컨텍스트에 통째로 들어가지 않게 한다. Pass A는 Tier0/Tier1만 쓰고, 저신뢰 재분석·레포 운영은 sw-factory 페르소나가 맡는다.
 
 ### 계층 정의
 
 | Tier | 무엇 | 어디에 사용 | 비용 |
 |---|---|---|---|
-| **Tier 0** | 정규식 + 한국어 NER (`kiwipiepy`) + 룰베이스 | 청킹, 인명 후보 추출, 키워드 매칭, 날짜 정규화 | 무료 (로컬 CPU) |
-| **Tier 1** | Ollama 로컬 LLM 또는 SGLang OpenAI-compatible endpoint (`TIER1_BACKEND`) | `find_participants` 정규화, `extract_events`, `extract_stance` 1차 분류 | 로컬/클러스터 GPU |
-| **Tier 2-sync** | OpenAI **GPT-5.4 mini** (sync, auto prompt cache) | DeepAgents 오케스트레이터 — 짧은 메시지·도구 디스패치 | $0.75/$4.50 MTok, 캐시 히트 시 입력 -90% |
-| **Tier 2-batch** | OpenAI **GPT-5.4** via **Batch API** (async, 24h SLA) | Tier 1 confidence 미달 시 stance 재분석 (대량) | $2.50/$15.00 MTok × **Batch -50%** + 캐시 -90% 결합 가능 |
+| **Tier 0** | 정규식 + 한국어 NER (`kiwipiepy`) + 룰베이스 | 청킹, 인명 후보 추출, 키워드 매칭 | 무료 (로컬 CPU) |
+| **Tier 1** | Ollama (`gemma4:e2b-mlx` 기본, Linux는 `gemma4:e2b`) | `find_participants`, `extract_events`, `extract_stance` | 로컬 GPU/Neural Engine |
+| **Factory pm** | sw-factory PM 페르소나 | 티켓·Intent Pass·merge·Done 게이트 | Cursor/factory 과금 |
+| **Factory candidate** | sw-factory IC (`candidate`) | escalation 큐 재분석·파이프라인/cron 소유 | Cursor/factory 과금 |
 
-OpenAI 를 Tier 2 로 채택한 이유:
-1. **자동 prompt caching**: 같은 system_prompt 가 매 호출 반복되는 본 워크로드에서 입력 토큰의 ~90% 가 캐시 히트가 되어 실효 단가가 폭락.
-2. **Batch API -50%**: 매일 cron 으로 도는 비실시간 워크로드라 24h SLA 가 완전히 무해.
-3. 둘 결합 시 GPT-5.4 의 실효 입력 비용이 $0.125/MTok 수준까지 떨어짐 (Sonnet 4.6 대비 ~96% 절감).
-
-> 소비자 ChatGPT Plus/Pro 구독은 API 와 별개 — 본 빌링은 OpenAI Platform 계정의 사용량 기반 충전을 사용한다.
+OpenAI Tier2(sync/batch)와 DeepAgents 오케스트레이터는 **제거**됐다.
 
 ### 텍스트 부피 절감 (Tier 0 청킹)
 
@@ -165,99 +112,48 @@ def chunk(text: str, keywords: list[str], window_sentences: int = 2) -> list[str
 
 ### Tier 1 모델 백엔드
 
-`models.get_tier1_model()` 은 `TIER1_BACKEND` 로 백엔드를 선택한다.
-
-#### Kubernetes 운영: SGLang Gemma4
-
-SGLang은 OpenAI-compatible `/v1/chat/completions` 엔드포인트를 제공하므로 `langchain_openai.ChatOpenAI` 어댑터를 사용한다.
+`models.get_tier1_model()` 은 `TIER1_BACKEND` 로 백엔드를 선택한다. 기본은 Ollama.
 
 ```bash
-TIER1_BACKEND=sglang
-SGLANG_BASE_URL=http://sglang-gemma4-31b.llm-serving.svc.cluster.local:30000/v1
-SGLANG_MODEL=QuantTrio/gemma-4-31B-it-AWQ
-SGLANG_API_KEY=EMPTY
+TIER1_BACKEND=ollama
+OLLAMA_HOST=http://localhost:11434
+OLLAMA_MODEL=gemma4:e2b-mlx   # Linux cron 호스트는 gemma4:e2b
 ```
 
-#### 로컬 개발: Ollama
+- `ChatOllama(..., think=False)` 로 Gemma thinking 채널을 끈다 (JSON 파싱 안정화).
+- 레거시 `TIER1_BACKEND=sglang` 경로·테스트는 남아 있으나 현 운영에서는 사용하지 않는다.
 
-```python
-from langchain_ollama import ChatOllama
+### Escalation 정책 (Tier 1 → factory queue)
 
-OLLAMA_MODEL = ChatOllama(
-    model="exaone3.5:7.8b",      # 환경변수 TIER1_MODEL 또는 OLLAMA_MODEL 로 교체 가능
-    temperature=0.0,
-    num_ctx=8192,
-)
-```
+`extract_stance` 만 escalation 대상이다. Tier 1 출력이 다음이면 `agent/.cache/escalation/pending.jsonl` 에 enqueue한다 (OpenAI 호출 없음).
 
-- 도구 함수는 LangChain 모델 객체를 직접 보유하고 호출. DeepAgents 오케스트레이터는 도구의 반환값(JSON)만 봄 → 오케스트레이터 컨텍스트에 자막 원문이 절대 누설되지 않음.
-- Kubernetes 환경에는 Ollama가 없으므로 `TIER1_BACKEND=sglang` 을 사용한다. 로컬 개발자는 기존처럼 `TIER1_BACKEND=ollama` 또는 미설정 기본값으로 Ollama를 사용할 수 있다.
-
-### Escalation 정책 (Tier 1 → Tier 2-batch)
-
-`extract_stance` 만 escalation 대상이다. Tier 1 출력에 다음 중 하나가 충족되면 해당 (청크, 인물, 이슈) 튜플을 **batch buffer 에 enqueue** 한다 (즉시 SOTA 호출하지 않음).
-
-- `confidence < 0.7` (Tier 1 이 자체 보고)
+- `confidence < 0.7`
 - `position == "mixed"` 또는 인용문 0개
-- 같은 청크에서 `support` 와 `oppose` 가 동시에 나옴 (Tier 1 혼동)
 
-Escalation 도 청크 단위라 한 인물·이슈당 평균 1~2회를 넘지 않는다. 운영 중 escalation 비율을 메트릭으로 노출 (`agent/.logs/escalation_rate.json`) 해 Tier 1 모델 교체 판단에 사용.
+sw-factory **candidate** IC가 큐를 읽어 재분석·wiki 반영 후 PR을 열고, **pm**이 Intent Pass·merge한다. `--no-escalate` 는 enqueue만 차단한다.
 
-### 비동기 2-pass 실행 (Batch API 통합)
-
-OpenAI Batch API 는 24시간 SLA 의 비동기 처리이므로 단일 `agent.invoke()` 안에서 결과를 받을 수 없다. 실행을 두 패스로 분리한다.
+### Pass A cron
 
 ```
-Pass A — research (sync)
-  agent.invoke({"role":"user","content":"research <slug>"})
-  ├ crawl_news / crawl_youtube
-  ├ Tier 0 chunking
-  ├ Tier 1 find_participants / extract_events
-  ├ Tier 1 stance 1차 분류
-  └ enqueue 미달 항목 → agent/.cache/batch/pending.jsonl
-[Phase B — submit]
-  publishers/batch_submitter.py
-    POST /v1/batches → batch_id 저장 (.cache/batch/active.json)
-[Phase C — poll & ingest]
-  polling 또는 OpenAI webhook (보통 <1h, 최대 24h)
-  완료 시 결과를 agent/.cache/llm/extract_stance/ 에 적재 (= 일반 LLM 캐시와 동일 키)
-Pass D — apply (sync)
-  agent.invoke({"role":"user","content":"apply stances for <slug>"})
-  ├ extract_stance 호출 시 LLM 캐시 hit (Phase C 가 채움)
-  ├ write_agent_section(section_id="stances") 내부에서 Pass E 자동 실행
-  │   └ publishers/quality_gate.py — validate_stances()
-  │       ├ Rule 1: URL 없는 비-미확인 → 미확인 강등
-  │       ├ Rule 2: URL·캐시 있고 인용문-원문 불일치 → 미확인 강등
-  │       └ Rule 3: URL 있고 캐시 미스 → 경고만, 강등 없음
-  └ commit_changes
+Pass A — research (deterministic)
+  deep_agent.py --all
+  ├ crawl + Tier0 chunk + Tier1 extract
+  ├ wiki append + [agent] commit
+  └ enqueue 미달 → .cache/escalation/pending.jsonl
+Factory — candidate IC drains escalation; pm merges
+Pass E — quality_gate 는 append_agent_stances 경로에서 자동 실행
 ```
-
-**macOS launchd** 로 두 잡을 분리해 로컬 PC 에서 트리거한다. Pass A+B 는 09:00 KST, Pass D 는 14:00 KST (Phase C polling 후 적용). batch 가 아직 미완이면 Pass D 는 retry 큐에 넣고 다음 주기에 재시도.
-
-구현 파일 (`agent/launchd/`):
 
 | 파일 | 역할 |
 |---|---|
-| `com.candydate.research.plist` | launchd 잡 정의 — 09:00 KST, `run_pass_ab.sh` 실행 |
-| `com.candydate.apply.plist` | launchd 잡 정의 — 14:00 KST, `run_pass_d.sh` 실행 |
-| `run_pass_ab.sh` | `.env` + `.venv` 로드 → `deep_agent.py --all` → `deep_agent.py --batch-submit` |
-| `run_pass_d.sh` | `.env` + `.venv` 로드 → `deep_agent.py --batch-apply` (종료코드 1=미완료, 42=CB 트립) |
+| `com.candydate.research.plist` | 09:00 KST → `run_pass_ab.sh` |
+| `com.candydate.apply.plist` | 14:00 KST → `run_pass_d.sh` (noop stub) |
+| `run_pass_ab.sh` | `.env` + `.venv` → `deep_agent.py --all` |
+| `run_pass_d.sh` | escalation 은 factory IC — 즉시 exit 0 |
 
-**클러스터 CronJob** 런처/모니터/워커 SSoT는 `agent/cron/` (`setsid` + `bash` 기동 — PVC 시드 0644·kubectl exec teardown 대응). 스킬 경로 스크립트는 repo 파일을 `exec`하는 얇은 shim이다 — `agent/cron/install_skill_shims.sh <skill-scripts-dir>` 로 재시드(구식 `nohup`+bare `exec "$@"` 풀카피가 남으면 worker.log 공백·monitor exit 99). 내구 로그: `CANDYDATE_LOG_FILE` (기본 `/cursor-home/candydate/state/agent.log`).
+**클러스터 CronJob** SSoT는 `agent/cron/` (`setsid` + `bash`). 스킬 경로 shim: `agent/cron/install_skill_shims.sh`.
 
-공통 로그(launchd 기본): `/tmp/com.candydate.agent.log` (stdout + stderr 동일 파일). 등록:
-
-```bash
-ln -sf ~/Documents/works/candydate/agent/launchd/com.candydate.research.plist \
-       ~/Library/LaunchAgents/com.candydate.research.plist
-ln -sf ~/Documents/works/candydate/agent/launchd/com.candydate.apply.plist \
-       ~/Library/LaunchAgents/com.candydate.apply.plist
-launchctl load ~/Library/LaunchAgents/com.candydate.{research,apply}.plist
-```
-
-> **GitHub Actions 미사용 이유**: Tier 1 백엔드는 GPU 추론이 필요하다. 표준 GitHub Actions 러너에는 GPU가 없어 CPU 추론 속도(2~5 token/sec)로는 30분 Circuit Breaker를 초과한다. 운영 환경에서는 Kubernetes SGLang 서비스, 로컬 개발에서는 Ollama를 사용한다. Batch API는 어떤 환경에서도 OpenAI 서버에 HTTP 요청만 보내면 되므로 실행 환경에 무관하다.
-
-`--no-batch` 플래그를 두면 escalation 도 동기로 처리 (개발·테스트용, Batch 50% 할인 포기).
+> **GitHub Actions 미사용 이유**: Tier 1 은 로컬/클러스터 GPU(또는 Apple Neural Engine)가 필요하다. 표준 GH Actions 러너로는 30분 Circuit Breaker를 초과하기 쉽다.
 
 ### 품질 검수 게이트 (Pass E)
 
@@ -584,46 +480,37 @@ CI 에서 한도가 자주 트립되면 한도가 너무 빡빡한 게 아니라
 - 크롤링 원문은 `agent/.cache/sources/` 에 URL 해시별로 저장해 재크롤링 방지.
 - 청킹 단계에서 키워드 미등장 텍스트는 Tier 1 호출 자체를 건너뛴다 (호출 0건 = 비용 0).
 - `write_agent_section` 의 부분 치환으로 변경 없는 섹션은 토큰을 재출력하지 않는다.
-- Tier 2 escalation 비율을 `agent/.logs/escalation_rate.json` 에 기록 — 일정 비율 초과 시 Tier 1 모델 교체 검토.
-- `--dry-run` 플래그: LLM 호출 결과를 stdout에만 출력하고 커밋하지 않는다.
-- `--no-escalate` 플래그: Tier 2 호출을 강제 차단 (예: 개발/CI 환경).
+- escalation 큐 적재량을 모니터링 — 일정 비율 초과 시 Tier 1 모델·임계값 재검토.
+- `--dry-run` 플래그: 커밋하지 않는다.
+- `--no-escalate` 플래그: escalation 큐 enqueue 차단 (예: 개발/CI).
 
 ## 모듈 구조
 
 ```
 agent/
-├── deep_agent.py          # create_deep_agent() 호출 + CLI 진입점. --all 은 status: ongoing 인 이슈만 루프, 이슈별 Circuit Breaker 카운터 초기화 (--issue 는 status 무관)
-├── tools.py               # 커스텀 도구 함수 (crawl_*, find_*, extract_*, register_person, create_wiki_page, read/write_agent_section, commit_changes). create_wiki_page 에 비ASCII slug 검증 추가
-├── prompts.py             # system_prompt (마커 형식·금지사항·도구 호출 순서 포함) + 도구별 프롬프트 (각 프롬프트는 VERSION 상수 보유 → 캐시 키)
-├── models.py              # Tier 1 백엔드(SGLang/Ollama) / Tier 2 SOTA 모델 핸들 (싱글톤) + TIER2_BATCH_MODEL 상수 + Tier 2 비용 누적
+├── deep_agent.py          # deterministic Pass A CLI. --all 은 status: ongoing 만 루프
+├── tools.py               # crawl_*/find_*/extract_*/register_person/create_wiki_page/read|write|append/commit
+├── prompts.py             # Tier1 프롬프트 (+ 레거시 SYSTEM_PROMPT 문서용 순서 설명)
+├── models.py              # Tier 1 Ollama/SGLang 핸들 (싱글톤). 기본 gemma4:e2b-mlx
 ├── cache.py               # LLM 응답 캐시 (sha256 키, agent/.cache/llm/)
-├── limits.py              # Circuit Breaker — RunLimits + 누적 카운터 + LimitExceeded. max_new_stubs 기본값 20
-├── requirements.txt       # deepagents, langchain-openai, langchain-ollama, kiwipiepy, korean_romanizer, ...
+├── limits.py              # Circuit Breaker — stubs/time/pages
+├── requirements.txt       # langchain-ollama, langchain-openai(legacy sglang), kiwipiepy, ...
 ├── .env.example
 ├── crawlers/
-│   ├── __init__.py
-│   ├── naver_news.py      # Naver News RSS + HTML 스크래퍼
-│   └── youtube_transcript.py  # yt-dlp 기반 자막 수집
+│   ├── naver_news.py
+│   └── youtube_transcript.py
 ├── processors/
-│   ├── __init__.py
-│   ├── dedup.py              # URL/내용 해시 기반 중복 제거
-│   ├── chunker.py            # [Tier 0] 키워드 ±N문장 윈도우 청킹
-│   ├── ner_kr.py             # [Tier 0] kiwipiepy 기반 한국어 인명 NER
-│   ├── participant_finder.py # [Tier 1] 인물 후보 정규화·매칭. mention_count ≥ 2 필터, PARTICIPANTS_PROMPT v2 (이슈 주체 vs 발언자 구별)
-│   ├── person_registry.py    # data/people/ stub 생성. _is_valid_person_name + _find_existing_slug + _has_duplicate 순으로 처리
-│   ├── extractor.py          # [Tier 1] 행적 이벤트 추출
-│   └── stance_extractor.py   # [Tier 1→2] 입장 추출, escalation 포함
+│   ├── chunker.py / ner_kr.py / dedup.py
+│   ├── llm_json.py           # thinking-safe JSON 추출
+│   ├── participant_finder.py / person_registry.py
+│   ├── extractor.py
+│   └── stance_extractor.py   # Tier1 + escalation 큐 (.cache/escalation/)
 ├── publishers/
-│   ├── __init__.py
-│   ├── batch_submitter.py # OpenAI Batch API 제출·polling·결과 적재
-│   ├── git_committer.py   # [agent] Git 커밋 자동화. 삭제 파일 repo.index.remove 별도 처리
-│   └── quality_gate.py    # Pass E — validate_stances(): Rule1(URL없음)·Rule2(인용문불일치)·Rule3(캐시미스). 강등 로그 → .logs/quality_gate.json
-└── quotas/
-    ├── __init__.py
-    └── youtube.py         # YouTube Data API v3 quota 추적·임계 알람
+│   ├── git_committer.py / quality_gate.py / stance_merge.py / stance_filter.py
+└── quotas/youtube.py
 ```
 
-`tools.py` 의 함수들은 `crawlers/` · `processors/` 모듈을 호출하는 얇은 래퍼이며, 빌트인 파일/계획/서브에이전트 도구는 `create_deep_agent()` 가 자동으로 등록한다.
+`tools.py` 는 `crawlers/` · `processors/` 래퍼이며 `deep_agent.py`가 고정 순서로 호출한다.
 
 ## 향후 설계 방향 (Planned Refactors)
 
@@ -692,7 +579,7 @@ deepagents 가 다음 중 하나를 도입하면 다시 검토:
 
 ## 참고
 
-- [DeepAgents (LangChain)](https://docs.langchain.com/oss/python/deepagents/) — 본 에이전트의 런타임
+- ~~DeepAgents (LangChain)~~ — 제거됨. Pass A는 deterministic CLI
 - [LangGraph](https://langchain-ai.github.io/langgraph/) — DeepAgents의 실행 엔진
 - [Ollama](https://ollama.com/) — 로컬 개발용 Tier 1 LLM 런타임
 - [SGLang](https://github.com/sgl-project/sglang) — Kubernetes 운영용 Tier 1 OpenAI-compatible serving

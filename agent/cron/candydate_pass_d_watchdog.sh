@@ -5,7 +5,7 @@ set -euo pipefail
 source "$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/paths.sh"
 
 cd "$CANDYDATE_REPO"
-JOB_NAME="Candydate Pass D batch apply 00/01/02"
+JOB_NAME="Candydate Pass D escalation noop (factory IC)"
 LOG_FILE="$CANDYDATE_LOG_FILE"
 REPORTER="$CANDYDATE_SCRIPTS_DIR/leantime_cron_report.py"
 
@@ -15,7 +15,7 @@ status=$?
 set -e
 case "$status" in
   0|1|10)
-    python3 "$REPORTER" --job-name "$JOB_NAME" --status done --exit-code "$status" --summary "Pass D batch apply completed or reached an accepted no-op/incomplete state." --log-file "$LOG_FILE" >/dev/null || true
+    python3 "$REPORTER" --job-name "$JOB_NAME" --status done --exit-code "$status" --summary "Pass D noop — escalation owned by sw-factory candidate IC." --log-file "$LOG_FILE" >/dev/null || true
     exit 0
     ;;
   42)

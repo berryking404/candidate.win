@@ -46,10 +46,11 @@ cd agent
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
-python deep_agent.py --person lee-jae-myung   # 단일 인물 실행
+python deep_agent.py --person lee-jae-myung   # 단일 인물 실행 (deterministic Pass A)
 python deep_agent.py --issue real-estate-tax-2026  # 단일 이슈 실행 (관련 인물 입장 갱신)
 python deep_agent.py --all                     # status: ongoing 인 이슈만 일괄 실행
-python deep_agent.py --dry-run                 # 커밋 없이 출력만 확인
+python deep_agent.py --dry-run                 # 커밋 없이 파이프라인만 실행
+# Tier1: Ollama gemma4:e2b-mlx. 저신뢰 stance → .cache/escalation/ (sw-factory candidate IC)
 ```
 
 ## Stance Definition Guidelines (지지/반대 판정 기준 정의 규칙)

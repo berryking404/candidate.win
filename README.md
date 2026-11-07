@@ -58,11 +58,10 @@ pip install -r requirements.txt
 
 # 환경변수 설정
 cp .env.example .env
-# .env 에 OPENAI_API_KEY, NAVER_CLIENT_ID/SECRET 등 입력
-# Kubernetes 운영 환경의 Tier 1 모델은 SGLang Gemma4:
-#   TIER1_BACKEND=sglang
-#   SGLANG_BASE_URL=http://sglang-gemma4-31b.llm-serving.svc.cluster.local:30000/v1
-#   SGLANG_MODEL=QuantTrio/gemma-4-31B-it-AWQ
+# .env 에 NAVER_CLIENT_ID/SECRET, (선택) YOUTUBE_API_KEY 입력
+# Tier 1: Ollama gemma4:e2b-mlx (Apple) / gemma4:e2b (Linux)
+#   TIER1_BACKEND=ollama
+#   OLLAMA_MODEL=gemma4:e2b-mlx
 
 # 특정 인물 실행
 python deep_agent.py --person lee-jae-myung

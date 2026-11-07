@@ -6,9 +6,7 @@
 
 from __future__ import annotations
 
-import json
 import logging
-import re
 
 logger = logging.getLogger(__name__)
 
@@ -84,11 +82,9 @@ def _merge_events(
 
 def _parse_json_list(text: str) -> list[dict]:
     """LLM 출력에서 JSON 배열 추출."""
-    match = re.search(r"\[.*?\]", text, re.DOTALL)
-    if not match:
+    from processors.llm_json import extract_json_array
+
+    result = extract_json_array(text)
+    if not result:
         return []
-    try:
-        result = json.loads(match.group())
-        return [r for r in result if isinstance(r, dict)]
-    except json.JSONDecodeError:
-        return []
+    return [r for r in result if isinstance(r, dict)]

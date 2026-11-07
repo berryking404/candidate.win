@@ -6,7 +6,7 @@
     <key>Label</key>
     <string>com.candydate.apply</string>
 
-    <!-- Pass C+D (--batch-apply) : 14:00 KST -->
+    <!-- Legacy Pass D stub (escalation → sw-factory) : 14:00 KST -->
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
