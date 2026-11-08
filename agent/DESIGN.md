@@ -135,21 +135,26 @@ sw-factory **candidate** IC가 큐를 읽어 재분석·wiki 반영 후 PR을 �
 ### Pass A cron
 
 ```
-Pass A — research (deterministic)
+Pass A — research (deterministic), 호스트 클론 main
+  git pull --ff-only origin main   # 실패·main 아님 → 수집 안 함
   deep_agent.py --all
   ├ crawl + Tier0 chunk + Tier1 extract
   ├ wiki append + [agent] commit
   └ enqueue 미달 → .cache/escalation/pending.jsonl
-Factory — candidate IC drains escalation; pm merges
+  git push origin main
+Factory — 11:00 KST candidate IC: workspace에서 main checkout 후 pull, escalation drain, PR. merge는 pm
 Pass E — quality_gate 는 append_agent_stances 경로에서 자동 실행
 ```
+
+호스트와 factory workspace는 별도 클론이다. gitignore 런타임만 심링크로 잇는다.
+
+- 호스트 `agent/.env` → workspace `agent/.env` (네이버 키)
+- workspace `agent/.cache` → 호스트 `agent/.cache` (`pending.jsonl`)
 
 | 파일 | 역할 |
 |---|---|
 | `com.candydate.research.plist` | 09:00 KST → `run_pass_ab.sh` |
-| `com.candydate.apply.plist` | 14:00 KST → `run_pass_d.sh` (noop stub) |
-| `run_pass_ab.sh` | `.env` + `.venv` → `deep_agent.py --all` |
-| `run_pass_d.sh` | escalation 은 factory IC — 즉시 exit 0 |
+| `run_pass_ab.sh` | `main`에서 `pull --ff-only` → `.env` + `.venv` → `deep_agent.py --all` → `push origin main` |
 
 **클러스터 CronJob** SSoT는 `agent/cron/` (`setsid` + `bash`). 스킬 경로 shim: `agent/cron/install_skill_shims.sh`.
 

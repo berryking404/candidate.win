@@ -19,7 +19,6 @@ SHIM_NAMES = (
     "candydate_pass_ab_launcher.sh",
     "candydate_pass_ab_monitor.sh",
     "candydate_pass_ab_worker.sh",
-    "candydate_pass_d_watchdog.sh",
     "test_pass_ab_launcher_detach.sh",
     "paths.sh",
     "leantime_cron_report.py",
@@ -58,6 +57,8 @@ def test_installer_writes_thin_shims_not_stale_nohup() -> None:
             assert "agent/cron/" in text or name == "paths.sh", f"{name} must point at repo cron"
             if name.endswith(".sh") and name != "paths.sh":
                 assert "exec bash" in text, f"{name} must exec bash repo script"
+        assert not (target / "candydate_pass_d_watchdog.sh").exists()
+        assert not (CRON / "candydate_pass_d_watchdog.sh").exists()
 
 
 def test_installed_launcher_uses_repo_setsid_contract() -> None:

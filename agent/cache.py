@@ -3,7 +3,7 @@
 저장 위치: agent/.cache/llm/{tool_name}/{key_prefix}/{key}.json
 키 구성:   sha256(tool_name + model_id + prompt_version + input_text + extra_args)
 
-Batch 결과도 동일 키 스킴으로 적재해 Pass D 에서 투명하게 hit.
+동일 키 스킴으로 Tier 1 응답을 재사용한다.
 """
 
 from __future__ import annotations

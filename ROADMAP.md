@@ -30,7 +30,7 @@
 - [x] **[Tier 1]** 기본 모델 `gemma4:e2b-mlx` + `think=False` + `processors/llm_json.py`
 - [x] **[Escalation queue]** `extract_stance` → `.cache/escalation/pending.jsonl` (OpenAI Batch 제거)
 - [x] **[Factory]** 저신뢰 재분석·레포 거버넌스 → sw-factory `pm` + `candidate` IC
-- [x] **[cron]** Pass A only (`run_pass_ab.sh`); Pass D stub noop — `agent/launchd/`
+- [x] **[cron]** Pass A only (`run_pass_ab.sh`: pull → `--all` → push). Pass D 제거 — `agent/launchd/`
 - [x] CLI `--dry-run` / `--no-escalate` / `--no-youtube` 등 — `deep_agent.py`
 
 - [x] **[컨텍스트 격리]** `read_agent_section` / `write_agent_section` 정규식 구현 — `tools.py`
@@ -73,7 +73,7 @@
 
 ## Phase 4 — 자동화 & 확장
 
-- [x] macOS launchd 스케줄러 — research 09:00 KST Pass A; apply 14:00 KST noop(factory escalation). 로그: `/tmp/com.candydate.agent.log`
+- [x] macOS launchd 스케줄러 — research 09:00 KST Pass A (pull, `--all`, push). Pass D/apply 제거. 로그: `/tmp/com.candydate.agent.log`
 - [x] 인물 커버리지 확장 (정치인 → 언론인 → 인플루언서)
 - [x] 이슈 커버리지 확장 (정책 이슈 → 사회 화제 → 선거 쟁점)
 - [ ] YouTube quota 증액 트리거 — 7일 평균 사용률 70% 또는 추적 인물 150명 초과 시 Google Cloud 증액 신청

@@ -43,7 +43,6 @@ for name in \
   candydate_pass_ab_launcher.sh \
   candydate_pass_ab_monitor.sh \
   candydate_pass_ab_worker.sh \
-  candydate_pass_d_watchdog.sh \
   test_pass_ab_launcher_detach.sh
 do
   write_sh_shim "$name"

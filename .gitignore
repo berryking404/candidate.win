@@ -12,7 +12,7 @@ __pycache__/
 .pytest_cache/
 
 # Agent runtime artifacts
-agent/.cache/
+agent/.cache
 agent/.logs/
 agent/reports/
 
