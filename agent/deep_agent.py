@@ -83,12 +83,16 @@ def _ongoing_issue_slugs() -> list[str]:
 
 
 def _source_url_from_stance(stance: dict, fallback_urls: list[str]) -> str | None:
+    from publishers.quality_gate import is_valid_source_url
+
     for q in stance.get("quotes") or []:
-        if isinstance(q, dict) and q.get("source_url"):
-            return q["source_url"]
+        if isinstance(q, dict):
+            url = q.get("source_url")
+            if is_valid_source_url(url):
+                return str(url).strip()
     for url in fallback_urls:
-        if url:
-            return url
+        if is_valid_source_url(url):
+            return str(url).strip()
     return None
 
 
