@@ -25,7 +25,12 @@
       <summary>대표 근거</summary>
       <ul>
         {{- range . }}
-        <li><a href="{{ .url }}" rel="nofollow noopener noreferrer" target="_blank">{{ .title }}</a></li>
+        {{- $u := trim (.url | default "") " \t\r\n" -}}
+        {{- if or (strings.HasPrefix $u "http://") (strings.HasPrefix $u "https://") -}}
+        <li><a href="{{ $u }}" rel="nofollow noopener noreferrer" target="_blank">{{ .title }}</a></li>
+        {{- else -}}
+        <li>{{ .title }}</li>
+        {{- end -}}
         {{- end }}
       </ul>
     </details>

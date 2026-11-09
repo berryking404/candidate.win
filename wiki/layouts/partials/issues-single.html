@@ -77,7 +77,10 @@
       <td>{{ .quote | default "—" }}</td>
       <td>
         {{- with .source }}
-          <a href="{{ . }}" rel="noopener" target="_blank">링크</a>
+          {{- $src := trim . " \t\r\n" -}}
+          {{- if or (strings.HasPrefix $src "http://") (strings.HasPrefix $src "https://") -}}
+          <a href="{{ $src }}" rel="noopener" target="_blank">링크</a>
+          {{- else }}—{{- end }}
         {{- else }}—{{- end }}
       </td>
       <td>{{ .date | default "—" }}</td>

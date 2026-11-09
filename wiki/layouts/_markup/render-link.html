@@ -1,3 +1,9 @@
-{{- $isExternal := or (strings.HasPrefix .Destination "http://") (strings.HasPrefix .Destination "https://") -}}
-<a href="{{ .Destination | safeURL }}"{{- with .Title }} title="{{ . }}"{{ end }}{{- if $isExternal }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Text | safeHTML }}</a>
-{{- /* chomp trailing newline */ -}}
+{{- $dest := trim .Destination " \t\r\n" -}}
+{{- $isExternal := or (strings.HasPrefix $dest "http://") (strings.HasPrefix $dest "https://") -}}
+{{- $isInternal := strings.HasPrefix $dest "/" -}}
+{{- if or $isExternal $isInternal -}}
+<a href="{{ $dest | safeURL }}"{{- with .Title }} title="{{ . }}"{{ end }}{{- if $isExternal }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- else -}}
+{{ .Text | safeHTML }}
+{{- end -}}
+{{- /* invalid destination (N/A 등) → 앵커 없이 텍스트만; chomp trailing newline */ -}}
