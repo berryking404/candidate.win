@@ -216,3 +216,37 @@ def test_close_issue_sets_closed_preserves_stances(tmp_path: Path, monkeypatch):
     assert "status: closed" in text
     assert "<!-- agent:stances -->" in text and "- keep-me" in text
     assert "<!-- human-edit -->" in text and "## 편집자 노트" in text
+
+
+def test_leantime_flag_is_noop(monkeypatch, capsys, tmp_path: Path):
+    """--leantime must warn and never call create_leantime_report / RPC."""
+    called = {"create": 0}
+
+    def boom(*_a, **_k):
+        called["create"] += 1
+        raise AssertionError("create_leantime_report must not run")
+
+    monkeypatch.setattr(issue_radar, "create_leantime_report", boom)
+    monkeypatch.setattr(issue_radar, "collect_seeds", lambda *_a, **_k: [])
+    monkeypatch.setattr(issue_radar, "expand_with_naver", lambda *_a, **_k: {})
+    monkeypatch.setattr(issue_radar, "cluster_candidates", lambda *_a, **_k: [])
+    monkeypatch.setattr(issue_radar, "audit_closure_candidates", lambda *_a, **_k: [])
+    monkeypatch.setattr(issue_radar, "load_existing_issues", lambda: {})
+    monkeypatch.setattr(issue_radar, "CACHE_DIR", tmp_path / "cache")
+    monkeypatch.setattr(issue_radar, "REPORT_DIR", tmp_path / "reports")
+    (tmp_path / "cache").mkdir()
+    (tmp_path / "reports").mkdir()
+
+    rc = issue_radar.main(["run", "--leantime", "--no-naver", "--no-closure-audit"])
+    assert rc == 0
+    assert called["create"] == 0
+    err = capsys.readouterr().out
+    assert "비활성화" in err
+
+
+def test_create_leantime_report_raises():
+    try:
+        issue_radar.create_leantime_report("x", Path("/tmp/unused.json"))
+        assert False, "expected RuntimeError"
+    except RuntimeError as exc:
+        assert "disabled" in str(exc).lower() or "Leantime" in str(exc)

@@ -1,92 +1,119 @@
-generated_at: '2026-09-22T23:02:23+00:00'
-source_date: 2026-09-22T230220Z
+generated_at: '2026-11-09T04:29:21+00:00'
+source_date: 2026-11-09T042912Z
 window_hours: 72
 items:
 - rank: 1
-  title: 김한슬 경기도의원, 수시 원서접수 '먹통 사태' 정부 대응 비판
+  title: '[정치·예산] 국힘 “미래대응기금은 李정부 쌈짓돈”…162조원 기금 놓고 재정통제 논란'
   status: 정식 검토
   score: 9
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 8건, 매체 7곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 의원, 정부
+    news_count: 8
+    outlet_count: 7
+    public_actor: 국민의힘, 국회, 정부
   sources:
-  - title: 김한슬 경기도의원, 수시 접수 먹통 사태 맹폭… "정부, 사태 본질 회피...
-    url: https://www.kgnews.co.kr/news/article.html?no=912824
-  - title: 김한슬 경기도의원, 수시 원서접수 장애 책임 규명·대책 촉구
-    url: https://www.m-i.kr/news/articleView.html?idxno=1417604
-  - title: 김한슬 경기도의원, 수시 원서접수 '먹통 사태' 정부 대응 비판
-    url: https://www.shinailbo.co.kr/news/articleView.html?idxno=5065343
+  - title: 李 “소방 재원 확보”… 쌈짓돈 되는 미래대응기금
+    url: https://www.munhwa.com/article/11629917?ref=naver
+  - title: '[이슈&트렌드] 파리의 불길 남일 아냐…李정부 승부수 ‘미래 투자 기금...'
+    url: https://www.dt.co.kr/article/12093884?ref=naver
+  - title: 특검 충돌에 예산국회도 얼어붙나…국힘, 27조 삭감 총공세
+    url: https://www.sedaily.com/article/20111591?ref=naver
 - rank: 2
-  title: 국민의힘 '이재명 정권 실정' 보고대회…정책 실패·인사 논란 정조준
+  title: 트럼프·민주당, 헤그세스 국방장관 탄핵안 놓고 첫 정면충돌
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 18
+    public_actor: 대변인, 민주당, 장관, 정부
+  sources:
+  - title: 중간선거 후폭풍 1라운드...이번주 트럼프-민주당 ‘헤그세스 탄핵안’...
+    url: https://www.seoul.co.kr/news/international/2026/11/09/20261109500134?wlog_tag3=naver
+  - title: 트럼프 “더 강하게 돌아올 것”…제프리스 “맞서 싸울 것”
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8707493&ref=A
+  - title: 트럼프, 정책 노선 그대로...민주당, 헤그세스 탄핵 예고
+    url: https://news.bbsi.co.kr/news/articleView.html?idxno=4117392
+- rank: 3
+  title: 트럼프·민주당, 헤그세스 국방장관 탄핵안 놓고 첫 정면충돌
   status: 정식 검토
   score: 7
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 국민의힘
+    news_count: 2
+    outlet_count: 2
+    public_actor: 민주당, 장관
   sources:
-  - title: 국민의힘, 추석 앞 대여 공세 확대…민생·안보·사법 겨냥
-    url: https://www.kyongbuk.co.kr/news/articleView.html?idxno=4085251
-  - title: 추석 앞둔 여야 '민심 잡기' 총력전… 정국 대치 고조
-    url: https://www.jbnews.com/news/articleView.html?idxno=1512170
-  - title: 국민의힘 '이재명 정권 실정' 보고대회…정책 실패·인사 논란 정조준
-    url: https://news.bbsi.co.kr/news/articleView.html?idxno=4108150
-- rank: 3
-  title: 8·29 부동산 대책
-  status: 기존 이슈와 함께 검토
-  score: 7
-  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 17
-    public_actor: 대표, 장관
-  sources:
-  - title: '[사설] 늘 ‘지방’은 빼먹는 대통령의 기울어진 부동산 인식'
-    url: https://www.yeongnam.com/web/view.php?key=20260922021260154
-  - title: ‘85주 내리 상승’ 코앞 서울 아파트, 집 있어도 없어도 불안···누적...
-    url: https://www.khan.co.kr/article/202609230600131
-  - title: '[박근종 칼럼] 끊어진 주거 사다리, 규제의 역설을 넘어 민간·공공의 조...'
-    url: https://www.mhns.co.kr/news/articleView.html?idxno=761525
-  related_issue: housing-jeonse-crisis-2026
+  - title: 중간선거 후폭풍 1라운드...이번주 트럼프-민주당 ‘헤그세스 탄핵안’...
+    url: https://www.seoul.co.kr/news/international/2026/11/09/20261109500134?wlog_tag3=naver
+  - title: 트럼프·민주당, 헤그세스 국방장관 탄핵안 놓고 첫 정면충돌
+    url: https://www.m-economynews.com/news/article.html?no=72748
 - rank: 4
-  title: 장동혁, 수시 원서접수·농지조사 논란 비판…정부 대응 문제 제기
+  title: 미래기금 30% ‘정부 쌈짓돈’ 논란… 與 일각서도 “국회 통제 필요하다”
   status: 추가 확인
   score: 6
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 국민의힘, 정부
+    public_actor: 국회, 정부
   sources:
-  - title: 국민의힘 장동혁·정점식, 대법원장 재제청 거부 적극지지
-    url: http://www.breaknews.com/1238771
+  - title: 미래기금 30% ‘정부 쌈짓돈’ 논란… 與 일각서도 “국회 통제 필요하...
+    url: https://www.donga.com/news/Politics/article/all/20261109/134988557/2
 - rank: 5
-  title: 李정부 인사 논란 정조준 국민의힘, 이번엔 '민생' 전면에...추석 민심 공략
+  title: 美의회, 행정부와 중간선거 후 첫 대립⋯여당 먼저 전쟁부 장관 탄핵안 발의
   status: 추가 확인
   score: 6
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 국민의힘, 정부
+    public_actor: 장관, 정부
   sources:
-  - title: 李정부 인사 논란 정조준 국민의힘, 이번엔 '민생' 전면에...추석 민심 ...
-    url: https://www.pennmike.com/news/articleView.html?idxno=128217
+  - title: 美의회, 행정부와 중간선거 후 첫 대립⋯여당 먼저 전쟁부 장관 탄핵안...
+    url: https://www.etoday.co.kr/news/view/2645522
 - rank: 6
-  title: '[전격시사] 차규근 조국혁신당 의원 - “합당 논란, 평택 선거 이후 양당 갈등 깊어…신뢰 회복이 우선” 민주-혁신, 멀어지는 합당?'
+  title: '[논평] 시의회 첫 행감, 정부발 ‘인천 위기’ 타개책과 ‘쟁점 현안’ 해법 찾아야!'
   status: 추가 확인
   score: 5
-  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 0
-    outlet_count: 0
-    public_actor: 의원, 조국혁신당
-  sources: []
+    news_count: 2
+    outlet_count: 2
+    public_actor: 정부
+  sources:
+  - title: 인천경실련, 시의회 첫 행감에서 ‘정부발 인천 위기’ 타개책과 ‘쟁점...
+    url: https://www.kyeonggi.com/article/20261108580197
+  - title: 인천시민사회 "시의회 첫 행감, 금고 선정·재정위기 등 쟁점 현안 규명...
+    url: https://www.joongboo.com/news/articleView.html?idxno=363741748
 - rank: 7
-  title: ‘인사 논란’에 빨라지는 청와대 인사… 대규모 비판 나선 국민의힘
+  title: '[속보]이용철 법무장관 후보, 공소취소 논란 대응에 "법과 원칙 따라"'
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 장관
+  sources:
+  - title: '[속보] 이용철 법무장관 후보 "대통령과의 친분이 결격 사유 될 수 없어...'
+    url: https://www.edaily.co.kr/News/Read?newsId=02214006645644080&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
+  - title: '[속보]이용철 법무장관 후보, 공소취소 논란 대응에 "법과 원칙 따라"'
+    url: https://www.newsis.com/view/NISX20261109_0003859728
+- rank: 8
+  title: 미래대응기금이 지방정부 예산 강탈?...'지방교부세' 삭감 논란
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 미래대응기금이 지방정부 예산 강탈?...'지방교부세' 삭감 논란
+    url: https://www.ytn.co.kr/_ln/0101_202611090625373753
+- rank: 9
+  title: 소방 예산 논란, 미래대응기금 해결책 될 수 있을까? 국민의힘 강력 반발
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -95,22 +122,19 @@ items:
     outlet_count: 1
     public_actor: 국민의힘
   sources:
-  - title: ‘인사 논란’에 빨라지는 청와대 인사… 대규모 비판 나선 국민의힘
-    url: https://www.busan.com/view/busan/view.php?code=2026092213575233148
-- rank: 8
-  title: '[사설] 수도권 편중 부동산 대책, 지방 이원화 해법 시급하다'
-  status: 기존 이슈와 함께 검토
+  - title: 소방 예산 논란, 미래대응기금 해결책 될 수 있을까? 국민의힘 강력 반...
+    url: https://www.gokorea.kr/news/articleView.html?idxno=884676
+- rank: 10
+  title: 美민주, 이번주 헤그세스 탄핵 추진… 트럼프와 첫 정면충돌
+  status: 추가 확인
   score: 4
-  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 16
+    news_count: 2
+    outlet_count: 2
     public_actor: 확인 중
   sources:
-  - title: 사업 전망 불확실한 미국 발전소 투자, 한국이 100% 돈 대고 이익은 반반...
-    url: https://slownews.kr/166796
-  - title: 전세 품귀에 월세 급등...노도강 월세 300만원 시대
-    url: https://www.jasm.co.kr/news/articleView.html?idxno=317865
-  - title: 계획 변경·사업 지연 반복한 1차 이전…비용 6456억 늘었다 [공공기관 ...
-    url: https://www.etoday.co.kr/news/view/2628690
-  related_issue: housing-jeonse-crisis-2026
+  - title: 트럼프·美 민주, 첫 충돌 전선은 헤그세스 국방 탄핵안…이번 주 하원...
+    url: https://www.kmib.co.kr/article/20261109500053
+  - title: 美민주, 이번주 헤그세스 탄핵 추진… 트럼프와 첫 정면충돌
+    url: https://www.newscj.com/news/articleView.html?idxno=3446998

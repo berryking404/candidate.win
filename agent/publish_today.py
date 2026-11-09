@@ -10,6 +10,7 @@ from __future__ import annotations
 import argparse
 import html
 import json
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -82,6 +83,21 @@ def build_payload(cache_path: Path, limit: int) -> dict[str, Any]:
     }
 
 
+def existing_items(path: Path) -> list[Any]:
+    if not path.exists():
+        return []
+    data = yaml.safe_load(path.read_text(encoding="utf-8")) or {}
+    items = data.get("items") or []
+    return items if isinstance(items, list) else []
+
+
+def refuse_empty_overwrite(payload: dict[str, Any], output_path: Path) -> bool:
+    """True when writing would wipe a non-empty public queue with items=[]."""
+    if payload.get("items"):
+        return False
+    return bool(existing_items(output_path))
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Publish public today-topic queue from issue-radar cache")
     parser.add_argument("--input", type=Path, default=None, help="issue candidate JSON cache path")
@@ -92,9 +108,22 @@ def main() -> int:
     cache_path = (args.input or latest_cache()).resolve()
     output_path = args.output.resolve()
     payload = build_payload(cache_path, args.limit)
+    def rel(path: Path) -> str:
+        try:
+            return str(path.relative_to(ROOT))
+        except ValueError:
+            return str(path)
+
+    if refuse_empty_overwrite(payload, output_path):
+        print(
+            f"empty-overwrite guard: refuse to replace non-empty {rel(output_path)} "
+            f"with items=[] (from {rel(cache_path)})",
+            file=sys.stderr,
+        )
+        return 2
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(yaml.safe_dump(payload, allow_unicode=True, sort_keys=False), encoding="utf-8")
-    print(f"wrote {output_path.relative_to(ROOT)} from {cache_path.relative_to(ROOT)} ({len(payload['items'])} items)")
+    print(f"wrote {rel(output_path)} from {rel(cache_path)} ({len(payload['items'])} items)")
     return 0
 
 
