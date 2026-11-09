@@ -1,93 +1,115 @@
-generated_at: '2026-11-09T04:29:21+00:00'
-source_date: 2026-11-09T042912Z
+generated_at: '2026-11-09T23:01:43+00:00'
+source_date: 2026-11-09T230140Z
 window_hours: 72
 items:
 - rank: 1
-  title: '[정치·예산] 국힘 “미래대응기금은 李정부 쌈짓돈”…162조원 기금 놓고 재정통제 논란'
+  title: '''미래투자인가 정부 쌈짓돈인가'' 162조 미래대응기금 운용 논란'
   status: 정식 검토
   score: 9
-  summary: 최근 보도 8건, 매체 7곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 8
-    outlet_count: 7
-    public_actor: 국민의힘, 국회, 정부
+    news_count: 4
+    outlet_count: 4
+    public_actor: 국회, 정부
   sources:
-  - title: 李 “소방 재원 확보”… 쌈짓돈 되는 미래대응기금
-    url: https://www.munhwa.com/article/11629917?ref=naver
-  - title: '[이슈&트렌드] 파리의 불길 남일 아냐…李정부 승부수 ‘미래 투자 기금...'
-    url: https://www.dt.co.kr/article/12093884?ref=naver
-  - title: 특검 충돌에 예산국회도 얼어붙나…국힘, 27조 삭감 총공세
-    url: https://www.sedaily.com/article/20111591?ref=naver
+  - title: '[예결위] 162조 미래대응기금 놓고 여야 격돌…국힘 "빚투·쌈짓돈" 민주...'
+    url: https://www.polinews.co.kr/news/articleView.html?idxno=748101
+  - title: ‘소방 재정’으로 쓰겠다는 ‘미래기금’…‘쌈짓돈’ 논란 가열
+    url: https://www.busan.com/view/busan/view.php?code=2026110917102040737
+  - title: '''미래투자인가, 정부 쌈짓돈인가'' 162조 미래대응기금 운용 논란'
+    url: http://www.hansbiz.co.kr/news/articleView.html?idxno=881234
 - rank: 2
-  title: 트럼프·민주당, 헤그세스 국방장관 탄핵안 놓고 첫 정면충돌
+  title: '"이재명 탄핵" 또 목청‥"멍청한 극우는 극좌의 밥"'
   status: 정식 검토
   score: 9
   summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
     outlet_count: 18
-    public_actor: 대변인, 민주당, 장관, 정부
+    public_actor: 국민의힘, 대표, 민주당, 장관
   sources:
-  - title: 중간선거 후폭풍 1라운드...이번주 트럼프-민주당 ‘헤그세스 탄핵안’...
-    url: https://www.seoul.co.kr/news/international/2026/11/09/20261109500134?wlog_tag3=naver
-  - title: 트럼프 “더 강하게 돌아올 것”…제프리스 “맞서 싸울 것”
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8707493&ref=A
-  - title: 트럼프, 정책 노선 그대로...민주당, 헤그세스 탄핵 예고
-    url: https://news.bbsi.co.kr/news/articleView.html?idxno=4117392
+  - title: '[동그라미 만평] 청담동 술자리로 다시 불려 나온 한동훈'
+    url: https://www.goodmorningcc.com/news/articleView.html?idxno=455471
+  - title: '"진상규명 우선" 밝힌 이용철…국힘 "탄핵 프로젝트 될 것"'
+    url: https://news.jtbc.co.kr/article/NB12327284?influxDiv=NAVER
+  - title: 트럼프, 엿새만에 부정선거론 제기...헤그세스 탄핵 늦어도 11일 표결
+    url: https://www.ytn.co.kr/_ln/0104_202611100755277127
 - rank: 3
-  title: 트럼프·민주당, 헤그세스 국방장관 탄핵안 놓고 첫 정면충돌
+  title: 헤그세스 미 국방장관 탄핵소추안 재발의…이번주 표결 전망
   status: 정식 검토
-  score: 7
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  score: 9
+  summary: 최근 보도 5건, 매체 4곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 2
-    outlet_count: 2
+    news_count: 5
+    outlet_count: 4
+    public_actor: 대변인, 장관
+  sources:
+  - title: 헤그세스 미 국방장관 탄핵소추안 재발의…이번주 표결 전망
+    url: https://www.sidae.com/article/2026111007171698714
+  - title: 美 공화당서 국방장관 탄핵소추안 재발의…이번주 표결 전망
+    url: https://view.asiae.co.kr/article/2026111006523412600
+  - title: '[속보] 헤그세스 미 국방장관 탄핵소추안 재발의…이번주 표결할 듯'
+    url: https://www.sidae.com/article/2026111006253337416
+- rank: 4
+  title: 美 헤그세스 탄핵안 재발의…이르면 이번 주 표결
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 17
     public_actor: 민주당, 장관
   sources:
-  - title: 중간선거 후폭풍 1라운드...이번주 트럼프-민주당 ‘헤그세스 탄핵안’...
-    url: https://www.seoul.co.kr/news/international/2026/11/09/20261109500134?wlog_tag3=naver
-  - title: 트럼프·민주당, 헤그세스 국방장관 탄핵안 놓고 첫 정면충돌
-    url: https://www.m-economynews.com/news/article.html?no=72748
-- rank: 4
-  title: 미래기금 30% ‘정부 쌈짓돈’ 논란… 與 일각서도 “국회 통제 필요하다”
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회, 정부
-  sources:
-  - title: 미래기금 30% ‘정부 쌈짓돈’ 논란… 與 일각서도 “국회 통제 필요하...
-    url: https://www.donga.com/news/Politics/article/all/20261109/134988557/2
+  - title: 트럼프, 엿새만에 부정선거론 제기...헤그세스 탄핵 늦어도 11일 표결
+    url: https://www.ytn.co.kr/_ln/0104_202611100755277127
+  - title: 레임덕 회기에 ‘최후의 만찬’ 노리는 공화당, 시간과의 싸움 돌입하나
+    url: https://www.khan.co.kr/article/202611100749001
+  - title: '미국 중간선거 후폭풍: 피트 헤그세스 국방부 장관 탄핵 가능성이 높아...'
+    url: https://www.gokorea.kr/news/articleView.html?idxno=884840
 - rank: 5
-  title: 美의회, 행정부와 중간선거 후 첫 대립⋯여당 먼저 전쟁부 장관 탄핵안 발의
+  title: 헤그세스 美국방 탄핵소추안 재발의…이번주 표결 전망
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 3건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 2
+    public_actor: 장관
+  sources:
+  - title: 美 공화당서 국방장관 탄핵소추안 재발의…이번주 표결 전망
+    url: https://view.asiae.co.kr/article/2026111006523412600
+  - title: 헤그세스 美국방 탄핵소추안 재발의…이번주 표결 전망
+    url: https://www.newsis.com/view/NISX20261110_0003861182
+  - title: '[속보]헤그세스 美국방 탄핵소추안 재발의…이번주 표결 전망'
+    url: https://www.newsis.com/view/NISX20261110_0003861183
+- rank: 6
+  title: 대통령 측근부터 노린다…선거로 힘 받은 민주당, 탄핵 첫 표적은 美국방장관
   status: 추가 확인
   score: 6
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 장관, 정부
+    public_actor: 민주당, 장관
   sources:
-  - title: 美의회, 행정부와 중간선거 후 첫 대립⋯여당 먼저 전쟁부 장관 탄핵안...
-    url: https://www.etoday.co.kr/news/view/2645522
-- rank: 6
-  title: '[논평] 시의회 첫 행감, 정부발 ‘인천 위기’ 타개책과 ‘쟁점 현안’ 해법 찾아야!'
+  - title: 대통령 측근부터 노린다…선거로 힘 받은 민주당, 탄핵 첫 표적은 美국...
+    url: https://www.mk.co.kr/article/12203221
+- rank: 7
+  title: 윤재옥 의원, 변압기 전용 논란·TK신공항 예산 미반영 추궁
   status: 추가 확인
   score: 5
   summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 2
     outlet_count: 2
-    public_actor: 정부
+    public_actor: 의원
   sources:
-  - title: 인천경실련, 시의회 첫 행감에서 ‘정부발 인천 위기’ 타개책과 ‘쟁점...
-    url: https://www.kyeonggi.com/article/20261108580197
-  - title: 인천시민사회 "시의회 첫 행감, 금고 선정·재정위기 등 쟁점 현안 규명...
-    url: https://www.joongboo.com/news/articleView.html?idxno=363741748
-- rank: 7
-  title: '[속보]이용철 법무장관 후보, 공소취소 논란 대응에 "법과 원칙 따라"'
+  - title: 윤재옥 의원, 변압기 전용 논란·TK신공항 예산 미반영 추궁
+    url: https://www.womennews.co.kr/news/articleView.html?idxno=284255
+  - title: 윤재옥 의원, 예결위서 지역 편중 정책 질타…대구 변압기 호남 전용·T...
+    url: https://biz.heraldcorp.com/article/10929857?ref=naver
+- rank: 8
+  title: 이란전쟁 후폭풍…美 헤그세스 국방장관 탄핵소추안 발의
   status: 추가 확인
   score: 5
   summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
@@ -96,45 +118,31 @@ items:
     outlet_count: 2
     public_actor: 장관
   sources:
-  - title: '[속보] 이용철 법무장관 후보 "대통령과의 친분이 결격 사유 될 수 없어...'
-    url: https://www.edaily.co.kr/News/Read?newsId=02214006645644080&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
-  - title: '[속보]이용철 법무장관 후보, 공소취소 논란 대응에 "법과 원칙 따라"'
-    url: https://www.newsis.com/view/NISX20261109_0003859728
-- rank: 8
-  title: 미래대응기금이 지방정부 예산 강탈?...'지방교부세' 삭감 논란
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: 미래대응기금이 지방정부 예산 강탈?...'지방교부세' 삭감 논란
-    url: https://www.ytn.co.kr/_ln/0101_202611090625373753
+  - title: '[증시전략] "AI 투심 얼었지만"…앤트로픽 26일 이전 IPO완료'
+    url: https://biz.sbs.co.kr/article_hub/20000345251?division=NAVER
+  - title: 이란전쟁 후폭풍…美 헤그세스 국방장관 탄핵소추안 발의
+    url: https://www.fnnews.com/news/202611100439449575
 - rank: 9
-  title: 소방 예산 논란, 미래대응기금 해결책 될 수 있을까? 국민의힘 강력 반발
+  title: '"표현의 자유, 어디까지?" 암살자(들)·닥터X 논란, 국회서 짚는다'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 국민의힘
+    public_actor: 국회
   sources:
-  - title: 소방 예산 논란, 미래대응기금 해결책 될 수 있을까? 국민의힘 강력 반...
-    url: https://www.gokorea.kr/news/articleView.html?idxno=884676
+  - title: '"표현의 자유, 어디까지?" 암살자(들)·닥터X 논란, 국회서 짚는다'
+    url: https://www.edaily.co.kr/News/Read?newsId=03876966645644080&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 - rank: 10
-  title: 美민주, 이번주 헤그세스 탄핵 추진… 트럼프와 첫 정면충돌
+  title: '''암살자들''·''닥터X'' 역사왜곡 논란 계기…野김승수·김장겸, 11일 국회 토론회'
   status: 추가 확인
   score: 4
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 확인 중
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회
   sources:
-  - title: 트럼프·美 민주, 첫 충돌 전선은 헤그세스 국방 탄핵안…이번 주 하원...
-    url: https://www.kmib.co.kr/article/20261109500053
-  - title: 美민주, 이번주 헤그세스 탄핵 추진… 트럼프와 첫 정면충돌
-    url: https://www.newscj.com/news/articleView.html?idxno=3446998
+  - title: '''암살자들''·''닥터X'' 역사왜곡 논란 계기…野김승수·김장겸, 11일 국회...'
+    url: https://www.dailian.co.kr/news/view/1712669/?sc=Naver
