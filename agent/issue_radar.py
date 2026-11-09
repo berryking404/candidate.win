@@ -659,24 +659,11 @@ def leantime_html_description(text: str) -> str:
 
 
 def create_leantime_report(report: str, json_path: Path) -> dict[str, Any]:
-    title = f"[candidate.win] 이슈 후보 발굴 리포트 {datetime.now(timezone.utc).date().isoformat()}"
-    result = leantime_rpc("leantime.rpc.Tickets.Tickets.addTicket", {
-        "values": {
-            "headline": title,
-            "projectId": LEANTIME_PROJECT_ID,
-            "userId": LEANTIME_USER_ID,
-            "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-            "description": leantime_html_description(report),
-            "status": LEANTIME_WAITING_FOR_APPROVAL_STATUS,
-            "assignedTo": LEANTIME_ASSIGNED_TO,
-            "tags": "issue-radar,candidate.win,approval",
-        }
-    })
-    ticket_id = result.get("id") if isinstance(result, dict) else result
-    payload = json.loads(json_path.read_text(encoding="utf-8"))
-    payload["leantime_ticket_id"] = ticket_id
-    json_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    return {"id": ticket_id, "title": title}
+    """Leantime 경로는 폐기됨. 호출되면 즉시 실패(실쓰기 방지)."""
+    raise RuntimeError(
+        "Leantime write path disabled; publish via publish_today.py / wiki/data/today.yaml only "
+        f"(ignored report={len(report)}B path={json_path})"
+    )
 
 
 def run_radar(args: argparse.Namespace) -> int:
@@ -882,7 +869,11 @@ def build_parser() -> argparse.ArgumentParser:
     r.add_argument("--closure-window-days", type=int, default=30)
     r.add_argument("--closure-max-per-issue", type=int, default=8)
     r.add_argument("--max-closure-candidates", type=int, default=8)
-    r.add_argument("--leantime", action="store_true", help="Leantime 승인 요청 티켓 생성")
+    r.add_argument(
+        "--leantime",
+        action="store_true",
+        help="(폐기) Leantime 승인 티켓 생성 — 경고 후 no-op",
+    )
     r.set_defaults(func=run_radar)
     a = sub.add_parser("apply-approvals")
     a.add_argument("--cache-json")
