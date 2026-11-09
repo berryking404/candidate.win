@@ -29,15 +29,15 @@ python --version  # 3.11+
 
 | 시크릿 이름 | 용도 | 발급 위치 |
 |---|---|---|
-| `CANDYDATE_ISSUES_TOKEN` | 위키 정정·삭제 요청 폼 → GitHub Issues 자동 생성 | GitHub → Settings → Developer settings → Fine-grained personal access tokens |
+| `CANDYDATE_ISSUES_TOKEN` | 위키 정정·삭제 폼 → 서버측 Issues 생성 (`edge/report` Worker) | GitHub → Settings → Developer settings → Fine-grained personal access tokens |
 
-`GITHUB_ISSUES_TOKEN` 발급 시 권한 설정:
+토큰 발급 시 권한 설정:
 
 - **Repository access**: `berryking404/candidate.win` 만 선택
 - **Permissions → Issues**: `Read and write`
 - 나머지 권한은 모두 `No access`
 
-등록 후 `main` 브랜치에 push하면 배포 시 토큰이 자동으로 빌드에 주입된다.
+Worker에 시크릿으로 넣는다: `cd edge/report && wrangler secret put CANDYDATE_ISSUES_TOKEN`. 사용자 브라우저에는 토큰·GitHub URL이 노출되지 않는다.
 
 ## Wiki 로컬 실행
 
@@ -243,10 +243,10 @@ candydate/
 
 ## 정정·삭제 요청
 
-본 위키는 실명 인물의 발언·행적을 다루므로 사실관계 오류나 삭제 요청은 **GitHub Issues 단일 채널**로 접수한다 (별도 폼·이메일 없음).
+본 위키는 실명 인물의 발언·행적을 다루므로 사실관계 오류나 삭제 요청은 **사이트 내 정정·삭제 폼**으로만 접수한다 (개인 메일·DM 무응답). 내부 기록소(SoR)는 Issues이며, 웹 UX에는 GitHub를 노출하지 않는다.
 
-- 사실관계 정정: [`correction` 템플릿](../../issues/new?template=correction.yml) — 대상 페이지 URL, 정정 내용, 근거 출처를 함께 제출
-- 삭제 요청: [`takedown` 템플릿](../../issues/new?template=takedown.yml) — 대상 페이지 URL, 본인 확인 가능한 정보, 삭제 사유
+- 공개 엔드포인트: `POST /api/report` (Cloudflare Worker `edge/report`) — 모달이 페이로드를 보내고 Worker가 Issues를 생성
+- 사실관계 정정 / 삭제 요청: 푸터·페이지의 「오류 신고」「정정/삭제 요청」 버튼
 
 처리 SLA: 1차 응답 7일 / 처리 완료 30일 (영업일 기준). 처리된 변경은 commit 에 `Closes #N` 으로 연결되어 이력이 공개된다.
 

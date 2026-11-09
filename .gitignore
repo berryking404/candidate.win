@@ -4,6 +4,7 @@ wiki/resources/_gen/
 .hugo_build.lock
 
 # Python
+.venv/
 agent/.venv/
 __pycache__/
 *.pyc

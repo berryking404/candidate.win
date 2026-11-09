@@ -41,8 +41,6 @@ jobs:
       - name: Build
         working-directory: wiki
         run: hugo --minify --baseURL "https://wiki.candidate.win/"
-        env:
-          CANDYDATE_ISSUES_TOKEN: ${{ secrets.CANDYDATE_ISSUES_TOKEN }}
 
       - name: Index (Pagefind)
         working-directory: wiki
