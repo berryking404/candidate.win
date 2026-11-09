@@ -132,6 +132,7 @@
     </div>
   </div>
 
+  <script src="{{ "js/report-issue-url.js" | relURL }}"></script>
   <script>
     function openReportModal(type, pageUrl) {
       document.getElementById("report-type").value = type;
@@ -154,9 +155,19 @@
       el.style.display = text ? "block" : "none";
     }
     function submitReport() {
+      const type = document.getElementById("report-type").value;
+      const pageUrl = document.getElementById("report-page").value.trim();
       const desc = document.getElementById("report-desc").value.trim();
+      const source = document.getElementById("report-source").value.trim();
       if (!desc) { _setMsg("오류 내용을 입력해 주세요.", "#c00"); return; }
-      _setMsg("현재 사이트 내 접수 기능을 점검 중입니다. 요청 페이지, 내용, 출처를 복사해 운영자에게 전달해 주세요.", "#444");
+      const url = CandydateReport.buildReportIssueUrl({
+        type: type,
+        pageUrl: pageUrl,
+        desc: desc,
+        source: source,
+      });
+      window.open(url, "_blank", "noopener,noreferrer");
+      _setMsg("GitHub 이슈 작성 페이지를 열었습니다. 로그인 후 남은 필드를 채우고 제출해 주세요.", "#070");
     }
     document.getElementById("report-overlay").addEventListener("click", function(e) {
       if (e.target === this) closeReportModal();
