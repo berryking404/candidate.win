@@ -168,7 +168,7 @@ Pass E — quality_gate 는 append_agent_stances 경로에서 자동 실행
 
 | Rule | 조건 | 처리 |
 |---|---|---|
-| **1** | 비-미확인 stance에 출처 URL 없음 | 미확인(미확인)으로 강등, URL 제거 |
+| **1** | 비-미확인 stance에 출처 URL 없음·무효(`N/A` 등 non-http(s)) | 미확인으로 강등, URL 제거. Pass A format도 invalid quote URL은 fallback http(s)만 채택 |
 | **2** | URL 있고 `.cache/sources/` 캐시 히트 + 인용문-원문 불일치 | 미확인으로 강등 |
 | **3** | URL 있고 캐시 미스 (미수집 출처) | 경고 로그만, 강등하지 않음 |
 

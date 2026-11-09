@@ -1,7 +1,7 @@
 """Pass E — write_agent_section 직전 stance 품질 검증.
 
 검증 규칙:
-  Rule 1 — 비-미확인 stance에 출처 URL 없으면 미확인으로 강등.
+  Rule 1 — 비-미확인 stance에 출처 URL 없음·무효(N/A 등)면 미확인으로 강등.
   Rule 2 — 출처 URL이 소스 캐시에 있으면 요약문 핵심 구절이 원문에 존재하는지 확인.
            일치 없으면 미확인으로 강등.
   Rule 3 — 출처 URL이 있으나 소스 캐시 미스이면 경고만, 강등하지 않음.
@@ -31,6 +31,14 @@ _STANCE_LINE_RE = re.compile(
 )
 _UNKNOWN_KO = "미확인"
 _MIN_CHUNK = 10  # 원문 매칭에 쓸 최소 구절 길이
+
+
+def is_valid_source_url(url: str | None) -> bool:
+    """공개 출처로 쓸 수 있는 http(s) URL만 True. N/A·상대경로·빈 값은 False."""
+    if not url or not isinstance(url, str):
+        return False
+    u = url.strip()
+    return u.startswith("http://") or u.startswith("https://")
 
 
 def _naver_cache_path(url: str) -> Path:
@@ -97,16 +105,16 @@ def validate_stances(content: str, slug: str = "") -> tuple[str, list[dict]]:
             out_lines.append(line)
             continue
 
-        # Rule 1 — URL 없음
-        if not url:
-            reason = "출처 URL 없음"
+        # Rule 1 — URL 없음·무효(N/A placeholder 등)
+        if not is_valid_source_url(url):
+            reason = "출처 URL 없음" if not (url or "").strip() else "출처 URL 무효"
             out_lines.append(_downgrade_line(line, m, name, summary))
             report.append(_entry(slug, name, pos, reason, url))
             logger.warning("[quality_gate] 강등 %s/%s — %s", slug, name, reason)
             continue
 
         # Rule 2 / 3 — 캐시 조회
-        source = _source_text(url)
+        source = _source_text(url.strip())
         if source is None:
             # Rule 3 — 캐시 미스, 패널티 없음
             logger.debug("[quality_gate] 캐시 미스 %s/%s url=%s", slug, name, url[:60])
