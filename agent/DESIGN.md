@@ -9,6 +9,8 @@ Agent는 **deterministic Pass A CLI** (`deep_agent.py`)다. 뉴스·YouTube 자�
 
 두 페이지는 양방향으로 링크된다. OpenAI DeepAgents 오케스트레이터·Batch API는 제거했다. 레포 거버넌스·저신뢰 stance 재분석은 **sw-factory** (`pm` / `candidate` IC)가 담당한다.
 
+공개 정정·삭제 접수: `POST /api/report` (Cloudflare Worker `edge/report`, `CANDYDATE_ISSUES_TOKEN`) — 웹 UX에 GitHub 비노출.
+
 ## Pass A 런타임 (deterministic)
 
 진입점: `python deep_agent.py --issue|--person|--all`. LLM이 도구를 고르지 않고, `tools.py` 함수를 **고정 순서**로 호출한다.

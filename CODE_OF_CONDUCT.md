@@ -30,10 +30,10 @@ Contributor Covenant v2.1 기반 + 본 프로젝트 특화 조항.
 
 ### 3. 정정·삭제 요청 채널
 
-콘텐츠에 대한 정정 요청 및 삭제 요청은 **GitHub Issues 단일 채널**만 사용합니다.
+콘텐츠에 대한 정정 요청 및 삭제 요청은 **위키 사이트 내 정정·삭제 폼**만 사용합니다.
 
 - 개인 이메일, DM, 소셜 미디어를 통한 요청에는 응답하지 않습니다.
-- 이슈 제출 전 해당 템플릿([정정 요청](https://github.com/USER/candydate/issues/new?template=correction.yml), [삭제 요청](https://github.com/USER/candydate/issues/new?template=takedown.yml))을 반드시 사용해야 합니다.
+- 사이트 푸터·페이지의 「오류 신고」「정정/삭제 요청」 버튼으로 제출합니다. 웹 UX에 외부 이슈 트래커 로그인을 요구하지 않습니다.
 - **SLA**: 1차 응답 7일 / 처리 완료 30일 (영업일 기준).
 - 공인의 공적 발언·표결·정책 입장은 원칙적으로 삭제 대상이 아닙니다.
 

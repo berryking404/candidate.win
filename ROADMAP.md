@@ -89,15 +89,15 @@
 
 ## 운영·법무 정책 (public repo 운영 전제)
 
-정정·삭제 요청 등 콘텐츠 분쟁은 별도 폼·이메일을 두지 않고 **GitHub Issues 단일 채널**로 관리한다. 모든 처리 이력이 공개·추적 가능해 투명성과 운영 비용 양면에서 유리하다.
+정정·삭제 요청 등 콘텐츠 분쟁은 별도 이메일·DM 없이 **사이트 폼 → 서버측 Issues 생성**으로 관리한다. 내부 SoR는 Issues(처리 이력 공개·추적)이고, 웹 사용자 UX에는 GitHub를 노출하지 않는다 (`AGENTS.md` Repository Contract).
 
 - [x] Issue 템플릿 `.github/ISSUE_TEMPLATE/correction.yml` — 출처 필수, 1차 출처 우선, 허위신고 책임 인지 체크박스
 - [x] Issue 템플릿 `.github/ISSUE_TEMPLATE/takedown.yml` — 법적 근거 필수, 공적 발언 삭제 불가 안내, 책임 인지 체크박스
-- [x] Hugo partial `wiki/layouts/partials/correction-link.html` 작성 — 사전 채움 URL 빌더 (필드 `id` ↔ 쿼리 키 1:1 매칭)
+- [x] Hugo partial `wiki/layouts/partials/correction-link.html` + 모달 → `POST /api/report` (Cloudflare Worker `edge/report`, `CANDYDATE_ISSUES_TOKEN`)
 - [x] `CODE_OF_CONDUCT.md` 초안 작성 — Contributor Covenant v2.1 기반 + 본 프로젝트 특화 조항. 포함 사항:
   - **실명 인물을 다루는 위키 특성**상 토론·이슈 작성 시 인신공격 금지, 출처 동반 의무
   - **정치적 중립성 선언** — 특정 정파·인물 옹호/공격 목적의 기여 거부
-  - 정정·삭제 요청은 GitHub Issues 채널만 사용 (개인 메일·DM 시 무응답)
+  - 정정·삭제 요청은 사이트 폼만 사용 (개인 메일·DM 시 무응답; 내부 SoR=Issues)
   - 허위 정정 요청 반복 시 `correction` 라벨 봇이 신고자 차단 (운영진 재량)
   - 처리 이력 공개 정책 — 모든 정정/삭제 결정은 PR commit + closed issue 로 추적
   - 운영진 연락처 (이메일·메인테이너 핸들)

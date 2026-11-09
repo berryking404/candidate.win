@@ -160,14 +160,29 @@
       const desc = document.getElementById("report-desc").value.trim();
       const source = document.getElementById("report-source").value.trim();
       if (!desc) { _setMsg("오류 내용을 입력해 주세요.", "#c00"); return; }
-      const url = CandydateReport.buildReportIssueUrl({
+      const payload = CandydateReport.buildReportPayload({
         type: type,
         pageUrl: pageUrl,
         desc: desc,
         source: source,
       });
-      window.open(url, "_blank", "noopener,noreferrer");
-      _setMsg("GitHub 이슈 작성 페이지를 열었습니다. 로그인 후 남은 필드를 채우고 제출해 주세요.", "#070");
+      const btn = document.getElementById("report-submit");
+      btn.disabled = true;
+      btn.textContent = "제출 중…";
+      CandydateReport.submitReport(payload).then(function (result) {
+        if (result && result.ok) {
+          _setMsg("요청이 접수되었습니다. 처리 현황 페이지에서 진행 상태를 확인할 수 있습니다.", "#070");
+          btn.textContent = "접수 완료";
+          return;
+        }
+        _setMsg("접수에 실패했습니다. 잠시 후 다시 시도해 주세요.", "#c00");
+        btn.disabled = false;
+        btn.textContent = "제출";
+      }).catch(function () {
+        _setMsg("접수에 실패했습니다. 잠시 후 다시 시도해 주세요.", "#c00");
+        btn.disabled = false;
+        btn.textContent = "제출";
+      });
     }
     document.getElementById("report-overlay").addEventListener("click", function(e) {
       if (e.target === this) closeReportModal();

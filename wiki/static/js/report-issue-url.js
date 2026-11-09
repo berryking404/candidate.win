@@ -1,7 +1,6 @@
-/** 정정·삭제 모달 → GitHub Issue form 사전채움 URL 빌더 (필드 id ↔ 쿼리 키). */
+/** 정정·삭제 모달 → /api/report 페이로드 빌더·제출 (GitHub URL 비노출). */
 (function (root) {
-  var REPO_NEW_ISSUE =
-    "https://github.com/berryking404/candidate.win/issues/new";
+  var REPORT_API = "/api/report";
 
   function parsePageMeta(pageUrl) {
     try {
@@ -23,37 +22,62 @@
 
   /**
    * @param {{type:string,pageUrl:string,desc:string,source?:string}} opts
-   * @returns {string}
+   * @returns {object}
    */
-  function buildReportIssueUrl(opts) {
+  function buildReportPayload(opts) {
     var type = opts.type === "takedown" ? "takedown" : "correction";
     var pageUrl = opts.pageUrl || "";
     var desc = opts.desc || "";
     var source = opts.source || "";
     var meta = parsePageMeta(pageUrl);
-    var params = new URLSearchParams();
-    params.set(
-      "template",
-      type === "takedown" ? "takedown.yml" : "correction.yml"
-    );
-    if (pageUrl) params.set("page-url", pageUrl);
-    if (meta.slug) params.set("target-slug", meta.slug);
-    if (meta.kind) params.set("target-kind", meta.kind);
     if (type === "takedown") {
-      if (desc) {
-        params.set("reason", desc);
-        params.set("scope", desc);
-      }
-      if (source) params.set("legal-basis", source);
-    } else {
-      if (desc) params.set("incorrect", desc);
-      if (source) params.set("sources", source);
+      return {
+        type: type,
+        pageUrl: pageUrl,
+        targetSlug: meta.slug || "",
+        targetKind: meta.kind || "",
+        reason: desc,
+        scope: desc,
+        legalBasis: source,
+      };
     }
-    return REPO_NEW_ISSUE + "?" + params.toString();
+    return {
+      type: type,
+      pageUrl: pageUrl,
+      targetSlug: meta.slug || "",
+      targetKind: meta.kind || "",
+      incorrect: desc,
+      sources: source,
+    };
+  }
+
+  /**
+   * @param {object} payload
+   * @returns {Promise<{ok:boolean}>}
+   */
+  function submitReport(payload) {
+    return fetch(REPORT_API, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload),
+      credentials: "omit",
+    }).then(function (res) {
+      if (!res.ok) return { ok: false };
+      return res.json().then(
+        function (data) {
+          return { ok: !!(data && data.ok) };
+        },
+        function () {
+          return { ok: false };
+        }
+      );
+    });
   }
 
   root.CandydateReport = {
+    REPORT_API: REPORT_API,
     parsePageMeta: parsePageMeta,
-    buildReportIssueUrl: buildReportIssueUrl,
+    buildReportPayload: buildReportPayload,
+    submitReport: submitReport,
   };
 })(typeof globalThis !== "undefined" ? globalThis : this);
