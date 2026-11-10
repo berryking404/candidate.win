@@ -1,0 +1,39 @@
+# Deploy Option A report Worker (POST /api/report).
+# Secrets: CLOUDFLARE_API_TOKEN, CLOUDFLARE_ACCOUNT_ID, CANDYDATE_ISSUES_TOKEN
+# Manual: gh workflow run deploy-report-worker.yml
+name: Deploy report Worker
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "edge/report/**"
+      - ".github/workflows/deploy-report-worker.yml"
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-report-worker
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Deploy candidate-report-api
+        uses: cloudflare/wrangler-action@v4
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          workingDirectory: edge/report
+          wranglerVersion: "4.35.0"
+          command: deploy
+          secrets: |
+            CANDYDATE_ISSUES_TOKEN
+        env:
+          CANDYDATE_ISSUES_TOKEN: ${{ secrets.CANDYDATE_ISSUES_TOKEN }}
