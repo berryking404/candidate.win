@@ -28,5 +28,4 @@ summary: 일본 측의 한일 ACSA 체결 요구와 한국 정부의 신중론�
 - [안규백](/people/an-gyu-baek) — **반대**: 한미일 군사협력과 한일군수지원협정 추진을 규탄하는 행보가 소개됐다. [출처](http://worknworld.kctu.org/news/articleView.html?idxno=509775)
 - [김선호](/people/gim-seon-ho) — **중립**: 한일 상호군수지원협정에 대해 “국민 정서상 현재는 받아들이기...”라고 언급했다. [출처](https://www.koreareport.co.kr/news/articleView.html?idxno=50816)
 - [송의원](/people/song-ui-won) — **미확인**: 송 의원은 한일 간 상호군수지원협정(ACSA) 체결에 대해 부정적인 입장을 표명하며, 독도 문제와 일본의 군사 활동 확대 가능성을 거론하며 신중해야 한다는 견해를 밝혔다..
-- [이시바](/people/i-si-ba) — **미확인**: 이시바 전 총리는 한일 간 상호군수지원협정(ACSA) 체결이 양국 간의 진지한 논의를 심화하는 중요한 과제라고 강조하며 군사 협력의 필요성을 주장했다..
 <!-- /agent:stances -->
