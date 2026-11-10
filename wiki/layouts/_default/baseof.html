@@ -155,6 +155,11 @@
       el.style.display = text ? "block" : "none";
     }
     function submitReport() {
+      const btn = document.getElementById("report-submit");
+      if (btn.textContent === "접수 완료") {
+        closeReportModal();
+        return;
+      }
       const type = document.getElementById("report-type").value;
       const pageUrl = document.getElementById("report-page").value.trim();
       const desc = document.getElementById("report-desc").value.trim();
@@ -166,13 +171,13 @@
         desc: desc,
         source: source,
       });
-      const btn = document.getElementById("report-submit");
       btn.disabled = true;
       btn.textContent = "제출 중…";
       CandydateReport.submitReport(payload).then(function (result) {
         if (result && result.ok) {
           _setMsg("요청이 접수되었습니다. 처리 현황 페이지에서 진행 상태를 확인할 수 있습니다.", "#070");
           btn.textContent = "접수 완료";
+          btn.disabled = false;
           return;
         }
         _setMsg("접수에 실패했습니다. 잠시 후 다시 시도해 주세요.", "#c00");
