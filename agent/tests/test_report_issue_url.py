@@ -174,6 +174,19 @@ def test_baseof_submits_via_api_without_github_ux() -> None:
     assert "점검 중" not in text
 
 
+def test_baseof_done_button_click_closes_modal() -> None:
+    """성공 후 [접수 완료] 클릭 시 모달이 닫혀야 한다."""
+    text = BASEOF.read_text(encoding="utf-8")
+    assert 'btn.textContent = "접수 완료"' in text
+    # 두 번째 클릭(완료 상태)에서 close
+    assert 'btn.textContent === "접수 완료"' in text
+    assert "closeReportModal()" in text
+    # 성공 직후 버튼이 다시 클릭 가능해야 함
+    ok_idx = text.index('btn.textContent = "접수 완료"')
+    snippet = text[ok_idx : ok_idx + 120]
+    assert "btn.disabled = false" in snippet
+
+
 def test_js_has_no_github_new_issue_url() -> None:
     text = JS.read_text(encoding="utf-8")
     assert "github.com" not in text.lower()
