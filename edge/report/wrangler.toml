@@ -2,8 +2,12 @@ name = "candidate-report-api"
 main = "src/worker.js"
 compatibility_date = "2024-11-11"
 
-# Secret: wrangler secret put CANDYDATE_ISSUES_TOKEN
-# Route (Cloudflare zone candidate.win): wiki.candidate.win/api/report*
+# Secret: injected by GitHub Actions (CANDYDATE_ISSUES_TOKEN) via wrangler-action
+# Route: path-only Worker on existing CF zone (Pages origin unchanged)
+
+[[routes]]
+pattern = "wiki.candidate.win/api/report*"
+zone_name = "candidate.win"
 
 [vars]
 GITHUB_REPO = "berryking404/candidate.win"

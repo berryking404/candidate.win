@@ -30,14 +30,16 @@ python --version  # 3.11+
 | 시크릿 이름 | 용도 | 발급 위치 |
 |---|---|---|
 | `CANDYDATE_ISSUES_TOKEN` | 위키 정정·삭제 폼 → 서버측 Issues 생성 (`edge/report` Worker) | GitHub → Settings → Developer settings → Fine-grained personal access tokens |
+| `CLOUDFLARE_API_TOKEN` | `edge/report` Worker deploy (Actions) | Cloudflare → My Profile → API Tokens (Workers Deploy + zone route) |
+| `CLOUDFLARE_ACCOUNT_ID` | 위와 동일 | Cloudflare 대시보드 우측 사이드바 Account ID |
 
-토큰 발급 시 권한 설정:
+`CANDYDATE_ISSUES_TOKEN` 발급 시 권한 설정:
 
 - **Repository access**: `berryking404/candidate.win` 만 선택
 - **Permissions → Issues**: `Read and write`
 - 나머지 권한은 모두 `No access`
 
-Worker에 시크릿으로 넣는다: `cd edge/report && wrangler secret put CANDYDATE_ISSUES_TOKEN`. 사용자 브라우저에는 토큰·GitHub URL이 노출되지 않는다.
+Worker 배포 정본은 GitHub Actions(`.github/workflows/deploy-report-worker.yml`)다. CI가 `CANDYDATE_ISSUES_TOKEN`을 Worker secret으로 주입하고 `wiki.candidate.win/api/report*` 라우트를 연결한다. 사용자 브라우저에는 토큰·GitHub URL이 노출되지 않는다.
 
 ## Wiki 로컬 실행
 
