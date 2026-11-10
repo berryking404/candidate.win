@@ -23,4 +23,5 @@ role: 전 국방부 장관
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **지지**: 종합특검의 수사 기간 연장과 수사 방식에 대해 비판적 입장을 드러냈다. [출처](https://www.khan.co.kr/article/202607121721001)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **미확인**: 특검이 비상계엄 관련 추가 기소 대상로 언급했다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260811192100kSZ)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 윤석열의 지시를 받아 계엄 정당화 메시지 전파에 관여한 혐의로 불구속 기소됐다. [출처](https://www.kukinews.com/article/view/kuk202608130004)
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **혼합**: 2차 종합특검의 재판 과정에서의 절차적 문제점과 검사 수사 역량의 한계를 지적하는 동시에, 사안의 긴급성에 따른 신속한 특검 처리의 필요성을 강조하며 수사 및 기소의 정당성에 대한 논쟁을 다룬다.. [출처](https://www.mediatoday.co.kr/news/articleView.html?idxno=338319)
 <!-- /agent:stances -->
