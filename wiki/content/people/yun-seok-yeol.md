@@ -4,6 +4,8 @@ slug: yun-seok-yeol
 role: 전 대통령
 status: curated
 party: 국민의힘
+aliases:
+  - /people/yun-jeon/
 ---
 
 ## 행적
