@@ -238,7 +238,13 @@
           <td>
             <div class="report-request">
               <div class="report-body" style="margin-top: 0;">
-                {{ .body | markdownify }}
+                {{/* render guard: strip GitHub/factory URLs even if reports.json missed sanitize */}}
+                {{ $reqBody := .body | default "" }}
+                {{ $reqBody = $reqBody | replaceRE `(?i)https?://(?:www\.)?github\.com\S*` "" }}
+                {{ $reqBody = $reqBody | replaceRE `(?i)(?:www\.)?github\.com/\S*` "" }}
+                {{ $reqBody = $reqBody | replaceRE `(?i)\bGitHub\b` "" }}
+                {{ $reqBody = $reqBody | replaceRE `(?i)https?://(?:[\w.-]+\.)?factory\.askwho\.net\S*` "" }}
+                {{ $reqBody | markdownify }}
               </div>
             </div>
             
@@ -249,7 +255,12 @@
                 <span class="reply-user">↳ 답변</span>
                 <span class="reply-date">{{ .created_at | time.Format "2006-01-02" }}</span>
                 <div class="reply-body">
-                  {{ .body | markdownify }}
+                  {{ $replyBody := .body | default "" }}
+                  {{ $replyBody = $replyBody | replaceRE `(?i)https?://(?:www\.)?github\.com\S*` "" }}
+                  {{ $replyBody = $replyBody | replaceRE `(?i)(?:www\.)?github\.com/\S*` "" }}
+                  {{ $replyBody = $replyBody | replaceRE `(?i)\bGitHub\b` "" }}
+                  {{ $replyBody = $replyBody | replaceRE `(?i)https?://(?:[\w.-]+\.)?factory\.askwho\.net\S*` "" }}
+                  {{ $replyBody | markdownify }}
                 </div>
               </div>
               {{ end }}
