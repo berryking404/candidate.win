@@ -11,6 +11,7 @@ This file provides guidance to coding agents when working with code in this repo
 - `wiki/` — Hugo 설정과 테마만 포함. 빌드 산출물(`public/`) 은 Git에 커밋하지 않는다.
 - web 사용자는 GitHub에 대한 내용을 모르게 처리한다.
 - 공개 wiki 산출물(`wiki/content/**`, `data/issues.*`의 conclusion 등 렌더링되는 텍스트)에는 내부 운영자/업무도구 이름을 쓰지 않는다. 내부 출처·승인 경로 대신 공개 독자에게 보이는 중립 문장만 남긴다.
+- 공개 `/status/` 답변(Issue 댓글이 렌더되는 표면)에는 `github.com`·Actions/PR URL·merge SHA·factory/ticket id를 넣지 않는다. 예: 「요청하신 …를 반영했습니다. …를 바로잡았습니다.」 내부 증거는 factory 티켓 코멘트에만. `wiki/sanitize_public_text.py`가 fetch·렌더 가드다.
 
 ## Naming Conventions
 
