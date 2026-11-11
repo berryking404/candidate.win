@@ -1,0 +1,14 @@
+slug: jo-deon
+name_ko: 조던
+name_en: null
+party: null
+role: 의원 (탄핵 추진 방어 관련)
+status: stub
+aliases:
+- 조던
+discovered_via_issue: special-counsel-investigation-2026
+discovered_at: '2026-11-11'
+sources:
+  news_keywords:
+  - 조던
+  youtube_channels: []
