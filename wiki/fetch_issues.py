@@ -6,7 +6,7 @@ from pathlib import Path
 
 # `python3 wiki/fetch_issues.py` 및 `cd wiki && python3 fetch_issues.py` 모두 허용
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from sanitize_public_text import sanitize_public_status_text
+from sanitize_public_text import format_public_reply, format_public_request
 
 token = os.environ.get("GITHUB_TOKEN")
 headers = {
@@ -49,7 +49,7 @@ try:
                 comments = [
                     {
                         "user": c["user"]["login"],
-                        "body": sanitize_public_status_text(c["body"]),
+                        "body": format_public_reply(c["body"]),
                         "created_at": c["created_at"]
                     }
                     for c in comments_data
@@ -62,7 +62,7 @@ try:
             "title": issue["title"],
             "html_url": issue["html_url"],
             "state": issue["state"],
-            "body": sanitize_public_status_text(issue["body"]),
+            "body": format_public_request(issue["body"]),
             "created_at": issue["created_at"],
             "closed_at": issue["closed_at"],
             "labels": issue["labels"],

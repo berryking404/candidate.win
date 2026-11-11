@@ -76,8 +76,9 @@ def test_status_and_policy_copy_has_no_github_concepts() -> None:
 
 def test_fetch_issues_applies_sanitize_to_body_and_comments() -> None:
     src = FETCH_ISSUES.read_text(encoding="utf-8")
-    assert "sanitize_public_status_text" in src
-    assert "from sanitize_public_text import" in src or "sanitize_public_text" in src
+    assert "format_public_request" in src
+    assert "format_public_reply" in src
+    assert "from sanitize_public_text import" in src
 
 
 def test_status_layout_sanitizes_before_markdownify() -> None:
