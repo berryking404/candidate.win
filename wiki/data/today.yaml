@@ -1,159 +1,160 @@
-generated_at: '2026-11-10T23:01:10+00:00'
-source_date: 2026-11-10T230101Z
+generated_at: '2026-11-11T23:01:39+00:00'
+source_date: 2026-11-11T230136Z
 window_hours: 72
 items:
 - rank: 1
-  title: 초광역특구법 논란…국회·시민사회 “재벌 특혜 중단하고 법안 철회하라”
+  title: 최민희, 국회 기자 '하이에나' 표현 논란에 사과... "과하고 부적절"
   status: 정식 검토
-  score: 7
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  score: 9
+  summary: 최근 보도 9건, 매체 9곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 국회
+    news_count: 9
+    outlet_count: 9
+    public_actor: 국회, 의원
   sources:
-  - title: 초광역특구법 논란…국회·시민사회 "재벌 특혜 중단하고 법안 철회하라...
-    url: https://www.ngonews.kr/news/articleView.html?idxno=242789
-  - title: 울산 진보단체들 '초광역특구법안' 즉각 철회 요구
-    url: https://www.fnnews.com/news/202611101527544622
-  - title: 학비노조 "공론화기구 구성하라" 27일 총파업
-    url: https://www.newsclaim.co.kr/news/articleView.html?idxno=3081954
+  - title: 최민희, 취재진에 '하이에나 떼'…논란 커지자 사과
+    url: http://www.yonhapnewstv.co.kr/news/MYH202611111839334iL
+  - title: “하이에나 떼” 기자들 비하한 최민희 의원, 유출자 탓하더니…결국 고...
+    url: https://www.seoul.co.kr/news/politics/congress/2026/11/11/20261111500331?wlog_tag3=naver
+  - title: 최민희, 국회 기자들에 ‘하이에나 떼’ 발언 재차 사과
+    url: https://www.m-economynews.com/news/article.html?no=72903
 - rank: 2
-  title: 청해부대 임무 확대 놓고 논란…정부는 해적 대응, 시민사회는 '전쟁 개입' 우려
+  title: 미 하원, 헤그세스 국방장관 탄핵안 일단 부결
   status: 정식 검토
-  score: 7
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  score: 9
+  summary: 최근 보도 8건, 매체 8곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 국회, 정부
+    news_count: 8
+    outlet_count: 8
+    public_actor: 민주당, 장관
   sources:
-  - title: 청해부대 임무 확대 놓고 논란…정부는 해적 대응, 시민사회는 '전쟁 개...
-    url: https://www.ngonews.kr/news/articleView.html?idxno=242806
-  - title: '''청해부대 작전구역 확대'' 국회로... 국방부 "전쟁 개입 절대 없다"'
-    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283515&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+  - title: 김종대 “젠슨 황 사건, 본질은 불륜 아닌 미중 패권 전쟁” [김은지의...
+    url: https://www.sisain.co.kr/news/articleView.html?idxno=58807
+  - title: 美 공화당, 헤그세스 탄핵 저지… ‘트럼프 충성파’도 전면에
+    url: https://www.segye.com/newsView/20261111515620?OutUrl=naver
+  - title: '[이슈] 美 공화, 헤그세스 국방 탄핵안 표결 저지 ''사실상 폐기''⋯트럼...'
+    url: https://www.polinews.co.kr/news/articleView.html?idxno=748261
 - rank: 3
-  title: 미 공화당 하원의원, ‘헤그세스 국방장관 탄핵 소추안’ 재발의 강행
-  status: 기존 이슈와 함께 검토
-  score: 7
+  title: 美공화당, 하원서 헤그세스 국방 탄핵소추안 표결 저지
+  status: 정식 검토
+  score: 9
   summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
     outlet_count: 18
-    public_actor: 의원, 장관
+    public_actor: 대표, 민주당, 원내대표, 장관
   sources:
-  - title: 미국 정치에 파문 일으킨 매시 의원의 파격 행보, 트럼프와의 대립은 어...
-    url: https://www.gokorea.kr/news/articleView.html?idxno=884991
-  - title: 美국방 "탄핵은 정치쇼"…트럼프 "잘했다"
-    url: http://www.yonhapnewstv.co.kr/news/MYH20261111075018Zcf
-  - title: 헤그세스 "탄핵은 정치쇼"…"A+++" 추켜세운 트럼프
-    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008840130&plink=ORI&cooper=NAVER
-  related_issue: special-counsel-investigation-2026
+  - title: 헤그세스 탄핵 벼르더니…펠로시 등 美민주 11명 표결 불참
+    url: https://www.yna.co.kr/view/AKR20261112000600071?input=1195m
+  - title: 중간선거 참패에도 ‘트럼프당’… 美 공화 새 원내대표에 강경파
+    url: https://www.kmib.co.kr/article/20261111501931
+  - title: 美 공화당, 헤그세스 탄핵 저지… ‘트럼프 충성파’도 전면에
+    url: https://www.segye.com/newsView/20261111515620?OutUrl=naver
 - rank: 4
-  title: 헤그세스, 탄핵소추에 “정치적 쇼” 반발…트럼프는 “A+”
+  title: 美공화당, 헤그세스 국방 탄핵소추안 본회의 표결 저지
   status: 정식 검토
-  score: 7
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 장관
-  sources:
-  - title: 탄핵 위기 美국방장관 "정치쇼" 반발…트럼프는 "A+" 극찬
-    url: https://www.jnilbo.com/news/articleView.html?idxno=90000081482
-  - title: 헤그세스, 탄핵소추에 “정치적 쇼” 반발…트럼프는 “A+”
-    url: https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559353
-  - title: 헤그세스, 탄핵 추진에 "정치적 쇼" 반발…트럼프도 공개 옹호
-    url: https://www.ajunews.com/view/20261111061028746
-- rank: 5
-  title: 미 국방 “나에 대한 탄핵은 정치적 쇼”···트럼프 “헤그세스 기자...
-  status: 정식 검토
-  score: 7
+  score: 9
   summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
     outlet_count: 16
-    public_actor: 장관
+    public_actor: 대표, 민주당, 원내대표, 장관
   sources:
-  - title: 미 국방 “나에 대한 탄핵은 정치적 쇼”···트럼프 “헤그세스 기자...
-    url: https://www.khan.co.kr/article/202611110738001
-  - title: 탄핵 위기 美국방장관 "정치쇼" 반발…트럼프는 "A+" 극찬
-    url: https://www.jnilbo.com/news/articleView.html?idxno=90000081482
-  - title: '[연합뉴스 이 시각 헤드라인] - 07:30'
-    url: https://www.yna.co.kr/view/AKR20261111015700011?input=1195m
-- rank: 6
-  title: 美 국방장관, 탄핵 추진에 "정치적 쇼" 반발
+  - title: 헤그세스 탄핵 벼르더니…펠로시 등 美민주 11명 표결 불참
+    url: https://www.yna.co.kr/view/AKR20261112000600071?input=1195m
+  - title: 중간선거 참패에도 ‘트럼프당’… 美 공화 새 원내대표에 강경파
+    url: https://www.kmib.co.kr/article/20261111501931
+  - title: 美 공화당, 헤그세스 탄핵 저지… ‘트럼프 충성파’도 전면에
+    url: https://www.segye.com/newsView/20261111515620?OutUrl=naver
+- rank: 5
+  title: 미국 공화당, 하원서 헤그세스 국방 탄핵소추안 표결 저지
   status: 정식 검토
-  score: 7
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 장관
-  sources:
-  - title: '"탄핵소추는 정치 쇼" 반발한 美국방… "트럼프 군사작전 전적 지지"'
-    url: https://www.hankookilbo.com/news/article/A2026111023460005113?did=NA
-  - title: 美 국방장관, 탄핵 추진에 "정치적 쇼" 반발
-    url: http://www.yonhapnewstv.co.kr/news/AKR20261111000639C6N
-  - title: 美국방, 탄핵 추진에 반발…“정치적 쇼에 불과”
-    url: https://www.joongang.co.kr/article/25477441
-- rank: 7
-  title: 美국방 "탄핵소추는 정치적 쇼…보여주기식 재판 실패할 것"
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 10건, 매체 9곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 10
-    outlet_count: 9
-    public_actor: 장관
-  sources:
-  - title: 탄핵 위기 美국방장관 "정치쇼" 반발…트럼프는 "A+" 극찬
-    url: https://www.jnilbo.com/news/articleView.html?idxno=90000081482
-  - title: 美국방 “날 탄핵하는 건 정치쇼”…트럼프 “잘했다, A+” [1일1트]
-    url: https://biz.heraldcorp.com/article/10932810?ref=naver
-  - title: 美 국방 "탄핵소추는 정치적 쇼"...트럼프 "잘했다"
-    url: https://biz.sbs.co.kr/article_hub/20000345551?division=NAVER
-- rank: 8
-  title: '"탄핵소추는 정치 쇼" 반발한 美국방… "트럼프 군사작전 전적 지지"'
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
+  score: 9
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 17
-    public_actor: 장관
+    outlet_count: 18
+    public_actor: 대표, 민주당, 원내대표, 의원, 장관
   sources:
-  - title: 美국방 "탄핵은 정치쇼"…트럼프 "잘했다"
-    url: http://www.yonhapnewstv.co.kr/news/MYH20261111075018Zcf
-  - title: 탄핵 위기 美국방장관 "정치쇼" 반발…트럼프는 "A+" 극찬
-    url: https://www.jnilbo.com/news/articleView.html?idxno=90000081482
-  - title: 미 국방 “나에 대한 탄핵은 정치적 쇼”···트럼프 “헤그세스 기자...
-    url: https://www.khan.co.kr/article/202611110738001
-- rank: 9
-  title: 국회로 간 파견 동의안...이란 반발 속 진통 예상
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 3건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  - title: 미국 공화당 의원들, ‘헤그세스 탄핵안’ 본회의 표결 저지
+    url: https://www.voakorea.com/a/hegseth-impeachement-111126/8221521.html
+  - title: 헤그세스 탄핵 벼르더니...펠로시 등 미 민주 11명 표결 불참
+    url: https://www.ytn.co.kr/_ln/0104_202611120243393385
+  - title: 헤그세스 탄핵 벼르더니…펠로시 등 美민주 11명 표결 불참
+    url: https://www.yna.co.kr/view/AKR20261112000600071?input=1195m
+- rank: 6
+  title: 美 공화당, 헤그세스 국방장관 탄핵소추안 표결 저지
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 3
-    outlet_count: 2
+    news_count: 20
+    outlet_count: 18
+    public_actor: 대표, 민주당, 원내대표, 장관
+  sources:
+  - title: 헤그세스 탄핵 벼르더니…펠로시 등 美민주 11명 표결 불참
+    url: https://www.yna.co.kr/view/AKR20261112000600071?input=1195m
+  - title: 중간선거 참패에도 ‘트럼프당’… 美 공화 새 원내대표에 강경파
+    url: https://www.kmib.co.kr/article/20261111501931
+  - title: 美 공화당, 헤그세스 탄핵 저지… ‘트럼프 충성파’도 전면에
+    url: https://www.segye.com/newsView/20261111515620?OutUrl=naver
+- rank: 7
+  title: 趙의장 "현직 대통령 연임 불가…논란 빚어 국민께 송구"
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 19건, 매체 16곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 19
+    outlet_count: 16
     public_actor: 국회
   sources:
-  - title: 국회로 간 파견 동의안...이란 반발 속 진통 예상
-    url: https://www.ytn.co.kr/_ln/0101_202611110421305206
-  - title: 국회로 간 파견 동의안...이란 반발 속 진통 예상
-    url: https://www.ytn.co.kr/_ln/0101_202611102200323960
-  - title: '[이슈] ''청해부대 작전구역 확대'' 국무회의 의결, 국회 제출수순…이란...'
-    url: https://www.polinews.co.kr/news/articleView.html?idxno=748189
+  - title: 조정식 “현직 대통령 연임은 불가, 논란 빚어 송구”
+    url: https://www.joongang.co.kr/article/25477822
+  - title: 조정식 국회의장 "현직 대통령 연임 불가…개헌 대상 아냐"
+    url: https://www.kado.net/news/articleView.html?idxno=2084295
+  - title: 조정식 "현직 대통령 연임 불가"…과거 발언에 "국민께 송구"
+    url: http://weekly.chosun.com/news/articleView.html?idxno=57015
+- rank: 8
+  title: 국회의장 "현직 대통령 연임은 불가‥논란 빚어 송구"
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 19건, 매체 16곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 19
+    outlet_count: 16
+    public_actor: 국회
+  sources:
+  - title: 조정식 “현직 대통령 연임은 불가, 논란 빚어 송구”
+    url: https://www.joongang.co.kr/article/25477822
+  - title: 조정식 국회의장 "현직 대통령 연임 불가…개헌 대상 아냐"
+    url: https://www.kado.net/news/articleView.html?idxno=2084295
+  - title: 조정식 "현직 대통령 연임 불가"…과거 발언에 "국민께 송구"
+    url: http://weekly.chosun.com/news/articleView.html?idxno=57015
+- rank: 9
+  title: 조정식 "현직 대통령 연임 불가‥논란 빚어 송구"
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 19건, 매체 16곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 19
+    outlet_count: 16
+    public_actor: 국회
+  sources:
+  - title: 조정식 “현직 대통령 연임은 불가, 논란 빚어 송구”
+    url: https://www.joongang.co.kr/article/25477822
+  - title: 조정식 국회의장 "현직 대통령 연임 불가…개헌 대상 아냐"
+    url: https://www.kado.net/news/articleView.html?idxno=2084295
+  - title: 조정식 "현직 대통령 연임 불가"…과거 발언에 "국민께 송구"
+    url: http://weekly.chosun.com/news/articleView.html?idxno=57015
 - rank: 10
-  title: 국회 예결위서 ‘농협법’ 논란 확산…조배숙 의원, “올바른 개혁 방향 맞나”
+  title: “끝나지 않은 김포아라지구 논란”…반주영 김포시의원, 정부 교통대책 정면 비판
   status: 추가 확인
   score: 6
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 국회, 의원
+    public_actor: 의원, 정부
   sources:
-  - title: 국회 예결위서 ‘농협법’ 논란 확산…조배숙 의원, “올바른 개혁 방향...
-    url: https://www.nongmin.com/article/20261110500318
+  - title: '"끝나지 않은 김포아라지구 논란"…반주영 김포시의원, 정부 교통대책 ...'
+    url: https://www.joongboo.com/news/articleView.html?idxno=363742144
