@@ -9,7 +9,8 @@ PEOPLE_DATA = ROOT / "data" / "people"
 PEOPLE_WIKI = ROOT / "wiki" / "content" / "people"
 
 # GH #27 / factory ee9febc4 — slug was "정부" (government), not a person.
-TAKEN_DOWN_NON_PERSON_SLUGS = ("jeong-bu",)
+# GH #28 / factory d7107d79 — slug was "배재고" (high school), not a person.
+TAKEN_DOWN_NON_PERSON_SLUGS = ("jeong-bu", "bae-jae-go")
 
 
 def test_taken_down_non_person_people_files_absent() -> None:
