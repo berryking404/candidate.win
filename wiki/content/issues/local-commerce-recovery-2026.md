@@ -239,4 +239,6 @@ summary: 지역 상권 회복과 소상공인 지원 정책 및 발언을 추적
 - [이재명](/people/i-jae-myeong) — **지지**: 소상공인·중소기업 금융 지원과 전통시장·골목상권 소비 진작을 예산안의 핵심으로 제시했다. [출처](https://www.seouleconews.com/news/articleView.html?idxno=93454)
 - [이형일](/people/i-hyeong-il) — **지지**: 반도체 호황의 성과가 청년·소상공인·중소기업에 고루 돌아가도록 취약부문 지원을 강화하겠다고 말했다. [출처](https://www.ekn.kr/web/view.php?key=20260902026159618)
 - [이은영](/people/i-eun-yeong) — **중립**: 홍성 서해랑길 자전거 페스타를 통해 지역 관광 활성화와 상권 회복에 힘을 보태겠다는 입장을 밝혔다. [출처](https://www.chungnamilbo.co.kr/news/articleView.html?idxno=907420)
+- [남인순](/people/nam-in-sun) — **지지**: 소상공인 지원 예산 증액 및 온누리상품권 발행 규모 회복 등 공공 주도의 직접적인 부양책 확대를 지지하는 입장이다.. [출처](https://www.m-i.kr/news/articleView.html?idxno=2017555)
+- [김 의원](/people/gim-han-gyu) — **혼합**: 김 의원은 지역 상권 회복을 위해 문화와 여가 활동을 통해 공간 조성 및 운영 지원을 함께 설계해야 한다고 주장하며 간접적인 활성화 방안에 중점을 둔다.. [출처](https://www.m-i.kr/news/articleView.html?idxno=2017555)
 <!-- /agent:stances -->

@@ -16,4 +16,5 @@ status: curated
 
 <!-- agent:stances -->
 - [물가 안정과 에너지 요금 부담](/issues/energy-price-inflation-2026) — **중립**: 제주 항공 좌석난과 고유가로 인한 운항 이행률 문제를 지적했다. [출처](http://www.jejunews.com/news/articleView.html?idxno=2226206)
+- [지역 상권 회복과 소상공인 지원 (2026)](/issues/local-commerce-recovery-2026) — **혼합**: 김 의원은 지역 상권 회복을 위해 문화와 여가 활동을 통해 공간 조성 및 운영 지원을 함께 설계해야 한다고 주장하며 간접적인 활성화 방안에 중점을 둔다.. [출처](https://www.m-i.kr/news/articleView.html?idxno=2017555)
 <!-- /agent:stances -->
