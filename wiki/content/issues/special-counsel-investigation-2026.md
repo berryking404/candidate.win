@@ -84,4 +84,5 @@ summary: 윤석열 대통령 탄핵 소추와 김건희·명태균 관련 특검
 - [박 의원](/people/bak-ju-min) — **미확인**: 박 의원은 명태균 게이트 관련 재판 결과의 변동성과 정치적 해석에 대해 비판적인 입장을 보였으며, 민주당이 탄핵 대신 국정조사를 택한 것에 대해 사상 초유의 전략이라고 비판했다..
 - [명태균](/people/myeong-tae-gyun) — **반대**: 특검 수사나 대통령 탄핵 언급과 같은 감정적 언사는 법리 다툼의 설득력을 떨어뜨리며, 헌법재판소 판단을 구하기 위해서는 조문 하나하나를 짚는 정밀한 문제 제기가 필요하다는 입장이다.. [출처](http://www.nongaek.com/news/articleView.html?idxno=97429)
 - [조던](/people/jo-deon) — **반대**: 조던 의원은 특검법과 대통령 탄핵을 야권의 헌정 중단 시도이자 정략적 공세로 규정하며 강력히 반대하는 입장을 취하고 있다.. [출처](http://www.nongaek.com/news/articleView.html?idxno=97429)
+- [도널드 트럼프](/people/donald-trump) — **반대**: 트럼프 대통령은 탄핵소추안 표결 무산에 대해 우려를 표하며 기존의 강경 노선을 고수하고 야권의 정치적 압박에 맞서겠다는 태도를 드러냈다.. [출처](https://www.nocutnews.co.kr/news/6605590?utm_source=naver&utm_medium=article&utm_campaign=20261112080106)
 <!-- /agent:stances -->

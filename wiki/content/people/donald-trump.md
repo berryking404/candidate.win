@@ -22,4 +22,5 @@ party: 공화당
 - [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **지지**: 이란과의 전쟁에서 동맹국의 비협조를 비판하며 독일 주둔 미군 감축과 프로젝트 프리덤 재개 검토를 시사했다. [출처](https://www.mk.co.kr/article/12046414)
 - [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **혼합**: 봉쇄 대응을 위한 ‘프로젝트 프리덤’을 추진하다가도 이란과의 합의 가능성을 보며 일시 중단을 시사해 강경 대응과 협상 유예가 함께 나타났다. [출처](https://www.naeil.com/news/read/587724?ref=naver)
 - [호르무즈 해협 봉쇄와 미군 감축 및 동맹국 압박 (2026)](/issues/hormuz-blockade-us-reduction-2026) — **반대**: 이란의 호르무즈 해협 봉쇄에 대해 동맹국들의 지원이 충분하지 않다고 공개적으로 비난할 가능성을 내비쳤다. [출처](https://www.khan.co.kr/article/202606142053005)
+- [윤석열 대통령 탄핵 소추 및 김건희·명태균 특검 수사 사태 (2025)](/issues/special-counsel-investigation-2026) — **반대**: 트럼프 대통령은 탄핵소추안 표결 무산에 대해 우려를 표하며 기존의 강경 노선을 고수하고 야권의 정치적 압박에 맞서겠다는 태도를 드러냈다.. [출처](https://www.nocutnews.co.kr/news/6605590?utm_source=naver&utm_medium=article&utm_campaign=20261112080106)
 <!-- /agent:stances -->
