@@ -1,160 +1,148 @@
-generated_at: '2026-11-11T23:01:39+00:00'
-source_date: 2026-11-11T230136Z
+generated_at: '2026-11-12T23:01:07+00:00'
+source_date: 2026-11-12T230104Z
 window_hours: 72
 items:
 - rank: 1
-  title: 최민희, 국회 기자 '하이에나' 표현 논란에 사과... "과하고 부적절"
+  title: 민주당 의원이 한 말?…박희승, '조희대 탄핵 요구' 시민에 "미쳤나" 발...
   status: 정식 검토
   score: 9
-  summary: 최근 보도 9건, 매체 9곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 9
-    outlet_count: 9
-    public_actor: 국회, 의원
+    news_count: 20
+    outlet_count: 18
+    public_actor: 민주당, 의원, 조국혁신당
   sources:
-  - title: 최민희, 취재진에 '하이에나 떼'…논란 커지자 사과
-    url: http://www.yonhapnewstv.co.kr/news/MYH202611111839334iL
-  - title: “하이에나 떼” 기자들 비하한 최민희 의원, 유출자 탓하더니…결국 고...
-    url: https://www.seoul.co.kr/news/politics/congress/2026/11/11/20261111500331?wlog_tag3=naver
-  - title: 최민희, 국회 기자들에 ‘하이에나 떼’ 발언 재차 사과
-    url: https://www.m-economynews.com/news/article.html?no=72903
+  - title: 박희승, 유권자에 “미쳤나” 막말··· 논란되자 “정중히 사과”
+    url: https://www.segye.com/newsView/20261113501764?OutUrl=naver
+  - title: ‘조희대 탄핵’ 압박 커지는 데… 與 의원 “후진국 행태”
+    url: https://www.segye.com/newsView/20261112518740?OutUrl=naver
+  - title: '[노트북을 열며] 법관 탄핵이 후진국에서나 하는 짓?'
+    url: https://www.goodmorningcc.com/news/articleView.html?idxno=455749
 - rank: 2
-  title: 미 하원, 헤그세스 국방장관 탄핵안 일단 부결
+  title: 노원·강서서 동시 촛불집회… 우원식·한정애에 “조희대 탄핵 즉각 나서라”
   status: 정식 검토
   score: 9
-  summary: 최근 보도 8건, 매체 8곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 8
-    outlet_count: 8
-    public_actor: 민주당, 장관
+    news_count: 3
+    outlet_count: 3
+    public_actor: 민주당, 의원
   sources:
-  - title: 김종대 “젠슨 황 사건, 본질은 불륜 아닌 미중 패권 전쟁” [김은지의...
-    url: https://www.sisain.co.kr/news/articleView.html?idxno=58807
-  - title: 美 공화당, 헤그세스 탄핵 저지… ‘트럼프 충성파’도 전면에
-    url: https://www.segye.com/newsView/20261111515620?OutUrl=naver
-  - title: '[이슈] 美 공화, 헤그세스 국방 탄핵안 표결 저지 ''사실상 폐기''⋯트럼...'
-    url: https://www.polinews.co.kr/news/articleView.html?idxno=748261
+  - title: 민주당 의원이 한 말?…박희승, '조희대 탄핵 요구' 시민에 "미쳤나" 발...
+    url: https://www.sisajournal.com/news/articleView.html?idxno=393862
+  - title: 민주 박희승 "후진국에서 하는 짓"…'曺탄핵 요구' 지지자와 설전
+    url: http://www.yonhapnewstv.co.kr/news/AKR20261112184851cK5
+  - title: 與박희승 "후진국에서 하는 짓"…'曺탄핵 요구' 지지자와 설전(종합)
+    url: https://www.yna.co.kr/view/AKR20261112071351001?input=1195m
 - rank: 3
-  title: 美공화당, 하원서 헤그세스 국방 탄핵소추안 표결 저지
+  title: '''구의원 공천 약속하고 3600만원''... 이상헌 전 의원 집유 확정'
   status: 정식 검토
   score: 9
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 18
-    public_actor: 대표, 민주당, 원내대표, 장관
+    outlet_count: 19
+    public_actor: 대표, 민주당, 의원
   sources:
-  - title: 헤그세스 탄핵 벼르더니…펠로시 등 美민주 11명 표결 불참
-    url: https://www.yna.co.kr/view/AKR20261112000600071?input=1195m
-  - title: 중간선거 참패에도 ‘트럼프당’… 美 공화 새 원내대표에 강경파
-    url: https://www.kmib.co.kr/article/20261111501931
-  - title: 美 공화당, 헤그세스 탄핵 저지… ‘트럼프 충성파’도 전면에
-    url: https://www.segye.com/newsView/20261111515620?OutUrl=naver
+  - title: 대법, 금품수수혐의 이상헌 전 의원 집유 확정
+    url: https://www.ksilbo.co.kr/news/articleView.html?idxno=1072448
+  - title: ‘불법 정치자금’ 이상헌 전 의원, 집행유예 확정
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711579&ref=A
+  - title: '''공천 대가 금품 수수'' 이상헌 전 의원 집행유예 확정'
+    url: https://www.usmbc.co.kr/NewsArticle/873022
 - rank: 4
-  title: 美공화당, 헤그세스 국방 탄핵소추안 본회의 표결 저지
+  title: '[속보] 민주당 김민석 대표, 최민희 언행 논란에 윤리감찰 지시…청와대도 반박'
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 16
-    public_actor: 대표, 민주당, 원내대표, 장관
+    news_count: 2
+    outlet_count: 2
+    public_actor: 대표, 민주당
   sources:
-  - title: 헤그세스 탄핵 벼르더니…펠로시 등 美민주 11명 표결 불참
-    url: https://www.yna.co.kr/view/AKR20261112000600071?input=1195m
-  - title: 중간선거 참패에도 ‘트럼프당’… 美 공화 새 원내대표에 강경파
-    url: https://www.kmib.co.kr/article/20261111501931
-  - title: 美 공화당, 헤그세스 탄핵 저지… ‘트럼프 충성파’도 전면에
-    url: https://www.segye.com/newsView/20261111515620?OutUrl=naver
+  - title: '[속보] 김민석, ‘언행 논란’ 최민희 감찰조사 지시…“심각 인식”'
+    url: https://www.joongang.co.kr/article/25478124
+  - title: '[속보] 김민석, ‘언행 논란’ 최민희 감찰조사 지시…“심각 인식”'
+    url: https://www.mk.co.kr/article/12206900
 - rank: 5
-  title: 미국 공화당, 하원서 헤그세스 국방 탄핵소추안 표결 저지
+  title: “이재명도 윤석열 탄핵 반대” “하이에나 떼들” 최민희, 결국 당 윤리감찰 받는다
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 18
-    public_actor: 대표, 민주당, 원내대표, 의원, 장관
+    outlet_count: 17
+    public_actor: 민주당
   sources:
-  - title: 미국 공화당 의원들, ‘헤그세스 탄핵안’ 본회의 표결 저지
-    url: https://www.voakorea.com/a/hegseth-impeachement-111126/8221521.html
-  - title: 헤그세스 탄핵 벼르더니...펠로시 등 미 민주 11명 표결 불참
-    url: https://www.ytn.co.kr/_ln/0104_202611120243393385
-  - title: 헤그세스 탄핵 벼르더니…펠로시 등 美민주 11명 표결 불참
-    url: https://www.yna.co.kr/view/AKR20261112000600071?input=1195m
+  - title: 최민희, 이번엔 "李도 尹 탄핵 반대" 발언 논란…靑 "강한 유감"
+    url: https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390030.html
+  - title: 김민석, 최민희 잇단 언행 논란에 윤리감찰 지시...청와대도 “강한 유...
+    url: https://www.m-economynews.com/news/article.html?no=72955
+  - title: '"이 대통령, 윤석열 탄핵 반대" 최민희 발언 논란…김민석, 윤리감찰 지...'
+    url: http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5230582
 - rank: 6
-  title: 美 공화당, 헤그세스 국방장관 탄핵소추안 표결 저지
+  title: '''밀실 공천'' 논란…부산 중구청장 선거법 위반 송치'
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 10건, 매체 9곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 18
-    public_actor: 대표, 민주당, 원내대표, 장관
+    news_count: 10
+    outlet_count: 9
+    public_actor: 의원
   sources:
-  - title: 헤그세스 탄핵 벼르더니…펠로시 등 美민주 11명 표결 불참
-    url: https://www.yna.co.kr/view/AKR20261112000600071?input=1195m
-  - title: 중간선거 참패에도 ‘트럼프당’… 美 공화 새 원내대표에 강경파
-    url: https://www.kmib.co.kr/article/20261111501931
-  - title: 美 공화당, 헤그세스 탄핵 저지… ‘트럼프 충성파’도 전면에
-    url: https://www.segye.com/newsView/20261111515620?OutUrl=naver
+  - title: '"공천 달렸다" 정치권 예산-현안 사활'
+    url: http://www.jjn.co.kr/news/articleView.html?idxno=1057170
+  - title: '''밀실 공천'' 술자리 19만원의 후폭풍, 최진봉 부산 중구청장 선거법 송...'
+    url: https://www.pressian.com/pages/articles/2026111214284679121?utm_source=naver&utm_medium=search
+  - title: “선거 전 술값 결제”…최진봉 부산 중구청장 송치
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710816&ref=A
 - rank: 7
-  title: 趙의장 "현직 대통령 연임 불가…논란 빚어 국민께 송구"
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 19건, 매체 16곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 19
-    outlet_count: 16
-    public_actor: 국회
-  sources:
-  - title: 조정식 “현직 대통령 연임은 불가, 논란 빚어 송구”
-    url: https://www.joongang.co.kr/article/25477822
-  - title: 조정식 국회의장 "현직 대통령 연임 불가…개헌 대상 아냐"
-    url: https://www.kado.net/news/articleView.html?idxno=2084295
-  - title: 조정식 "현직 대통령 연임 불가"…과거 발언에 "국민께 송구"
-    url: http://weekly.chosun.com/news/articleView.html?idxno=57015
-- rank: 8
-  title: 국회의장 "현직 대통령 연임은 불가‥논란 빚어 송구"
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 19건, 매체 16곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 19
-    outlet_count: 16
-    public_actor: 국회
-  sources:
-  - title: 조정식 “현직 대통령 연임은 불가, 논란 빚어 송구”
-    url: https://www.joongang.co.kr/article/25477822
-  - title: 조정식 국회의장 "현직 대통령 연임 불가…개헌 대상 아냐"
-    url: https://www.kado.net/news/articleView.html?idxno=2084295
-  - title: 조정식 "현직 대통령 연임 불가"…과거 발언에 "국민께 송구"
-    url: http://weekly.chosun.com/news/articleView.html?idxno=57015
-- rank: 9
-  title: 조정식 "현직 대통령 연임 불가‥논란 빚어 송구"
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 19건, 매체 16곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 19
-    outlet_count: 16
-    public_actor: 국회
-  sources:
-  - title: 조정식 “현직 대통령 연임은 불가, 논란 빚어 송구”
-    url: https://www.joongang.co.kr/article/25477822
-  - title: 조정식 국회의장 "현직 대통령 연임 불가…개헌 대상 아냐"
-    url: https://www.kado.net/news/articleView.html?idxno=2084295
-  - title: 조정식 "현직 대통령 연임 불가"…과거 발언에 "국민께 송구"
-    url: http://weekly.chosun.com/news/articleView.html?idxno=57015
-- rank: 10
-  title: “끝나지 않은 김포아라지구 논란”…반주영 김포시의원, 정부 교통대책 정면 비판
+  title: '''하이에나'' 이어 대통령 발언 논란까지…최민희, 민주당 최고위원 윤리감찰 받는다'
   status: 추가 확인
-  score: 6
+  score: 5
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 민주당
+  sources:
+  - title: '''하이에나'' 이어 대통령 발언 논란까지…최민희, 민주당 최고위원 윤리...'
+    url: https://www.greened.kr/news/articleView.html?idxno=354571
+  - title: “이재명도 윤석열 탄핵 반대” “하이에나 떼들” 최민희, 결국 당 윤...
+    url: https://weekly.khan.co.kr/article/202611122054001
+- rank: 8
+  title: 지역의사 지원센터 인건비 월 500만원 책정 논란…국회 “유사기관보다 높아”
+  status: 추가 확인
+  score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 의원, 정부
+    public_actor: 국회
   sources:
-  - title: '"끝나지 않은 김포아라지구 논란"…반주영 김포시의원, 정부 교통대책 ...'
-    url: https://www.joongboo.com/news/articleView.html?idxno=363742144
+  - title: 지역의사 지원센터 인건비 월 500만원 책정 논란…국회 “유사기관보다...
+    url: http://www.whosaeng.com/sub_read.html?uid=175291&section=sc1
+- rank: 9
+  title: '[단독] 계획 불분명한데 1조 예산증액…메가프로젝트 국회 우회 지원 논란'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회
+  sources:
+  - title: '[단독] 계획 불분명한데 1조 예산증액…메가프로젝트 국회 우회 지원 논...'
+    url: https://www.hankyung.com/article/202611123203i
+- rank: 10
+  title: 국회 외통위, 대미외교 논란 점검…정상외교 예산도 도마
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회
+  sources:
+  - title: 국회 외통위, 대미외교 논란 점검…정상외교 예산도 도마
+    url: http://www.joseilbo.com/news/news_read.php?uid=579549&class=32&grp=
