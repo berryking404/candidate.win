@@ -33,4 +33,5 @@ summary: 도이치모터스 주가조작 사건과 김건희 여사 연루 논�
 - [민중기](/people/min-jung-gi) — **중립**: 김건희 특검을 이끄는 특별검사로 도이치모터스 관련 수사·의견서 제출을 주도했다. [출처](http://www.yonhapnewstv.co.kr/news/MYH20260814190114RLj)
 - [조응천](/people/jo-eung-cheon) — **지지**: 도이치모터스 주가조작 의혹을 두고 검찰에 고발·수사를 촉구한 것으로 보도됐다. [출처](https://www.newsis.com/view/NISX20230118_0002165045)
 - [박형수](/people/bak-hyeong-su) — **중립**: 도이치모터스 의혹 관련 보도에서 당내 발언자로 언급됐지만, 이번 수집 텍스트만으로는 명확한 찬반 입장이 확인되지 않았다. [출처](https://www.newsis.com/view/NISX20230118_0002165045)
+- [조대표](/people/jo-dae-pyo) — **반대**: 대법원이 조 대표 등에 대한 민중기 특별검사팀의 상고를 기각하며, 회사 자금 횡령이나 기자에 대한 금품 제공 혐의가 김건희 특검법상 수사 대상에 관련성이 인정되지 않는다는 법적 판단을 내린 점을 근거로 한다.. [출처](https://www.news1.kr/politics/general-politics/6351991)
 <!-- /agent:stances -->
