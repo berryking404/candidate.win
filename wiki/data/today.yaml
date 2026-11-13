@@ -1,148 +1,160 @@
-generated_at: '2026-11-12T23:01:07+00:00'
-source_date: 2026-11-12T230104Z
+generated_at: '2026-11-13T23:01:42+00:00'
+source_date: 2026-11-13T230136Z
 window_hours: 72
 items:
 - rank: 1
-  title: 민주당 의원이 한 말?…박희승, '조희대 탄핵 요구' 시민에 "미쳤나" 발...
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 18
-    public_actor: 민주당, 의원, 조국혁신당
-  sources:
-  - title: 박희승, 유권자에 “미쳤나” 막말··· 논란되자 “정중히 사과”
-    url: https://www.segye.com/newsView/20261113501764?OutUrl=naver
-  - title: ‘조희대 탄핵’ 압박 커지는 데… 與 의원 “후진국 행태”
-    url: https://www.segye.com/newsView/20261112518740?OutUrl=naver
-  - title: '[노트북을 열며] 법관 탄핵이 후진국에서나 하는 짓?'
-    url: https://www.goodmorningcc.com/news/articleView.html?idxno=455749
-- rank: 2
-  title: 노원·강서서 동시 촛불집회… 우원식·한정애에 “조희대 탄핵 즉각 나서라”
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 3
-    outlet_count: 3
-    public_actor: 민주당, 의원
-  sources:
-  - title: 민주당 의원이 한 말?…박희승, '조희대 탄핵 요구' 시민에 "미쳤나" 발...
-    url: https://www.sisajournal.com/news/articleView.html?idxno=393862
-  - title: 민주 박희승 "후진국에서 하는 짓"…'曺탄핵 요구' 지지자와 설전
-    url: http://www.yonhapnewstv.co.kr/news/AKR20261112184851cK5
-  - title: 與박희승 "후진국에서 하는 짓"…'曺탄핵 요구' 지지자와 설전(종합)
-    url: https://www.yna.co.kr/view/AKR20261112071351001?input=1195m
-- rank: 3
-  title: '''구의원 공천 약속하고 3600만원''... 이상헌 전 의원 집유 확정'
+  title: ‘쌈짓돈’ 논란 미래기금… 국회 “25조 늘려 달라”
   status: 정식 검토
   score: 9
   summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
     outlet_count: 19
-    public_actor: 대표, 민주당, 의원
+    public_actor: 국회, 정부
   sources:
-  - title: 대법, 금품수수혐의 이상헌 전 의원 집유 확정
-    url: https://www.ksilbo.co.kr/news/articleView.html?idxno=1072448
-  - title: ‘불법 정치자금’ 이상헌 전 의원, 집행유예 확정
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711579&ref=A
-  - title: '''공천 대가 금품 수수'' 이상헌 전 의원 집행유예 확정'
-    url: https://www.usmbc.co.kr/NewsArticle/873022
-- rank: 4
-  title: '[속보] 민주당 김민석 대표, 최민희 언행 논란에 윤리감찰 지시…청와대도 반박'
+  - title: 국회 승인 없이 쓰는 기금, '상시 추경' 논란에 정부가 답해야 한다
+    url: https://www.gokorea.kr/news/articleView.html?idxno=885463
+  - title: ‘쌈짓돈’ 논란 미래기금… 국회 “25조 늘려 달라”
+    url: https://www.donga.com/news/Politics/article/all/20261113/135023338/2
+  - title: 미래대응기금, '쌈짓돈' 논란에 휘말린 이유
+    url: https://www.sisaweek.com/news/articleView.html?idxno=238980
+- rank: 2
+  title: '''체코 원전 시공사 교체 논란'' 국회 청문회 요구'
   status: 정식 검토
-  score: 7
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 대표, 민주당
-  sources:
-  - title: '[속보] 김민석, ‘언행 논란’ 최민희 감찰조사 지시…“심각 인식”'
-    url: https://www.joongang.co.kr/article/25478124
-  - title: '[속보] 김민석, ‘언행 논란’ 최민희 감찰조사 지시…“심각 인식”'
-    url: https://www.mk.co.kr/article/12206900
-- rank: 5
-  title: “이재명도 윤석열 탄핵 반대” “하이에나 떼들” 최민희, 결국 당 윤리감찰 받는다
-  status: 정식 검토
-  score: 7
+  score: 9
   summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
     outlet_count: 17
-    public_actor: 민주당
+    public_actor: 국회, 의원
   sources:
-  - title: 최민희, 이번엔 "李도 尹 탄핵 반대" 발언 논란…靑 "강한 유감"
-    url: https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390030.html
-  - title: 김민석, 최민희 잇단 언행 논란에 윤리감찰 지시...청와대도 “강한 유...
-    url: https://www.m-economynews.com/news/article.html?no=72955
-  - title: '"이 대통령, 윤석열 탄핵 반대" 최민희 발언 논란…김민석, 윤리감찰 지...'
-    url: http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5230582
+  - title: '''체코 원전 시공사 교체 논란'' 국회 청문회 추진'
+    url: https://www.ytn.co.kr/_ln/0102_202611132312478964
+  - title: '''체코 원전 시공사 교체 논란'' 국회 청문회 추진'
+    url: https://www.ytn.co.kr/_ln/0102_202611131921126622
+  - title: '''체코 원전 시공사 교체 논란'' 국회 청문회 요구'
+    url: http://www.yonhapnewstv.co.kr/news/MYH20261113182858788
+- rank: 3
+  title: 체코 원전 시공사 교체 논란…국회, 청문회 추진
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 18
+    public_actor: 국회, 의원
+  sources:
+  - title: '''체코 원전 시공사 교체 논란'' 국회 청문회 추진'
+    url: https://www.ytn.co.kr/_ln/0102_202611132312478964
+  - title: '''체코 원전 시공사 교체 논란'' 국회 청문회 추진'
+    url: https://www.ytn.co.kr/_ln/0102_202611131921126622
+  - title: '[더벨][Sanction Radar] 한수원·대우건설 갈등 국회로, 청문회 개최 여부...'
+    url: https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611131658178640105450
+- rank: 4
+  title: 한수원 ‘체코 원전 시공사 교체’ 논란에…국회, 청문회 추진
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 18
+    public_actor: 국회, 의원
+  sources:
+  - title: '''체코 원전 시공사 교체 논란'' 국회 청문회 추진'
+    url: https://www.ytn.co.kr/_ln/0102_202611132312478964
+  - title: '''체코 원전 시공사 교체 논란'' 국회 청문회 추진'
+    url: https://www.ytn.co.kr/_ln/0102_202611131921126622
+  - title: '[더벨][Sanction Radar] 한수원·대우건설 갈등 국회로, 청문회 개최 여부...'
+    url: https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611131658178640105450
+- rank: 5
+  title: 李 '尹 탄핵 반대' 전언 논란...자통당 "李도 내란 공범?"
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 19
+    public_actor: 국민의힘, 국회
+  sources:
+  - title: “최민희 제명” vs “김민석 감찰”… 與 계파싸움 전면전 양상
+    url: https://www.donga.com/news/Politics/article/all/20261113/135023171/2
+  - title: '[주간政談<상>] "하이에나, 치욕스럽다"…국회 발칵 뒤집은 최민희 막말'
+    url: https://news.tf.co.kr/read/ptoday/2388783.htm
+  - title: '"통일교가 김민석 밀어"…최민희 녹취록 추가 파장'
+    url: http://www.yonhapnewstv.co.kr/news/AKR20261113194517c0X
 - rank: 6
-  title: '''밀실 공천'' 논란…부산 중구청장 선거법 위반 송치'
+  title: 국회, ‘체코 원전 시공사 교체 논란’ 규명 청문회 추진
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 17
+    public_actor: 국회, 의원
+  sources:
+  - title: '''체코 원전 시공사 교체 논란'' 국회 청문회 추진'
+    url: https://www.ytn.co.kr/_ln/0102_202611132312478964
+  - title: '''체코 원전 시공사 교체 논란'' 국회 청문회 추진'
+    url: https://www.ytn.co.kr/_ln/0102_202611131921126622
+  - title: '[더벨][Sanction Radar] 한수원·대우건설 갈등 국회로, 청문회 개최 여부...'
+    url: https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611131658178640105450
+- rank: 7
+  title: 체코 원전 시공사 교체 논란…국회, 청문회 추진
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 18
+    public_actor: 국회, 의원
+  sources:
+  - title: '''체코 원전 시공사 교체 논란'' 국회 청문회 추진'
+    url: https://www.ytn.co.kr/_ln/0102_202611132312478964
+  - title: '''체코 원전 시공사 교체 논란'' 국회 청문회 추진'
+    url: https://www.ytn.co.kr/_ln/0102_202611131921126622
+  - title: '[더벨][Sanction Radar] 한수원·대우건설 갈등 국회로, 청문회 개최 여부...'
+    url: https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611131658178640105450
+- rank: 8
+  title: 국회, 체코 원전수출 시공사 교체 논란 규명 청문회 추진
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 12건, 매체 10곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 12
+    outlet_count: 10
+    public_actor: 국회, 의원
+  sources:
+  - title: ‘체코 원전 시공사 교체 논란’ 지속...한수원 청문회 열리나
+    url: https://www.joongang.co.kr/article/25478435
+  - title: '''26조 체코 원전'' 한수원·대우건설 갈등 국회로…청문회 추진 논의'
+    url: https://www.smarttoday.co.kr/ko-kr/articles/113737
+  - title: 국회, 한수원 '체코 원전' 시공사 교체 논란 청문회 추진…여야 의원들...
+    url: https://www.namdonews.com/news/articleView.html?idxno=929174
+- rank: 9
+  title: 최민희 "李, '尹 탄핵 반대'…한덕수 탄핵 반대 얘기하다 잘못 말해"
   status: 정식 검토
   score: 7
-  summary: 최근 보도 10건, 매체 9곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 6건, 매체 6곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 10
-    outlet_count: 9
-    public_actor: 의원
-  sources:
-  - title: '"공천 달렸다" 정치권 예산-현안 사활'
-    url: http://www.jjn.co.kr/news/articleView.html?idxno=1057170
-  - title: '''밀실 공천'' 술자리 19만원의 후폭풍, 최진봉 부산 중구청장 선거법 송...'
-    url: https://www.pressian.com/pages/articles/2026111214284679121?utm_source=naver&utm_medium=search
-  - title: “선거 전 술값 결제”…최진봉 부산 중구청장 송치
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710816&ref=A
-- rank: 7
-  title: '''하이에나'' 이어 대통령 발언 논란까지…최민희, 민주당 최고위원 윤리감찰 받는다'
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 2
+    news_count: 6
+    outlet_count: 6
     public_actor: 민주당
   sources:
-  - title: '''하이에나'' 이어 대통령 발언 논란까지…최민희, 민주당 최고위원 윤리...'
-    url: https://www.greened.kr/news/articleView.html?idxno=354571
-  - title: “이재명도 윤석열 탄핵 반대” “하이에나 떼들” 최민희, 결국 당 윤...
-    url: https://weekly.khan.co.kr/article/202611122054001
-- rank: 8
-  title: 지역의사 지원센터 인건비 월 500만원 책정 논란…국회 “유사기관보다 높아”
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
-  sources:
-  - title: 지역의사 지원센터 인건비 월 500만원 책정 논란…국회 “유사기관보다...
-    url: http://www.whosaeng.com/sub_read.html?uid=175291&section=sc1
-- rank: 9
-  title: '[단독] 계획 불분명한데 1조 예산증액…메가프로젝트 국회 우회 지원 논란'
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
-  sources:
-  - title: '[단독] 계획 불분명한데 1조 예산증액…메가프로젝트 국회 우회 지원 논...'
-    url: https://www.hankyung.com/article/202611123203i
+  - title: 민주당 지도부 '두 동강'…'최민희 감찰'에 친청계 집단 반발
+    url: https://www.pressian.com/pages/articles/2026111312145773452?utm_source=naver&utm_medium=search
+  - title: 최민희 “이 대통령, 일관되게 윤석열 탄핵 주장…‘한덕수 탄핵 반대’...
+    url: https://www.hani.co.kr/arti/politics/politics_general/1287261.html
+  - title: 최민희 "李, '尹 탄핵 반대'…한덕수 탄핵 반대 얘기하다 잘못 말해"
+    url: https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390131.html
 - rank: 10
-  title: 국회 외통위, 대미외교 논란 점검…정상외교 예산도 도마
+  title: 같은 사업인데 정부는 '신규', 국회는 '계속'… 미래대응기금 8개 사업 4.3조 엇갈린 표기 [2027 나라살림 대해부]
   status: 추가 확인
-  score: 4
+  score: 6
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 국회
+    public_actor: 국회, 정부
   sources:
-  - title: 국회 외통위, 대미외교 논란 점검…정상외교 예산도 도마
-    url: http://www.joseilbo.com/news/news_read.php?uid=579549&class=32&grp=
+  - title: '[단독] 같은 사업인데 정부는 ''신규'', 국회는 ''계속''… 미래대응기금 8개...'
+    url: https://www.hankookilbo.com/news/article/A2026111313090000111?did=NA
