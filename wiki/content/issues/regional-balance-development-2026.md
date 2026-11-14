@@ -280,4 +280,6 @@ summary: 지역 균형 발전, 지방소멸 대응, 수도권 집중 완화 관�
 - [이상호](/people/i-sang-ho) — **지지**: 지역균형발전연구센터장으로서 국가 균형성장 전략 논의에 참여했다. [출처](https://www.todayenergy.kr/news/articleView.html?idxno=302333)
 - [최원석](/people/choe-won-seok) — **지지**: 산학연 전문가로서 지역 균형성장 전략 논의에 참여했다. [출처](https://www.todayenergy.kr/news/articleView.html?idxno=302333)
 - [권형택](/people/gwon-hyeong-taek) — **지지**: 기술 사업화 지원을 통해 지역 기반 산업과 일자리 확산에 기여하는 방향을 밝혔다. [출처](https://www.cnbnews.com/news/articleView.html?idxno=1013953)
+- [정용채](/people/jeong-yong-chae) — **지지**: 정용채 의원은 지방소멸 대응 정책에 대해 효과에 대한 객관적 검토, 공정한 지원 기준, 시군과의 충분한 협의가 필요하며 경북도가 결정의 근거와 추진 방향을 제시할 것을 요구했다.. [출처](https://www.nbntv.co.kr/news/articleView.html?idxno=4027329)
+- [최만림](/people/choe-man-rim) — **지지**: 철도망 확충을 지방소멸 방지 및 국가 균형발전을 위한 선제적 투자로 주장하며 지역 균형발전 정책 반영을 촉구했다.. [출처](https://www.nbntv.co.kr/news/articleView.html?idxno=4027329)
 <!-- /agent:stances -->
