@@ -19,4 +19,5 @@ status: curated
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **지지**: 관저 이전 봐주기 감사 및 계엄 관련 수용공간 확보 의혹 사건에서 특검 수사를 이끌었다. [출처](https://www.khan.co.kr/article/202608071533001)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **미확인**: 2차 종합특검 특별검사로 수사와 기소를 총괄했다. [출처](https://www.chosun.com/national/court_law/2026/08/12/GBUWE2UNX5HXXA4FRXSBRSJMT4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news)
 - [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **미확인**: 2차 종합특검팀(권창영)이 관저 이전 과정에서 예산 불법 전용 혐의로 특정 인물에게 기소하고 처벌을 요구한 사건에 대해, 특검의 역할과 수사 범위의 적절성에 대한 논쟁과 관련 당사자들의 요구사항을 중립적으로 보도하고 있다..
+- [종합특검 관저 이전·계엄 메시지·통일교 수사무마 의혹 수사 (2026)](/issues/comprehensive-special-counsel-probes-2026) — **반대**: 2차 종합특검이 내란 행위 종료 시점을 대통령 탄핵소추안 가결로 판단한 것에 대해 윤석열 전 대통령이 계엄 해제 시점을 기준으로 삼아야 한다는 입장을 밝히며 특검의 판단에 대해 반박했다.. [출처](https://www.yna.co.kr/view/AKR20261113129251008)
 <!-- /agent:stances -->
