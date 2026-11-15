@@ -1,97 +1,79 @@
-generated_at: '2026-11-14T23:01:34+00:00'
-source_date: 2026-11-14T230131Z
+generated_at: '2026-11-15T23:01:09+00:00'
+source_date: 2026-11-15T230059Z
 window_hours: 72
 items:
 - rank: 1
-  title: 연일 ‘조희대 탄핵’ 외치는 조국혁신당의 두 가지 셈법
+  title: '"한덕수 풀려난다" 조희대 탄핵론 재점화'
   status: 정식 검토
   score: 9
-  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 20건, 매체 15곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 17
-    public_actor: 대표, 민주당, 조국혁신당
+    outlet_count: 15
+    public_actor: 국회, 민주당
   sources:
-  - title: 민주당 정면충돌, 친청계 "윤리감찰 대상은 김민석 대표"
-    url: http://www.jeollailbo.com/news/articleView.html?idxno=816646
-  - title: 당권파 '崔제명 요구' 분출에 친청 '정풍운동' 맞불…鄭참전 주목
-    url: https://www.yna.co.kr/view/AKR20261114042300001?input=1195m
-  - title: 한덕수 이번주 석방 기로…대법원 선고할까, 추가 구속될까
-    url: https://www.newsis.com/view/NISX20261113_0003867868
+  - title: 겨우 잦아든 조희대 탄핵론…한덕수 석방에 다시 불붙나
+    url: https://www.nocutnews.co.kr/news/6607057?utm_source=naver&utm_medium=article&utm_campaign=20261116064855
+  - title: '[사설] 한덕수 석방 논란 자초한 대법원의 고무줄 잣대'
+    url: https://www.hankookilbo.com/news/article/A2026111514590000074?did=NA
+  - title: 한덕수 구속기간 만료 앞두고 긴장 고조
+    url: https://www.idaegu.co.kr/news/articleView.html?idxno=565413
 - rank: 2
-  title: '[기획특집]''이재명, 尹탄핵반대''최민희 발언 파장 확대...보수 지지층서...'
+  title: 민주당 초선모임, '최민희 발언 논란' 긴급회의… 대응책 논의
   status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
+  score: 7
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 19
-    public_actor: 국민의힘, 국회, 민주당
+    news_count: 3
+    outlet_count: 3
+    public_actor: 민주당
   sources:
-  - title: 이 대통령 "등 뒤에서 날아오는 화살", 최민희 겨냥?
-    url: https://www.mediatoday.co.kr/news/articleView.html?idxno=338460
-  - title: 李 “가장 힘든 일은 등뒤서 날아오는 화살”…'尹탄핵 반대' 발언 겨냥...
-    url: https://www.kmib.co.kr/article/20261114500106
-  - title: '[기획특집]''이재명, 尹탄핵반대''최민희 발언 파장 확대...보수 지지층서...'
-    url: https://www.thepublic.kr/news/articleView.html?idxno=326618
+  - title: 더민초, ‘최민희 문제’에 ‘사안 엄중’ 공감대…대응책은 결론 못 내
+    url: https://www.kyeonggi.com/article/20261115580377
+  - title: 민주당 초선모임, '최민희 발언 논란' 긴급회의… 대응책 논의
+    url: https://www.kado.net/news/articleView.html?idxno=2084866
+  - title: 與초선모임, 오늘 긴급회의…'최민희 발언 논란' 대응책 논의
+    url: https://www.yna.co.kr/view/AKR20261115038500001?input=1195m
 - rank: 3
-  title: 최민희 "李, '尹 탄핵 반대'…한덕수 탄핵 반대 얘기하다 잘못 말해"
+  title: 한덕수 구속 만료 임박…"석방 땐 조희대 탄핵" 與강경파 '목청'
   status: 정식 검토
   score: 7
-  summary: 최근 보도 6건, 매체 6곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 17건, 매체 14곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 6
-    outlet_count: 6
+    news_count: 17
+    outlet_count: 14
     public_actor: 민주당
   sources:
-  - title: 민주당 지도부 '두 동강'…'최민희 감찰'에 친청계 집단 반발
-    url: https://www.pressian.com/pages/articles/2026111312145773452?utm_source=naver&utm_medium=search
-  - title: 최민희 “이 대통령, 일관되게 윤석열 탄핵 주장…‘한덕수 탄핵 반대’...
-    url: https://www.hani.co.kr/arti/politics/politics_general/1287261.html
-  - title: '''이재명이 탄핵 반대'' 발언 최민희, 사과 없이 “헷갈렸다”…한민수 "...'
-    url: https://news.jtbc.co.kr/article/NB12327924?influxDiv=NAVER
+  - title: 이진관 판사, '한덕수 석방' 막을 수 있을까
+    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284814&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+  - title: 민주당 또 때린 조국 "조희대는 행동 하는데 與는 말만 하고 있어" 등 [...
+    url: https://www.dailian.co.kr/news/view/1715284/?sc=Naver
+  - title: 겨우 잦아든 조희대 탄핵론…한덕수 석방에 다시 불붙나
+    url: https://www.nocutnews.co.kr/news/6607057?utm_source=naver&utm_medium=article&utm_campaign=20261116064855
 - rank: 4
-  title: 최민희 '이재명 윤석열 탄핵 반대' 발언, 당시 기록 보니…한덕수 탄핵은 실제 유보
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 18
-    public_actor: 민주당
-  sources:
-  - title: 李대통령 "가장 힘든 건 등뒤서 날아오는 화살"
-    url: https://www.viewsnnews.com/article?q=239703
-  - title: 당권파 '崔제명 요구' 분출에 친청 '정풍운동' 맞불…鄭참전 주목
-    url: https://www.yna.co.kr/view/AKR20261114042300001?input=1195m
-  - title: 최종 목표는 총선 공천권?…전당대회 석달 지나도 시끌시끌한 與
-    url: https://www.news1.kr/politics/assembly/6353823
-- rank: 5
-  title: 민주당은 신천지 집단가입 의혹, 국민의힘은 한동훈 제명 후폭풍…여야 내부 갈등 격화
+  title: 이재관 의원, 주민자치회 참여 폭 넓힌다…지방자치법 개정안 대표발의
   status: 추가 확인
-  score: 6
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  score: 5
+  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국민의힘, 민주당
-  sources:
-  - title: 민주당은 신천지 집단가입 의혹, 국민의힘은 한동훈 제명 후폭풍…여야...
-    url: https://www.jnilbo.com/news/articleView.html?idxno=90000082642
-- rank: 6
-  title: 미래대응기금 공방... 국민의힘 "전액 삭감" 민주 "뒤로는 증액 요구"
+    news_count: 0
+    outlet_count: 0
+    public_actor: 대표, 의원
+  sources: []
+- rank: 5
+  title: AI 부정행위 논란, 정부 긴급 대책 회의 개최…수능 전격 대응 나선다
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 국민의힘
+    public_actor: 정부
   sources:
-  - title: 미래대응기금 공방... 국민의힘 "전액 삭감" 민주 "뒤로는 증액 요구"
-    url: https://www.hankookilbo.com/news/article/A2026111410120005812?did=NA
-- rank: 7
-  title: 프랑스 5주연속 주말 시위…"정부 부스러기 대책으론 안돼"
+  - title: AI 부정행위 논란, 정부 긴급 대책 회의 개최…수능 전격 대응 나선다
+    url: https://www.gokorea.kr/news/articleView.html?idxno=885717
+- rank: 6
+  title: 821조원 '슈퍼 예산' 논쟁…162조원 미래대응기금, 성장 투자냐 재정 부담이냐 [머니카운터/대담]
   status: 추가 확인
   score: 4
   summary: 최근 보도 2건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -100,7 +82,19 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: 프랑스 5주째 주말시위에 11만명 참여…포르투갈선 주거난 시위(종합)
-    url: https://www.yna.co.kr/view/AKR20261115000651085?input=1195m
-  - title: 프랑스 5주연속 주말 시위…"정부 부스러기 대책으론 안돼"
-    url: https://www.yna.co.kr/view/AKR20261115000600085?input=1195m
+  - title: '[영상] 821조 내년 정부 예산안 따져보니...우리 집 살림살이는 좋아질...'
+    url: https://news.ifm.kr/news/articleView.html?idxno=484451
+  - title: 821조원 '슈퍼 예산' 논쟁…162조원 미래대응기금, 성장 투자냐 재정 부...
+    url: https://news.ifm.kr/news/articleView.html?idxno=484431
+- rank: 7
+  title: '[아주부동산 PICK] 3기 신도시 교통 인프라 선입주 후대책… 정부는 뒷짐'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: '[아주부동산 PICK] 3기 신도시 교통 인프라 ''선입주 후대책''… 정부는 뒷...'
+    url: https://www.ajunews.com/view/20261115172711477
