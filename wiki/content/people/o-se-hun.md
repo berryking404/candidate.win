@@ -36,4 +36,5 @@ party: 국민의힘
 - [도이치모터스 주가 조작 의혹 및 김건희 여사 연루 논란 (2023)](/issues/deutsch-motors-stock-2023) — **중립**: 도이치모터스 사건 관련 보도에서 하급심 판단의 비교 대상으로 함께 언급됐지만, 직접적인 입장은 확인되지 않았다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260526095200H69)
 - [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 청년AI·주거안정 추경으로 청년실업 대응을 추진했다. [출처](https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/08/11/20260811019007?wlog_tag3=naver)
 - [재건축·초과이익환수 논쟁 (2026)](/issues/housing-reconstruction-levy-2026) — **반대**: 재건축초과이익환수제의 부작용이 심각하다며 전면 재검토가 필요하다고 주장했다. [출처](https://www.kukinews.com/article/view/kuk202611170103)
+- [재건축·초과이익환수 논쟁 (2026)](/issues/housing-reconstruction-levy-2026) — **지지**: 오세훈 시장은 재건축초과이익환수제에 대해 부작용이 심각하므로 전면 재검토가 필요하다는 입장을 밝혔다.. [출처](https://www.kukinews.com/article/view/kuk202611170103)
 <!-- /agent:stances -->
