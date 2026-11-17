@@ -35,4 +35,5 @@ party: 국민의힘
 - [방첩사 개편·사관학교 통합 논란과 국방장관 탄핵 청원·해임건의안 (2026)](/issues/defense-counterintelligence-reform-impeachment-petition-2026) — **반대**: 육·해·공군 사관학교 통합이 국가안보의 백년대계인 장교 양성체계를 흔들고 각 군의 전문성과 정체성을 훼손할 수 있다고 비판했다. [출처](https://www.newsis.com/view/NISX20260705_0003696275)
 - [도이치모터스 주가 조작 의혹 및 김건희 여사 연루 논란 (2023)](/issues/deutsch-motors-stock-2023) — **중립**: 도이치모터스 사건 관련 보도에서 하급심 판단의 비교 대상으로 함께 언급됐지만, 직접적인 입장은 확인되지 않았다. [출처](https://www.yonhapnewstv.co.kr/news/AKR20260526095200H69)
 - [청년 일자리와 첨단산업 육성 (2026)](/issues/youth-jobs-hightech-2026) — **지지**: 청년AI·주거안정 추경으로 청년실업 대응을 추진했다. [출처](https://www.seoul.co.kr/news/publicnews/local_govern/news_local/2026/08/11/20260811019007?wlog_tag3=naver)
+- [재건축·초과이익환수 논쟁 (2026)](/issues/housing-reconstruction-levy-2026) — **지지**: 오세훈 시장은 재건축초과이익환수제에 대해 부작용이 심각하므로 전면 재검토가 필요하다고 주장했다.. [출처](https://www.kukinews.com/article/view/kuk202611170103)
 <!-- /agent:stances -->
