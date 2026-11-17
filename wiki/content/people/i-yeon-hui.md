@@ -15,4 +15,5 @@ party: 더불어민주당
 
 <!-- agent:stances -->
 - [사회안전망 강화와 고령화 대응 (2026)](/issues/social-safety-net-aging-2026) — **지지**: 사회적 안전망의 빈틈을 언급하며 지역소멸·인구변화에 대응하는 복지 강화의 필요성을 강조했다. [출처](https://www.nocutnews.co.kr/news/6536825?utm_source=naver&utm_medium=article&utm_campaign=20260622060818)
+- [재건축·초과이익환수 논쟁 (2026)](/issues/housing-reconstruction-levy-2026) — **지지**: 재초환 폐지는 투기 광풍을 부를 조치라며 개발이익 사유화 방지·투기 억제를 위해 반드시 유지해야 한다고 주장했다. [출처](https://www.mk.co.kr/news/economy/11455390)
 <!-- /agent:stances -->
