@@ -1,73 +1,119 @@
-generated_at: '2026-11-16T23:01:06+00:00'
-source_date: 2026-11-16T230103Z
+generated_at: '2026-11-17T23:01:21+00:00'
+source_date: 2026-11-17T230118Z
 window_hours: 72
 items:
 - rank: 1
-  title: 국회 헌법개정자문위 공동위원장에 김형오·정세균 전 의장
+  title: '''AI 커닝'' 논란에…정부·국회, 감시 예산 182억 증액 추진'
   status: 정식 검토
   score: 9
-  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 19
+    news_count: 4
+    outlet_count: 4
     public_actor: 국회, 정부
   sources:
-  - title: 수능 앞두고 ‘AI 커닝’ 공방…개헌 논의에도 여야 대치 [투데이 여의...
-    url: https://www.segye.com/newsView/20261116518675?OutUrl=naver
-  - title: 조정식이 다시 띄운 개헌 "2027년 개헌 논의 적기"
-    url: https://www.labortoday.co.kr/news/articleView.html?idxno=237771
-  - title: 헌법개정자문위 공동위원장에 김형오·정세균 전 의장
-    url: http://www.yonhapnewstv.co.kr/news/MYH20261117052808o61
+  - title: '''AI 커닝'' 논란에…정부·국회, 감시 예산 182억 증액 추진'
+    url: https://www.hankookilbo.com/news/article/A2026111718500004676?did=NA
+  - title: 정부, 'AI 커닝' 대응 예산 증액 추진…탐지기·인력 확대
+    url: http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231353
+  - title: AI 커닝 난리인데…70년째 무감독 시험 치르는 ‘이 고등학교’
+    url: https://www.wikitree.co.kr/articles/1175319
 - rank: 2
-  title: ‘AI 부정행위’ 대응…정부, 수능 범정부 긴급대응팀 구성
+  title: 국민의힘 "한성숙·최교진 해임건의안 제출‥거부 시 탄핵 추진"
   status: 정식 검토
   score: 9
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 18
-    public_actor: 국민의힘, 정부
+    news_count: 4
+    outlet_count: 4
+    public_actor: 국민의힘, 장관
   sources:
-  - title: 수능 앞두고 AI 부정행위 방지 총력전, 스마트기기 사용 차단 결정
-    url: https://www.gokorea.kr/news/articleView.html?idxno=885950
-  - title: '''AI 커닝 패키지'' 등장, SNS로 사용법 확산…정부 ''유통'' 차단 나서'
-    url: https://www.hankyung.com/article/2026111706547
-  - title: '[천지일보 이슈종합] 수능 부정행위·AI 커닝·미중러 정상회담·서울 전...'
-    url: https://www.newscj.com/news/articleView.html?idxno=3449264
+  - title: 野, 한성숙 총리·최교진 장관 해임건의 추진
+    url: https://www.idaegu.co.kr/news/articleView.html?idxno=565632
+  - title: 국힘, 조작기소 특검법 공포에 '한성숙 총리 탄핵' 추진
+    url: https://www.nocutnews.co.kr/news/6608335?utm_source=naver&utm_medium=article&utm_campaign=20261117171639
+  - title: 국민의힘 "한성숙·최교진 해임건의안 제출‥거부 시 탄핵 추진"
+    url: https://imnews.imbc.com/news/2026/politics/article/6866335_36911.html
 - rank: 3
-  title: AI 부정행위에 수능 연기론…정부 대책 실효성 논란
+  title: 국민의힘, 한성숙·최교진 해임건의안 제출…“불수용 땐 탄핵 절차”
   status: 정식 검토
-  score: 7
-  summary: 최근 보도 20건, 매체 18곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 18
-    public_actor: 정부
-  sources:
-  - title: 수능 이틀 앞두고 ‘연기론’까지…野 “정부 AI 커닝 대응책 역부족”
-    url: https://www.sedaily.com/article/20115034?ref=naver
-  - title: 전파 차단 “없던 일로”… 수능은 “예정대로”
-    url: https://www.seoul.co.kr/news/society/2026/11/17/20261117001004?wlog_tag3=naver
-  - title: '[사설] ''나는 AI커닝, 기는 정부'' 수능대책 완벽한가'
-    url: https://www.asiatoday.co.kr/kn/view.php?key=20261116010006122
-- rank: 4
-  title: ‘AI 악용’ 세무사 시험 수석 합격자, 시험 무효·형사고소…정부 대응 TF 가동
-  status: 정식 검토
-  score: 7
+  score: 9
   summary: 최근 보도 8건, 매체 8곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 8
     outlet_count: 8
-    public_actor: 정부
+    public_actor: 국민의힘, 장관
   sources:
-  - title: 수능 코앞 AI 부정행위 비상…정부, 스마트기기 반납·와이파이 차단 추...
-    url: https://www.kbmaeil.com/article/20261116500684
-  - title: ‘AI 커닝 안돼’ 수능 스마트기기 반납·공공 와이파이 차단...5년치 세...
-    url: https://www.etoday.co.kr/news/view/2648856
-  - title: 정부, 세무사 시험 부정행위자 무효 절차 개시…3~5년치 성적 재점검
-    url: https://news.einfomax.co.kr/news/articleView.html?idxno=4445000
+  - title: 국힘, 수능 이후 총리·교육부 장관 해임건의…"불수용 땐 탄핵 추진"
+    url: https://www.kado.net/news/articleView.html?idxno=2085367
+  - title: 국힘 “한성숙·최교진 해임 건의…불수용 땐 탄핵 돌입"
+    url: http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261117.99099005354
+  - title: 국민의힘, 국가시험 부정행위 특별법 추진…"벌금 없이 징역형"
+    url: http://www.metroseoul.co.kr/article/20261117500529
+- rank: 4
+  title: 국힘 "한성숙·최교진 해임 건의…미수용시 탄핵 절차 돌입"
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 5건, 매체 5곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 5
+    outlet_count: 5
+    public_actor: 국민의힘, 장관
+  sources:
+  - title: 국민의힘 "한성숙·최교진 해임 건의…미수용 시 탄핵 돌입"
+    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008850392&plink=ORI&cooper=NAVER
+  - title: 국힘 "AI 커닝 대책 미비, 한성숙·최교진 해임 건의…미수용시 탄핵 돌...
+    url: http://www.yonhapnewstv.co.kr/news/AKR202611171809351bZ
+  - title: 국힘 "국무총리·교육장관 해임 건의…대통령 미수용시 탄핵 절차 돌입...
+    url: https://www.busan.com/view/busan/view.php?code=2026111717161439880
 - rank: 5
-  title: 수능 앞둔 이재명 정부의 AI 부정행위 대책 논란, 시험 연기 촉구되나
+  title: 혁신당 "19일 조희대 탄핵소추안 처리해야"… 민주유공자법 표결도 촉구
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 8건, 매체 7곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 8
+    outlet_count: 7
+    public_actor: 국회, 민주당, 조국혁신당
+  sources:
+  - title: 조국혁신당 경기도당 "19일 민주유공자법 통과를"
+    url: https://news-s.kr/view.html?id=L261118001410004e
+  - title: '[기자수첩] 탄핵의 나라'
+    url: https://www.newscj.com/news/articleView.html?idxno=3449481
+  - title: 혁신당 "19일 조희대 탄핵소추안 처리해야"… 민주유공자법 표결도 촉구
+    url: https://www.newscj.com/news/articleView.html?idxno=3449355
+- rank: 6
+  title: ‘尹 영치금’ 22억 논란에…국회, ‘400만원 제한법’, 소위 통과
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 3
+    public_actor: 국회
+  sources:
+  - title: 尹부부 22억 영치금 논란…'400만원 제한법' 법사소위 통과
+    url: https://www.ikbc.co.kr/article/view/kbc202611170088
+  - title: 尹부부 22억 영치금 논란…1인 400만원 제한법, 법사소위 통과
+    url: https://www.joongang.co.kr/article/25479497
+  - title: ‘尹 영치금’ 22억 논란에…국회, ‘400만원 제한법’, 소위 통과
+    url: https://biz.heraldcorp.com/article/10940281?ref=naver
+- rank: 7
+  title: 수능 이틀 앞두고 나온 정부 AI대책 놓고 실효성 논란
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 장관, 정부
+  sources:
+  - title: 수능 이틀 앞두고 나온 정부 AI대책 놓고 실효성 논란
+    url: https://www.incheonilbo.com/news/articleView.html?idxno=1337060
+  - title: 최교진 교육부 장관, 수능 이틀 앞두고 고발당했다…‘이 혐의’
+    url: https://www.wikitree.co.kr/articles/1175200
+- rank: 8
+  title: 수능 코앞인데 AI 부정행위 막을 수 있나...정부 대응 실효성 논란
   status: 정식 검토
   score: 7
   summary: 최근 보도 5건, 매체 5곳에서 확인된 공적 쟁점입니다.
@@ -76,75 +122,41 @@ items:
     outlet_count: 5
     public_actor: 정부
   sources:
-  - title: '[이슈] ''AI 안경 부정행위'' 파장 확산…입시업계 "수능도 뚫린다, 연기해...'
-    url: https://www.polinews.co.kr/news/articleView.html?idxno=748544
-  - title: 이기인, 靑 정무수석에 홉스 저서 선물…"자기 일 재판관 되려는 대통령...
-    url: https://www.news1.kr/politics/assembly/6355539
-  - title: 수능 앞둔 이재명 정부의 AI 부정행위 대책 논란, 시험 연기 촉구되나
-    url: https://www.gokorea.kr/news/articleView.html?idxno=885873
-- rank: 6
-  title: 서울시립대 "15명 개인정보 유출"…경찰에 수사 의뢰
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 18건, 매체 18곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 18
-    outlet_count: 18
-    public_actor: 확인 중
-  sources:
-  - title: 서울시립대 "15명 개인정보 유출"…경찰에 수사 의뢰
-    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008848683&plink=ORI&cooper=NAVER
-  - title: 서울시립대서 15명 개인정보 유출…"경찰에 수사 의뢰"
-    url: https://www.mt.co.kr/society/2026/11/16/2026111621562473020
-  - title: 서울시립대 구성원 15명 개인정보 유출… 경찰 수사 의뢰
-    url: https://www.newscj.com/news/articleView.html?idxno=3449234
-- rank: 7
-  title: 헌법개정자문위 공동위원장에 김형오·정세균 前 국회의장 위촉
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 2
-    outlet_count: 2
-    public_actor: 국회
-  sources:
-  - title: 개헌 띄우는 조정식, “자다 봉창 두드리냐”는 野
-    url: https://www.busan.com/view/busan/view.php?code=2026111616443646288
-  - title: 헌법개정자문위 공동위원장에 김형오·정세균 前 국회의장 위촉
-    url: https://www.yna.co.kr/view/AKR20261116058000001?input=1195m
-- rank: 8
-  title: 민주유공자법, 논란만 30년…이번엔 국회 넘을까
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국회
-  sources:
-  - title: 민주유공자법, 논란만 30년…이번엔 국회 넘을까
-    url: https://www.sisaon.co.kr/news/articleView.html?idxno=206106
+  - title: AI가 흔든 수능 공정성…'스마트안경'과의 전쟁
+    url: https://www.ccreview.co.kr/news/articleView.html?idxno=363019
+  - title: 수능 코앞인데 AI 부정행위 막을 수 있나...정부 대응 실효성 논란
+    url: https://www.cwn.kr/news/articleView.html?idxno=61987
+  - title: 와이파이 끄면 AI 커닝 막을 수 있나…"5G도 열려 있는데" 실효성 논란
+    url: https://www.newsis.com/view/NISX20261116_0003870322
 - rank: 9
-  title: 정부, ‘AI 수석 논란’에 "최근 3~5년 세무사 합격자 성적 특이사항 재점검"
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  title: '수능 추가대책 : ''안경 검사하고 단추까지 확인''... 정부 ''AI 부정행위'' 방지 대책 발표'
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
+    news_count: 20
+    outlet_count: 16
     public_actor: 정부
   sources:
-  - title: 정부, 'AI 수석 논란'에 "최근 3~5년 세무사 합격자 성적 특이사항 재점...
-    url: https://news.jtbc.co.kr/article/NB12328295?influxDiv=NAVER
+  - title: 2027 수능, 부정행위 막는다…스마트안경 전수검사·옷 단추 스티커 부...
+    url: https://www.topstarnews.net/news/articleView.html?idxno=16279436
+  - title: '[손병관의 뉴스프레소] 조작기소 특검법, 위헌·인력난·기록 확보 ''삼중...'
+    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285968&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+  - title: 충남 태안 해상서 7명 탄 어선 실종…해경 수색[오늘아침]
+    url: https://www.nocutnews.co.kr/news/6608490?utm_source=naver&utm_medium=article&utm_campaign=20261118070347
 - rank: 10
-  title: ‘AI 부정행위 논란’에 韓총리 “수능 범정부 긴급 대응팀 구성”
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  title: 임태희 전 경기도교육감, 지방선거 의혹 추가 수사 요청
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
+    news_count: 20
+    outlet_count: 17
+    public_actor: 의원
   sources:
-  - title: ‘AI 부정행위 논란’에 韓총리 “수능 범정부 긴급 대응팀 구성”
-    url: https://www.siminilbo.co.kr/news/newsview.php?ncode=1160291323288953
+  - title: '[뉴스클레임 PICK] 수능 D-1 ''영하·눈'' 비상… 추경호 대구시장 오늘 1심...'
+    url: https://www.newsclaim.co.kr/news/articleView.html?idxno=3083143
+  - title: 파주시장 경선 '임대료 대납' 의혹…박용호 당협위원장 불송치
+    url: http://www.rightknow.co.kr/news/articleView.html?idxno=35431
+  - title: 83억 횡령, 임금 체불, 롤렉스 상납… 반칙의 그라운드 된 시민구단
+    url: https://www.chosun.com/national/national_general/2026/11/18/6VO6HW7G55ETZEH2WIRO2M4VD4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
