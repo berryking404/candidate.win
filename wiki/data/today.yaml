@@ -1,97 +1,89 @@
-generated_at: '2026-11-18T23:01:38+00:00'
-source_date: 2026-11-18T230135Z
+generated_at: '2026-11-19T23:01:31+00:00'
+source_date: 2026-11-19T230120Z
 window_hours: 72
 items:
 - rank: 1
-  title: AI 부정시험에 뒷북 대응…정부 대책 실효성 논란
+  title: 민주, 논란의 '민주유공자법' 본회의 상정 … 국민의힘, '필버' 돌입
   status: 정식 검토
   score: 9
-  summary: 최근 보도 15건, 매체 15곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 11건, 매체 11곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 15
-    outlet_count: 15
-    public_actor: 국회, 더불어민주당, 민주당, 의원, 장관, 정부
+    news_count: 11
+    outlet_count: 11
+    public_actor: 국민의힘, 국회
   sources:
-  - title: 수능 AI 커닝 대책 쏟아낸 與野…입법은 뒷북, 실효성은 미지수
-    url: https://www.nocutnews.co.kr/news/6609068?utm_source=naver&utm_medium=article&utm_campaign=20261119061558
-  - title: 조모상 휴가 교사 감독관 차출 요청 등 졸속 대응 비판 쇄도... 수능 하...
-    url: https://www.wikitree.co.kr/articles/1175726
-  - title: 국감서 AI 부정행위 시연까지 했는데…수능 전날 쏟아진 정부·여야 '뒷...
-    url: https://www.ntoday.co.kr/news/articleView.html?idxno=130959
+  - title: 건건이 '필버'에 전방위 대치…'조작기소 특검 추천'도 화약고
+    url: http://www.newstomato.com/ReadNews.aspx?no=1321119&inflow=N
+  - title: 수능 한창인데 '민주유공자법' 강행한 與…국힘은 필버
+    url: https://www.hankyung.com/article/202611197769H
+  - title: 민주유공자법, 與 주도 본회의 상정...野 "운동권 특혜법" 필버 맞불(종...
+    url: https://www.ajunews.com/view/20261119150703339
 - rank: 2
-  title: 국힘, 與민주유공자법 추진에 "내일 상정법안 모두 필리버스터"
+  title: 與 '조희대 탄핵' 추진에…한동훈 "미쳐도 곱게 미쳐야"
   status: 정식 검토
   score: 9
-  summary: 최근 보도 16건, 매체 15곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 16
-    outlet_count: 15
-    public_actor: 국민의힘, 국회, 민주당
+    news_count: 20
+    outlet_count: 16
+    public_actor: 국민의힘, 대표, 더불어민주당, 민주당, 원내대표
   sources:
-  - title: 與 ‘민주유공자법 강행’에 野 ‘필리버스터 대치’ 또 예고
-    url: https://www.dt.co.kr/article/12096039?ref=naver
-  - title: 민주당, 오늘 국회 본회의서 민주유공자법 상정…국민의힘 필리버스터...
-    url: https://www.newspim.com/news/view/20261118001201
-  - title: 국힘 "조작기소 특검 후보 추천 거부…필버로 저지"
-    url: https://www.idaegu.co.kr/news/articleView.html?idxno=565816
+  - title: '''국조부터''라던 김민석, 한덕수 파기환송에 ''조희대 탄핵'' 꺼냈다'
+    url: https://www.sisajournal.com/news/articleView.html?idxno=394721
+  - title: '1.5조 달러, 앤트로픽 상장 첫날 17% 급등: 슬로우레터 11월20일.'
+    url: https://slownews.kr/169867
+  - title: 민주당 조희대 탄핵 추진에 국힘 "의회 쿠데타" 맹비난
+    url: https://www.edaily.co.kr/News/Read?newsId=01872886645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 - rank: 3
-  title: 조국혁신당, 추경호 '계엄해제 표결 방해 혐의' 1심 무죄에 "조희대 탄핵해야"
+  title: 민주당 "조희대 탄핵 추진"…한덕수 '내란' 일부 무죄에 반발
   status: 정식 검토
-  score: 7
-  summary: 최근 보도 4건, 매체 4곳에서 확인된 공적 쟁점입니다.
+  score: 9
+  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 4
-    outlet_count: 4
-    public_actor: 조국혁신당
+    news_count: 20
+    outlet_count: 17
+    public_actor: 국민의힘, 대표, 더불어민주당, 민주당, 원내대표
   sources:
-  - title: 추경호 1심 무죄 선고에 與 "역사에 대한 반역" 강력 비판
-    url: http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261118.99099005728
-  - title: '''추경호 무죄''에 범여권 "윤석열 내란 부역 선언"'
-    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286205&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
-  - title: 범여권, 추경호 1심 무죄에 "역사에 대한 반역" "내일 조희대 탄핵해야...
-    url: https://www.sisajournal.com/news/articleView.html?idxno=394497
+  - title: 민주당 조희대 탄핵 추진에 국힘 "의회 쿠데타" 맹비난
+    url: https://www.edaily.co.kr/News/Read?newsId=01872886645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
+  - title: '''민주유공자법'' 필리버스터 진행 중…오늘 與주도 처리 전망'
+    url: https://news.tvchosun.com/site/data/html_dir/2026/11/20/2026112090030.html
+  - title: 한덕수 파기환송에…민주 "조희대 탄핵"·국힘 "의회 폭동"
+    url: http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5231906
 - rank: 4
-  title: 조국혁신당, 추경호 무죄 선고에 "사법 참사…조희대 대법원장 탄핵 결단해야"
+  title: 더불어민주당, 조희대 대법원장 탄핵 추진 선언... "내란 정당화 판결에...
   status: 정식 검토
-  score: 7
-  summary: 최근 보도 5건, 매체 5곳에서 확인된 공적 쟁점입니다.
+  score: 9
+  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 5
-    outlet_count: 5
-    public_actor: 조국혁신당
+    news_count: 20
+    outlet_count: 16
+    public_actor: 국민의힘, 대표, 더불어민주당, 민주당, 원내대표
   sources:
-  - title: 범여권 "추경호 무죄는 사법 참사"
-    url: https://www.gukjenews.com/news/articleView.html?idxno=3756013
-  - title: 국힘 해산론까지 꺼냈던 與…秋 무죄 나오자 "역사적 반역"
-    url: https://www.hankyung.com/article/202611185179H
-  - title: 추경호 1심 무죄…與 "역사적 반역" vs 野 "억지 기소 사필귀정"
-    url: https://www.news1.kr/politics/assembly/6358263
+  - title: '''국조부터''라던 김민석, 한덕수 파기환송에 ''조희대 탄핵'' 꺼냈다'
+    url: https://www.sisajournal.com/news/articleView.html?idxno=394721
+  - title: '1.5조 달러, 앤트로픽 상장 첫날 17% 급등: 슬로우레터 11월20일.'
+    url: https://slownews.kr/169867
+  - title: 민주당 조희대 탄핵 추진에 국힘 "의회 쿠데타" 맹비난
+    url: https://www.edaily.co.kr/News/Read?newsId=01872886645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
 - rank: 5
-  title: '''AI 커닝'' 늑장 대응·장관 실언…李 정부 비판 봇물'
+  title: '[일지] 김건희 ''3대 의혹'' 제기부터 대법원 선고까지'
   status: 추가 확인
   score: 6
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 장관, 정부
+    news_count: 3
+    outlet_count: 3
+    public_actor: 확인 중
   sources:
-  - title: '''AI 커닝'' 늑장 대응·장관 실언…李 정부 비판 봇물'
-    url: http://www.iminju.net/news/articleView.html?idxno=172688
+  - title: '[일지]김건희, ''도이치·통일교·명태균'' 의혹 제기부터 대법 선고까지'
+    url: https://www.news1.kr/society/court-prosecution/6359881
+  - title: '[일지]김건희 ''3대 의혹'' 제기부터 상고심 선고까지'
+    url: https://www.newsis.com/view/NISX20261119_0003874928
+  - title: '[일지] 김건희 ''3대 의혹'' 제기부터 대법원 선고까지'
+    url: https://www.yna.co.kr/view/AKR20261119138800004?input=1195m
 - rank: 6
-  title: 필리버스터 예고한 국민의힘, 민주당 법안 처리 앞두고 격돌 조짐
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 국민의힘, 민주당
-  sources:
-  - title: 필리버스터 예고한 국민의힘, 민주당 법안 처리 앞두고 격돌 조짐
-    url: https://www.gokorea.kr/news/articleView.html?idxno=886271
-- rank: 7
-  title: 오세훈, AI 부정시험 논란에 "정부 위기관리 능력 완전히 잃어"
+  title: 제주 무사증 폐지 논란에 정부 관리 강화
   status: 추가 확인
   score: 5
   summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
@@ -100,48 +92,60 @@ items:
     outlet_count: 2
     public_actor: 정부
   sources:
-  - title: 오세훈 "수능 코앞에 단추 스티커라니…정부 위기관리 능력 완전히 잃어...
-    url: https://www.sisajournal.com/news/articleView.html?idxno=394433
-  - title: 오세훈, AI 부정시험 논란에 "정부 위기관리 능력 완전히 잃어"
-    url: https://www.yna.co.kr/view/AKR20261118056300004?input=1195m
+  - title: '[시시각각] ‘AI 부정행위’ 파문…이번 수능 어땠나?'
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717587&ref=A
+  - title: 제주 무사증 폐지 논란에 정부 관리 강화
+    url: https://www.jemin.com/news/articleView.html?idxno=847790
+- rank: 7
+  title: 수능 'AI 부정행위' 차단 총력…외신도 韓정부 대응 조명
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 2
+    outlet_count: 2
+    public_actor: 정부
+  sources:
+  - title: 수능 'AI 부정행위' 차단 총력…외신도 韓정부 대응 조명
+    url: https://www.newsis.com/view/NISX20261119_0003875910
+  - title: '[2027수능] 수능 AI 부정행위 총력 대응 나선 韓… 외신도 조명'
+    url: https://www.newscj.com/news/articleView.html?idxno=3450506
 - rank: 8
-  title: '[사설] 건설ㆍ부동산 자격시험도 AI 부정행위 방지책 서둘러야'
+  title: 민주당, 조희대 대법원장 탄핵 결의…20일 당론 채택, 조국혁신당 동참
+  status: 추가 확인
+  score: 5
+  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 0
+    outlet_count: 0
+    public_actor: 민주당, 조국혁신당
+  sources: []
+- rank: 9
+  title: 지방소멸대응 유공 장관 표창 수상
   status: 기존 이슈와 함께 검토
   score: 5
-  summary: 최근 보도 20건, 매체 20곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 20
-    outlet_count: 20
-    public_actor: 민주당
+    news_count: 3
+    outlet_count: 3
+    public_actor: 장관
   sources:
-  - title: '[전국 주요 신문 사설](19일 조간)'
-    url: https://www.yna.co.kr/view/AKR20261119017200011?input=1195m
-  - title: 이각범 "금융실명제 없이 선진국도 없었다" [YS 서거 11주기]
-    url: https://www.sisaon.co.kr/news/articleView.html?idxno=205841
-  - title: '[Who Is ?] 하준경 청와대 정책실장'
-    url: https://www.businesspost.co.kr/BP?command=article_view&num=451465
-  related_issue: housing-jeonse-crisis-2026
-- rank: 9
-  title: 오세훈, 'AI 부정행위 늑장 대응 논란' 비판…"정부, 위기 감지·관리 능력 완전히 상실"
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: 오세훈, 'AI 부정행위 늑장 대응 논란' 비판…"정부, 위기 감지·관리 능...
-    url: https://www.dailian.co.kr/news/view/1716477/?sc=Naver
+  - title: 보건산업진흥원, 지방소멸대응 유공 중기부 장관 표창 수상
+    url: https://www.rapportian.com/news/articleView.html?idxno=242666
+  - title: 보건산업진흥원, '2026년 지방소멸대응 유공' 중기부 장관 표창 수상
+    url: https://www.pharmnews.com/news/articleView.html?idxno=308147
+  - title: 보건산업진흥원, 지방소멸대응 유공 중기부 장관 표창 수상
+    url: https://www.bosa.co.kr/news/articleView.html?idxno=3016846
+  related_issue: regional-balance-development-2026
 - rank: 10
-  title: 오세훈 "모든 국가 제도에 'AI 내진설계' 필요..범정부 대응체계 가동해야"
+  title: 핵잠수함 도입 논란 확산…국회 공청회마저 '반쪽짜리'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 정부
+    public_actor: 국회
   sources:
-  - title: 오세훈 "모든 국가 제도에 'AI 내진설계' 필요..범정부 대응체계 가동해...
-    url: https://www.fnnews.com/news/202611181340553118
+  - title: 핵잠수함 도입 논란 확산…국회 공청회마저 '반쪽짜리'
+    url: https://www.ngonews.kr/news/articleView.html?idxno=243616
