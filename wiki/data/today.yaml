@@ -1,113 +1,131 @@
-generated_at: '2026-11-20T23:01:10+00:00'
-source_date: 2026-11-20T230108Z
+generated_at: '2026-11-21T23:01:00+00:00'
+source_date: 2026-11-21T230050Z
 window_hours: 72
 items:
 - rank: 1
-  title: 민주당, 조희대 대법원장 탄핵소추 당론 채택
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 12곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 12
-    public_actor: 국회, 민주당, 의원
-  sources:
-  - title: 與 초유의 '대법원장 탄핵' 초읽기…野 "광기" 반발[오늘아침]
-    url: https://www.nocutnews.co.kr/news/6610482?utm_source=naver&utm_medium=article&utm_campaign=20261121070622
-  - title: 조희대 탄핵 추진 속도전‥야당 "광기" 반발
-    url: https://imnews.imbc.com/replay/2026/nwtoday/article/6867420_37012.html
-  - title: 1부 오늘의 주요뉴스
-    url: https://imnews.imbc.com/replay/2026/nwtoday/article/6867419_37012.html
-- rank: 2
-  title: 조희대 탄핵 추진 속도전‥야당 "광기" 반발
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 14곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 14
-    public_actor: 국회, 민주당
-  sources:
-  - title: 186명 중 150명만 찬성하면 조희대 대법원장 직무정지
-    url: https://www.ekn.kr/web/view.php?key=20261121028522811
-  - title: 대법, 한덕수 일부 무죄취지 파기환송…구속 2개월 연장
-    url: https://www.kbsm.net/news/view.php?idx=542580
-  - title: 이번주 국회에는 무슨 일이? [뉴시스국회토pic]
-    url: https://www.newsis.com/view/NISX20261120_0003876692
-- rank: 3
   title: 민주당 ‘조희대 탄핵’ 당론 채택…"소추안 연내 처리"
   status: 정식 검토
   score: 9
-  summary: 최근 보도 20건, 매체 14곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 20건, 매체 15곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 14
-    public_actor: 민주당, 조국혁신당
+    outlet_count: 15
+    public_actor: 국회, 민주당
   sources:
-  - title: 與 초유의 '대법원장 탄핵' 초읽기…野 "광기" 반발[오늘아침]
-    url: https://www.nocutnews.co.kr/news/6610482?utm_source=naver&utm_medium=article&utm_campaign=20261121070622
-  - title: 조희대 탄핵 추진 속도전‥야당 "광기" 반발
-    url: https://imnews.imbc.com/replay/2026/nwtoday/article/6867420_37012.html
-  - title: 매경이 전하는 세상의 지식 (매-세-지, 11월 21일)
-    url: https://www.mk.co.kr/article/12214919
-- rank: 4
-  title: 與 ‘조희대 탄핵’ 착수… “내달까지 소추안 통과”
+  - title: '[속보] 박지원 "대법원장 탄핵의 역풍은 사법부 파탄 역풍보다는 조족지...'
+    url: https://www.pressian.com/pages/articles/2026112207583939894?utm_source=naver&utm_medium=search
+  - title: 속도 내는 '조희대 탄핵'...법관회의 '주목'
+    url: https://www.ytn.co.kr/_ln/0103_202611220741590601
+  - title: 예산안 법정시한 앞둔 국회…조희대 탄핵, 헌재·정년까지 ‘겹치는 시...
+    url: https://sateconomy.co.kr/news/view/1065564447888929
+- rank: 2
+  title: 속도 내는 '조희대 탄핵'...법관회의 '주목'
   status: 정식 검토
   score: 9
-  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 16
-    public_actor: 대표, 민주당
-  sources:
-  - title: 1부 오늘의 주요뉴스
-    url: https://imnews.imbc.com/replay/2026/nwtoday/article/6867419_37012.html
-  - title: 與, '초유의 대법원장 탄핵' 당론 채택... 野 "국가적 비극"
-    url: https://www.hankookilbo.com/news/article/A2026112016500000341?did=NA
-  - title: 몸 단 혁신당? “오늘(20일) 탄핵안, 내일 표결”…민주당에 조희대 탄...
-    url: https://www.munhwa.com/article/11632967?ref=naver
-- rank: 5
-  title: 與, 의총서 ‘조희대 대법원장 탄핵소추’ 당론 채택
-  status: 정식 검토
-  score: 7
   summary: 최근 보도 20건, 매체 13곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
     outlet_count: 13
+    public_actor: 국민의힘, 국회, 민주당
+  sources:
+  - title: '[속보] 박지원 "대법원장 탄핵의 역풍은 사법부 파탄 역풍보다는 조족지...'
+    url: https://www.pressian.com/pages/articles/2026112207583939894?utm_source=naver&utm_medium=search
+  - title: 속도 내는 '조희대 탄핵'...법관회의 '주목'
+    url: https://www.ytn.co.kr/_ln/0103_202611220741590601
+  - title: '[동그라미 만평] 홍문연의 항우가 된 민주당'
+    url: https://www.goodmorningcc.com/news/articleView.html?idxno=456268
+- rank: 3
+  title: 민주 "조희대 탄핵, 12·3 기점 발의 공감대"...국힘 "헌법 질서 파괴"
+  status: 정식 검토
+  score: 8
+  summary: 최근 보도 3건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 2
+    public_actor: 국민의힘, 대변인
+  sources:
+  - title: 민주 "조희대 탄핵, 12·3 기점 발의 공감대"...국힘 "헌법 질서 파괴"
+    url: https://www.ytn.co.kr/_ln/0101_202611211816067054
+  - title: 민주 "12·3 기점 조희대 탄핵안 발의 공감대"...국민의힘 장외투쟁
+    url: https://www.ytn.co.kr/_ln/0101_202611211601253453
+  - title: 조계원 민주 대변인 “조희대 탄핵안, 12·3 기점 발의 공감대”
+    url: https://www.hani.co.kr/arti/politics/politics_general/1288429.html
+- rank: 4
+  title: 민주유공자법 국회 통과…"운동권 특혜" 논란 속 쟁점은
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 3
+    public_actor: 국회
+  sources:
+  - title: 민주유공자법 국회 통과…"운동권 특혜" 논란 속 쟁점은
+    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008856538&plink=ORI&cooper=NAVER
+  - title: 민주유공자법 국회 통과…박종철·이한열 열사 '유공자' 된다
+    url: https://www.pressian.com/pages/articles/2026112015180285283?utm_source=naver&utm_medium=search
+  - title: 민주유공자법 26년 만 국회 통과에... 유가협 회장 "역사적인 날"
+    url: https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286747&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news
+- rank: 5
+  title: 수능 부정행위 대책 논란 확산…수험생·정치권, 최교진 장관 사퇴 촉구
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 3건, 매체 3곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 3
+    outlet_count: 3
+    public_actor: 장관
+  sources:
+  - title: 수능 부정행위 대책 논란 확산…수험생·정치권, 최교진 장관 사퇴 촉구
+    url: https://www.ekn.kr/web/view.php?key=20261121020332870
+  - title: '"리더십 상실했다"…수능날 자취 감춘 교육부장관, 무슨 일'
+    url: https://www.edaily.co.kr/News/Read?newsId=03401366645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article
+  - title: 수능 혼란에 실언까지…커지는 '최교진 리스크', 경질론 확산
+    url: https://www.asiatoday.co.kr/kn/view.php?key=20261122010008042
+- rank: 6
+  title: 한동훈 “민주당, 대법원장 탄핵은 내란 자백…모두 감옥 갈 것”
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 18건, 매체 18곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 18
+    outlet_count: 18
     public_actor: 민주당
   sources:
-  - title: '"내란에 면죄부, 조희대 대법원장 즉각 탄핵해야"'
-    url: http://www.jbsori.com/news/articleView.html?idxno=18230
-  - title: 與 초유의 '대법원장 탄핵' 초읽기…野 "광기" 반발[오늘아침]
-    url: https://www.nocutnews.co.kr/news/6610482?utm_source=naver&utm_medium=article&utm_campaign=20261121070622
-  - title: 판결 하루 만에 탄핵 추진‥법원 엇갈린 반응
-    url: https://imnews.imbc.com/replay/2026/nwtoday/article/6867421_37012.html
-- rank: 6
-  title: ‘소방 재정 빨대’ 논란 후 국회 “인건비 국가가 다 대면 연 7조 필요...
+  - title: 한동훈, 민주당 조희대 탄핵 추진 비판…"이제 민주당은 '내란정당'"
+    url: https://www.gukjenews.com/news/articleView.html?idxno=3759273
+  - title: 한동훈 "12월 3일 조희대 탄핵 꼭 하라…이젠 민주당이 내란 정당"
+    url: http://weekly.chosun.com/news/articleView.html?idxno=57348
+  - title: 한동훈 "민주당은 내란 정당"… 조희대 탄핵 추진 맹비난
+    url: https://www.newscj.com/news/articleView.html?idxno=3450961
+- rank: 7
+  title: 민주당 조희대 탄핵추진단, 오늘 첫 공개 간담회
   status: 추가 확인
   score: 5
   summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 2
     outlet_count: 2
-    public_actor: 국회
+    public_actor: 민주당
   sources:
-  - title: '[집중조명] 불붙은 소방재정 논란… “2조원 땜질식 대책으로는 해결 안...'
-    url: http://fpn119.co.kr/259822
-  - title: ‘소방 재정 빨대’ 논란 후 국회 “인건비 국가가 다 대면 연 7조 필요...
-    url: https://www.khan.co.kr/article/202611201326001
-- rank: 7
-  title: AI 부정행위 답변 논란에 최교진 교육부장관 사퇴 압박 여론…범정부 수능 부정행위 대응TF 회의서 입장 주목
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 0
-    outlet_count: 0
-    public_actor: 장관, 정부
-  sources: []
+  - title: 민주당 조희대 탄핵추진단, 오늘 첫 공개 간담회
+    url: https://www.news1.kr/politics/assembly/6361671
+  - title: 밖으로 칼 돌리면…민주당, 실익 없는 '조희대 탄핵' 강행 속사정
+    url: https://ilyo.co.kr/?ac=article_view&entry_id=513748
 - rank: 8
-  title: ‘민주유공자법’ 2년여 만에 국회 본회의 통과…형평성·심사 공정성 논란 재점화
+  title: 이용철 법무장관 후보 청문회 D-2…핵심 쟁점은 '공소취소'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 장관
+  sources:
+  - title: 이용철 법무장관 후보 청문회 D-2…핵심 쟁점은 '공소취소'
+    url: https://www.yna.co.kr/view/AKR20261120142900004?input=1195m
+- rank: 9
+  title: 與, 조희대 탄핵 추진 절차는…탄핵안 국회 통과 시 직무정지
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -116,29 +134,19 @@ items:
     outlet_count: 1
     public_actor: 국회
   sources:
-  - title: '''민주유공자법'' 2년여 만에 국회 본회의 통과…형평성·심사 공정성 논...'
-    url: https://www.ngonews.kr/news/articleView.html?idxno=243767
-- rank: 9
-  title: 미 전역 항공 대란·잇단 전산 장애…트럼프 행정부 대응 논란
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: 미 전역 항공 대란·잇단 전산 장애…트럼프 행정부 대응 논란
-    url: https://www.radiokorea.com/news/article.php?uid=510214
+  - title: 與, 조희대 탄핵 추진 절차는…탄핵안 국회 통과 시 직무정지
+    url: https://www.yna.co.kr/view/AKR20261121027300004?input=1195m
 - rank: 10
-  title: 정부 수능 대응 논란 속 李대통령 지지율 40% 횡보세
+  title: “12월 3일이 기점”…與, 조희대 대법원장 탄핵안 계엄 2주년 발의 검토
   status: 추가 확인
   score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
+    news_count: 2
+    outlet_count: 2
+    public_actor: 확인 중
   sources:
-  - title: 정부 수능 대응 논란 속 李대통령 지지율 40% 횡보세
-    url: https://biz.heraldcorp.com/article/10943843?ref=naver
+  - title: “12월 3일이 기점”…與, 조희대 대법원장 탄핵안 계엄 2주년 발의 검토
+    url: http://www.joseilbo.com/news/news_read.php?uid=580153&class=32&grp=
+  - title: 與 "조희대 탄핵안 12·3 발의 컨센서스"…野 "정치적 목적"
+    url: https://www.news1.kr/politics/assembly/6361590
