@@ -1,131 +1,95 @@
-generated_at: '2026-11-24T23:01:30+00:00'
-source_date: 2026-11-24T230110Z
+generated_at: '2026-11-25T23:01:10+00:00'
+source_date: 2026-11-25T230104Z
 window_hours: 72
 items:
 - rank: 1
-  title: ‘대법원장 탄핵·윤리위 징계 논란’ 속 견해 밝힌 강원 여야 의원들
+  title: 최혁진 “조희대 대법원장 탄핵소추안 즉시 발의 촉구”
   status: 정식 검토
   score: 9
-  summary: 최근 보도 20건, 매체 14곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 6건, 매체 6곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 6
+    outlet_count: 6
+    public_actor: 대표, 민주당, 조국혁신당
+  sources:
+  - title: 김민석 민주당 대표 "조희대 탄핵 5당 연대·민생 총력"
+    url: http://www.breaknews.com/1253997
+  - title: 최혁진 “조희대 대법원장 탄핵소추안 즉시 발의 촉구”
+    url: https://www.kwnews.co.kr/article/20261125501614
+  - title: 조국혁신당 전남광주특별시당, 목포서 조희대 대법원장 탄핵 촉구… "국...
+    url: https://www.newsclaim.co.kr/news/articleView.html?idxno=3084054
+- rank: 2
+  title: 판사들 조희대 탄핵 반발에 한겨레 "법관회의 자성하라", 조선일보는 서...
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 15곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 14
-    public_actor: 국민의힘, 민주당, 의원, 장관
+    outlet_count: 15
+    public_actor: 개혁신당, 국민의힘, 대표, 민주당, 의원, 정부
   sources:
-  - title: '[시사천국] 정성국 "장동혁 윤리위 개입 인정…사당화 증명한 셈"'
-    url: https://news.cpbc.co.kr/article/1177258?division=NAVER
+  - title: '[전국 주요 신문 톱뉴스](26일 조간)'
+    url: https://www.yna.co.kr/view/AKR20261126017600011?input=1195m
+  - title: 국힘, 오늘 경기 용인서 '조작기소 특검법' 규탄 대회
+    url: https://www.news1.kr/politics/assembly/6366326
+  - title: 한동훈 “탄핵 인용 확신? 의원직 걸라”…김용민 “가벼운 태도 한심해...
+    url: https://www.joongang.co.kr/article/25482130
+- rank: 3
+  title: '''조희대 탄핵'' 5당 연대 제안‥시점 두고 ''온도차'''
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 16
+    public_actor: 개혁신당, 민주당, 의원, 정부
+  sources:
+  - title: '[전국 주요 신문 톱뉴스](26일 조간)'
+    url: https://www.yna.co.kr/view/AKR20261126017600011?input=1195m
+  - title: '''탄핵 동력'' 부진에 김민석 "5당 연대 추진"…정점식 "죄 나눠갖기 꼼수...'
+    url: https://news.tvchosun.com/site/data/html_dir/2026/11/26/2026112690016.html
+  - title: '만점자 급증, 의사냥이-간호냥이도 있었나: 슬로우레터 11월26일.'
+    url: https://slownews.kr/170219
+- rank: 4
+  title: '''시험 부정행위'' 정부·정치권 대응 속도전'
+  status: 정식 검토
+  score: 7
+  summary: 최근 보도 5건, 매체 5곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 5
+    outlet_count: 5
+    public_actor: 정부
+  sources:
+  - title: '''시험 부정행위'' 정부·정치권 대응 속도전'
+    url: http://www.00news.co.kr/news/articleView.html?idxno=108363
+  - title: 2시21분의 의미?…청와대의 AI 부정행위 대응법 'S.E.T' 복기
+    url: https://www.mt.co.kr/politics/2026/11/25/2026112417073156137
   - title: '[더in터뷰] 천하람 "긍정 평가 어려워…김민석 100일, 제대로 한 것 없어...'
     url: https://news.jtbc.co.kr/article/NB12329581?influxDiv=NAVER
-  - title: 올공→청와대→장외집회…'韓 제명' 폭로에 장동혁, 또다시 거리로?
-    url: https://www.sisajournal.com/news/articleView.html?idxno=395104
-- rank: 2
-  title: 이용철 법무부 장관 후보자 ‘이해충돌’ 논란
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 14곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 14
-    public_actor: 민주당, 의원, 장관
-  sources:
-  - title: 이용철 청문회 '공소취소' 공방…野 "공소취소용 장관" 與 "선동"
-    url: https://www.nocutnews.co.kr/news/6612102?utm_source=naver&utm_medium=article&utm_campaign=20261125064911
-  - title: '[시사천국] 정성국 "장동혁 윤리위 개입 인정…사당화 증명한 셈"'
-    url: https://news.cpbc.co.kr/article/1177258?division=NAVER
-  - title: '[김종석의 리포트]‘백숙집 도박’ 따져묻자…이용철 “육식 못 한다”'
-    url: https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561510
-- rank: 3
-  title: 민주당, 조희대 탄핵 연내 처리 추진
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 17곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 17
-    public_actor: 민주당, 의원, 장관
-  sources:
-  - title: 이용철 청문회 '공소취소' 공방…野 "공소취소용 장관" 與 "선동"
-    url: https://www.nocutnews.co.kr/news/6612102?utm_source=naver&utm_medium=article&utm_campaign=20261125064911
-  - title: '[시론] 조희대 대법원장 탄핵, 민주당에 약일까 독일까'
-    url: https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611231729154160257
-  - title: 임이자 "청와대 개각은 설명 없는 회전문 인사…강금실 국정원장 후보자...
-    url: https://www.natv.go.kr/natv/news/newsView.do?newsId=514651
-- rank: 4
-  title: 與 "12월 가기 전 조희대 탄핵소추안 국회서 의결할 것"
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 15건, 매체 14곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 15
-    outlet_count: 14
-    public_actor: 국회, 민주당, 의원, 정부
-  sources:
-  - title: '[심양섭의 정론직격] 국민을 볼모로 삼은 게임, 정부·여당은 왜 사법을...'
-    url: https://www.pennmike.com/news/articleView.html?idxno=132654
-  - title: 조희대 대법원장 탄핵소추 시 혼란 불가피
-    url: https://www.naeil.com/news/read/609921?ref=naver
-  - title: '[뉴공 아카이브]퍼니포: 25년 경력 현직 부장판사, 한덕수 판결에 의문...'
-    url: http://www.ddanzi.com/900226734
 - rank: 5
-  title: 변협 “조희대 탄핵 추진, 사법부 독립 위축 우려”…민주당에 재고 촉...
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 15건, 매체 14곳에서 확인된 공적 쟁점입니다.
+  title: 국회의 탄핵소추권 vs 사법권 독립…30일 법관대표회의 주목
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 15
-    outlet_count: 14
-    public_actor: 민주당, 의원
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회, 대표
   sources:
-  - title: 조선일보 "강금실 경력 전무" 경향신문 "회전문 인사' 논란 피하기 어려...
-    url: https://www.mediatoday.co.kr/news/articleView.html?idxno=338661
-  - title: '[천자만필] 민주당의 위험한 탄핵 카드'
-    url: https://www.idaegu.co.kr/news/articleView.html?idxno=566303
-  - title: 법왜곡죄 앞에 드러난 與野 이중 잣대
-    url: http://www.00news.co.kr/news/articleView.html?idxno=108326
+  - title: 국회의 탄핵소추권 vs 사법권 독립…30일 법관대표회의 주목
+    url: https://www.newswhoplus.com/news/articleView.html?idxno=75432
 - rank: 6
-  title: '"판결로 탄핵? 계엄만큼 오점"…고조되는 판사들 여론 폭발하나'
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 19
-    public_actor: 민주당
-  sources:
-  - title: '"판결로 탄핵? 계엄만큼 오점"…고조되는 판사들 여론 폭발하나'
-    url: https://www.newsis.com/view/NISX20261124_0003881809
-  - title: '[단독] 현직 부장판사 “대법원장 탄핵, 계엄만큼 오점”'
-    url: https://www.seoul.co.kr/news/society/law/2026/11/25/20261125010001?wlog_tag3=naver
-  - title: 판사들 “재판 계기 법관 탄핵, 역사 오점” vs “조직 이기주의 비칠 ...
-    url: https://www.donga.com/news/Society/article/all/20261125/135084490/2
-- rank: 7
-  title: 변협 “민주당, 조희대 탄핵소추…신중히 재고해야”
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 12건, 매체 11곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 12
-    outlet_count: 11
-    public_actor: 민주당
-  sources:
-  - title: '"판결로 탄핵? 계엄만큼 오점"…고조되는 판사들 여론 폭발하나'
-    url: https://www.newsis.com/view/NISX20261124_0003881809
-  - title: '[이슈] ''조희대 탄핵'' 법원 안팎 "행동나서야, 재고해야" 반발…與 "헌재...'
-    url: https://www.polinews.co.kr/news/articleView.html?idxno=749123
-  - title: 변협도 반기들었다…“조희대 탄핵소추 재고 촉구…재판지연 혼란 고스...
-    url: https://biz.heraldcorp.com/article/10947872?ref=naver
-- rank: 8
-  title: 이인선 의원 “잇단 시험부정 논란장관 경질로 끝낼 일 아냐”
+  title: “성과 측정 어렵다”는데 해외출장비는 26% 증가…국회의원 예산 논란
   status: 추가 확인
   score: 5
   summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 0
     outlet_count: 0
-    public_actor: 의원, 장관
+    public_actor: 국회, 의원
   sources: []
-- rank: 9
-  title: 민주당 양부남 "조희대 탄핵, 루비콘강 건넜다"
+- rank: 7
+  title: 조희대 탄핵 속도 내는 민주당…범여권 5당 연대 추진에 사법부 반발 확산
   status: 추가 확인
   score: 5
   summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
@@ -134,19 +98,43 @@ items:
     outlet_count: 2
     public_actor: 민주당
   sources:
-  - title: “법관 반발에 보수 뭉칠라”… 與, 조희대 탄핵안 숙고 모드
-    url: https://www.kmib.co.kr/article/20261124501992
-  - title: 민주당 양부남 "조희대 탄핵, 루비콘강 건넜다"
-    url: https://www.goodmorningcc.com/news/articleView.html?idxno=456443
-- rank: 10
-  title: '''신천지 논란''에 민주당 칼 빼들어…당원 가입 본인 인증 강화'
+  - title: 민주당·진보야당 ‘조희대 탄핵’ 추진에…판사들 “헌법질서 위태”
+    url: https://www.sedaily.com/article/20118998?ref=naver
+  - title: 조희대 탄핵 속도 내는 민주당…범여권 5당 연대 추진에 사법부 내 우려...
+    url: https://www.newsian.co.kr/news/articleView.html?idxno=102039
+- rank: 8
+  title: 동포사회 반발에도 '재외동포청 세종行' 못 박은 정부
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 민주당
+    public_actor: 정부
   sources:
-  - title: '''신천지 논란''에 민주당 칼 빼들어…당원 가입 본인 인증 강화'
-    url: https://www.kado.net/news/articleView.html?idxno=2086918
+  - title: 동포사회 반발에도 '재외동포청 세종行' 못 박은 정부
+    url: https://www.incheonilbo.com/news/articleView.html?idxno=1337859
+- rank: 9
+  title: 5·18 2차가해 막으랬는데…'전두환 미화' 현수막 정부 대응 논란
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 5·18 2차가해 막으랬는데…'전두환 미화' 현수막 정부 대응 논란
+    url: https://www.news1.kr/local/gwangju-jeonnam/6365630
+- rank: 10
+  title: 野 "조희대 탄핵 인용땐 의원직 사퇴… 기각되면 與 총사퇴하라"
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 의원
+  sources:
+  - title: 野 “조희대 탄핵 인용땐 의원직 사퇴… 기각되면 與 총사퇴하라”
+    url: https://www.chosun.com/politics/politics_general/2026/11/26/6NIP4I7QGFBBRFKYQ2ZMS3K36Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
