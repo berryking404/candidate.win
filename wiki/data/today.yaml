@@ -1,95 +1,99 @@
-generated_at: '2026-11-25T23:01:10+00:00'
-source_date: 2026-11-25T230104Z
+generated_at: '2026-11-26T23:01:16+00:00'
+source_date: 2026-11-26T230108Z
 window_hours: 72
 items:
 - rank: 1
-  title: 최혁진 “조희대 대법원장 탄핵소추안 즉시 발의 촉구”
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 6건, 매체 6곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 6
-    outlet_count: 6
-    public_actor: 대표, 민주당, 조국혁신당
-  sources:
-  - title: 김민석 민주당 대표 "조희대 탄핵 5당 연대·민생 총력"
-    url: http://www.breaknews.com/1253997
-  - title: 최혁진 “조희대 대법원장 탄핵소추안 즉시 발의 촉구”
-    url: https://www.kwnews.co.kr/article/20261125501614
-  - title: 조국혁신당 전남광주특별시당, 목포서 조희대 대법원장 탄핵 촉구… "국...
-    url: https://www.newsclaim.co.kr/news/articleView.html?idxno=3084054
-- rank: 2
-  title: 판사들 조희대 탄핵 반발에 한겨레 "법관회의 자성하라", 조선일보는 서...
+  title: 與 "탄핵 대상, 曺 한 사람"…野 "조작 탄핵"
   status: 정식 검토
   score: 9
   summary: 최근 보도 20건, 매체 15곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
     outlet_count: 15
-    public_actor: 개혁신당, 국민의힘, 대표, 민주당, 의원, 정부
+    public_actor: 개혁신당, 국민의힘, 민주당
   sources:
-  - title: '[전국 주요 신문 톱뉴스](26일 조간)'
-    url: https://www.yna.co.kr/view/AKR20261126017600011?input=1195m
-  - title: 국힘, 오늘 경기 용인서 '조작기소 특검법' 규탄 대회
-    url: https://www.news1.kr/politics/assembly/6366326
-  - title: 한동훈 “탄핵 인용 확신? 의원직 걸라”…김용민 “가벼운 태도 한심해...
-    url: https://www.joongang.co.kr/article/25482130
-- rank: 3
-  title: '''조희대 탄핵'' 5당 연대 제안‥시점 두고 ''온도차'''
+  - title: 與 ‘조작기소 특검’ 檢출신 이임성 추천
+    url: https://www.seoul.co.kr/news/politics/congress/2026/11/27/20261127001005?wlog_tag3=naver
+  - title: ‘曺 탄핵’ 책임 분산용인가… 與, 범여권 이어 친여단체에 참여 요청
+    url: https://www.chosun.com/politics/assembly/2026/11/27/DH7YCQQGGVH3PNXR5V5NMD54RE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+  - title: “曺 탄핵을”
+    url: https://www.segye.com/newsView/20261126516913?OutUrl=naver
+- rank: 2
+  title: 최혁진 의원 '조희대 대법원장 탄핵소추안 발의 촉구' 108명 서명 확보되어 있어… 즉시 발의해야
   status: 정식 검토
   score: 9
-  summary: 최근 보도 20건, 매체 16곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
-    outlet_count: 16
-    public_actor: 개혁신당, 민주당, 의원, 정부
+    outlet_count: 19
+    public_actor: 국민의힘, 대표, 민주당, 의원, 장관, 조국혁신당
   sources:
-  - title: '[전국 주요 신문 톱뉴스](26일 조간)'
-    url: https://www.yna.co.kr/view/AKR20261126017600011?input=1195m
-  - title: '''탄핵 동력'' 부진에 김민석 "5당 연대 추진"…정점식 "죄 나눠갖기 꼼수...'
-    url: https://news.tvchosun.com/site/data/html_dir/2026/11/26/2026112690016.html
-  - title: '만점자 급증, 의사냥이-간호냥이도 있었나: 슬로우레터 11월26일.'
-    url: https://slownews.kr/170219
+  - title: 들끓는 법대(法臺)…사법부 수장 겨눈 '징계성 탄핵'의 자충수
+    url: https://www.sisajournal.com/news/articleView.html?idxno=395310
+  - title: '[노트북을 열며] 국민의힘을 기고만장하게 만든 사법부'
+    url: https://www.goodmorningcc.com/news/articleView.html?idxno=456635
+  - title: '"여순·오월의 땅서 묻는다" 조국혁신당 전남 동부권, 민주당에 ''11월 30...'
+    url: https://www.ngonews.kr/news/articleView.html?idxno=244356
+- rank: 3
+  title: 조국혁신당 전남광주시당, 순천서 "조희대 즉각 탄핵하라"
+  status: 정식 검토
+  score: 9
+  summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 20
+    outlet_count: 19
+    public_actor: 국민의힘, 대표, 민주당, 조국혁신당
+  sources:
+  - title: '[사설] 집단행동 거론하는 법관들, 자성하고 자중하라'
+    url: https://vop.co.kr/A00001697786.html
+  - title: 세 차례 무죄에도 '면죄부'라는 여당, 판결 불복이 사법을 흔든다
+    url: https://www.gokorea.kr/news/articleView.html?idxno=887463
+  - title: '"정당 꼬라지하곤"...민생 외면 ''집안싸움'' 몰두 여야에 비난 거세'
+    url: https://www.jasm.co.kr/news/view/326611/?sc=Naver
 - rank: 4
-  title: '''시험 부정행위'' 정부·정치권 대응 속도전'
+  title: 조국혁신당 전남광주통합특별시당, 순천서 조희대 대법원장 탄핵 촉구
   status: 정식 검토
   score: 7
-  summary: 최근 보도 5건, 매체 5곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 5
-    outlet_count: 5
-    public_actor: 정부
+    news_count: 2
+    outlet_count: 2
+    public_actor: 민주당, 조국혁신당
   sources:
-  - title: '''시험 부정행위'' 정부·정치권 대응 속도전'
-    url: http://www.00news.co.kr/news/articleView.html?idxno=108363
-  - title: 2시21분의 의미?…청와대의 AI 부정행위 대응법 'S.E.T' 복기
-    url: https://www.mt.co.kr/politics/2026/11/25/2026112417073156137
-  - title: '[더in터뷰] 천하람 "긍정 평가 어려워…김민석 100일, 제대로 한 것 없어...'
-    url: https://news.jtbc.co.kr/article/NB12329581?influxDiv=NAVER
+  - title: '"여순·오월의 땅서 묻는다" 조국혁신당 전남 동부권, 민주당에 ''11월 30...'
+    url: https://www.ngonews.kr/news/articleView.html?idxno=244356
+  - title: 조국혁신당 전남광주시당, 순천서 "조희대 즉각 탄핵하라"
+    url: https://www.pressian.com/pages/articles/2026112616133892779?utm_source=naver&utm_medium=search
 - rank: 5
-  title: 국회의 탄핵소추권 vs 사법권 독립…30일 법관대표회의 주목
+  title: 국세청장 후보자 청문회, ‘비거주 1주택’ 논란…“이유 불문 죄송”
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 9건, 매체 8곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 9
+    outlet_count: 8
+    public_actor: 확인 중
+  sources:
+  - title: 국세청장 후보자 청문회, ‘비거주 1주택’ 논란…“이유 불문 죄송”
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724114&ref=A
+  - title: 국세청장 후보자 청문회, ‘비거주 1주택’ 논란…“이유 불문 죄송”
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723821&ref=A
+  - title: ‘비거주 1주택’ 안덕수 국세청장 후보자 “이유 불문 죄송”
+    url: https://www.khan.co.kr/article/202611262112025
+- rank: 6
+  title: '"공정성 논란 없앤다"…정부, ''국가대표 AI'' 독파모 3차 평가체계 전면 손질'
   status: 추가 확인
   score: 6
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 국회, 대표
+    public_actor: 대표, 정부
   sources:
-  - title: 국회의 탄핵소추권 vs 사법권 독립…30일 법관대표회의 주목
-    url: https://www.newswhoplus.com/news/articleView.html?idxno=75432
-- rank: 6
-  title: “성과 측정 어렵다”는데 해외출장비는 26% 증가…국회의원 예산 논란
-  status: 추가 확인
-  score: 5
-  summary: 최근 보도 0건, 매체 0곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 0
-    outlet_count: 0
-    public_actor: 국회, 의원
-  sources: []
+  - title: '"공정성 논란 없앤다"…정부, ''국가대표 AI'' 독파모 3차 평가체계 전면...'
+    url: https://www.newsis.com/view/NISX20261126_0003884548
 - rank: 7
-  title: 조희대 탄핵 속도 내는 민주당…범여권 5당 연대 추진에 사법부 반발 확산
+  title: 민주당 등 범여권, 국가보안법 폐지 추진 논란…간첩·북한 해킹 대응 공백 우려
   status: 추가 확인
   score: 5
   summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
@@ -98,24 +102,24 @@ items:
     outlet_count: 2
     public_actor: 민주당
   sources:
-  - title: 민주당·진보야당 ‘조희대 탄핵’ 추진에…판사들 “헌법질서 위태”
-    url: https://www.sedaily.com/article/20118998?ref=naver
-  - title: 조희대 탄핵 속도 내는 민주당…범여권 5당 연대 추진에 사법부 내 우려...
-    url: https://www.newsian.co.kr/news/articleView.html?idxno=102039
+  - title: 민주당 등 범여권, 국가보안법 폐지 추진 논란…간첩·북한 해킹 대응 ...
+    url: https://www.pennmike.com/news/articleView.html?idxno=132833
+  - title: 국정원장 강금실 내정에 … 범여권, '국보법 폐지' 속도
+    url: https://www.newdaily.co.kr/site/data/html/2026/11/25/2026112550115.html
 - rank: 8
-  title: 동포사회 반발에도 '재외동포청 세종行' 못 박은 정부
+  title: 국회 국방위, 청해부대 파견연장안 의결…우회 파병 논란은 여전
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 정부
+    public_actor: 국회
   sources:
-  - title: 동포사회 반발에도 '재외동포청 세종行' 못 박은 정부
-    url: https://www.incheonilbo.com/news/articleView.html?idxno=1337859
+  - title: 국회 국방위, 청해부대 파견연장안 의결…우회 파병 논란은 여전
+    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008865393&plink=ORI&cooper=NAVER
 - rank: 9
-  title: 5·18 2차가해 막으랬는데…'전두환 미화' 현수막 정부 대응 논란
+  title: 허위조작 보도 땐 '정부광고' 중단…족쇄 논란에도 여 '강행'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -124,17 +128,17 @@ items:
     outlet_count: 1
     public_actor: 정부
   sources:
-  - title: 5·18 2차가해 막으랬는데…'전두환 미화' 현수막 정부 대응 논란
-    url: https://www.news1.kr/local/gwangju-jeonnam/6365630
+  - title: 허위보도 판결 땐 '정부광고' 중단…족쇄 논란에도 여 '강행'
+    url: http://www.newstomato.com/ReadNews.aspx?no=1322047&inflow=N
 - rank: 10
-  title: 野 "조희대 탄핵 인용땐 의원직 사퇴… 기각되면 與 총사퇴하라"
+  title: '[사사건건] 정부 ‘관계성 범죄’ 강력 대응…실효성 있는 대책은?'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 의원
+    public_actor: 정부
   sources:
-  - title: 野 “조희대 탄핵 인용땐 의원직 사퇴… 기각되면 與 총사퇴하라”
-    url: https://www.chosun.com/politics/politics_general/2026/11/26/6NIP4I7QGFBBRFKYQ2ZMS3K36Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
+  - title: '[사사건건] 정부 ‘관계성 범죄’ 강력 대응…실효성 있는 대책은?'
+    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723450&ref=A
