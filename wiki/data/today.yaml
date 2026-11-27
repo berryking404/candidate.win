@@ -1,41 +1,25 @@
-generated_at: '2026-11-26T23:01:16+00:00'
-source_date: 2026-11-26T230108Z
+generated_at: '2026-11-27T23:01:28+00:00'
+source_date: 2026-11-27T230123Z
 window_hours: 72
 items:
 - rank: 1
-  title: 與 "탄핵 대상, 曺 한 사람"…野 "조작 탄핵"
-  status: 정식 검토
-  score: 9
-  summary: 최근 보도 20건, 매체 15곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 20
-    outlet_count: 15
-    public_actor: 개혁신당, 국민의힘, 민주당
-  sources:
-  - title: 與 ‘조작기소 특검’ 檢출신 이임성 추천
-    url: https://www.seoul.co.kr/news/politics/congress/2026/11/27/20261127001005?wlog_tag3=naver
-  - title: ‘曺 탄핵’ 책임 분산용인가… 與, 범여권 이어 친여단체에 참여 요청
-    url: https://www.chosun.com/politics/assembly/2026/11/27/DH7YCQQGGVH3PNXR5V5NMD54RE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news
-  - title: “曺 탄핵을”
-    url: https://www.segye.com/newsView/20261126516913?OutUrl=naver
-- rank: 2
-  title: 최혁진 의원 '조희대 대법원장 탄핵소추안 발의 촉구' 108명 서명 확보되어 있어… 즉시 발의해야
+  title: 민주당 윤리심판원 중징계에 최민희·정청래 "납득할 수 없다" 반발
   status: 정식 검토
   score: 9
   summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 20
     outlet_count: 19
-    public_actor: 국민의힘, 대표, 민주당, 의원, 장관, 조국혁신당
+    public_actor: 국회, 민주당
   sources:
-  - title: 들끓는 법대(法臺)…사법부 수장 겨눈 '징계성 탄핵'의 자충수
-    url: https://www.sisajournal.com/news/articleView.html?idxno=395310
-  - title: '[노트북을 열며] 국민의힘을 기고만장하게 만든 사법부'
-    url: https://www.goodmorningcc.com/news/articleView.html?idxno=456635
-  - title: '"여순·오월의 땅서 묻는다" 조국혁신당 전남 동부권, 민주당에 ''11월 30...'
-    url: https://www.ngonews.kr/news/articleView.html?idxno=244356
-- rank: 3
-  title: 조국혁신당 전남광주시당, 순천서 "조희대 즉각 탄핵하라"
+  - title: 확산하는 與 내부 계파 갈등…국회 앞 '김민석 사퇴' 촉구 집회도
+    url: https://www.newsis.com/view/NISX20261127_0003886911
+  - title: “최민희가 중징계면 김민석은?”…최민희 당원자격정지에 정청래의 반...
+    url: https://www.munhwa.com/article/11634730?ref=naver
+  - title: 최민희 중징계에 김민석도 징계 심사…與, 내홍 출구는
+    url: https://news.tf.co.kr/read/ptoday/2394515.htm
+- rank: 2
+  title: 조국혁신당 여수서 조희대 대법원장 탄핵 촉구…“30일까지 탄핵소추안 발의해야”
   status: 정식 검토
   score: 9
   summary: 최근 보도 20건, 매체 19곳에서 확인된 공적 쟁점입니다.
@@ -44,70 +28,58 @@ items:
     outlet_count: 19
     public_actor: 국민의힘, 대표, 민주당, 조국혁신당
   sources:
-  - title: '[사설] 집단행동 거론하는 법관들, 자성하고 자중하라'
-    url: https://vop.co.kr/A00001697786.html
-  - title: 세 차례 무죄에도 '면죄부'라는 여당, 판결 불복이 사법을 흔든다
-    url: https://www.gokorea.kr/news/articleView.html?idxno=887463
-  - title: '"정당 꼬라지하곤"...민생 외면 ''집안싸움'' 몰두 여야에 비난 거세'
-    url: https://www.jasm.co.kr/news/view/326611/?sc=Naver
-- rank: 4
-  title: 조국혁신당 전남광주통합특별시당, 순천서 조희대 대법원장 탄핵 촉구
-  status: 정식 검토
-  score: 7
-  summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
+  - title: '[뉴스 즉설]호남 빼면 4대 6, 민주당 조희대 탄핵 여론전 국힘에 완패'
+    url: https://www.daejonilbo.com/news/articleView.html?idxno=2316817
+  - title: 조희대 탄핵에 법원 반발 확산…천안지원 판사 "재판독립 흔들려"
+    url: https://www.daejonilbo.com/news/articleView.html?idxno=2316801
+  - title: '"조희대 탄핵 즉시 중단"…법관대표회의 앞두고 수정안 제안'
+    url: https://news.tf.co.kr/read/life/2394509.htm
+- rank: 3
+  title: 정부, 미래대응기금 지출 30% 재량 변경 방안 고수하며 국채 상환 활용 명시
+  status: 추가 확인
+  score: 6
+  summary: 최근 보도 2건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 2
-    outlet_count: 2
-    public_actor: 민주당, 조국혁신당
+    outlet_count: 1
+    public_actor: 국회, 정부
   sources:
-  - title: '"여순·오월의 땅서 묻는다" 조국혁신당 전남 동부권, 민주당에 ''11월 30...'
-    url: https://www.ngonews.kr/news/articleView.html?idxno=244356
-  - title: 조국혁신당 전남광주시당, 순천서 "조희대 즉각 탄핵하라"
-    url: https://www.pressian.com/pages/articles/2026112616133892779?utm_source=naver&utm_medium=search
-- rank: 5
-  title: 국세청장 후보자 청문회, ‘비거주 1주택’ 논란…“이유 불문 죄송”
+  - title: '[단독] 국회 동의 없이 13조 더 쓴다…162조 미래기금 강행 ‘상시 추경...'
+    url: https://www.mk.co.kr/article/12220443
+  - title: '"국회 동의없이 30% 지출 증액" 野반발속 당정 미래기금 강행'
+    url: https://www.mk.co.kr/article/12220429
+- rank: 4
+  title: 박완수 경남지사 선거법 의혹 불송치…관련자 12명 검찰 송치
   status: 추가 확인
   score: 6
-  summary: 최근 보도 9건, 매체 8곳에서 확인된 공적 쟁점입니다.
+  summary: 최근 보도 6건, 매체 4곳에서 확인된 공적 쟁점입니다.
   signals:
-    news_count: 9
-    outlet_count: 8
+    news_count: 6
+    outlet_count: 4
     public_actor: 확인 중
   sources:
-  - title: 국세청장 후보자 청문회, ‘비거주 1주택’ 논란…“이유 불문 죄송”
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724114&ref=A
-  - title: 국세청장 후보자 청문회, ‘비거주 1주택’ 논란…“이유 불문 죄송”
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723821&ref=A
-  - title: ‘비거주 1주택’ 안덕수 국세청장 후보자 “이유 불문 죄송”
-    url: https://www.khan.co.kr/article/202611262112025
-- rank: 6
-  title: '"공정성 논란 없앤다"…정부, ''국가대표 AI'' 독파모 3차 평가체계 전면 손질'
-  status: 추가 확인
-  score: 6
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 대표, 정부
-  sources:
-  - title: '"공정성 논란 없앤다"…정부, ''국가대표 AI'' 독파모 3차 평가체계 전면...'
-    url: https://www.newsis.com/view/NISX20261126_0003884548
-- rank: 7
-  title: 민주당 등 범여권, 국가보안법 폐지 추진 논란…간첩·북한 해킹 대응 공백 우려
+  - title: 박완수 경남지사, 선거법 위반 '불송치'… "도정 성과로 보답할 것"
+    url: https://www.gukjenews.com/news/articleView.html?idxno=3765152
+  - title: 박완수 선거법 위반 의혹 불송치 “도정만 바라보겠다”(종합)
+    url: https://www.busan.com/view/busan/view.php?code=2026112710425575895
+  - title: 선거법 위반 혐의 불송치 박완수 “힘든 시간…도정에 전념하겠다”
+    url: https://www.seoul.co.kr/news/society/accident/2026/11/27/20261127500098?wlog_tag3=naver
+- rank: 5
+  title: 국회 법사위, 박홍근 답변 거부 논란에 잠시 정회
   status: 추가 확인
   score: 5
   summary: 최근 보도 2건, 매체 2곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 2
     outlet_count: 2
-    public_actor: 민주당
+    public_actor: 국회
   sources:
-  - title: 민주당 등 범여권, 국가보안법 폐지 추진 논란…간첩·북한 해킹 대응 ...
-    url: https://www.pennmike.com/news/articleView.html?idxno=132833
-  - title: 국정원장 강금실 내정에 … 범여권, '국보법 폐지' 속도
-    url: https://www.newdaily.co.kr/site/data/html/2026/11/25/2026112550115.html
-- rank: 8
-  title: 국회 국방위, 청해부대 파견연장안 의결…우회 파병 논란은 여전
+  - title: 박홍근 "예산 답변 안 한다"-서영교 "처음 본다"
+    url: https://www.thereport.co.kr/news/articleView.html?idxno=93812
+  - title: 국회 법사위, 박홍근 답변 거부 논란에 잠시 정회
+    url: https://www.newspim.com/news/view/20261127001082
+- rank: 6
+  title: '[단독] 국회 동의 없이 13조 더 쓴다…162조 미래기금 강행 ‘상시 추경’ 논란'
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
@@ -116,29 +88,41 @@ items:
     outlet_count: 1
     public_actor: 국회
   sources:
-  - title: 국회 국방위, 청해부대 파견연장안 의결…우회 파병 논란은 여전
-    url: https://news.sbs.co.kr/news/endPage.do?news_id=N1008865393&plink=ORI&cooper=NAVER
+  - title: '[단독] 국회 동의 없이 13조 더 쓴다…162조 미래기금 강행 ‘상시 추경...'
+    url: https://www.mk.co.kr/article/12220443
+- rank: 7
+  title: '[이다희의 국회 엿보기] 여야 뒤흔든 당내 징계 논란…차기 총선 앞두고 권력 투쟁 본격화'
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 국회
+  sources:
+  - title: '[이다희의 국회 엿보기] 여야 뒤흔든 당내 징계 논란…차기 총선 앞두고...'
+    url: https://www.ajunews.com/view/20261127150424749
+- rank: 8
+  title: 정부 "공매도 추이 특이 동향 없어…시장 대응태세 유지"
+  status: 추가 확인
+  score: 4
+  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
+  signals:
+    news_count: 1
+    outlet_count: 1
+    public_actor: 정부
+  sources:
+  - title: 정부 "공매도 추이 특이 동향 없어…시장 대응태세 유지"
+    url: https://news.bizwatch.co.kr/article/market/2026/11/27/0007
 - rank: 9
-  title: 허위조작 보도 땐 '정부광고' 중단…족쇄 논란에도 여 '강행'
+  title: 정점식 "민주당은 법맹 집단…曺 탄핵소추안이나 제대로 쓰겠나"
   status: 추가 확인
   score: 4
   summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
   signals:
     news_count: 1
     outlet_count: 1
-    public_actor: 정부
+    public_actor: 민주당
   sources:
-  - title: 허위보도 판결 땐 '정부광고' 중단…족쇄 논란에도 여 '강행'
-    url: http://www.newstomato.com/ReadNews.aspx?no=1322047&inflow=N
-- rank: 10
-  title: '[사사건건] 정부 ‘관계성 범죄’ 강력 대응…실효성 있는 대책은?'
-  status: 추가 확인
-  score: 4
-  summary: 최근 보도 1건, 매체 1곳에서 확인된 공적 쟁점입니다.
-  signals:
-    news_count: 1
-    outlet_count: 1
-    public_actor: 정부
-  sources:
-  - title: '[사사건건] 정부 ‘관계성 범죄’ 강력 대응…실효성 있는 대책은?'
-    url: https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723450&ref=A
+  - title: 정점식 "민주당은 법맹 집단…曺 탄핵소추안이나 제대로 쓰겠나"
+    url: https://www.news1.kr/politics/assembly/6368012
